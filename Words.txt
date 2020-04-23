@@ -3047,7 +3047,6 @@ dimension
 expensive
 failure
 Attendees
------------------------------------------------------
 intend
 fresh-faced
 undiscovered
@@ -3114,6 +3113,85 @@ dozens
 horse
 perfectly
 ambulance
+close
+house
+refusal
+funeral
+will we
+that will
+------------------------------------------------------
+seemingly
+carried
+regularly
+incomprehensimble
+soon begin
+spur
+improvising
+lodge
+overthinking
+stuntman
+cliff
+handsome
+wires
+mommy
+stiff
+conduct
+we're
+slightly off
+read-through
+concludion
+throw up
+unfording
+throwing up
+stick
+exercises
+coincidence
+ignored
+instructions
+slashed
+testing
+diagonally
+bein
+off-site
+drain
+drain out
+threw
+threw up
+staggered
+vomited
+lurching
+butchery
+footing
+vomiting
+no go
+awareness
+undesirable
+acquiring
+kicked up
+punking
+doubleedged
+commotion
+hog-wild
+dreadful
+pukes
+we go in
+toothpaste
+toothbrush
+bending
+joint
+tourists
+explore
+fish
+Many
+types
+species
+rather than
+cousins
+turned up 
+lit
+lit up
+odour
+fragrance
 
 
 
