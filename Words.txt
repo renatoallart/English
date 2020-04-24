@@ -919,13 +919,13 @@ trees
 nutrients
 set free
 stray
-underinformed
+uninformed
 decode
 morse
 colony
 bloodsucker
 recently
-straigth
+straight
 southeast
 promise
 pinera
@@ -2905,7 +2905,6 @@ bearded
 gorgeous
 square one
 go straight
-straight
 recruit
 raising
 athlete
@@ -3119,7 +3118,6 @@ refusal
 funeral
 will we
 that will
-------------------------------------------------------
 seemingly
 carried
 regularly
@@ -3192,6 +3190,89 @@ lit
 lit up
 odour
 fragrance
+-----------------------------------------------
+cooking
+swerved
+driver
+backyard
+yard
+nourishing
+vegetable
+leafy 
+trying out 
+alarming
+intentions
+dots
+dashes
+sinking
+sent out
+century
+curved
+direct
+with no 
+flight
+trips
+side
+assurance
+as far as
+adder
+chemical
+snack
+accdent
+imitate
+continuation
+catching up
+holy
+holy crap
+rivalry
+composite
+fired up
+vexing
+stitch
+post
+halt
+inspiration
+proof
+inconvenient
+lid
+flipped
+drag
+ulterior
+motives
+gotten
+friends
+friendship
+term
+honestly
+personal
+befriend
+burst
+so down
+scouted
+stuck
+obscurity
+shut
+shut up
+story
+fawned
+smiling
+value
+falls
+borne
+burdens
+jeez
+upstage
+rain
+throw off
+substitute
+using
+courageous
+incorrect
+all up
+selves
+climax
+
+
 
 
 
