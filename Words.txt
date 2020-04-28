@@ -993,9 +993,8 @@ pale
 fever
 veiled
 polished
-pratice
 snatched
-stuborn
+stubborn
 some
 engage
 corner
@@ -1374,7 +1373,7 @@ published
 
 
 
-
+swear
 message
 doesn't
 There was
@@ -3375,7 +3374,6 @@ investigator
 thickest
 ran up
 figure out
-stubborn
 arctic
 harvested
 pounds
@@ -3408,7 +3406,6 @@ road
 outpost
 all but
 known
---------------------------------------------------------
 perceived
 grant
 acquired
@@ -3480,6 +3477,48 @@ necklace
 toad
 index 
 visit
+institutional
+--------------------------------------------------------------
+thug
+troublemaker
+ended up
+planning
+wages
+treated
+panicking
+fighting
+repay
+possession
+whining
+fork
+excuse
+essence
+distraught
+cigarette
+artwork
+advising
+rot
+smuggling
+abiding
+citizens
+handed
+warehouse
+meddle
+cooperating
+funding
+cocky
+deed
+unhand
+refreshing
+shades
+graveyard
+office
+obstinate
+I ate
+discussions
+directions
+asthma
+
 
 
 
