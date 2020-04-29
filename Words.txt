@@ -1369,10 +1369,14 @@ published
 
 ------------------------------- Level intermidiate !!!!
 
--------------------------------Month 3  week 1 +
-
-
-
+-------------------------------Month 4  week 1 +
+January 
+February 
+March 
+October  
+Friday  
+Saturday
+Sunday   
 swear
 message
 doesn't
@@ -1416,6 +1420,9 @@ ridiculous
 fix
 parties
 nasty
+April
+May
+June
 threat
 eager
 antenna
@@ -1472,6 +1479,9 @@ does
 heirloom
 armory
 mechanism
+November    
+December
+Monday
 tuning
 guns
 blades
@@ -1559,6 +1569,9 @@ changing
 beginning
 role
 saga
+Tuesday 
+Wednesday 
+Thursday
 satisfaction
 funds
 proves
@@ -1783,6 +1796,9 @@ worthless
 join
 hunt
 damn
+July 
+August
+September
 chasing
 introduce
 relief
@@ -3478,7 +3494,6 @@ toad
 index 
 visit
 institutional
---------------------------------------------------------------
 thug
 troublemaker
 ended up
@@ -3518,6 +3533,81 @@ I ate
 discussions
 directions
 asthma
+---------------------------------------------------------------
+reply
+about issues
+marble
+There are
+will be
+wouldn't go
+look like
+roommate
+softie
+military
+classified
+authorites
+foreign
+experts
+absolute
+assist
+anycase
+progressing
+so far
+by far
+explosives
+thoroughly
+investigate
+possible
+retrieve
+relic
+as well
+to be
+tasks
+thieving
+conducting
+statement
+omen
+inflections
+idling
+idle
+tombglyphs
+fantasy
+decipher
+glyphs
+unlock
+locking
+shifting
+dumbasses
+sewage
+cough
+woodcutter
+mercury
+foreigners
+psychopathic
+ironic
+deeds
+adversities
+relationship
+exploited
+assert
+dominance
+submission
+Action
+Drama
+Thriller
+Comedy
+Documentaries
+bovine
+membership
+going
+organised
+essay
+vividly
+piano
+station
+blaze
+
+
 
 
 
