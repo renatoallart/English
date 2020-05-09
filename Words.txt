@@ -441,7 +441,6 @@ disease
 instead
 shackle
 meaningless
-spare
 wrestlers
 segment
 scoping
@@ -1183,7 +1182,7 @@ flesh
 crave
 sink 
 assuming
-religior
+religion
 ideology
 authority
 enterprise
@@ -1197,7 +1196,7 @@ wide
 feared
 vengeful
 swathes
-brgrudge
+begrudge
 ensued
 shan't
 sealed
@@ -4235,7 +4234,6 @@ required
 used to
 living room
 find out
------------------------------
 jiff
 signature
 counterfeit
@@ -4280,6 +4278,56 @@ occasion
 indicates
 gifted
 composer
+-----------------------------------------------------
+from time to time
+prestigious
+grade
+menacing
+surprised
+contraire
+princess
+administering
+lousy
+appropriate
+specil
+interrupt
+referring
+chosen
+rarely
+mundane
+bend
+lend
+detest
+stab
+needle
+craftman
+liking
+warmth
+wrapped
+birth
+starry
+skies
+bleak
+truthfully
+overwhelming
+dense
+defenseless
+tongue
+stun
+generation
+interpretation
+spring
+achievements
+vetoed
+asserted
+foremost
+everyone else
+looking for
+vindictive
+overcome
+wronged
+tidy
+
 
 
 
