@@ -1361,18 +1361,6 @@ engrave
 encyclopedia
 ancient
 published
-
-
-
-
-
-------------------------------- Level intermediate !!!!
-
--------------------------------Month 4  week 1 +
-
-
-
-
 trade
 set out
 decide
@@ -1391,6 +1379,21 @@ sympathy
 affirmations
 to
 recent
+
+
+
+
+
+
+------------------------------- Level intermediate !!!!
+
+-------------------------------Month 4  week 1 +
+
+
+
+from
+trade =troca
+for
 cargo
 falling
 apart
@@ -4327,8 +4330,37 @@ vindictive
 overcome
 wronged
 tidy
-
-
+reviews
+--------------------------------------
+loner
+peasants
+array
+instantly
+jettisoned
+teeny
+dent
+pierced
+goddammit
+ingnition
+tomboyish
+sophistry
+badly
+bearing
+trifle
+yank
+undoubtedly
+tempt
+entering
+restricted
+International
+officially
+Carnival
+countries
+church
+stay out
+there is
+popularity
+artist
 
 
 
