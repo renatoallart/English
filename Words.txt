@@ -1206,7 +1206,7 @@ incidentally
 parting
 gift
 thenceforth
-instituions
+institutions
 among
 worst
 forbids
@@ -1390,9 +1390,9 @@ recent
 -------------------------------Month 4  week 1 +
 
 
-
+partake = procurar no sentido de compartinhar
 from
-trade =troca
+trade = procurar no sentido de troca
 for
 cargo
 falling
@@ -1439,6 +1439,9 @@ stare
 prissy
 proud
 elegant
+Physical educator
+Physiotherapist 
+Pilot 
 noseline
 switch
 vulnerable
@@ -1548,6 +1551,9 @@ over
 peace
 defy
 odds
+Receptionist
+Referee 
+Salesperson 
 shake
 retake
 kinda
@@ -1707,6 +1713,9 @@ breeze
 unharmed
 lured
 redeem
+Typist 
+Waiter 
+Writer
 indugle
 instincts
 esteemed
@@ -1839,6 +1848,9 @@ sickness
 disability
 effort
 bitter
+Dancer 
+Dermatologist
+Designer 
 resentment
 budge
 suggest
@@ -1890,6 +1902,9 @@ sins
 act
 mediator
 devotedly
+Biomedical 
+Garbage collector
+Publicist 
 upheld
 abandon
 outrage
@@ -2026,6 +2041,9 @@ nail
 cloaked
 arcane
 shabby
+Make-up artist
+Manicure 
+Mariner 
 vulgar
 punk
 malice
@@ -2108,6 +2126,9 @@ fed up
 splendid
 ringleader
 rephrase
+Seamstress 
+Secretary 
+Singer 
 brink
 asap
 bound
@@ -2215,6 +2236,9 @@ cuz
 sweat
 gives up
 tragedy
+Player 
+Policeman 
+Politician 
 struggling
 bloomed
 dizzy
@@ -2325,6 +2349,9 @@ headed
 thin
 spread
 younger
+Painter 
+Pharmacist
+Photographer
 siblings
 caretaker
 blanket
@@ -2438,6 +2465,9 @@ extermination
 completed
 hatch
 buried
+Stewardess 
+Surgeon 
+Taxi driver
 rout
 regretted
 cursed
@@ -2523,6 +2553,9 @@ rational
 healthcare
 related
 compare
+Chef 
+Chemist
+Cobbler
 proper
 crucial
 soon
@@ -2566,6 +2599,8 @@ idol
 lame
 reason
 waterway
+Archeologist 
+Babysitter 
 shape
 sustain
 appearance
@@ -2673,12 +2708,15 @@ has
 hasn't
 parallel
 we'd
-nervertheless
+nevertheless
 exeptions
 co-exist
 concenient
 hypothesis
 there will
+Baker 
+Barber 
+Beautician 
 situation
 festering
 troubled
@@ -2844,6 +2882,9 @@ tears
 performers
 handful
 stars
+Fireman 
+Fisherman
+Florist 
 involves
 tickets
 groceries
@@ -3006,6 +3047,9 @@ maniacs
 passerby
 specific
 lines
+Librarian 
+Lifeguard 
+Magician 
 rifraff
 slain
 improduce
@@ -3075,6 +3119,9 @@ attempted
 dimension
 expensive
 failure
+Palm
+Eye  
+Hair 
 Attendees
 intend
 fresh-faced
@@ -3159,6 +3206,9 @@ lodge
 overthinking
 stuntman
 cliff
+Blacksmith 
+Bricklayer 
+Carpenter 
 handsome
 wires
 mommy
@@ -3305,6 +3355,9 @@ bleargh
 irresistible
 breathes
 confused
+Jeweler 
+Journalist
+Orthopedist 
 conforming
 strangle
 enexpected
@@ -3381,6 +3434,9 @@ enthusiasm
 sold
 helmed
 licensed
+Gardener 
+Hairdresser
+Janitor 
 properties
 routline
 willfully
@@ -3518,6 +3574,9 @@ whining
 fork
 excuse
 essence
+Cashier
+Cattle Breeder 
+Detective
 distraught
 cigarette
 artwork
@@ -3604,6 +3663,9 @@ dominance
 submission
 Action
 Drama
+Musician
+Neurologist 
+Nutritionist
 Thriller
 Comedy
 Documentaries
@@ -3753,6 +3815,9 @@ pockets
 persistent
 robbery
 practically
+Eyelid 
+Eyelash 
+Lips 
 robbery
 bothersome
 amongst
@@ -3854,6 +3919,9 @@ drastically
 cooperation
 committee
 considerably
+Mathematician
+Mechanical 
+Milkman 
 commission
 correct
 vengeance
@@ -4015,6 +4083,9 @@ recognition
 bent
 poke
 explode
+Acupuncturist
+Administrator 
+Anesthesiologist 
 spouting
 kindly
 henchmen
@@ -4071,6 +4142,10 @@ insignificant
 applies
 principle
 exception
+Nose 
+Knee 
+Elbow 
+Forearm 
 revealing
 deflect
 broad daylight
@@ -4133,6 +4208,9 @@ nerveless
 reappear
 absorb
 notify
+Doctor 
+Engineer 
+Filmmaker
 alternative
 sweep
 how so
@@ -4168,6 +4246,9 @@ gripped
 contract
 charity
 unwanted 
+Porter 
+Psychiatrist 
+Psychologist 
 determined
 uninvited
 above all else
@@ -4331,7 +4412,6 @@ overcome
 wronged
 tidy
 reviews
---------------------------------------
 loner
 peasants
 array
@@ -4361,6 +4441,90 @@ stay out
 there is
 popularity
 artist
+wipe out
+-------------------------------------------------
+butterfly
+no longer
+longer
+sacrifices
+wrinkled
+elbow
+forehead
+flick
+antibodies
+cells
+valiantly
+admire
+irritates
+leaving
+disbands
+bravely
+heartfeelt
+ancestors
+hang out
+handguard
+planted
+victory
+sidekick
+serpent
+inheritance
+shielded
+mocked
+singularity
+theory
+sonsense
+evidence
+reclaim
+nowadays
+reserved
+fringe
+wretched
+buddhalike
+incarnate
+rubbed
+ragged
+itchy
+itchier
+foresaw
+downfall
+critters
+Chin 
+Cheek 
+Ear
+Wrist
+professions 
+Accountant 
+Actor
+mail
+contractual
+obligations
+sweater
+agitation
+accepting
+superlative
+passed
+consumption
+lice
+sincere
+hostages
+irritating
+woolen
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
