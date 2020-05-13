@@ -1389,7 +1389,7 @@ recent
 
 -------------------------------Month 4  week 1 +
 
-
+take = levar
 partake = procurar no sentido de compartinhar
 from
 trade = procurar no sentido de troca
@@ -4507,7 +4507,6 @@ sincere
 hostages
 irritating
 woolen
---------------------------------------------------------------
 due to
 hitting
 exchanging
@@ -4548,10 +4547,68 @@ in charge of
 maintenance
 Middle East
 hag
-
-
-
-
+interest 
+dispute
+gave her 
+-----------------------------------------------
+prosecutor
+senator
+rumors
+within your grasp
+bribing
+ties = empatar
+punches
+dodge
+proven
+committee
+qualified
+restrictions
+tuition
+brute
+chestnut
+overly
+surgery
+emergency
+protocol
+evacuate
+urgent
+downward
+coax
+recommended
+contestant
+quarrel
+injection
+entered
+nanoparticles
+syringes
+veins
+distributed
+interface
+constructed
+gotcha
+relying
+enlightenment
+incurring
+trepidation
+envious
+rascal
+unstoppable
+renewal
+abattoirs
+carried out
+sheep
+engineering
+boldness
+daring
+breathtaking
+sullen
+premature
+climate
+hug
+reassured
+numerous
+fillings
+disorder
  
 
 
