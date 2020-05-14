@@ -1259,18 +1259,18 @@ goal
 destination
 wanna
 speak
-multipliyng
+multiplying
 emptiness
-ceptable
+Acceptable
 sing
 contents
-shelter
+Susceptible
 search
 truth
 forth
 manners
 mismatched
-disapointing
+disappointing
 chum
 dirty
 liar
@@ -1389,7 +1389,7 @@ recent
 
 -------------------------------Month 4  week 1 +
 
-take = levar
+
 partake = procurar no sentido de compartinhar
 from
 trade = procurar no sentido de troca
@@ -1481,7 +1481,7 @@ consider
 closely
 maintaining
 impatient
-unhead
+unheard
 implolite
 sweating
 profusely
@@ -1632,6 +1632,9 @@ obliged
 terrors
 barrier
 incredible
+Stove
+Oven
+Chopping board
 candle
 melting
 candle melting
@@ -2257,6 +2260,9 @@ line
 mushy
 patched
 blessings
+Corkscrew
+Saucepan
+Frying pan
 encouraging
 arrested
 premiere
@@ -2889,6 +2895,9 @@ involves
 tickets
 groceries
 grand prize
+Tin/Can opener
+Strainer
+Tablecloth
 dastardly
 twin
 taste
@@ -3440,6 +3449,10 @@ Janitor
 properties
 routline
 willfully
+Grater
+Blender
+Mixer
+Colander
 excitement
 give up
 restructure
@@ -4609,7 +4622,70 @@ reassured
 numerous
 fillings
 disorder
- 
+----------------------------------
+hair gel
+respectful
+messed-up
+organization
+airtime
+coordinator
+coot
+cheering
+blistered
+callous
+toughen
+conflict
+knocked
+surrenders
+unlimited
+childhood
+bars
+bigwig
+criminals
+assailant
+condolences
+concentrated
+Western
+expelled
+sobbing
+attained
+retaliation
+umerciful
+posture
+worn-out
+rotting
+puppy
+northern
+motto
+get rid of
+exaggeration
+postpone
+pill
+sage
+Coffee pot
+Kettle
+Ladle
+Toaster
+plead
+execution
+compassion
+leniency
+army
+rebel
+objective
+aim
+of this
+languages
+demanded
+mobilization
+call
+accepted
+dotted
+facts
+articles
+rode
+dating
+
 
 
 
