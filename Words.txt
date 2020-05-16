@@ -1294,12 +1294,12 @@ image
 naive
 guarantee
 wimps
-weigth
+weight
 troupe
 clowns
-chums 
+choice
 gimme
-outherwise
+otherwise
 aimlessly
 doubly
 pulled
@@ -3103,7 +3103,6 @@ conference
 announced
 cropped
 pushy
-photographer
 innate
 beauty
 innocence
@@ -4737,9 +4736,31 @@ Discourage
 furniture
 move into 
 stepped 
-
-
-
+wasn't sure
+---------------------------------------------------------------------
+swish
+mercilessly
+angle
+slam
+outright
+earful
+defibrilator
+mounting
+anticipation
+moth
+outsmarted
+nullifies
+ditches
+leukaemia
+diagnosed
+significantly
+smaller
+misery
+given
+sissy
+heavier
+drift
+presentation
 
 
 
