@@ -1309,7 +1309,7 @@ chase
 bullcrap
 brats
 outta
-fringging
+frigging
 caring
 sudden
 meantime
@@ -1322,7 +1322,7 @@ soft
 bath
 excruciating
 shower
-stramed
+streamed
 towels
 soak
 smallest
@@ -4682,7 +4682,6 @@ facts
 articles
 rode
 dating
---------------------------------------------------------------
 sparkle
 comsumer
 electronics
@@ -4737,7 +4736,6 @@ furniture
 move into 
 stepped 
 wasn't sure
----------------------------------------------------------------------
 swish
 mercilessly
 angle
@@ -4761,10 +4759,34 @@ sissy
 heavier
 drift
 presentation
-
-
-
-
+jar
+lid off
+cut away
+------------------------------------------------------------
+dissipated
+assailed
+decisively
+chock-full
+sorely
+angatonized
+antagonist
+meteorological
+beware
+slap
+implacable
+wholeheartedly
+outdo
+downpour
+good time
+well-known
+ivory
+out of 
+fabric
+smooth
+mop
+scrub
+underwear
+bathtowel
 
 
 
