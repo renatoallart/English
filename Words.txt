@@ -1403,17 +1403,17 @@ negotiation
 tie
 foot
 infrastructure
-boryguard
+bodyguard
 worn
 sedentary
 hanging
 pantry
 fresh
-which means
+stale
 addition
 unsealed
 expect
-assclowns
+sentenced
 ridiculous
 fix
 parties
@@ -1908,7 +1908,7 @@ complacent
 
 
 
-
+hanging = procurar com o sentido de suspenso
 ceaselessly
 convey
 deepest
@@ -4890,11 +4890,29 @@ boarded
 stunt
 innovation
 biscuit
-
-
-
-
-
+cox
+------------------------------------------------------------------
+beating
+praise
+deserved
+grunt
+speaking of which
+storyteller
+commentators
+hail
+rejoin
+mutt
+contender
+diabetes
+scold
+eloquent
+under way
+anatomy
+framework
+heavily
+savings
+quitting
+frozen
 
 
 
