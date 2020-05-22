@@ -1431,7 +1431,7 @@ elegant
 Physical educator
 Physiotherapist 
 Pilot 
-noseline
+injury
 switch
 vulnerable
 extortion
@@ -4913,7 +4913,31 @@ heavily
 savings
 quitting
 frozen
-
+------------------------------------------------------
+naturally
+kendo
+soon enough
+presidents
+cup
+straggler
+retaking
+venue
+examination
+stiffening
+embarrassed
+precinct
+designated
+kneel
+hideout
+interruption
+fray
+confidential
+unhurt
+nuke
+plagiarism
+arguing
+unanswerable
+christened
 
 
 
