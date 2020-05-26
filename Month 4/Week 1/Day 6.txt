@@ -22,7 +22,7 @@ profusely /prəˈfjuːsli/
 
 The proud father escorted his daughter down the aisle.
 escort /ˈeskɔːrt/
-(accompany)	acompanhar
+(accompany)	acompanhar, escoltar
 
 John has been driving for thirty years, so he's an experienced driver.
 experienced /ɪkˈspɪriənst/
@@ -34,9 +34,9 @@ does /dʌz/
 
 This quilt is an heirloom that has been in the family for generations.
 heirloom /ˈɛrˌlum/
-([sth] passed down through family) (de família)	relíquia, herança 
+([sth] passed down through family) 	relíquia, herança 
 
-I was told batman attacked the armory
+I was told batman attacked the armory.
 armory /ˈɑrməri/
 (arsenal, weapons store)	armaria, arsenal 
 
@@ -69,7 +69,7 @@ blades /bleɪd/
 (sharp edge of knife)	lâmina
 
 The knight raised his shield to protect himself from his enemy's sword blow.
-shields /ʃiːld/
+shield /ʃiːld/
 (armor: defensive device)	escudo
 
 

@@ -1906,8 +1906,8 @@ complacent
 
 
 
-
-
+avoid = procurar com o sentido de escapar / fugir
+lighter = procurar com o sentido de isqueiro
 hanging = procurar com o sentido de suspenso
 ceaselessly
 convey
@@ -4937,7 +4937,6 @@ unanswerable
 christened
 whom
 straighten
---------------------------------------------------
 inability
 resented
 handcuff
@@ -4987,7 +4986,6 @@ chasm
 canyon
 peered
 rush around
----------------------------------------
 constest
 striking back
 sulking
@@ -5009,7 +5007,6 @@ maximize
 assumption
 long-term
 revealed
-----------------------------------------------------------
 have just
 chew
 exploit
@@ -5028,16 +5025,38 @@ I was told
 tightens
 bolt
 holster
-
-
-
-
-
-
-
-
-
-
+------------------------------------------------
+healthier
+honorifics
+amongst
+kindred
+cramping
+mongrel
+aligned
+undergoing
+republic
+korea
+facility
+excavate
+uranium
+rant
+sergeant
+lift
+enlisted
+smallfrys
+burial
+corporal
+scathe
+fatty
+shortbread
+box
+kayak
+spears
+progress
+impediment
+firewood
+warfare
+have been
 
 
 
