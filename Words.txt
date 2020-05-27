@@ -1510,7 +1510,7 @@ already
 hang
 recover
 manage
-offchance
+on the off chance
 whichever
 ammunition
 bulky
@@ -1904,8 +1904,10 @@ complacent
 
 
 
-
-
+envy
+have been
+I've been given
+had better
 avoid = procurar com o sentido de escapar / fugir
 lighter = procurar com o sentido de isqueiro
 hanging = procurar com o sentido de suspenso
@@ -5056,20 +5058,52 @@ progress
 impediment
 firewood
 warfare
-have been
-
-
-
-
-
-
-
-
-
-
-
-
-
+--------------------------------
+pounce
+trash
+test
+phase
+gist
+treason
+property
+trespassed
+fur
+unmarried
+got out
+extravagant
+bicker
+loudly
+grievance
+medal
+controversy
+unemployment
+soared
+concerning
+prostests
+volunteers
+untraceable
+bribe
+whistleblower
+surprisingly
+initiated
+amputated
+bookworm
+ashamed
+mishear
+pair
+micromanage
+lovesick
+hook
+baroness
+smuggled
+is being
+sack
+gone over
+spices
+heating
+Philosophers
+vertical
+horizontal
 
 
 
