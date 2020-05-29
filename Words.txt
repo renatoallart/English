@@ -1525,9 +1525,9 @@ incision
 wound
 tending
 frustration
-request
+out cold
 sound
-goldy
+godly
 pond
 pace
 lugging
@@ -1903,7 +1903,7 @@ complacent
 
 
 
-
+odd = procurar com o sentido de impar
 envy
 have been
 I've been given
@@ -2330,7 +2330,6 @@ pots
 pans
 trance
 underneath
-odd
 countermeasures
 nerves
 porsue
@@ -5027,7 +5026,6 @@ I was told
 tightens
 bolt
 holster
-------------------------------------------------
 healthier
 honorifics
 amongst
@@ -5058,7 +5056,6 @@ progress
 impediment
 firewood
 warfare
---------------------------------
 pounce
 trash
 test
@@ -5104,8 +5101,37 @@ heating
 Philosophers
 vertical
 horizontal
-
-
+get going
+treat
+shuttle
+slacking
+slack off
+blowback
+transcendent
+freed
+waking
+halbet
+polnfrume
+unsightly
+butterball
+dull-looking
+chonky
+pulp
+going down
+barge
+ore
+infiltrate
+sentries
+underlying
+specifically
+baptised
+disarray
+bullied
+exasperation
+fireplace
+Baggage
+filing
+parking lot
 
 
 
