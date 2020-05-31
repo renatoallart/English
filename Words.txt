@@ -1581,7 +1581,7 @@ funds
 proves
 perfect
 vassal
-sends
+set up
 loyalty
 thus
 linked
@@ -1900,9 +1900,9 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
-
-
-
+move on
+prove = procurar com o sentido de revelar
+fund = procurar com o sentido de financiar
 odd = procurar com o sentido de impar
 envy
 have been
@@ -5188,22 +5188,36 @@ sexuality
 apparition
 daycare
 early
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------------------------------------------
+elegantly
+head on
+absent
+limiter
+removal
+invincible
+pest
+bull
+pouring
+exile
+sin
+trickle
+trickle down
+anauthorized
+alliance
+spectator
+demonstrate
+conclusively
+faultless
+slave
+Pharaoh
+allegiance
+unshakable
+spate
+ensured
+admirable
+reorganize
+merged
+marched
+fund-raiser
+telescope
+investigating
