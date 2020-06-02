@@ -5132,7 +5132,6 @@ fireplace
 Baggage
 filing
 parking lot
--------------------------------------------------------
 sworn
 mischief
 dragged off
@@ -5160,7 +5159,6 @@ vanquish
 accomplishment 
 flyers
 From the late
---------------------------------------------------------
 devoid
 vessel
 underling
@@ -5188,7 +5186,6 @@ sexuality
 apparition
 daycare
 early
-------------------------------------------
 elegantly
 head on
 absent
@@ -5221,3 +5218,48 @@ marched
 fund-raiser
 telescope
 investigating
+--------------------------------------------
+defenses
+bury
+eternity
+concubine
+whale
+evaluate
+approximately
+evolved
+tatical
+formation
+block
+casualty
+evenly
+teenagers
+hunch
+except
+deserters
+apostles
+prediction
+unscathed
+unexpectedly
+toughness
+extinguish
+deal with
+pity
+stored
+renew
+southern
+newest
+underclassman
+duties
+puppet
+fuffocated
+cream
+no longer
+skating
+manufacturing
+decades
+recipes
+economical
+sandwich
+
+
+
