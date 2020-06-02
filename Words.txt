@@ -1627,7 +1627,7 @@ Chopping board
 candle
 melting
 candle melting
-thunk
+think
 stone
 varieties
 aggressive
@@ -5260,6 +5260,30 @@ decades
 recipes
 economical
 sandwich
-
-
-
+----------------------------------------------------------
+disintegration
+sequence
+impromptu
+shaft
+apprehended
+dishonor
+vow
+hereby
+sovereign
+screw around
+wasteful
+laid
+calmer
+ceasefire
+fathom
+attain
+briefcase
+outcast
+disccontinuance
+pellet
+Makeup
+obstruction
+vegetables
+pebble
+rock
+assortment
