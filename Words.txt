@@ -1900,11 +1900,11 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
-
-
+hardly ever
+magazine = procurar com o sentido de pente de bala
 range of
 makes sure
-anyone == procurar com o sentido de ninguem
+anyone = procurar com o sentido de ninguem
 move on
 prove = procurar com o sentido de revelar
 fund = procurar com o sentido de financiar
@@ -3819,7 +3819,6 @@ ignore
 standby
 eyewitness
 incident
-dawn
 dusk
 skill
 anyhow
@@ -5319,6 +5318,72 @@ flavouring
 wilfully
 scattering
 neat
+foodie
+moist
+hasty
+booty
+slip
+---------------------------------------
+buck
+struggles
+worship
+fishy
+tingling
+prosperous
+slaughterer
+advent
+goes by
+in order to
+notified
+inquire
+signing
+claimed
+remarry
+fluently
+rotate
+collide
+leather
+eagerness
+icy 
+breathless
+pants
+ambition
+slump
+steady state
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
