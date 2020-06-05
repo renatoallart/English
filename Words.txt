@@ -1673,12 +1673,12 @@ noon
 served
 knack
 spotting
-gupna
+took place
 lizard
 phew
 temporary
 fed up
-scheme
+permanent
 spill
 annoying
 wasn't
@@ -1900,6 +1900,7 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
+told off
 hardly ever
 magazine = procurar com o sentido de pente de bala
 range of
@@ -5221,7 +5222,6 @@ marched
 fund-raiser
 telescope
 investigating
---------------------------------------------
 defenses
 bury
 eternity
@@ -5263,7 +5263,6 @@ decades
 recipes
 economical
 sandwich
-----------------------------------------------------------
 disintegration
 sequence
 impromptu
@@ -5294,7 +5293,6 @@ genius
 made it
 nomination
 fall through
--------------------------------------------------------
 praying
 refillable
 tease
@@ -5323,7 +5321,6 @@ moist
 hasty
 booty
 slip
----------------------------------------
 buck
 struggles
 worship
@@ -5350,12 +5347,30 @@ pants
 ambition
 slump
 steady state
-
-
-
-
-
-
+haul
+graduate
+------------------------------------------
+hid
+hidden
+added
+dougle-edged
+stirrups
+expland
+creativity
+hoot
+giggle
+reboot
+discriminate
+acuity
+surprisingly
+team
+forthcoming
+waiters
+mashed
+diners
+legless
+temping
+traffic light
 
 
 
