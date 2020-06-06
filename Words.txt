@@ -1708,7 +1708,7 @@ redeem
 Typist 
 Waiter 
 Writer
-indugle
+indulge
 instincts
 esteemed
 marbled
@@ -1899,7 +1899,7 @@ complacent
 
 ------------------------------- Month 5  week 1 +
 
-
+indulge = procurar com o sentido de satisfazer
 told off
 hardly ever
 magazine = procurar com o sentido de pente de bala
@@ -5371,10 +5371,34 @@ diners
 legless
 temping
 traffic light
-
-
-
-
+------------------------------------------------
+presume
+frame
+frame up
+appealing
+ludicrous
+helplessly
+rashly
+businesslike
+heretical
+hand me over
+rarites
+savage
+meekly
+hand in hand
+heterotypic
+identical
+irrelevant
+sorrowful
+creed
+suckle
+lawn
+clerk
+drapery
+indulgence
+sinful
+viewing
+grilling
 
 
 
