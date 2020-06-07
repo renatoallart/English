@@ -1721,7 +1721,7 @@ curtain
 debauchery
 reserve
 aristocrat
-shan't
+results
 innocent
 month
 replace
@@ -1899,6 +1899,10 @@ complacent
 
 ------------------------------- Month 5  week 1 +
 
+
+
+interview
+look after
 indulge = procurar com o sentido de satisfazer
 told off
 hardly ever
@@ -5399,7 +5403,21 @@ indulgence
 sinful
 viewing
 grilling
-
+peg
+---------------------------------------------------
+stumble
+outlander
+attenuate
+intervened
+inappropriate
+tangible
+prolonging
+imminent
+captors
+extremists
+windshield
+outburst
+preschool
 
 
 
