@@ -1744,7 +1744,7 @@ thrill
 ballet
 bodies
 boiling
-uprigth
+upright
 civilization
 paw
 raised
@@ -1754,7 +1754,7 @@ replenishments
 village
 tracking
 scent
-unthikable
+unthinkable
 inadmissible
 preposterous
 critted
@@ -1900,7 +1900,7 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
-
+by any means
 interview
 look after
 indulge = procurar com o sentido de satisfazer
@@ -5418,12 +5418,25 @@ extremists
 windshield
 outburst
 preschool
-
-
-
-
-
-
+-------------------------------------------
+gobble
+covenant
+hip
+burying
+pelvis
+waist
+scrutinize
+pushover
+angriest
+clench
+ton
+flattered
+enclose
+emerged
+thorn
+elevated
+apparatus
+postmortem
 
 
 
