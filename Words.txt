@@ -1757,9 +1757,9 @@ scent
 unthinkable
 inadmissible
 preposterous
-critted
+disabled
 token
-shaddap
+exchanged
 rabbits
 animosity
 crappy
@@ -1900,6 +1900,12 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
+
+hold back 
+any longer
+manage = procurar com o sentido de lidar
+maens = procurar com o sentido de meio
+go on holiday
 by any means
 interview
 look after
@@ -3267,6 +3273,7 @@ bein
 off-site
 drain
 drain out
+urge
 threw
 threw up
 staggered
@@ -5437,11 +5444,22 @@ thorn
 elevated
 apparatus
 postmortem
-
-
-
-
-
+--------------------------------------------------
+attaboy
+corious
+offset
+rear
+carotid
+panel
+wiggle
+whooped
+amazed
+bosun
+urging
+sailors
+discipline
+mountain range
+contentedly
 
 
 
