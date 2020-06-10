@@ -1777,7 +1777,7 @@ jagged
 gnaw
 waltz
 azure
-parhelion
+perihelion
 stand
 whittle
 gramps
@@ -1788,10 +1788,10 @@ pin
 flee
 dawn
 erased
-stopgrap
-erasing
-platry
-awfull
+stopgap
+alterations
+paltry
+awful
 league
 dire
 disruptions
@@ -1900,7 +1900,10 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
-
+erasing
+attended to
+around here
+deal with
 hold back 
 any longer
 manage = procurar com o sentido de lidar
@@ -5256,7 +5259,6 @@ unscathed
 unexpectedly
 toughness
 extinguish
-deal with
 pity
 stored
 renew
@@ -5360,7 +5362,6 @@ slump
 steady state
 haul
 graduate
-------------------------------------------
 hid
 hidden
 added
@@ -5382,7 +5383,6 @@ diners
 legless
 temping
 traffic light
-------------------------------------------------
 presume
 frame
 frame up
@@ -5411,7 +5411,6 @@ sinful
 viewing
 grilling
 peg
----------------------------------------------------
 stumble
 outlander
 attenuate
@@ -5425,7 +5424,6 @@ extremists
 windshield
 outburst
 preschool
--------------------------------------------
 gobble
 covenant
 hip
@@ -5444,7 +5442,6 @@ thorn
 elevated
 apparatus
 postmortem
---------------------------------------------------
 attaboy
 corious
 offset
@@ -5460,10 +5457,32 @@ sailors
 discipline
 mountain range
 contentedly
-
-
-
-
+sim
+rush hour
+privilege
+to take shelter
+---------------------------------------------------
+highness
+swine
+take a look
+bayonet
+withdrawing
+parttimer
+beardy
+cane
+spicy
+sauce
+stain
+ma'am
+briefly
+overshadow
+bong
+ballroom
+anthem
+balsa
+sewing
+persecution
+interests
 
 
 
