@@ -1795,7 +1795,7 @@ awful
 league
 dire
 disruptions
-eletrification
+electrification
 lungs
 sheer
 blew
@@ -1900,6 +1900,17 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
+hunt for 
+supposed to 
+how about
+sort out
+look down on
+so that all
+round table
+how long
+into thin air
+rough time
+supposition
 erasing
 attended to
 around here
@@ -5483,6 +5494,58 @@ balsa
 sewing
 persecution
 interests
+-----------------------------------------------------------
+jest
+beef
+pardon
+physican
+shipyard
+good grief
+misplace
+transformation
+contaminated
+ecstasy
+gab
+infidels
+betterment
+commit
+rapture
+lackadaisical
+reviewing
+induction
+coexistence
+supplemented
+absorption
+repent
+satan
+awe
+gatekeeper
+invulnerable
+shackles
+improvement
+joyful
+widen
+somewhat
+bravado
+shortened
+gravity
+groggy
+anchor
+dimple
+Disruptive
+pollution
+innovations
+squealed
+pinwheel
+socially
+realisation
+lettuce
+wallet
+humid
+academic
+strive
+jewellery
+
 
 
 
