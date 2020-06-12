@@ -1813,7 +1813,7 @@ chasing
 introduce
 relief
 aid
-relief aid
+resonance
 mechanic
 charge
 provisions
@@ -1900,6 +1900,15 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
+bearings = procurar com o sentido de direção
+look for
+take down
+verify
+update
+step over
+high five
+mid-term
+anymore
 hunt for 
 supposed to 
 how about
@@ -1941,6 +1950,7 @@ had better
 avoid = procurar com o sentido de escapar / fugir
 lighter = procurar com o sentido de isqueiro
 hanging = procurar com o sentido de suspenso
+relief  = procurar com o sentido de ajuda humanitaria
 ceaselessly
 convey
 deepest
@@ -2041,6 +2051,7 @@ prattling
 sweeter
 jesting
 grading
+bearings = procurar com o sentido de rolagem
 ravish
 breathe
 divided
@@ -3276,6 +3287,7 @@ throw up
 unfording
 throwing up
 stick
+jury 
 exercises
 coincidence
 ignored
@@ -5545,7 +5557,44 @@ humid
 academic
 strive
 jewellery
-
+--------------------------------------------------
+bucket
+glide
+fan
+hot
+autograph
+sophomore
+grades
+math
+physics
+unexpectedly
+begging
+soccer
+mustache
+nutjobs
+comprehending
+opponent
+accommodates
+amenities
+unpleasant
+gazelle
+respectable
+vocalic
+sonorant
+shouting
+ardent
+cheers
+laser
+retiring
+poland
+verifying
+generator
+judicial
+uncountable
+disappearance
+Stockport
+marathon
+insufficient
 
 
 
