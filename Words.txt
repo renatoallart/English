@@ -1900,14 +1900,18 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
-
-
-
-
-
-
-
-
+regulated
+soap
+fence
+mother to be
+bounce back
+customers
+seat belts
+fasten
+speaking of which
+goes by
+in order to
+butt in
 about the way
 head-lock
 beat down
@@ -1918,6 +1922,7 @@ bearings = procurar com o sentido de direção
 look for
 take down
 verify
+prior
 update
 step over
 high five
@@ -1966,8 +1971,10 @@ lighter = procurar com o sentido de isqueiro
 hanging = procurar com o sentido de suspenso
 relief  = procurar com o sentido de ajuda humanitaria
 ceaselessly
+ante = procurar com o sentido de aposta
 convey
 deepest
+border = procurar com o sentido de borda
 unmistakable
 whenever
 recording
@@ -1990,6 +1997,8 @@ craftmanship
 unusable
 ridge
 goodwill
+handle  = procurar com o sentido de dar conta
+tráfego  = procurar com o sentido de traficar
 crooked
 allies
 hinder
@@ -2939,6 +2948,7 @@ talent
 agency
 hopefuls
 startdom
+plenty
 participants
 tryouts
 actress
@@ -4951,7 +4961,6 @@ beating
 praise
 deserved
 grunt
-speaking of which
 storyteller
 commentators
 hail
@@ -5379,8 +5388,6 @@ tingling
 prosperous
 slaughterer
 advent
-goes by
-in order to
 notified
 inquire
 signing
@@ -5562,6 +5569,7 @@ Disruptive
 pollution
 innovations
 squealed
+regeneration
 pinwheel
 socially
 realisation
@@ -5639,10 +5647,35 @@ whirled
 acne
 dolphins 
 none 
-
-
-
-
+---------------------------------------------------------------
+regenerating
+thoughtless
+synastry
+butt
+lobster
+establish
+healthy
+normally
+prescription
+sensitive
+garret
+untimely
+tangled
+deification
+sailed
+instantaneous
+pope
+carriage
+flawless
+replacing
+hut
+commodity
+den
+beaver
+fitted
+rubber
+petrol
+tank
 
 
 
