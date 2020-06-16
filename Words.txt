@@ -1866,7 +1866,7 @@ handle
 filled
 traffic
 subway
-perfer
+prefer
 backed up
 evaluated
 association
@@ -1876,7 +1876,7 @@ flout
 regulations
 sprain
 ankle
-fire-fighther
+firefighter
 oppose
 wrap
 foe
@@ -1900,6 +1900,13 @@ complacent
 ------------------------------- Month 5  week 1 +
 
 
+
+
+
+
+whereas
+stood on
+Institute
 regulated
 soap
 fence
@@ -1999,6 +2006,7 @@ ridge
 goodwill
 handle  = procurar com o sentido de dar conta
 tráfego  = procurar com o sentido de traficar
+back up = procurar com o sentido apoiar
 crooked
 allies
 hinder
@@ -2019,6 +2027,7 @@ blind
 tolerated
 ensure
 humankind
+back up = procurar com o sentido copia de segurança
 preservation
 exterminated
 drawers
@@ -2321,6 +2330,7 @@ sweat
 gives up
 tragedy
 Player 
+arranged
 Policeman 
 Politician 
 struggling
@@ -2807,6 +2817,7 @@ situation
 festering
 troubled
 ganged
+tackle
 owe
 choose
 matter
@@ -3003,6 +3014,7 @@ evoke
 mastered
 madness
 mocking
+clogged
 tyranny
 agencies
 crock
@@ -3684,6 +3696,7 @@ handed
 warehouse
 meddle
 cooperating
+operating
 funding
 cocky
 deed
@@ -5676,8 +5689,31 @@ fitted
 rubber
 petrol
 tank
-
-
+---------------------------------------------------------------
+purposeful
+mysophomia
+imprisonment
+outer
+vitally
+flustered
+vital
+ceased
+maneuver
+debtors
+drill
+cautiously
+bogus
+entities
+vanity
+impetuous
+sewer
+rationale
+candidates
+lumber
+handbook
+machinery
+lazy
+nobleman
 
 
 
