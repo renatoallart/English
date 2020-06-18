@@ -2400,6 +2400,26 @@ first though
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+attended to = procurr no sentido de atender
+turn [sb] in 
+Anywhere Else = procurr no sentido de nenhum outro lugar
+hand over
+look out
+look out for
+run into
+a great deal of effort
 in the mood 
 soon thereafter
 carry it off 
@@ -2415,6 +2435,7 @@ Anything Else = procurr no sentido de nenhuma outra coisa / qualquer outra coisa
 Something Else = procurr no sentido de mais alguma coisa / outra coisa
 beside
 out of  = procurr no sentido de em/ de
+look after
 tough
 disapoint
 sunken
@@ -5762,9 +5783,38 @@ clutch
 glow
 alibi
 rubbish
+basement
+interior
+exterior
+precious
+revive
+blitz
+-----------------------------------------
+impertinent
+lending
+whew
+individuality
+greedy
+rule
+swarm
+deliberation
+lengthy
+infusing
+judgment
+greater
+prominent
+orchestrated
+quack
+disobey
+crossed
+rewarded
+abundant
+fruits
+guesswork
+deduction
 
 
-
+no hard feelings
 
 
 
