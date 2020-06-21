@@ -1978,7 +1978,7 @@ Publicist
 upheld
 abandon
 outrage
-ousness
+oneness
 outrageousness
 trivial
 craft
@@ -2405,8 +2405,18 @@ first though
 
 
 
-
-due to = sentido de = devido
+sense
+outrage = afronta
+right-wing
+upheld = defender
+immoral
+whenever = qunado
+unmistakable = evidente
+Anyone Else=  ninguém mais / nenhuma outra pessoa
+Someone Else = mais alguem
+Anybody Else  = qualquer outra pessoa / nenhuma outra pessoa
+tried = no sentido de experimentar
+due to = sentido de  devido
 the envy of 
 go on vacation
 upper hand
@@ -2443,6 +2453,7 @@ out of  = procurr no sentido de em/ de
 look after
 tough
 disapoint
+sense = sensação
 sunken
 sprouts
 awaits
@@ -5866,6 +5877,34 @@ natural
 disasters
 rome
 premises
+------------------------------------------------------------------------
+bypass
+noodle
+fetus
+encroaching
+eroded
+erosion
+transplanted
+way up
+camp
+clung
+undignified
+murderous
+providing
+flirt
+emanating
+compensating
+inadequacies
+ornamental
+strip
+plates
+ill
+arbitrates
+trespasses
+advertising
+friendlier
+atrocities
+confess
 
 
 break out
