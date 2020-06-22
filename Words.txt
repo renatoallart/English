@@ -1982,12 +1982,12 @@ oneness
 outrageousness
 trivial
 craft
-craftmanship
+craftsmanship
 unusable
 ridge
 goodwill
 handle  = procurar com o sentido de dar conta
-tráfego  = procurar com o sentido de traficar
+Traffic  = procurar com o sentido de traficar
 back up = procurar com o sentido apoiar
 crooked
 allies
@@ -2403,8 +2403,14 @@ first though
 
 
 
-
-
+crooked = no sentido de fraudado
+hint = no sentido insinuar
+hint = no sentido iludir
+break out
+hand down
+craft = procurar no sentido de criar/criação
+put down
+Everybody Else : todos os outros / todo mundo
 sense
 outrage = afronta
 right-wing
@@ -4673,7 +4679,6 @@ sincere
 hostages
 irritating
 woolen
-due to
 hitting
 exchanging
 swear at
@@ -5767,7 +5772,6 @@ lazy
 nobleman
 Loathe
 correspond
-------------------------------------------
 triller
 wince
 wrinkles
@@ -5786,7 +5790,6 @@ Maternal
 cords
 broccoli
 duel
----------------------------------------
 sect
 takeover
 chick
@@ -5805,7 +5808,6 @@ exterior
 precious
 revive
 blitz
------------------------------------------
 impertinent
 lending
 whew
@@ -5828,7 +5830,6 @@ abundant
 fruits
 guesswork
 deduction
---------------------------------------------------
 separately
 fortress
 dislike
@@ -5850,7 +5851,6 @@ openly
 disturb
 inward
 champagne
-----------------------
 riper
 throbing
 fleeting
@@ -5877,7 +5877,6 @@ natural
 disasters
 rome
 premises
-------------------------------------------------------------------------
 bypass
 noodle
 fetus
@@ -5905,10 +5904,41 @@ advertising
 friendlier
 atrocities
 confess
+oath
+pluck
+eyeball
+womanizer
+stirring 
+stir up 
+irresponsible
+tyrant
+soaked
+exquisite
+delicacy
+munching
+distracted
+haggard
+classy
+settling
+aching
+whoop
+disposable
+bang
+outrageous
+waiting
+intricate
+carving
+gesture
+handcuffs
+doctorate
+woodworker
+prostitution
+drugs
+illegal
+neighbors
 
 
-break out
-hand down
+
 
 
 
