@@ -1998,7 +1998,7 @@ obtain
 hint
 novel
 unturned
-aprove
+approve
 traitor
 sentimentality
 entice
@@ -5936,11 +5936,31 @@ prostitution
 drugs
 illegal
 neighbors
+-----------------------------------------------
+leaflet
+dessert
+beverage
+gradually
+pigeon
+pee
+niece
+unaffiliated
+ointment
+infuriated
+creases
+affair
+penalized
+tech
+misbehaviors
+wildlife
+outdoor
+varnishes
+termites
 
-
-
-
-
+fingerprints
+bedside table
+advisable
+entice = prucorar so sentido de atrair
 
 
 
