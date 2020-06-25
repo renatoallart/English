@@ -2043,7 +2043,7 @@ livestock
 corrals
 uncover
 observation
-utensuls
+utensil
 sanitation
 fit
 transmitter
@@ -5976,8 +5976,46 @@ congregation
 democracy
 concept
 proactive
+warp
+drafts
+---------------------------------
+atonement
+mantle
+amok
+sucking
+suffocate
+constricting
+exploiting
+councilman
+independence
+ignoring
+pretext
+experimeneting
+dressing
+loathe
+forsake
+forsaken
+standards
+rig
+feather 
+sold
+mortgage
+unaffordable
+recession
+sat
+shepherd
 
-crossed =  = procurar no sentido de atravessar
+
+
+ship = procurar no sentido de enviar
+stick out
+butted in 
+stick with
+taken over
+take over
+belong to
+test subject
+crossed =  procurar no sentido de atravessar
 Freedom of speech
 loomed over
 attached to  = procurar no sentido de apegado 
