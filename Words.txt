@@ -5934,7 +5934,6 @@ prostitution
 drugs
 illegal
 neighbors
------------------------------------------------
 leaflet
 dessert
 beverage
@@ -5954,7 +5953,6 @@ wildlife
 outdoor
 varnishes
 termites
----------------------------------------------------
 earnestness
 shift
 savoring
@@ -5976,7 +5974,6 @@ concept
 proactive
 warp
 drafts
----------------------------------
 atonement
 mantle
 amok
@@ -6004,7 +6001,6 @@ sat
 shepherd
 scenario
 saucer
-----------------------------------------------------------
 radius
 cleverness
 makeshift
@@ -6020,7 +6016,6 @@ riots
 milder
 axles
 inescapable
-----------------------------------------
 buddies
 greater 
 imprinted
@@ -6038,7 +6033,6 @@ boiled
 struck
 pine
 powder
-------------------------------------------------------
 accelerate
 leaning
 newly
@@ -6064,10 +6058,65 @@ denies
 unploished
 cagey
 injustice
+gunshot 
+calendar
+kitchen 
+-----------------------------------------------
+glimmer
+bird
+commercialalization
+overwhelmingly
+heading
+flunked
+blaming
+errand
+matchless
+rejects
+legislation
+emphasize
+largely
+dismissed
+trickle down
+capitalism
+unwritten
+unfamiliar
+noisy
+noisier
+vibe
+smelly
+admission
+plundering
+preliminary
+yielding
+midnight
+memorial
+stroll
+servile
+cloak
+burglar
+esoteric
+obscure
+Freemasons
+examines
+pedicures
+facials
+radiometer
+British
 
 
 
 
+at least
+settle up
+glimmer of
+everything else
+bound for
+bound to
+bound by
+break even 
+even better
+even more
+even less
 even though/if
 even so
 even now/then
