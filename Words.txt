@@ -2164,7 +2164,7 @@ held
 rightful
 overlook
 offenses
-evadu
+unspoken
 prize
 pitiable
 blast
@@ -6164,10 +6164,42 @@ untreatrable
 organically
 household
 conspiracy
+bruise
+tiptoe
+jigsaw
+tussle
+---------------------------------------------
+noun
+gauge
+prohibitive
+anthusiastic
+wig
+annoy
+steady
+tingle
+limp
+snatching
+alleviate
+deity
+tilt
+windening
+rudely
+roughly
+seagull
+swooped
+bribe
+character
 
 
 
 
+
+
+
+big deal
+get to
+screw off
+stay still
 self confidence
 fire =  no sentido de demitir
 further down
