@@ -2176,7 +2176,7 @@ kidding
 dumb
 shaken
 shocked
-belovod
+character
 wager
 offering
 rated
@@ -6188,14 +6188,22 @@ roughly
 seagull
 swooped
 bribe
-character
+-----------------------------------------------------------------
+glossy
+calf
+upsetting
 
 
 
 
-
-
-
+sold out
+slippage = no sentido de falhar
+reached out
+rate = no sentido classificar
+character = no sentido de carater
+tangled-up
+pretend to
+decide against
 big deal
 get to
 screw off
