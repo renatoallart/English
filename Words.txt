@@ -2240,7 +2240,7 @@ antiseptic
 absorbed
 Each
 Each other
-Shallowed
+Shallower
 Jerk
 uproar
 engulf
@@ -6060,7 +6060,6 @@ injustice
 gunshot 
 calendar
 kitchen 
------------------------------------------------
 glimmer
 bird
 commercialalization
@@ -6103,7 +6102,6 @@ radiometer
 British
 contrast 
 inconsolable
---------------------------------------------------------------------
 notion
 bully
 stake
@@ -6140,7 +6138,6 @@ workshop
 agriculture
 toppled
 croquet
-----------------------------------------
 wax
 amendment
 rumble
@@ -6167,7 +6164,6 @@ bruise
 tiptoe
 jigsaw
 tussle
----------------------------------------------
 noun
 gauge
 prohibitive
@@ -6187,13 +6183,11 @@ roughly
 seagull
 swooped
 bribe
------------------------------------------------------------------
 glossy
 calf
 upsetting
 recrutiment
 exotic
---------------------------------------------
 burger
 rallies
 likewise
@@ -6216,7 +6210,6 @@ desperation
 swam
 access
 memory 
--------------------------------------------
 inspiring
 societal
 efficiency
@@ -6245,13 +6238,35 @@ unvarying
 monotonous
 creation
 museum
+--------------------------------------------------
+peach
+dive
+analyzing
+unconsciousness
+time frame 
+quantum
+intelligence
+moisture
+puddle
+deprived
+covering
+inspired
+hellhole
+commercially
+preparing
+bandaged
 
 
 
 
-
-
-
+engulf = no sentido de tragar
+Jerk = no sentido de saculdir
+mind = no sentido de importase
+side note
+couldn't stand
+could stand
+can't stand
+can stand
 shout out 
 as of today
 as of late
