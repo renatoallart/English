@@ -2254,9 +2254,9 @@ revolt
 meaningful
 wild
 fretting
-havent
+haven't
 relieve
-lonelyness
+loneliness
 ideals
 ranging
 possess
@@ -6255,15 +6255,39 @@ hellhole
 commercially
 preparing
 bandaged
+-------------------------------------------------
+hitch
+nibble
+example
+sturdier
+shrinking
+hypnosis
+spite
+intense
+instinctively
+prescience
+mulch
+junk
+spacecraft
+Jupiter
 
 
 
 
+revenues 
+reassurance
+turn out
+got on
+self-pity
+snap = no sentido de quebrar
+hitch = no sentido de perdir
+go into
 engulf = no sentido de tragar
 Jerk = no sentido de saculdir
 mind = no sentido de importase
 side note
 couldn't stand
+hitch = no sentido de obstaculo
 could stand
 can't stand
 can stand
@@ -6273,6 +6297,7 @@ as of late
 way that
 step down
 sold out
+hitch = no sentido de prender
 slippage = no sentido de falhar
 reached out
 rate = no sentido classificar
