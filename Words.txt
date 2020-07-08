@@ -2268,10 +2268,10 @@ dismantle
 utilize
 occupied
 stand tall
-singht
+sight
 whatsoever
 brain
-camoflauged
+camouflage
 spinning
 incessantly
 hangover
@@ -2402,6 +2402,112 @@ first though
 
 
 
+even if
+even then
+as though
+as it is
+turned out
+flying squirrel
+bitch ass
+revenues 
+reassurance
+can't stand
+turn out
+as of late
+got on
+self-pity
+snap = no sentido de quebrar
+hitch = no sentido de perdir
+go into
+engulf = no sentido de tragar
+Jerk = no sentido de saculdir
+mind = no sentido de importase
+side note
+couldn't stand
+hitch = no sentido de obstaculo
+could stand
+even if
+even as
+can stand
+shout out 
+as of today
+way that
+step down
+sold out
+hitch = no sentido de prender
+slippage = no sentido de falhar
+reached out
+rate = no sentido classificar
+character = no sentido de carater
+as you do
+tangled-up
+pretend to
+decide against
+big deal
+get to
+screw off
+stay still
+self confidence
+fire =  no sentido de demitir
+further down
+miss out
+cripple = no sentido de estragar
+stick = no sentido de espetar
+make amends 
+as yet
+as from
+stable
+or so 
+all long
+at least
+settle up
+glimmer of
+everything else
+bound for
+bound to
+break even 
+even better
+even less
+as it were
+as to
+even though
+even now
+as usual
+nut =  procurar no sentido de maluco
+speak out
+put on trial
+smarten  up
+drove off
+ravish =  procurar no sentido de estrupo
+cut out
+on the one hand
+get rid of
+ship = procurar no sentido de enviar
+stick out
+butted in 
+stick with
+taken over
+bound by
+take over
+as and when
+as against 
+belong to
+test subject
+crossed =  procurar no sentido de atravessar
+Freedom of speech
+loomed over
+attached to  = procurar no sentido de apegado 
+adjust to = procurar no sentido de adaptar 
+schedule = procurar no sentido de agendar
+pledge = procurar no sentido de mostar
+stuck to
+slack off
+even so
+take part
+fingerprints
+bedside table
+advisable
+entice = prucorar so sentido de atrair
 crooked = no sentido de fraudado
 hint = no sentido insinuar
 hint = no sentido iludir
@@ -2422,6 +2528,8 @@ Someone Else = mais alguem
 Anybody Else  = qualquer outra pessoa / nenhuma outra pessoa
 tried = no sentido de experimentar
 due to = sentido de  devido
+as for
+as of
 the envy of 
 go on vacation
 upper hand
@@ -2431,7 +2539,9 @@ drag for
 no hard feelings
 what about
 showcase
+as if
 upside down
+even more
 attended to = procurr no sentido de atender
 turn [sb] in 
 Anywhere Else = procurr no sentido de nenhum outro lugar
@@ -6270,115 +6380,49 @@ mulch
 junk
 spacecraft
 Jupiter
+gaudy
+tendrils
+fusion
+amplify
+diagram
+enlightened
+bidding
+rebuke
+angrily 
+----------------------------------------------------
+cuddle
+tow
+uv rays
+rookie
+archmage
+romanticized
+fruition
+spotlight
+superstar
+egocentric
+lightning bolt
+hallucination
+ganker
+obsolete
+dragging
+persistence
+altitudes
+tormenting
+surpasses
+loosening
+loosen up
+thresher
+donned
+breast
+
+donned = no sentido de  profesor
+donned =  no sentido de vestir
+kernel = miolo
+whatsoever = no sentido absulutamente
+crap out
 
 
 
-
-revenues 
-reassurance
-turn out
-got on
-self-pity
-snap = no sentido de quebrar
-hitch = no sentido de perdir
-go into
-engulf = no sentido de tragar
-Jerk = no sentido de saculdir
-mind = no sentido de importase
-side note
-couldn't stand
-hitch = no sentido de obstaculo
-could stand
-can't stand
-can stand
-shout out 
-as of today
-as of late
-way that
-step down
-sold out
-hitch = no sentido de prender
-slippage = no sentido de falhar
-reached out
-rate = no sentido classificar
-character = no sentido de carater
-tangled-up
-pretend to
-decide against
-big deal
-get to
-screw off
-stay still
-self confidence
-fire =  no sentido de demitir
-further down
-miss out
-cripple = no sentido de estragar
-stick = no sentido de espetar
-make amends 
-as it were
-as to
-as yet
-as you do
-as and when
-as against 
-as for
-as of
-as from
-as though
-as it is
-stable
-as if
-or so 
-all long
-at least
-settle up
-glimmer of
-everything else
-bound for
-bound to
-bound by
-break even 
-even better
-even more
-even less
-even though/if
-even so
-even now/then
-even if
-even as
-as usual
-nut =  procurar no sentido de maluco
-speak out
-put on trial
-smarten  up
-drove off
-ravish =  procurar no sentido de estrupo
-cut out
-on the one hand
-get rid of
-ship = procurar no sentido de enviar
-stick out
-butted in 
-stick with
-taken over
-take over
-belong to
-test subject
-crossed =  procurar no sentido de atravessar
-Freedom of speech
-loomed over
-attached to  = procurar no sentido de apegado 
-adjust to = procurar no sentido de adaptar 
-schedule = procurar no sentido de agendar
-pledge = procurar no sentido de mostar
-stuck to
-slack off
-take part
-fingerprints
-bedside table
-advisable
-entice = prucorar so sentido de atrair
 
 
 
