@@ -6455,9 +6455,43 @@ reluctantly
 pavement
 texture
 wort
+suburban
+suburb
+------------------------------------------------
+vow 
+cap
+commitment
+solemn
+carton
+trusting
+eluded
+sliding
+intrigued
+dent
+emcee
+stirred
+fixated
+sensation
 
 
 
+giddy
+turning around 
+bloom
+arranged = no sentido de agendado
+Player = no sentido de tocador, leitor
+performed
+brow
+took out
+handkerchief
+wipe
+weep
+went past
+rear = no sentido de criar
+charge = no sentido de partir pra cima
+heading = no sentido de direção
+vow that
+to be sure
 coolest = no sentido de legal / melhor
 features = no sentido de traços 
 worth it
@@ -6473,6 +6507,10 @@ donned =  no sentido de vestir
 kernel = miolo
 whatsoever = no sentido absulutamente
 crap out
+vow to do
+solemn oath
+commitment issues
+
 
 
 
