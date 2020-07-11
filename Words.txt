@@ -2196,7 +2196,6 @@ confining
 tactic
 so that's
 so that
-fed up
 splendid
 ringleader
 rephrase
@@ -4822,7 +4821,6 @@ argued
 deviation
 gravel
 driveway
-in charge of 
 maintenance
 Middle East
 hag
@@ -6472,9 +6470,68 @@ emcee
 stirred
 fixated
 sensation
+adobe
+abbey
+amphitheatre
+archway
+slang
+dipped 
+------------------------------------------------------
+unlicensed
+rarity
+relatively
+error
+communication
+busted
+catch
+wiretaps
+secretly
+priority
+narcissus
+narcissism
+proudly
+dominating
+phalanx 
+student
+nonchalant
+cowardice
+conquering
+feasibility
+deducted
+reuniting
+mistakenly
+adults
+plummet
+intellectuals
+creeping
+step
+Cork
+skillet
+Britain
 
 
-
+charge = no sendido acusação
+right out
+step = no sentido de degrau
+flare = no sentido de sinalizador
+running nose
+creeping up
+so what
+peel off
+pell-mell 
+which is why
+gotten up
+get ready
+what if
+be onto 
+was up
+fair play
+put through
+('d rather)would rather
+or else
+decide on 
+at a time
+take place
 giddy
 turning around 
 bloom
@@ -6506,27 +6563,8 @@ donned = no sentido de  profesor
 donned =  no sentido de vestir
 kernel = miolo
 whatsoever = no sentido absulutamente
+step = no sentido de pisar
 crap out
 vow to do
 solemn oath
 commitment issues
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
