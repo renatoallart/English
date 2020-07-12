@@ -2564,7 +2564,6 @@ Anything Else = procurr no sentido de nenhuma outra coisa / qualquer outra coisa
 Something Else = procurr no sentido de mais alguma coisa / outra coisa
 beside
 out of  = procurr no sentido de em/ de
-look after
 tough
 disapoint
 sense = sensação
@@ -6508,8 +6507,34 @@ step
 Cork
 skillet
 Britain
+fallow
+butter 
+----------------------------------------------------------------------
+scrapping
+abysmal
+insecurity
+cast
+activating
+enthusiastic
+batteries
+million
+interrogate
+pivot
+gouge
+effectiveness
+prevailed
+favour
+interpreter
+omitted
+larva
+eccentric
 
 
+grubs = no sentido de comida
+looking = no sentido de procurar
+favor = no sentido de prefirir
+hire = no sentido de alugar
+gouge out
 charge = no sendido acusação
 right out
 step = no sentido de degrau
