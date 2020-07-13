@@ -2363,7 +2363,7 @@ seize
 commences
 grew up
 supporters
-generetions
+generation
 feeding
 interfering
 overseer
@@ -2371,7 +2371,7 @@ jurisdiction
 questionable
 circumstances
 goes far
-first though
+that
 
 
 
@@ -2641,7 +2641,7 @@ steering
 cities
 boulders
 ruins
-whose
+whose = no sentido de quem
 occopy
 place
 visions
@@ -6528,8 +6528,30 @@ interpreter
 omitted
 larva
 eccentric
+-----------------------------------------------
+hairbrush
+practitioner
+subduing
+bracing
+labeled
+masquerading
+implications
+outright
+shutter
+touching
+overusing
+flatter
+rally
+busybody
+defendants
+dubious
+operate
+routine
 
 
+fell apart
+make of
+sterilize = no sentido de esterio
 grubs = no sentido de comida
 looking = no sentido de procurar
 favor = no sentido de prefirir
