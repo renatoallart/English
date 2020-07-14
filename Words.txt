@@ -1933,36 +1933,36 @@ around here
 deal with
 hold back 
 any longer
-manage = procurar com o sentido de lidar
-maens = procurar com o sentido de meio
+manage = no sentido de lidar
+maens = no sentido de meio
 go on holiday
 by any means
 interview
 look after
-indulge = procurar com o sentido de satisfazer
+indulge = no sentido de satisfazer
 told off
 hardly ever
-magazine = procurar com o sentido de pente de bala
+magazine = no sentido de pente de bala
 range of
 makes sure
-anyone = procurar com o sentido de ninguem
+anyone = no sentido de ninguem
 move on
-prove = procurar com o sentido de revelar
-fund = procurar com o sentido de financiar
-odd = procurar com o sentido de impar
+prove = no sentido de revelar
+fund = no sentido de financiar
+odd = no sentido de impar
 envy
 have been
 I've been given
 had better
-avoid = procurar com o sentido de escapar / fugir
-lighter = procurar com o sentido de isqueiro
-hanging = procurar com o sentido de suspenso
-relief  = procurar com o sentido de ajuda humanitaria
+avoid = no sentido de escapar / fugir
+lighter = no sentido de isqueiro
+hanging = no sentido de suspenso
+relief  = no sentido de ajuda humanitaria
 ceaselessly
-ante = procurar com o sentido de aposta
+ante = no sentido de aposta
 convey
 deepest
-border = procurar com o sentido de borda
+border = no sentido de borda
 unmistakable
 whenever
 recording
@@ -1985,9 +1985,9 @@ craftsmanship
 unusable
 ridge
 goodwill
-handle  = procurar com o sentido de dar conta
-Traffic  = procurar com o sentido de traficar
-back up = procurar com o sentido apoiar
+handle  = no sentido de dar conta
+Traffic  = no sentido de traficar
+back up =  no sentido apoiar
 crooked
 allies
 hinder
@@ -2008,7 +2008,7 @@ blind
 tolerated
 ensure
 humankind
-back up = procurar com o sentido copia de segurança
+back up = no sentido copia de segurança
 preservation
 exterminated
 drawers
@@ -2064,7 +2064,7 @@ prattling
 sweeter
 jesting
 grading
-bearings = procurar com o sentido de rolagem
+bearings = no sentido de rolagem
 ravish
 breathe
 divided
@@ -2372,37 +2372,71 @@ questionable
 circumstances
 goes far
 that
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------------------------------- Level intermediate !!!!
-
-------------------------------- Month 5  week 1 +
-
-
-
-
-
-
+take out
+be after 
+cooking up
+let out
+fell apart
+make of
+sterilize = no sentido de esterio
+grubs = no sentido de comida
+looking = no sentido de procurar
+favor = no sentido de prefirir
+hire = no sentido de alugar
+gouge out
+charge = no sendido acusação
+right out
+step = no sentido de degrau
+flare = no sentido de sinalizador
+running nose
+creeping up
+so what
+peel off
+pell-mell 
+which is why
+gotten up
+get ready
+what if
+be onto 
+chisel
+was up
+fair play
+put through
+('d rather)would rather
+or else
+decide on 
+at a time
+take place
+giddy
+turning around 
+bloom
+arranged = no sentido de agendado
+Player = no sentido de tocador, leitor
+performed
+brow
+took out
+handkerchief
+wipe
+donned =  no sentido de vestir
+weep
+went past
+rear = no sentido de criar
+charge = no sentido de partir pra cima
+remained of = no sentido de lembrança
+stick = no sentido colocar
+slush fund
+fill out
+was going to
+donned = no sentido de  profesor
+kernel = miolo
 even if
 even then
+whatsoever = no sentido absulutamente
+step = no sentido de pisar
+crap out
+vow to do
+solemn oath
+commitment issues
 as though
 as it is
 turned out
@@ -2431,6 +2465,14 @@ can stand
 shout out 
 as of today
 way that
+heading = no sentido de direção
+vow that
+to be sure
+coolest = no sentido de legal / melhor
+features = no sentido de traços 
+worth it
+onset = no sentido de attack
+post office
 step down
 sold out
 hitch = no sentido de prender
@@ -2472,16 +2514,16 @@ as to
 even though
 even now
 as usual
-nut =  procurar no sentido de maluco
+nut = no sentido de maluco
 speak out
 put on trial
 smarten  up
 drove off
-ravish =  procurar no sentido de estrupo
+ravish = no sentido de estrupo
 cut out
 on the one hand
 get rid of
-ship = procurar no sentido de enviar
+ship = no sentido de enviar
 stick out
 butted in 
 stick with
@@ -2492,13 +2534,13 @@ as and when
 as against 
 belong to
 test subject
-crossed =  procurar no sentido de atravessar
+crossed = no sentido de atravessar
 Freedom of speech
 loomed over
-attached to  = procurar no sentido de apegado 
-adjust to = procurar no sentido de adaptar 
-schedule = procurar no sentido de agendar
-pledge = procurar no sentido de mostar
+attached to  = no sentido de apegado 
+adjust to = no sentido de adaptar 
+schedule = no sentido de agendar
+pledge = no sentido de mostar
 stuck to
 slack off
 even so
@@ -2506,13 +2548,13 @@ take part
 fingerprints
 bedside table
 advisable
-entice = prucorar so sentido de atrair
+entice = no sentido de atrair
 crooked = no sentido de fraudado
 hint = no sentido insinuar
 hint = no sentido iludir
 break out
 hand down
-craft = procurar no sentido de criar/criação
+craft = no sentido de criar/criação
 put down
 Everybody Else : todos os outros / todo mundo
 sense
@@ -2541,9 +2583,9 @@ showcase
 as if
 upside down
 even more
-attended to = procurr no sentido de atender
+attended to = no sentido de atender
 turn [sb] in 
-Anywhere Else = procurr no sentido de nenhum outro lugar
+Anywhere Else = no sentido de nenhum outro lugar
 hand over
 look out
 look out for
@@ -2552,7 +2594,7 @@ a great deal of effort
 in the mood 
 soon thereafter
 carry it off 
-carry off = procurr no sentido de conseguir
+carry off = no sentido de conseguir
 pull off
 piss me off
 as much as
@@ -2560,13 +2602,13 @@ play around
 up to
 tired-out
 snap out of it
-Anything Else = procurr no sentido de nenhuma outra coisa / qualquer outra coisa
-Something Else = procurr no sentido de mais alguma coisa / outra coisa
+Anything Else = no sentido de nenhuma outra coisa / qualquer outra coisa
+Something Else = no sentido de mais alguma coisa / outra coisa
 beside
-out of  = procurr no sentido de em/ de
+out of  = no sentido de em/ de
 tough
 disapoint
-sense = sensação
+sense = no sentido de sensação
 sunken
 sprouts
 awaits
@@ -2750,6 +2792,21 @@ forward
 tea
 depressed
 luxurious
+
+
+
+
+
+
+-------------------------------         Level intermediate !!!!
+
+-------------------------------         Month 6 week 1 +
+
+
+
+
+
+
 cookies
 beg
 undeniably
@@ -6345,7 +6402,6 @@ unvarying
 monotonous
 creation
 museum
---------------------------------------------------
 peach
 dive
 analyzing
@@ -6362,7 +6418,6 @@ hellhole
 commercially
 preparing
 bandaged
--------------------------------------------------
 hitch
 nibble
 example
@@ -6386,7 +6441,6 @@ enlightened
 bidding
 rebuke
 angrily 
-----------------------------------------------------
 cuddle
 tow
 uv rays
@@ -6412,7 +6466,6 @@ thresher
 donned
 breast
 neighborhood
-------------------------------------------------
 mention
 hologram
 tabloid
@@ -6454,7 +6507,6 @@ texture
 wort
 suburban
 suburb
-------------------------------------------------
 vow 
 cap
 commitment
@@ -6475,7 +6527,6 @@ amphitheatre
 archway
 slang
 dipped 
-------------------------------------------------------
 unlicensed
 rarity
 relatively
@@ -6509,7 +6560,6 @@ skillet
 Britain
 fallow
 butter 
-----------------------------------------------------------------------
 scrapping
 abysmal
 insecurity
@@ -6528,7 +6578,6 @@ interpreter
 omitted
 larva
 eccentric
------------------------------------------------
 hairbrush
 practitioner
 subduing
@@ -6547,71 +6596,27 @@ defendants
 dubious
 operate
 routine
+farther
+---------------------------------------
+ooze
+hence
+inquiry
+chimneys
+sting
+ambassador
+contrary
+elementary
+unfinished
+impetus
+hoard
+suffer
+distorted
+excise
+concoct
+incessant
+rent
+rung
 
-
-fell apart
-make of
-sterilize = no sentido de esterio
-grubs = no sentido de comida
-looking = no sentido de procurar
-favor = no sentido de prefirir
-hire = no sentido de alugar
-gouge out
-charge = no sendido acusação
-right out
-step = no sentido de degrau
-flare = no sentido de sinalizador
-running nose
-creeping up
-so what
-peel off
-pell-mell 
-which is why
-gotten up
-get ready
-what if
-be onto 
-was up
-fair play
-put through
-('d rather)would rather
-or else
-decide on 
-at a time
-take place
-giddy
-turning around 
-bloom
-arranged = no sentido de agendado
-Player = no sentido de tocador, leitor
-performed
-brow
-took out
-handkerchief
-wipe
-weep
-went past
-rear = no sentido de criar
-charge = no sentido de partir pra cima
-heading = no sentido de direção
-vow that
-to be sure
-coolest = no sentido de legal / melhor
-features = no sentido de traços 
-worth it
-onset = no sentido de attack
-post office
-remained of = no sentido de lembrança
-stick = no sentido colocar
-slush fund
-fill out
-was going to
-donned = no sentido de  profesor
-donned =  no sentido de vestir
-kernel = miolo
-whatsoever = no sentido absulutamente
-step = no sentido de pisar
-crap out
-vow to do
-solemn oath
-commitment issues
+let up
+lock up
+turn out right
