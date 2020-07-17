@@ -2422,7 +2422,7 @@ weep
 went past
 rear = no sentido de criar
 charge = no sentido de partir pra cima
-remained of = no sentido de lembrança
+remined of = no sentido de lembrança
 stick = no sentido colocar
 slush fund
 fill out
@@ -6663,8 +6663,36 @@ violate
 cruise
 pental
 decorated
+----------------------------------------------------------------------
+recessive
+pyramid
+centric
+thinker
+straightforward
+administration
+rating
+calculating
+politically
+uncrontrollable
+variable
+shucks
+blush
+dethroning
+everywhere
+scarf
+coat
+past
+disapproving
+gowns
+greek
+quarterback
+copy
+paste
 
 
+
+back then
+due = no sentido agendado
 wipe out = no sentido aniquilar
 looking forward to
 perform = no sentido de atuar
