@@ -2818,6 +2818,9 @@ enclosed
 whoever
 reconaissance
 unwellcomed
+due = no sentido agendado
+wipe out = no sentido aniquilar
+all the better, harder, more
 solely
 shrimp
 hesitating
@@ -2879,6 +2882,9 @@ rational
 healthcare
 related
 compare
+Somebody 
+that way
+all there
 Chef 
 Chemist
 Cobbler
@@ -3013,6 +3019,8 @@ dragged
 despise
 eradicate
 yesterday
+settle in
+make do with
 argue
 degenerate
 advice
@@ -4452,6 +4460,9 @@ flu
 participle
 consequential
 abroad
+wake up
+now and then
+all of something
 settles
 tortoise
 retreats
@@ -4826,6 +4837,9 @@ Cheek
 Ear
 Wrist
 professions 
+crap out = no sentido de falhar
+back then
+creeping up = andar de fininho
 Accountant 
 Actor
 mail
@@ -4945,6 +4959,9 @@ hair gel
 respectful
 messed-up
 organization
+make do
+caught eye
+experience = no sentido de passar por
 airtime
 coordinator
 coot
@@ -5308,6 +5325,8 @@ ladder
 designed
 maximize
 assumption
+be all that
+be all up
 long-term
 revealed
 have just
@@ -5386,6 +5405,10 @@ whistleblower
 surprisingly
 initiated
 amputated
+stick together
+is that so
+unscrew
+screw off = no sentido sumir
 bookworm
 ashamed
 mishear
@@ -5605,6 +5628,9 @@ hike
 comic
 programme
 reorganized
+runny nose
+bent on
+let up
 loan
 essentially
 apply
@@ -5698,6 +5724,8 @@ attenuate
 intervened
 inappropriate
 tangible
+be all for something/for doing something
+be all about somebody/something
 prolonging
 imminent
 captors
@@ -5746,6 +5774,9 @@ highness
 swine
 take a look
 bayonet
+all round
+run out
+spread out
 withdrawing
 parttimer
 beardy
@@ -5792,6 +5823,9 @@ invulnerable
 shackles
 improvement
 joyful
+all but
+settle on
+broke up
 widen
 somewhat
 bravado
@@ -5884,6 +5918,9 @@ regenerating
 thoughtless
 synastry
 butt
+all around
+yet = no sentido de ja
+high water
 lobster
 establish
 healthy
@@ -6077,6 +6114,9 @@ tyrant
 soaked
 exquisite
 delicacy
+roller coaster
+brith certificate
+be up to
 munching
 distracted
 haggard
@@ -6131,6 +6171,9 @@ architect
 incoherent
 railway
 envelope
+all over
+be all over somebody
+settle to
 loomed
 congregation
 democracy
@@ -6188,6 +6231,9 @@ unofficial
 booming
 slammer
 surfboard   
+looking forward to
+perform = no sentido de atuar
+turn [sth] around  = so sentido de mudar
 pleasant 
 jumper
 rounder
@@ -6245,6 +6291,8 @@ unwritten
 unfamiliar
 noisy
 noisier
+all in
+i figured
 vibe
 smelly
 admission
@@ -6410,6 +6458,10 @@ unconsciousness
 time frame 
 quantum
 intelligence
+get hitched
+go into = no sentido de bater
+skid
+have on
 moisture
 puddle
 deprived
@@ -6503,6 +6555,8 @@ overlapping
 overlap
 supplier
 reluctantly
+lock up
+turn out right
 pavement
 texture
 wort
@@ -6691,6 +6745,9 @@ systematic
 recruited
 casualties
 protest
+settle for
+shed = no sentido desmarcar
+low profile
 protester
 inefficient
 effective
@@ -6814,67 +6871,23 @@ understanding
 fame
 equal
 expenses
+-----------------------------------------------
+gang
+countdown
+screech
+university
+meathead
+shitless
+collateral
+paladin
+wussies
+sipping
+coevolving
+landing
+sadly
+Lust
+traumatises
+coup
+was about to
 
 
-
-
-
-
-
-settle in
-all around
-yet = no sentido de ja
-high water
-stick together
-is that so
-unscrew
-screw off = no sentido sumir
-Somebody 
-that way
-all there
-get hitched
-go into = no sentido de bater
-skid
-have on
-make do with
-all but
-settle on
-broke up
-crap out = no sentido de falhar
-roller coaster
-brith certificate
-be up to
-all round
-run out
-spread out
-back then
-due = no sentido agendado
-wipe out = no sentido aniquilar
-all the better, harder, more
-settle for
-looking forward to
-perform = no sentido de atuar
-turn [sth] around  = so sentido de mudar
-shed = no sentido desmarcar
-low profile
-all in
-i figured
-make do
-caught eye
-experience = no sentido de passar por
-wake up
-now and then
-all of something
-creeping up = andar de fininho
-runny nose
-bent on
-let up
-lock up
-turn out right
-all over
-be all that
-be all up
-be all over somebody
-be all for something/for doing something
-be all about somebody/something
-settle to
