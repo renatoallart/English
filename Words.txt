@@ -2571,12 +2571,12 @@ tried = no sentido de experimentar
 due to = sentido de  devido
 as for
 as of
-the envy of 
+be the envy of 
 go on vacation
 upper hand
 use to do
 use to be
-drag for
+waitress
 no hard feelings
 what about
 showcase
@@ -6797,7 +6797,6 @@ covers
 couldn't
 shouted
 twig 
---------------------------------------------------
 pearl
 tower
 hygiene
@@ -6813,7 +6812,6 @@ navigator
 calculate
 immersion
 pony 
---------------------------------
 dragonfly
 grasshopper
 beetle
@@ -6838,7 +6836,6 @@ censors
 teams
 weekday
 screened 
-----------------------------------------
 bud
 prominece
 protuberance
@@ -6871,7 +6868,6 @@ understanding
 fame
 equal
 expenses
------------------------------------------------
 gang
 countdown
 screech
@@ -6888,7 +6884,6 @@ sadly
 Lust
 traumatises
 coup
-------------------------------------------------
 morals
 recluse
 turning into
@@ -6908,7 +6903,6 @@ stick with = no sentido de lealdade
 terms
 doorbell 
 rang
---------------------------------------------------------
 least
 off to
 tell off
@@ -6946,7 +6940,6 @@ oblivious
 imply
 career
 diet
-------------------------------------
 disgusting
 hypocrite
 kindness
@@ -6972,3 +6965,28 @@ accent
 aunt
 lyrics
 interviewed
+implicitly
+----------------------------------------------------------
+slosh
+cut it out
+shithead
+out of breath
+have what it takes
+porridge
+oats
+rye
+millet
+ear of wheat
+barley
+poo
+cheapskate
+harmful
+tutoring
+memorize
+vocab
+curled up
+fearless
+stylist
+rely
+exhibition
+canoe 
