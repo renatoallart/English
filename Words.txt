@@ -2637,9 +2637,9 @@ north
 west
 cease
 earth
-osbcure
+obscure
 unintelligible
-so have i
+so have i 
 decryptions
 asked
 tatters
@@ -7068,3 +7068,44 @@ election
 terrorism
 rhythms
 swon
+--------------------------------------------------------
+host
+hostess
+scandalous
+whisker
+mustache
+standard
+brightly
+dyed
+plain
+kitten
+refer
+brilliance
+blushing
+crush
+cringy
+airlifted
+leisure
+unpaved
+paved
+rumours
+four
+squabbling
+stereotype
+grumbling
+alcoholic
+higher up
+lash
+lash out
+toast
+expressing
+breathe out
+revolves
+incomprehensible
+intelligible
+dialect 
+muttered
+so have
+description
+encryption
+abdomen
