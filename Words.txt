@@ -2651,7 +2651,7 @@ empire
 writhing
 writing
 dictionary
-manuscrip
+manuscript
 account
 readable
 elite
@@ -5205,7 +5205,6 @@ blushed
 main course
 docks
 inspected
-manuscript
 orderly
 boarded
 stunt
@@ -5590,7 +5589,6 @@ apprehended
 dishonor
 vow
 hereby
-sovereign
 screw around
 wasteful
 laid
@@ -7109,3 +7107,31 @@ so have
 description
 encryption
 abdomen
+-----------------------------------------------------------------------
+abstract
+provider
+trousers 
+it's no use
+papier mâché
+encase
+meaty
+infiltrating
+output
+astute
+last-resort
+curb
+arouse
+wetter
+comparative
+intercouse
+fertilize
+if so
+implantation
+alignment
+lenient
+dyeing
+dementia
+devastated
+enjoyable
+invasions
+promotions
