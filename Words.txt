@@ -2666,7 +2666,7 @@ Photographer
 siblings
 caretaker
 blanket
-plaeasure
+single bed
 overprotective
 paradise
 surprise
@@ -4632,7 +4632,6 @@ artsy
 fell down
 bashing
 guardrail
-phenomena
 characteristics
 lay
 lay low
@@ -7135,3 +7134,31 @@ devastated
 enjoyable
 invasions
 promotions
+-----------------------------------------------------
+look up
+mix up
+at long last
+intensifier
+handicapped
+resume
+ham
+warmly 
+decorator
+druggist
+prepare
+squabble
+caretaker = no sentido de cuidador
+divan
+cot
+crib
+bunk beds
+crandle
+parasite
+date = romantic meeting
+idealized
+pancakes
+football
+denial
+dismembered
+Egyptians
+spread your wings
