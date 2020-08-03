@@ -2682,9 +2682,9 @@ demon
 steering
 cities
 boulders
-ruins
+ruins =  no sentido ruinas
 whose = no sentido de quem
-occopy
+occupy
 place
 visions
 entrance
@@ -7162,3 +7162,43 @@ denial
 dismembered
 Egyptians
 spread your wings
+safari 
+christianity 
+get there
+have been around
+---------------------------------------------------------------------
+horribly
+it's pouring down
+run away
+cockroach
+never mind
+freak out
+backstabbed
+incompentent
+rummage
+caddie
+markedly
+a great deal
+neatly
+tray
+bag
+shopping bag
+carrier bag
+haystack
+pile
+marked
+equipment 
+steer
+glacier
+pasture
+waterfall
+gorge
+precipice
+tributary
+florest
+take up
+blurry
+horror
+castle
+optician
+owned 
