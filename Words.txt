@@ -7202,3 +7202,29 @@ horror
 castle
 optician
 owned 
+--------------------------------------------------------------------
+curl up
+dub
+fossil
+lay down
+nag
+pester
+complain
+willingly
+involuntarily
+lamb
+snapped
+eavesdropping
+posted
+lobby
+medallion
+sacrosanct
+principles
+bedtime
+chronic
+copper
+bronze
+curl
+worn out
+
+
