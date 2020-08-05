@@ -2714,7 +2714,7 @@ poll
 long-awaited
 awaited
 theft
-rencently
+recently
 satisfied
 striking
 nigh
@@ -6889,7 +6889,6 @@ self-harm
 refusing
 ineffective
 kidnappings
-disappearance 
 abduction
 noncommittal
 scholarship
@@ -7036,7 +7035,6 @@ pleased
 appearing
 springtime
 preferred
-------------------------------------------------------------
 fortnight
 milk 
 reconstitution 
@@ -7065,7 +7063,6 @@ election
 terrorism
 rhythms
 swon
---------------------------------------------------------
 host
 hostess
 scandalous
@@ -7106,7 +7103,6 @@ so have
 description
 encryption
 abdomen
------------------------------------------------------------------------
 abstract
 provider
 trousers 
@@ -7134,7 +7130,6 @@ devastated
 enjoyable
 invasions
 promotions
------------------------------------------------------
 look up
 mix up
 at long last
@@ -7154,7 +7149,7 @@ crib
 bunk beds
 crandle
 parasite
-date = romantic meeting
+date = no sentido de encontro romantico
 idealized
 pancakes
 football
@@ -7166,7 +7161,6 @@ safari
 christianity 
 get there
 have been around
----------------------------------------------------------------------
 horribly
 it's pouring down
 run away
@@ -7202,7 +7196,6 @@ horror
 castle
 optician
 owned 
---------------------------------------------------------------------
 curl up
 dub
 fossil
@@ -7226,5 +7219,37 @@ copper
 bronze
 curl
 worn out
-
-
+---------------------------------------------
+gadget
+ultimately 
+comfort
+animate
+inflame
+redden
+croke
+windpipe
+trachea
+pancreas
+kidney
+liver
+pitying
+that’s that
+attractive
+retweet
+parka
+overnight
+headbutt
+thirsty
+prospect
+outlet
+memento
+legend
+fallacy
+virtue
+survey
+custody
+decently
+innocently
+Appearance
+resemblance
+punished
