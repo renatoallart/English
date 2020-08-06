@@ -2718,7 +2718,7 @@ recently
 satisfied
 striking
 nigh
-ventting
+venting
 crop
 temple
 clues
@@ -3739,6 +3739,7 @@ catered
 enjoyed
 shortly
 shortly after
+get back to 
 henceforth
 refrain
 pigging
@@ -4267,6 +4268,7 @@ Mathematician
 Mechanical 
 milkman 
 commission
+get back from
 correct
 vengeance
 person
@@ -4541,6 +4543,7 @@ ceremonious
 ritual
 robes
 emblem
+get into
 Olympic
 represents
 continents
@@ -4771,6 +4774,7 @@ sophistry
 badly
 bearing
 trifle
+get hang of
 yank
 undoubtedly
 tempt
@@ -5034,6 +5038,7 @@ foreclosure
 honeymoon
 tag along
 hassled
+get on borad with
 emotionless
 shed tears
 unfair
@@ -5436,6 +5441,7 @@ halbet
 polnfrume
 unsightly
 butterball
+get back at
 dull-looking
 chonky
 pulp
@@ -5798,6 +5804,7 @@ physican
 shipyard
 good grief
 misplace
+get in 
 transformation
 contaminated
 ecstasy
@@ -6188,6 +6195,7 @@ exploiting
 councilman
 independence
 ignoring
+get back home
 pretext
 experimeneting
 dressing
@@ -6287,6 +6295,7 @@ capitalism
 unwritten
 unfamiliar
 noisy
+get by
 noisier
 all in
 i figured
@@ -6740,6 +6749,7 @@ paradoxically
 squadron
 systematic
 recruited
+get out of
 casualties
 protest
 settle for
@@ -6850,6 +6860,7 @@ thankfully
 wanting
 treatment
 fabricated
+get along with
 memo
 fabrication
 ethics
@@ -7155,6 +7166,7 @@ pancakes
 football
 denial
 dismembered
+get through
 Egyptians
 spread your wings
 safari 
@@ -7253,3 +7265,21 @@ innocently
 Appearance
 resemblance
 punished
+-------------------------------------------------------
+batch
+unprepared 
+get across
+picking on
+reinstatement
+rammed
+allegedly
+well-nigh
+vetting
+mugger
+free will
+pondered
+determinism
+cottage
+by any chance
+banisters 
+spiral staircase
