@@ -2734,7 +2734,7 @@ purely
 staircase
 physique
 regard
-pieceing
+piecing
 pursued
 vigilant
 abnormalities
@@ -7283,3 +7283,26 @@ cottage
 by any chance
 banisters 
 spiral staircase
+---------------------------------------------------------
+everyway
+gerund
+reprimand
+etiquette
+incapacitated
+stockholder
+shareholder
+bees
+attract
+honey
+committing
+contemplate
+watchful
+attentive
+worry
+aberration
+luckily
+mannequin
+crash-test dummy 
+strengthen
+rugby
+scan
