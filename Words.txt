@@ -4560,6 +4560,7 @@ notify
 Doctor 
 Engineer 
 Filmmaker
+sneak up
 alternative
 sweep
 how so
@@ -7306,3 +7307,34 @@ crash-test dummy
 strengthen
 rugby
 scan
+tightening
+strap
+expedition
+visite
+hollers
+Eeny Meeny Miney Mo
+--------------------------------------
+zigzag
+autumnal
+autumn
+circuit 
+circuit breaker
+breadwinner
+peek
+intercourse
+slick
+interrelated
+clumsy
+humiliated
+emphatic
+plagiarize
+shoplifting
+disperse
+crouched 
+photographic
+telegraph
+sneaked
+enrolled
+zoos
+represented
+capital
