@@ -1361,7 +1361,6 @@ encyclopedia
 ancient
 published
 trade
-set out
 decide
 January 
 February 
@@ -2770,7 +2769,7 @@ decoy
 afterwards
 stolen
 Spoon
-Creamy cheese
+cream cheese
 modest
 extermination
 completed
@@ -2869,6 +2868,7 @@ propped
 shortcut
 curst
 holdup
+set about
 quirks
 nullifying
 rupture
@@ -2966,6 +2966,7 @@ inferior
 mass-produced
 retain
 exceedingly
+set about doing
 weakening
 dissatisfied
 exetent
@@ -3328,6 +3329,7 @@ attribute
 abducted
 legit
 behave
+set aside
 considering
 bout
 goose
@@ -3522,6 +3524,7 @@ extended
 jump
 upset
 turned up
+set back
 primordial
 earliest
 dozens
@@ -3770,6 +3773,7 @@ completion
 blockbuster
 preaching
 choir
+set down
 fewer
 opportunities
 enthusiasm
@@ -4065,6 +4069,7 @@ swayed
 sociability
 group
 second
+set forth
 charismatically
 obedience
 compatibility
@@ -4251,6 +4256,7 @@ dumber
 penalty
 toll
 uncomfortable
+set in
 filling
 pertaining
 calamity
@@ -4480,6 +4486,7 @@ realm
 impore
 yearly
 salary
+set into
 affiliated
 decline
 you see
@@ -4988,6 +4995,7 @@ Western
 expelled
 sobbing
 attained
+set to
 retaliation
 umerciful
 posture
@@ -5308,6 +5316,7 @@ panhandle
 town hall
 chasm
 canyon
+set apart
 peered
 rush around
 constest
@@ -5635,6 +5644,7 @@ reorganized
 runny nose
 bent on
 let up
+set upon
 loan
 essentially
 apply
@@ -5937,6 +5947,7 @@ untimely
 tangled
 deification
 sailed
+set against
 instantaneous
 pope
 carriage
@@ -6313,6 +6324,7 @@ servile
 cloak
 burglar
 esoteric
+set on
 obscure
 Freemasons
 examines
@@ -6591,7 +6603,6 @@ slang
 dipped 
 unlicensed
 rarity
-relatively
 error
 communication
 busted
@@ -7338,3 +7349,39 @@ enrolled
 zoos
 represented
 capital
+take turn
+number
+------------------------------------
+set
+paper
+form
+treble
+tamper with
+cancelling
+beep
+parking lot 
+bravery
+install
+skittish
+right away
+right off
+poster
+locker
+textbook
+projector
+pencil case
+ruler
+set square
+whiteboard
+hallway
+burglary
+prong
+stir
+bagels
+vermin
+flight attendant 
+recovering
+item
+suburbs
+rats
+gravestone
