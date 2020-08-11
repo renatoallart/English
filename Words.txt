@@ -2791,20 +2791,6 @@ forward
 tea
 depressed
 luxurious
-
-
-
-
-
-
--------------------------------         Level intermediate !!!!
-
--------------------------------         Month 6 week 1 +
-
-
-
-
-
 sense = no sentido de senso
 cookies
 beg
@@ -2815,7 +2801,7 @@ timing
 beforehand
 enclosed
 whoever
-reconaissance
+reconnaissance
 unwellcomed
 due = no sentido agendado
 wipe out = no sentido aniquilar
@@ -3225,6 +3211,22 @@ Florist
 involves
 tickets
 groceries
+
+
+
+
+
+
+
+-------------------------------         Level intermediate !!!!
+
+-------------------------------         Month 7 week 1 +
+
+
+
+
+
+
 grand prize
 Tin/Can opener
 Strainer
@@ -7008,7 +7010,6 @@ stylist
 rely
 exhibition
 canoe 
------------------------------------------------
 stray = no sentido de abandonar
 screw off = no sentido sumir/ vaza
 butch
@@ -7241,7 +7242,6 @@ copper
 bronze
 curl
 worn out
----------------------------------------------
 gadget
 ultimately 
 comfort
@@ -7275,7 +7275,6 @@ innocently
 Appearance
 resemblance
 punished
--------------------------------------------------------
 batch
 unprepared 
 get across
@@ -7293,7 +7292,6 @@ cottage
 by any chance
 banisters 
 spiral staircase
----------------------------------------------------------
 everyway
 gerund
 reprimand
@@ -7322,7 +7320,6 @@ expedition
 visite
 hollers
 Eeny Meeny Miney Mo
---------------------------------------
 zigzag
 autumnal
 autumn
@@ -7349,7 +7346,6 @@ represented
 capital
 take turn
 number
-------------------------------------
 set
 paper
 form
@@ -7383,7 +7379,6 @@ item
 suburbs
 rats
 gravestone
------------------------------------------------------   
 vowels
 mingle
 intrinsic
@@ -7413,3 +7408,29 @@ gluttony
 pride
 sloth
 fat
+--------------------------------------------------------------
+well into
+categories
+reduce
+indirect
+helpful
+disrespect
+lately
+amoeba
+filth
+diligence
+gang up
+hang up
+transferred
+go off with 
+indisputably
+recce
+recon
+aerial 
+seldom
+eliminate
+humour
+all this way
+island
+rarities
+
