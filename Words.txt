@@ -4224,7 +4224,7 @@ massive
 befitting
 whereabouts
 individual
-order
+order = no sentido pedido de comida
 positions
 incomplete
 investiment
@@ -7433,4 +7433,40 @@ humour
 all this way
 island
 rarities
-
+-------------------------------------------------
+spooky
+daytime
+unrelatedly
+slight
+vacuum
+cliffhanger
+clank
+crazy
+hang-up
+detergent
+eco-friendly
+friendly
+outdated
+environmental
+commensurate
+prawn
+crab
+woodlouse
+pincer
+shell
+crustaceans
+creature
+undecided
+went out
+intestines
+deserving
+well-being
+equality
+quickest
+inconceivably
+possibly
+relation
+self-interest
+alphabetical
+astonishing
+listed
