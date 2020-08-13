@@ -2828,7 +2828,7 @@ cares
 pisses
 suggestions
 enraged
-furios
+furious
 vexed
 brimming
 righteous
@@ -7470,3 +7470,33 @@ self-interest
 alphabetical
 astonishing
 listed
+------------------------------------------
+swap
+habit
+corroborate
+confirm
+instructed
+startle
+coaching
+accomplice
+widower
+sightseeing
+visiting
+interesting
+faithful
+greet
+pass away
+head up
+icing
+dough
+pastry
+substantial
+impractical
+berserk
+stupidity
+thorny
+vex = no sentido iritar
+maiden voyage
+usually
+stank
+garlic
