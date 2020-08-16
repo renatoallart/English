@@ -2837,7 +2837,7 @@ stinks
 voyage
 heading
 rhythm
-sigth
+tranquil
 herb
 foot prints
 folks
@@ -2853,15 +2853,15 @@ immunity
 propped
 shortcut
 curst
-holdup
+hold-up
 set about
 quirks
 nullifying
 rupture
-liquification
-prev
+liquefaction
+pre
 prowl
-infitrating
+infiltrating
 nightfall
 realize
 rational
@@ -7132,7 +7132,6 @@ it's no use
 papier mâché
 encase
 meaty
-infiltrating
 output
 astute
 last-resort
@@ -7500,3 +7499,80 @@ maiden voyage
 usually
 stank
 garlic
+cricket
+barking
+bark
+chirping
+spar
+middleweight
+headgear
+unorthodox
+taunt
+guard
+uppercut
+momentum
+render
+transition
+---------------------------------------------------
+feint
+react
+incoming
+peculiar
+fluff
+grin
+seizure
+smirk
+pail
+a drop in the bucket
+soak
+harassing
+serene
+leaves
+flavored
+foolish
+uncoordinated
+clever 
+unknowing
+invulnerability
+citrus
+vaccine
+tense
+---------------------------------------------------
+unforthcoming
+pathological
+cheer up
+resent
+waving
+contour
+oxygen
+hailed
+pic
+mantis
+peck
+hive
+complaint
+tough luck
+navigation
+heckling
+barracking
+misuse
+deliberate
+abuse
+opportunism
+ineffable
+cur
+barring 
+mannerism 
+peculiarity
+invalidate
+unwilling
+dam
+Quantities
+preamble
+stealthily
+permeate
+realize = no sentido de realizar
+elderly
+hold up
+somehow
+spies
