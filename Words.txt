@@ -2890,7 +2890,7 @@ settled
 doppelganger
 payback
 purge
-smee
+seem
 shoulders
 trampled
 dipping
@@ -7595,3 +7595,15 @@ slope
 whatever you do
 decrease
 dioxide
+------------------------------------------------------
+mighty
+subtle
+all the way
+along the way
+sticky
+wrongdoing
+boiler
+whoosh
+unsettled
+dip into
+cinders
