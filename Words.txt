@@ -2922,7 +2922,7 @@ Babysitter
 shape
 sustain
 appearance
-underwnet
+underwent
 mutations
 gene
 propagation
@@ -3226,7 +3226,8 @@ groceries
 
 
 
-
+get = receive/obtain
+take = carry/lead
 grand prize
 Tin/Can opener
 Strainer
@@ -3256,6 +3257,7 @@ mastered
 madness
 mocking
 clogged
+get = bring
 tyranny
 agencies
 crock
@@ -3278,6 +3280,7 @@ pored
 endlessly
 dreamt
 gloomy
+Argentina
 selection
 pantomime
 scenario
@@ -3300,6 +3303,7 @@ extremely
 hungry
 wheelhouse
 leap
+get = mark/grade
 imaginary
 sacrificing
 fuzzy
@@ -3335,6 +3339,8 @@ set aside
 considering
 bout
 goose
+get = illness
+take = time
 court
 unconsciously
 aide
@@ -3381,6 +3387,7 @@ complex
 netprime
 nab
 implemented
+get = punishment
 crew
 fantasies
 videographers
@@ -3429,6 +3436,8 @@ internet
 portrayed
 unsuitable
 grit
+get = internet/phone/broadcasts
+take = photograph
 unexpected
 pitting
 potatoes
@@ -3469,6 +3478,7 @@ Attendees
 intend
 fresh-faced
 undiscovered
+get = contact
 previously
 doubling
 publicity
@@ -3502,6 +3512,7 @@ dictate
 obviously
 flurry
 flooded
+take = transport/road
 muddiness
 drifted
 clarified
@@ -3522,6 +3533,7 @@ viewpoint
 discarded
 sectioning
 freely
+get = arrive
 extended
 jump
 upset
@@ -3541,6 +3553,7 @@ will we
 that will
 seemingly
 carried
+get = move/travel
 regularly
 incomprehensimble
 soon begin
@@ -3597,6 +3610,7 @@ doubleedged
 commotion
 hog-wild
 dreadful
+get = state/condition
 pukes
 we go in
 toothpaste
@@ -3607,6 +3621,7 @@ tourists
 explore
 fish
 Many
+take = reach and hold
 types
 species
 rather than
@@ -3645,6 +3660,7 @@ chemical
 snack
 accdent
 imitate
+get off on
 continuation
 catching up
 holy
@@ -3691,6 +3707,7 @@ rain
 throw off
 substitute
 using
+get = get something done
 courageous
 incorrect
 all up
@@ -3716,6 +3733,7 @@ instigating
 be up
 shattered
 been up
+take = remove
 blended
 halfway
 hastly
@@ -3737,6 +3755,7 @@ standard
 specially
 curated
 stamina
+get = make/persuade
 plate
 eat up
 set off
@@ -3779,6 +3798,7 @@ set down
 fewer
 opportunities
 enthusiasm
+get this
 sold
 helmed
 licensed
@@ -3813,6 +3833,7 @@ harvested
 pounds
 even so
 squirrel 
+get there
 Mediterranean 
 bothering
 lifespan
@@ -3845,6 +3866,7 @@ grant
 acquired
 archaist
 tombs
+get = start
 jackpot
 took over
 exceptional
@@ -3869,6 +3891,7 @@ goodness
 noisy
 noise
 belonged
+take = seat
 feeble
 blabbering
 cliam
@@ -3879,6 +3902,7 @@ jail
 hoax
 auntie
 lawless
+get on to
 shovel
 lowly
 pickpocketer
@@ -3929,6 +3953,7 @@ essence
 Cashier
 Cattle Breeder 
 Detective
+get = opportunity
 distraught
 cigarette
 artwork
@@ -3991,6 +4016,7 @@ omen
 inflections
 idling
 idle
+get = meal
 tombglyphs
 fantasy
 decipher
@@ -4015,6 +4041,7 @@ assert
 dominance
 submission
 Action
+take = eat/drink
 Drama
 Musician
 Neurologist 
@@ -4049,6 +4076,7 @@ awaken
 pal
 deathlike
 capsule
+get = telephone/door
 facilitating
 preserving
 reviving
@@ -4078,6 +4106,7 @@ compatibility
 affinity
 easiest
 allows
+take = write down
 gain
 derived
 opressive
@@ -4110,6 +4139,7 @@ Irish
 Orchestra
 economy
 revitalize
+get up
 formulated
 acceptance
 suffering
@@ -4171,6 +4201,7 @@ practically
 Eyelid 
 Eyelash 
 Lips 
+get = catch/hit
 robbery
 bothersome
 amongst
@@ -4235,6 +4266,7 @@ pissing
 prince
 period
 legendary
+take = exam
 incorporate
 itself
 learnt
@@ -4271,6 +4303,7 @@ immense
 drastically
 cooperation
 committee
+take = study
 considerably
 Mathematician
 Mechanical 
@@ -4300,6 +4333,7 @@ flea
 refreshed
 allowed
 slot
+get round
 machines
 chash
 gawking
@@ -4341,6 +4375,7 @@ rapid
 pricey
 hindered
 almond
+get = understand
 sapling
 elixir
 secure
@@ -4368,6 +4403,7 @@ contrived
 question
 class
 far end
+get through to
 beach
 translucent
 overtime
@@ -4389,6 +4425,7 @@ aspect
 broad
 expendable
 bond
+China 
 formed
 limit
 internal
@@ -4400,6 +4437,7 @@ bullshit
 lopped
 grave
 scrubbing
+take = action
 dictate
 phrase
 restrict
@@ -4434,6 +4472,7 @@ disowned
 approval
 recognition
 bent
+get at
 poke
 explode
 Acupuncturist
@@ -4469,6 +4508,7 @@ put up
 flu
 participle
 consequential
+get = happen/exist
 abroad
 wake up
 now and then
@@ -4491,6 +4531,7 @@ salary
 set into
 affiliated
 decline
+Australia
 you see
 conversing
 realities
@@ -4513,6 +4554,7 @@ commands
 aforementioned
 compliment
 charade
+get = confuse/annoy
 lip
 impregnable
 equipped
@@ -4527,6 +4569,7 @@ flattened
 measly
 merciless
 unending
+take = measurement
 dignity
 inevitable
 heinous
@@ -4544,6 +4587,7 @@ iron
 wannabe
 donate
 rape
+get off with
 congressman
 corruption
 appointed
@@ -4575,6 +4619,7 @@ sweep
 how so
 objects
 ankh
+take = capture
 try hard
 tougher
 mortician
@@ -4615,6 +4660,7 @@ rainy
 mailing
 quacked
 arch
+get going
 arch enemy
 process
 bombarded
@@ -4662,6 +4708,7 @@ expecting
 attitude
 indication
 make out
+take = choose/buy
 recollection
 endeared
 woollen
@@ -4670,6 +4717,7 @@ strangled
 aromatic
 botany
 Smoking
+European Union
 refuge
 insinuate
 required
@@ -4717,6 +4765,7 @@ vicinity
 plumber
 thankfulness
 occasion
+get above yourself
 indicates
 gifted
 composer
@@ -4747,6 +4796,7 @@ warmth
 wrapped
 birth
 starry
+take out of
 skies
 bleak
 truthfully
@@ -4764,6 +4814,7 @@ asserted
 foremost
 everyone else
 looking for
+India
 vindictive
 overcome
 wronged
@@ -4782,6 +4833,7 @@ ingnition
 tomboyish
 sophistry
 badly
+take up on
 bearing
 trifle
 get hang of
@@ -4828,6 +4880,7 @@ inheritance
 shielded
 mocked
 singularity
+get away with
 theory
 sonsense
 evidence
@@ -4837,6 +4890,7 @@ reserved
 fringe
 wretched
 buddhalike
+Saudi Arabia
 incarnate
 rubbed
 ragged
@@ -4895,6 +4949,7 @@ step aside
 on top of than
 feast
 almighty
+take = accept/receive
 pesky
 grudge
 bestowed
@@ -5000,6 +5055,7 @@ attained
 set to
 retaliation
 umerciful
+get over yourself
 posture
 worn-out
 rotting
@@ -5042,6 +5098,7 @@ sponsor
 disadvantage
 be quiet
 inexperienced
+take = consider
 puberty
 sausages
 rustle
@@ -5053,6 +5110,7 @@ get on borad with
 emotionless
 shed tears
 unfair
+Turkey
 stance
 thinner
 wristwatches
@@ -5075,6 +5133,7 @@ bounced
 forfeit
 uphill
 basaltic
+take = have feeling/opinion
 buddy
 primary
 repeatedly
@@ -5145,6 +5204,7 @@ intirely
 women
 polite
 peaceful
+take through
 flashes
 chokes
 enlarge
@@ -5178,6 +5238,7 @@ I was wondering
 reconsider
 brace yourself
 throb
+take = mathematics
 deceptively
 underway
 landscape
@@ -5206,6 +5267,7 @@ lens
 stump
 toys
 infrigment
+get through with
 bordering
 copyright
 buckle
@@ -5213,6 +5275,7 @@ receipt
 upholder
 depart
 province
+Mexico
 wood
 laundry
 bishop
@@ -5247,6 +5310,7 @@ savings
 quitting
 frozen
 naturally
+take = give example
 kendo
 presidents
 cup
@@ -5292,6 +5356,7 @@ barged
 til
 atleast
 alittle
+take up with
 wrecked
 rehabilitation
 outcome
@@ -5334,6 +5399,7 @@ utter
 disposal
 tour
 umbrella
+get out
 additionally
 furthermore
 ladder
@@ -5378,6 +5444,7 @@ uranium
 rant
 sergeant
 lift
+take = form/position
 enlisted
 smallfrys
 burial
@@ -5407,6 +5474,7 @@ extravagant
 bicker
 loudly
 grievance
+get down to
 medal
 controversy
 unemployment
@@ -5457,6 +5525,7 @@ get back at
 dull-looking
 chonky
 pulp
+take = need
 going down
 barge
 ore
@@ -5483,6 +5552,7 @@ celibate
 minions
 ungrateful
 opera
+Germany
 displacement
 wriggle
 babbling
@@ -5491,6 +5561,7 @@ ensuing
 economic
 imprisoned
 infant
+get by
 bonus
 exponentially
 answering
@@ -5548,6 +5619,7 @@ faultless
 slave
 Pharaoh
 allegiance
+take = size of shoes/clothes
 unshakable
 spate
 ensured
@@ -5570,6 +5642,7 @@ tatical
 formation
 block
 casualty
+take out of himself/herself
 evenly
 teenagers
 hunch
@@ -5591,6 +5664,7 @@ duties
 puppet
 fuffocated
 cream
+get ahead
 no longer
 skating
 manufacturing
@@ -5658,6 +5732,7 @@ foodie
 moist
 hasty
 booty
+take = hold/contain
 slip
 buck
 struggles
@@ -5705,6 +5780,7 @@ mashed
 diners
 legless
 temping
+get round to
 traffic light
 presume
 frame
@@ -5747,6 +5823,7 @@ imminent
 captors
 extremists
 windshield
+get in with
 outburst
 preschool
 gobble
@@ -5787,6 +5864,7 @@ rush hour
 privilege
 to take shelter
 highness
+take = teach/lead
 swine
 take a look
 bayonet
@@ -5825,6 +5903,7 @@ gab
 infidels
 betterment
 commit
+get in on
 rapture
 lackadaisical
 reviewing
@@ -5861,6 +5940,7 @@ pinwheel
 socially
 realisation
 lettuce
+Canada
 wallet
 humid
 academic
@@ -5878,6 +5958,7 @@ physics
 unexpectedly
 begging
 soccer
+get back together
 mustache
 nutjobs
 comprehending
@@ -5913,6 +5994,7 @@ harmony
 rectify
 extort
 suppressed
+take = go over/around
 lethal
 arrowhead
 unrestricted
@@ -5936,6 +6018,7 @@ thoughtless
 synastry
 butt
 all around
+Russia
 yet = no sentido de ja
 high water
 lobster
@@ -5964,6 +6047,7 @@ rubber
 petrol
 tank
 purposeful
+take = in sports
 mysophomia
 imprisonment
 outer
@@ -5986,6 +6070,7 @@ lumber
 handbook
 machinery
 lazy
+get down
 nobleman
 Loathe
 correspond
@@ -6018,6 +6103,7 @@ defies
 clutch
 glow
 alibi
+Republic of Korea
 rubbish
 basement
 interior
@@ -6051,6 +6137,7 @@ separately
 fortress
 dislike
 pacifist
+take = vote/survey
 lesser
 unprotected
 deceived
@@ -6132,7 +6219,9 @@ tyrant
 soaked
 exquisite
 delicacy
+get up to
 roller coaster
+United States 
 brith certificate
 be up to
 munching
@@ -6164,6 +6253,7 @@ pigeon
 pee
 niece
 unaffiliated
+take = be successful
 ointment
 infuriated
 creases
@@ -6231,6 +6321,7 @@ radius
 cleverness
 makeshift
 fortune-teller
+get behind
 townspeople
 faithfully
 acupressure
@@ -6263,6 +6354,7 @@ struck
 pine
 powder
 accelerate
+take = grammar
 leaning
 newly
 settle
@@ -6273,6 +6365,7 @@ interdimensional
 smarten
 salute
 underprivileged
+South Africa
 cemetery
 teleporte
 commemorate
@@ -6322,6 +6415,7 @@ yielding
 midnight
 memorial
 stroll
+get on with
 servile
 cloak
 burglar
@@ -6347,6 +6441,7 @@ preliminaries
 battle
 battle royale
 partition
+be taken up with
 exceptionally
 emerge
 permanently
@@ -6379,6 +6474,7 @@ soften
 purposely
 unwittingly
 enabling
+Indonesia
 enable
 truthin
 alienated
@@ -6405,6 +6501,7 @@ anthusiastic
 wig
 annoy
 steady
+get away
 tingle
 limp
 snatching
@@ -6447,6 +6544,7 @@ memory
 inspiring
 societal
 efficiency
+be taken with
 enhancement
 specialization
 credentials
@@ -6458,6 +6556,7 @@ momentarily
 unpredictably
 ignorant
 powerless
+Brazil
 meaningfully
 forfeiting
 perks
@@ -6487,6 +6586,7 @@ moisture
 puddle
 deprived
 covering
+get around
 inspired
 hellhole
 commercially
@@ -6552,6 +6652,7 @@ sterile
 bless
 fourfold
 slush
+take aback
 exhort
 neural
 paralysis
@@ -6645,6 +6746,7 @@ batteries
 million
 interrogate
 pivot
+take after
 gouge
 effectiveness
 prevailed
@@ -6680,6 +6782,7 @@ sting
 ambassador
 contrary
 elementary
+get somebody nowhere
 unfinished
 impetus
 hoard
@@ -6695,6 +6798,7 @@ jeans
 hump
 bump
 breakwater
+United Kingdom
 harbour 
 lenses
 centuries
@@ -6726,6 +6830,7 @@ recalculate
 chalk
 embedded
 recoilless
+take against
 plateau
 whore   
 bled
@@ -6753,6 +6858,7 @@ scarf
 coat
 past
 disapproving
+get on
 gowns
 greek
 quarterback
@@ -6818,6 +6924,7 @@ covers
 couldn't
 shouted
 twig 
+France 
 pearl
 tower
 hygiene
@@ -6829,6 +6936,7 @@ rebound
 centrifugal
 covincing
 heir
+get it up
 navigator
 calculate
 immersion
@@ -6842,6 +6950,7 @@ ladybug
 moth = no sentido de inseto
 wasp
 pine cone
+take apart
 anti-aircraft
 aircraft
 canon
@@ -6868,6 +6977,7 @@ restoring
 satellites
 overclocking
 commissioners
+get together
 distorting
 appreciate
 thankfully
@@ -6889,6 +6999,7 @@ amends
 understanding
 fame
 equal
+Japan
 expenses
 gang
 countdown
@@ -6918,6 +7029,7 @@ abduction
 noncommittal
 scholarship
 debate
+get it on
 git
 ship out
 stick with = no sentido de lealdade
@@ -6936,6 +7048,7 @@ glaring
 repressed
 herbivore
 weirdos
+take away
 fond    
 stuffed
 chart
@@ -6962,6 +7075,7 @@ imply
 career
 diet
 disgusting
+take over
 hypocrite
 kindness
 bastard
@@ -6992,10 +7106,12 @@ cut it out
 shithead
 out of breath
 have what it takes
+Italy
 porridge
 oats
 rye
 millet
+get back at
 ear of wheat
 barley
 poo
@@ -7059,6 +7175,7 @@ springtime
 preferred
 fortnight
 milk 
+take away from
 reconstitution 
 section 
 consisting
@@ -7140,6 +7257,7 @@ arouse
 wetter
 comparative
 intercouse
+get up as
 fertilize
 if so
 implantation
@@ -7205,6 +7323,7 @@ pile
 marked
 equipment 
 steer
+take back
 glacier
 pasture
 waterfall
@@ -7251,6 +7370,7 @@ croke
 windpipe
 trachea
 pancreas
+take to
 kidney
 liver
 pitying
@@ -7335,6 +7455,7 @@ emphatic
 plagiarize
 shoplifting
 disperse
+get around to
 crouched 
 photographic
 telegraph
@@ -7375,6 +7496,7 @@ vermin
 flight attendant 
 recovering
 item
+take in
 suburbs
 rats
 gravestone
@@ -7421,6 +7543,7 @@ diligence
 gang up
 hang up
 transferred
+get on to
 go off with 
 indisputably
 recce
@@ -7483,6 +7606,7 @@ sightseeing
 visiting
 interesting
 faithful
+take it out on
 greet
 pass away
 head up
@@ -7506,6 +7630,7 @@ chirping
 spar
 middleweight
 headgear
+get up
 unorthodox
 taunt
 guard
@@ -7535,6 +7660,7 @@ clever
 unknowing
 invulnerability
 citrus
+take off
 vaccine
 tense
 ---------------------------------------------------
@@ -7622,3 +7748,28 @@ cylinder
 injecting
 rapidly
 paralyzed
+gender
+get about
+take on
+--------------------------------------------
+placard
+merciful
+humane
+slandered
+libel
+ward
+vouch for
+longing
+forgiveness
+detention
+juvenile
+denture
+unconvincing
+gone
+holidaymaker
+archeology
+childminder
+external
+genetic
+invisible
+Ireland 
