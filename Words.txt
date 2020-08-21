@@ -2955,7 +2955,7 @@ exceedingly
 set about doing
 weakening
 dissatisfied
-exetent
+extent
 diverse
 luxury
 appetizing
@@ -6439,7 +6439,6 @@ hurled
 unfazed
 preliminaries
 battle
-battle royale
 partition
 be taken up with
 exceptionally
@@ -6471,6 +6470,7 @@ wax
 amendment
 rumble
 soften
+battle royale
 purposely
 unwittingly
 enabling
@@ -7808,3 +7808,49 @@ beneficial
 disadvantageous
 disagree
 trekking
+crustless
+-wise
+-ish
+-y
+-est
+-ie
+-o
+-able
+-ski
+-ing
+-ette
+-ly
+mud-slinging
+loose
+sling 
+chuck
+sling off at
+sling your hook
+-----------------------------------------------------------
+whereby
+moan
+blatant
+reverted
+cavemen
+joining
+entention
+startled 
+flock
+crawled
+ain’t 
+platoon
+outnumbered
+stronghold
+barefoot
+with your bare hands
+persists
+closest
+inhabit
+flamethrower
+adapt
+microorganism
+dull
+unsatisfied
+simplest
+widely
+single-celled
