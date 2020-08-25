@@ -1,4 +1,4 @@
-------------------------------------------------- start begin cards
+------------------------------------------------- Start Begin Cards
 dwellings           
 likely
 goes
@@ -622,7 +622,7 @@ recapture
 hesitation
 crawling
 
----------------------------------------------------------- Start intermediate cards
+------------------------------------------------- Start Intermediate Cards
 
 even
 tried
@@ -3000,7 +3000,9 @@ shedding
 arrange
 curious
 kindness
-delighted
+
+------------------------------------------------- Start Monolingual Cards
+
 eager
 dragged
 despise
@@ -3015,7 +3017,7 @@ brush
 aside
 uncovered
 that being said
-ballon
+balloon
 direction
 yourself
 herself
@@ -7529,7 +7531,6 @@ gluttony
 pride
 sloth
 fat
---------------------------------------------------------------
 well into
 categories
 reduce
@@ -7555,7 +7556,6 @@ humour
 all this way
 island
 rarities
--------------------------------------------------
 spooky
 daytime
 unrelatedly
@@ -7592,7 +7592,6 @@ self-interest
 alphabetical
 astonishing
 listed
-------------------------------------------
 swap
 habit
 corroborate
@@ -7638,7 +7637,6 @@ uppercut
 momentum
 render
 transition
----------------------------------------------------
 feint
 react
 incoming
@@ -7663,7 +7661,6 @@ citrus
 take off
 vaccine
 tense
----------------------------------------------------
 unforthcoming
 pathological
 cheer up
@@ -7702,7 +7699,6 @@ elderly
 hold up
 somehow
 spies
----------------------------------------------
 nod
 tormnet
 wheelchair
@@ -7721,7 +7717,6 @@ slope
 whatever you do
 decrease
 dioxide
-------------------------------------------------------
 mighty
 subtle
 all the way
@@ -7733,7 +7728,6 @@ whoosh
 unsettled
 dip into
 cinders
------------------------------------------------------------
 theme
 assertion
 defiance
@@ -7751,7 +7745,6 @@ paralyzed
 gender
 get about
 take on
---------------------------------------------
 placard
 merciful
 humane
@@ -7775,7 +7768,6 @@ invisible
 Ireland 
 Christian 
 gospel
----------------------------------------------
 broth
 interrogating
 exterminating
@@ -7826,7 +7818,6 @@ sling
 chuck
 sling off at
 sling your hook
------------------------------------------------------------
 whereby
 moan
 blatant
@@ -7854,7 +7845,6 @@ unsatisfied
 simplest
 widely
 single-celled
--------------------------------------------------------------------
 upsurge
 'em = them
 hack
@@ -7875,7 +7865,6 @@ prolonged
 inconclusive
 decision-making
 allergic
---------------------------------------------------------
 adventure
 asswipe
 idiotic
@@ -7906,7 +7895,6 @@ overweight
 thickly 
 lie down
 slim
----------------------------------------------------------------------------------
 peanut
 linger
 cloudlike
@@ -7938,3 +7926,21 @@ delight
 crumple
 wring
 transplant
+consideration
+----------------------------------------------------------------------
+overtaken
+pull out
+outstrip
+bear arms
+illegally
+especialist
+ballpark
+overrun
+treads
+mess up
+spokeswoman
+deteriorate
+tile
+brush aside
+trial balloon
+instance
