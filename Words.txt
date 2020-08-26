@@ -3032,7 +3032,7 @@ hasn't
 parallel
 we'd
 nevertheless
-exeptions
+exceptions
 co-exist
 concenient
 hypothesis
@@ -7944,3 +7944,18 @@ tile
 brush aside
 trial balloon
 instance
+----------------------------------------------------------------------
+challenge
+racism
+capitalized
+ambitious
+depict
+actionable
+descriptive
+puralized
+owner
+ownership
+brood
+unarmed
+adjcent
+change
