@@ -7974,7 +7974,7 @@ gang together
 gang up
 inflamed
 drowns
------------------------------------------------
+-----------------------------------------------------------------------
 hey
 stooge
 syllable
@@ -7990,7 +7990,7 @@ regal
 empress
 antisocial
 numb
--------------------------------
+----------------------------------------------------------
 summary
 adjective
 nationalities
@@ -8000,7 +8000,6 @@ feet
 brighside
 comparison
 pew
-spew =  vomit 
 mystery
 sketch
 talons
@@ -8015,3 +8014,21 @@ weave
 interlacing
 inmost
 its
+briefing
+debriefing
+-----------------------------------------------------------------------
+norm
+Telecommunications
+background
+obeyed
+definite
+advertisement
+advert
+pence
+dispensable
+consersion
+abolish
+oligarchy
+indisputable
+non-aggression
+awhile
