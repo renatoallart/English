@@ -4360,6 +4360,7 @@ reach out
 unsightly
 sightly
 stocks
+shed = get rid of
 plummeting
 wreaked
 evacuated
@@ -7926,7 +7927,6 @@ crumple
 wring
 transplant
 consideration
-----------------------------------------------------------------------
 overtaken
 pull out
 outstrip
@@ -7943,7 +7943,6 @@ tile
 brush aside
 trial balloon
 instance
-----------------------------------------------------------------------
 challenge
 racism
 capitalized
@@ -7958,7 +7957,6 @@ brood
 unarmed
 adjcent
 change
---------------------------------------------------------------------------
 predicative
 handball
 shuffle
@@ -7974,7 +7972,6 @@ gang together
 gang up
 inflamed
 drowns
------------------------------------------------------------------------
 hey
 stooge
 syllable
@@ -7990,7 +7987,6 @@ regal
 empress
 antisocial
 numb
-----------------------------------------------------------
 summary
 adjective
 nationalities
@@ -8016,7 +8012,6 @@ inmost
 its
 briefing
 debriefing
------------------------------------------------------------------------
 norm
 Telecommunications
 background
@@ -8037,7 +8032,6 @@ constitution
 containing 
 element
 helped
---------------------------------------------------------
 discontinue
 on-trend
 passive
@@ -8067,3 +8061,31 @@ highlighted
 wider
 wideout
 disbelief
+--------------------------------------------------------
+royalty
+prosperity
+criticize
+chummines
+closeness
+familiarity
+insperability
+intimacy
+nearness
+quit
+pat
+automatic rifles
+rifles
+grenade
+mortar
+rip
+rip off
+drunk
+averse
+bargain
+specifiable
+fell = ​very evil or violent
+downstream
+inn
+disclose
+rudeness
+grief
