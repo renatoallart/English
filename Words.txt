@@ -3039,6 +3039,7 @@ hypothesis
 there will
 Baker 
 Barber 
+set = clock/machine
 Beautician 
 situation
 festering
@@ -3144,6 +3145,7 @@ collapsing
 truce
 unseat
 even then
+set = work/task
 children
 insist
 topple
@@ -3258,6 +3260,7 @@ evoke
 mastered
 madness
 mocking
+set = mathematics
 clogged
 get = bring
 tyranny
@@ -3337,6 +3340,7 @@ attribute
 abducted
 legit
 behave
+set = of face/body
 set aside
 considering
 bout
@@ -3425,6 +3429,7 @@ liability
 traumatized
 lingering
 dismiss
+set = of face/body
 trick
 joy
 evade
@@ -3530,6 +3535,7 @@ expressionless
 stunningly
 epitome
 perspectives
+set = class
 outfit
 viewpoint
 discarded
@@ -3646,6 +3652,7 @@ alarming
 intentions
 dots
 dashes
+set = mathematics
 sinking
 sent out
 century
@@ -3705,6 +3712,7 @@ borne
 burdens
 jeez
 upstage
+set = mathematics
 rain
 throw off
 substitute
@@ -3836,6 +3844,7 @@ pounds
 even so
 squirrel 
 get there
+set = mathematics
 Mediterranean 
 bothering
 lifespan
@@ -3922,6 +3931,7 @@ nonexistent
 utilize
 achieving
 wandering
+set = mathematics
 sunburn
 blisters
 mother-in-law
@@ -4068,6 +4078,7 @@ facing
 back there
 endowed
 shrug
+set = mathematics
 erasure
 evaded
 thier
@@ -4118,6 +4129,7 @@ prophecy
 egyptian
 usage
 wisely
+set = mathematics
 needed
 drop
 wields
@@ -4159,6 +4171,7 @@ slide
 indebted
 attend
 auction
+set = in sport
 largest
 secret
 ahold
@@ -4337,6 +4350,7 @@ slot
 get round
 machines
 chash
+set = in sport
 gawking
 scored
 souvenir
@@ -4427,6 +4441,7 @@ aspect
 broad
 expendable
 bond
+set = TV/radio
 China 
 formed
 limit
@@ -4541,6 +4556,7 @@ repercussions
 insignificant
 applies
 principle
+set = group
 exception
 Nose 
 Knee 
@@ -4616,6 +4632,7 @@ Doctor
 Engineer 
 Filmmaker
 sneak up
+set = words to music
 alternative
 sweep
 how so
@@ -4635,6 +4652,7 @@ get rid of
 utmost
 enhance
 spit
+set = words to music
 boschniakia
 tissue
 repairs
@@ -4714,6 +4732,7 @@ take = choose/buy
 recollection
 endeared
 woollen
+set = words to music
 hand-woven
 strangled
 aromatic
@@ -4801,6 +4820,7 @@ starry
 take out of
 skies
 bleak
+set = for printing
 truthfully
 overwhelming
 dense
@@ -5026,6 +5046,7 @@ numerous
 fillings
 disorder
 hair gel
+set = for printing
 respectful
 messed-up
 organization
@@ -5190,6 +5211,7 @@ implacable
 wholeheartedly
 outdo
 downpour
+set = become hard
 good time
 well-known
 ivory
@@ -5263,6 +5285,7 @@ oozing
 magically
 strictly
 birthplace
+set = bone
 graffit
 authentic
 lens
@@ -5328,6 +5351,7 @@ kneel
 hideout
 interruption
 fray
+set = face
 confidential
 unhurt
 nuke
@@ -5463,6 +5487,7 @@ firewood
 warfare
 pounce
 trash
+set = bone
 test
 phase
 gist
@@ -5653,6 +5678,7 @@ deserters
 apostles
 prediction
 unscathed
+set = face
 unexpectedly
 toughness
 extinguish
@@ -5728,6 +5754,7 @@ essentially
 apply
 flavouring
 wilfully
+set = hair
 scattering
 neat
 foodie
@@ -5891,6 +5918,7 @@ sewing
 persecution
 interests
 jest
+set = jewellery
 beef
 pardon
 physican
@@ -5930,6 +5958,7 @@ bravado
 shortened
 gravity
 groggy
+set = of sun/moon
 anchor
 dimple
 Disruptive
@@ -6163,6 +6192,7 @@ fleeting
 fruitless
 break
 intending
+set = put/start
 consumes
 bioenergy
 bare
@@ -6274,6 +6304,7 @@ tirelessly
 misspoke
 furnace
 confine
+set = be located
 sharpshooter
 absurd
 dip
@@ -6354,6 +6385,7 @@ unsteady
 boiled
 struck
 pine
+set = play/book/film
 powder
 accelerate
 take = grammar
@@ -6404,7 +6436,6 @@ capitalism
 unwritten
 unfamiliar
 noisy
-get by
 noisier
 all in
 i figured
@@ -6426,6 +6457,7 @@ set on
 obscure
 Freemasons
 examines
+set = arrange
 pedicures
 facials
 radiometer
@@ -6484,6 +6516,7 @@ nominated
 wavy
 eyelashes
 thrilling
+set = work/task
 leukemia
 marrow
 trnasplant
@@ -6556,6 +6589,7 @@ aspire
 agitated
 momentarily
 unpredictably
+set = work/task
 ignorant
 powerless
 Brazil
@@ -6709,6 +6743,7 @@ dipped
 unlicensed
 rarity
 error
+set = example/standard, etc.
 communication
 busted
 catch
@@ -6933,6 +6968,7 @@ hygiene
 guerilla
 unbureaucratic
 bureaucratic
+set = table
 downgraded
 rebound
 centrifugal
@@ -7302,6 +7338,7 @@ spread your wings
 safari 
 christianity 
 get there
+set = clock/machine
 have been around
 horribly
 it's pouring down
@@ -8089,3 +8126,28 @@ inn
 disclose
 rudeness
 grief
+-------------------------------------------------
+funhouse
+gratification
+whims
+filler
+snowboard
+mobile
+in spite of
+asleep
+jug
+jungle
+electrocited
+voltage line
+voltage
+cocksuckers
+scum
+retire
+stricking
+perspiration
+perspire
+beehive
+Centipede
+warm
+unkind
+impart
