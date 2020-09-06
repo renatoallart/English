@@ -3187,7 +3187,7 @@ colossal
 talent
 agency
 hopefuls
-startdom
+stardom
 plenty
 participants
 tryouts
@@ -3196,7 +3196,7 @@ subject
 sadness
 robots
 telling
-diferent
+different 
 stories
 admit
 oversee
@@ -8229,3 +8229,27 @@ comment
 shortest
 curly
 nurturing 
+cumbersome
+contracting
+not at all
+cookery
+painfully
+playact
+----------------------------------------------------
+imagine
+particular 
+baking
+tasting 
+customized
+altered
+hazel
+unreal
+aspirin
+strung
+high-strung 
+fridge
+try out 
+dealt
+hilltop 
+contribution
+biography
