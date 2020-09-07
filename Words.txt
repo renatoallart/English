@@ -3200,7 +3200,7 @@ different
 stories
 admit
 oversee
-audition
+insert
 deal
 inhabiting
 topic
@@ -3215,21 +3215,6 @@ Florist
 involves
 tickets
 groceries
-
-
-
-
-
-
-
--------------------------------         Level intermediate !!!!
-
--------------------------------         Month 7 week 1 +
-
-
-
-
-
 get = receive/obtain
 take = carry/lead
 grand prize
@@ -3650,6 +3635,13 @@ leafy
 trying out 
 alarming
 intentions
+
+
+
+--------------------------------------------------------------         Month 8 week 1 +
+
+
+
 dots
 dashes
 set = mathematics
@@ -8253,3 +8245,42 @@ dealt
 hilltop 
 contribution
 biography
+informer
+finely 
+uncivilized
+conservative
+republican
+perceptions 
+---------------------------------------------------------------
+disreputable 
+etc
+unrestrained 
+invented 
+entertain 
+definition
+appliance
+backshift 
+conversion
+brackets
+bust
+sweep out 
+eavesdrop
+seal
+seal off
+abide
+abide by
+bowstring
+pillaging
+loot
+creep
+scarier
+rob
+from afar
+shove
+currency
+lightest
+deal in
+deal out
+immediate
+overhead
+stall
