@@ -3225,7 +3225,7 @@ dastardly
 twin
 taste
 leek
-strifreid
+stir-fry
 pass
 applause
 fired
@@ -5158,7 +5158,7 @@ peel
 tore
 gullible
 out on a date
-Discourage
+discourage
 furniture
 move into 
 stepped 
@@ -8091,7 +8091,6 @@ highlighted
 wider
 wideout
 disbelief
---------------------------------------------------------
 royalty
 prosperity
 criticize
@@ -8119,7 +8118,6 @@ inn
 disclose
 rudeness
 grief
--------------------------------------------------
 funhouse
 gratification
 whims
@@ -8147,7 +8145,6 @@ impart
 pirates
 authorities
 ferry
-----------------------------------------------------------------
 went off
 reservations
 practise
@@ -8179,7 +8176,6 @@ unwillingly
 snow
 bump off 
 reflects
-------------------------------------
 heated 
 foretold
 Suspended
@@ -8203,7 +8199,6 @@ defer
 declaration
 attorney
 leaned
----------------------------------------------------------------
 jawbone
 bleaching
 extracting
@@ -8227,7 +8222,6 @@ not at all
 cookery
 painfully
 playact
-----------------------------------------------------
 imagine
 particular 
 baking
@@ -8251,7 +8245,6 @@ uncivilized
 conservative
 republican
 perceptions 
----------------------------------------------------------------
 disreputable 
 etc
 unrestrained 
@@ -8284,3 +8277,38 @@ deal out
 immediate
 overhead
 stall
+----------------------------------------------------------
+consensus
+vary
+bounces
+ya
+swift
+misleading 
+spokesperson
+prosecution 
+allegations
+striving 
+tab
+invoice
+hesitant 
+recommendation
+spontaneous 
+falsetto 
+swaggie
+nailed
+pass out
+disinfect
+keypad
+madman
+sieve
+whisk
+olives
+combination
+leer
+asparagus
+okra
+chili
+onion
+sweetcorn
+disheartened
+Learners
