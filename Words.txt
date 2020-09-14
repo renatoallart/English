@@ -3281,7 +3281,7 @@ cultivating
 supposed
 concentration
 feral
-expreinces
+experiences
 inform
 performance
 manifest
@@ -3297,7 +3297,7 @@ get = mark/grade
 imaginary
 sacrificing
 fuzzy
-fantsy
+fantasy
 rejected
 gross
 collaborators
@@ -3311,12 +3311,12 @@ commence
 sketchy
 bearded
 gorgeous
-square one
+back to square one
 go straight
 recruit
 raising
 athlete
-carrer
+carer
 laying
 petite
 legs
@@ -4819,7 +4819,6 @@ dense
 defenseless
 tongue
 stun
-generation
 interpretation
 spring
 achievements
@@ -8086,7 +8085,6 @@ repeal
 duke
 dechess
 marry
-proposals
 bourgeoisie
 highlighted
 wider
@@ -8464,3 +8462,132 @@ emptyhanded
 signaler
 omnipotent
 wuss
+guinea pig
+daydream
+clothes
+concealment
+password
+name
+federal 
+communicate
+privately
+foundation
+----------------------------------------------------------
+fiancee
+engaged 
+brigand 
+bandit
+freebooters
+vagabond
+honeyed
+descendents
+sully 
+gentry
+ferocious
+bride
+deities
+intensively
+alleged
+tiredness 
+put on
+tensions
+gleam
+reassignment
+suppose
+resigned
+attach
+technical
+stick to 
+riverside
+cocktail 
+foretell
+comprehensible
+lookalike
+double
+semester 
+genuinely
+religious 
+emotionally 
+consist
+-------------------------------------------------------------------------
+designate
+sensory
+distinction
+restrictive
+defining 
+parenthetical
+divergence 
+worksheets
+queue
+tram
+marmalade
+quantifiers 
+manhunt
+intensified
+reinjure
+weary
+rickety 
+rope ladder 
+equator
+downy
+blurred
+reforming
+crude
+net
+fungi 
+indelibly
+studded
+anchored
+mating
+drone
+stalling
+whipped
+whip up 
+rouse
+big time 
+nozzle
+plug
+trademark
+masticate
+deviate 
+long-time
+utilized
+prime 
+noodles
+volume 
+deductions
+-------------------------------------------------------------
+take your time
+out of order
+it is what it is
+i'm on my way
+out of the blue
+not at all
+where are we
+easy-peasy
+so far, so good
+it's up to you
+by the way
+sound good
+sounds good
+figure it out
+take it easy
+get outta here
+it doesn't matter
+i appreciate it
+hurl
+visualize
+repeatedely
+mouth off 
+appalled 
+relish
+racket
+parched
+drench
+scorched
+stick together
+ethnic 
+ethnic minority 
+detector
+secretions
+cocoon
