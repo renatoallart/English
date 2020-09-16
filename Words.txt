@@ -3346,7 +3346,7 @@ client
 windbag
 industry
 disgrace
-phenomennal
+phenomenal
 clapper
 present
 relived
@@ -8608,3 +8608,21 @@ vote
 eligible
 bluntly
 disrespectful 
+rubbing 
+discourteous
+------------------------------------------------------------------------
+parachute 
+sponsored
+wind farm
+meet
+raw
+arraignment 
+accommodation
+pick up 
+relevant
+hybrid
+antidote
+spraying
+gatling
+fallout
+bremen
