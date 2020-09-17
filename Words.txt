@@ -2955,7 +2955,6 @@ exceedingly
 set about doing
 weakening
 dissatisfied
-extent
 diverse
 luxury
 appetizing
@@ -3362,7 +3361,7 @@ production
 stunning
 superhuman
 possesses
-centratiton
+contraction
 footage
 repeat
 breed
@@ -5082,9 +5081,9 @@ postpone
 pill
 sage
 Coffee pot
-Kettle
-Ladle
-Toaster
+kettle
+ladle
+toaster
 plead
 execution
 compassion
@@ -8446,7 +8445,6 @@ unrelenting
 typewriter
 keyboard
 computer
-pore over
 icepack
 cleanser
 lotion
@@ -8489,6 +8487,7 @@ deities
 intensively
 alleged
 tiredness 
+sprung
 put on
 tensions
 gleam
@@ -8626,3 +8625,26 @@ spraying
 gatling
 fallout
 bremen
+fairness
+freight
+consistency
+goods 
+privacy
+-------------------------------------------------
+tentatively 
+drape
+interrupted 
+appendix 
+flown
+lain
+shook
+sprang
+swum
+withered
+shrivelled
+fullest
+fulfilling 
+unfulfilling
+shunned
+brightness
+expansion
