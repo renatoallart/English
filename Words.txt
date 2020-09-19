@@ -3374,7 +3374,7 @@ accolades
 problematic
 filming
 complex
-netprime
+prime
 nab
 implemented
 get = punishment
@@ -4986,7 +4986,6 @@ ties = empatar
 punches
 dodge
 proven
-committee
 qualified
 restrictions
 tuition
@@ -5505,7 +5504,6 @@ whistleblower
 surprisingly
 initiated
 amputated
-stick together
 is that so
 unscrew
 screw off = no sentido sumir
@@ -8279,7 +8277,6 @@ deal out
 immediate
 overhead
 stall
-----------------------------------------------------------
 consensus
 vary
 bounces
@@ -8324,7 +8321,6 @@ bullet
 corrupt
 onionlike 
 affection
----------------------------------------------------------
 overcast
 tasty-looking
 tin
@@ -8347,6 +8343,7 @@ sheriff
 scarves
 hooves
 buffalo
+purring
 scissors
 binoculars
 headphones
@@ -8385,7 +8382,6 @@ insanity
 contemptuous
 faintly 
 contemptuously
-------------------------------------------------
 migrant 
 cleanse
 silently
@@ -8420,7 +8416,6 @@ bridge
 meaninglessly
 clamp 
 assistance
------------------------------------------------------
 ridden 
 negative 
 contracted 
@@ -8470,7 +8465,6 @@ federal
 communicate
 privately
 foundation
-----------------------------------------------------------
 fiancee
 engaged 
 brigand 
@@ -8508,7 +8502,6 @@ genuinely
 religious 
 emotionally 
 consist
--------------------------------------------------------------------------
 designate
 sensory
 distinction
@@ -8551,11 +8544,9 @@ masticate
 deviate 
 long-time
 utilized
-prime 
 noodles
 volume 
 deductions
--------------------------------------------------------------
 take your time
 out of order
 it is what it is
@@ -8594,7 +8585,6 @@ fluctuated
 scatter 
 grains
 opulence
------------------------------------------------------------------
 snug 
 bitterness
 resemble
@@ -8609,7 +8599,6 @@ bluntly
 disrespectful 
 rubbing 
 discourteous
-------------------------------------------------------------------------
 parachute 
 sponsored
 wind farm
@@ -8630,7 +8619,6 @@ freight
 consistency
 goods 
 privacy
--------------------------------------------------
 tentatively 
 drape
 interrupted 
@@ -8648,3 +8636,39 @@ unfulfilling
 shunned
 brightness
 expansion
+artificially
+beekeeper
+bonkers
+---------------------------------------
+rejection
+controversial
+debated
+lived-in
+displaying 
+prescribed
+saint 
+unadorned 
+furnishings
+glue 
+put off
+purr
+decompose
+hick
+complain of 
+refined
+coarse 
+attic
+tact 
+point out
+compiled
+awarded 
+unproblematic
+interactrion
+musclehead
+boastful
+sportsmanship
+mottled
+streaked
+self-satisfied
+shotgun 
+passengers 
