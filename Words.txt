@@ -3391,9 +3391,9 @@ lines
 Librarian 
 Lifeguard 
 Magician 
-rifraff
+riffraff
 slain
-improduce
+booked
 slay
 intercede
 script
@@ -7327,6 +7327,7 @@ spread your wings
 safari 
 christianity 
 get there
+rile
 set = clock/machine
 have been around
 horribly
@@ -8672,3 +8673,19 @@ streaked
 self-satisfied
 shotgun 
 passengers 
+--------------------------------------------------------
+junk food
+cavort 
+tarnish
+riled up
+flaunt 
+settee
+velvet
+fluorescent
+escapist
+bent over
+conjuror
+sorcerer
+hijackers
+hijack
+refrigerator
