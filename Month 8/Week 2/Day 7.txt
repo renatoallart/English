@@ -13,3 +13,4 @@ masterpiece
 worthwhile
 airing
 internet
+settle = decide/arrange

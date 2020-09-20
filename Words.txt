@@ -1260,7 +1260,7 @@ wanna
 speak
 multiplying
 emptiness
-Acceptable
+acceptable
 sing
 contents
 Susceptible
@@ -3402,7 +3402,7 @@ piqued
 amateur
 messing
 interfere
-moment's
+moment
 as long as
 exactly
 sue
@@ -5522,7 +5522,7 @@ gone over
 heating
 Philosophers
 vertical
-horizontal
+horizon
 get going
 treat
 shuttle
@@ -8547,7 +8547,6 @@ long-time
 utilized
 noodles
 volume 
-deductions
 take your time
 out of order
 it is what it is
@@ -8689,3 +8688,31 @@ sorcerer
 hijackers
 hijack
 refrigerator
+correspondence
+bedroom
+usefully
+exasperated
+lessening
+library
+-----------------------------------------
+hold out
+emit
+ridiculously
+rule over 
+slimeball
+ralf
+hulk
+nick
+arsonist
+arson
+infancy
+slaw
+slew
+intercept
+disagreement
+detainees
+mess about
+untidy
+no messing
+excrement 
+immension
