@@ -5974,7 +5974,6 @@ sophomore
 grades
 math
 physics
-unexpectedly
 begging
 soccer
 get back together
@@ -8153,7 +8152,6 @@ reek
 blunt
 mayhem
 freaking
-hallways
 stairwell
 workplace
 bump into
@@ -8716,3 +8714,35 @@ untidy
 no messing
 excrement 
 immension
+compass 
+indoor passage
+testament 
+offensiveness
+cooperate 
+clinic
+millionaire
+-------------------------------------------------------
+simmer
+ultimate
+reside
+doom
+screw
+righteousness
+self-righteousness 
+limping
+cockiness
+drunkard
+deadlock 
+stalemate
+intimidate
+invigorate
+roaming
+pretentious
+summarily 
+wave aside
+objections
+gloss over
+matt 
+conscientious
+painstaking
+thorough
