@@ -3462,10 +3462,10 @@ attempted
 dimension
 expensive
 failure
-Palm
-Eye  
-Hair 
-Attendees
+palm
+eye  
+hair 
+attendees
 intend
 fresh-faced
 undiscovered
@@ -4728,8 +4728,8 @@ hand-woven
 strangled
 aromatic
 botany
-Smoking
-European Union
+smoking
+european union
 refuge
 insinuate
 required
@@ -8802,3 +8802,29 @@ directorship
 deadline
 tempting 
 reconstruct
+-------------------------------------------------------------------------
+impose
+plucky
+unlocked
+redevelop
+unprincipled
+scrupulous
+expensively
+fir
+attends 
+coaxed
+insinuating
+insinuation
+shadowed
+objectionable
+quiz
+foment
+obsequious
+nepotism
+translation
+thesaurus
+game
+considerate
+flocked
+stick out
+inhuman
