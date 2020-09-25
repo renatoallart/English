@@ -1970,9 +1970,9 @@ sins
 act
 mediator
 devotedly
-Biomedical 
-Garbage collector
-Publicist 
+biomedical 
+garbage collector
+publicist 
 upheld
 abandon
 outrage
@@ -2198,9 +2198,9 @@ so that
 splendid
 ringleader
 rephrase
-Seamstress 
-Secretary 
-Singer 
+seamstress 
+secretary 
+singer 
 brink
 asap
 bound
@@ -3482,7 +3482,7 @@ seeing
 oucht
 padering
 merits
-yellin
+yelling
 duds
 battling
 deserted
@@ -8828,3 +8828,34 @@ considerate
 flocked
 stick out
 inhuman
+causation
+storing 
+indirectly 
+gently 
+taken off
+------------------------------------------------------
+haze
+sledgehammer 
+tarot
+act up
+hand
+peacefully
+hast
+thou
+demolished
+absurdities
+one another
+paddle 
+preview
+knockoff
+emphases
+stress
+pander
+prejudice
+esteem
+praiseworthy
+flood
+mount
+restating
+interjectionally
+chiefly
