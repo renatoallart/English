@@ -3487,7 +3487,7 @@ duds
 battling
 deserted
 ain't
-deadful
+dreadful
 collar
 skanky
 unpleasant
@@ -3495,7 +3495,7 @@ misconception
 enviable
 versions
 midway
-turnbulent
+turbulent 
 ashore
 nitpicking
 unnatural
@@ -4619,9 +4619,9 @@ nerveless
 reappear
 absorb
 notify
-Doctor 
-Engineer 
-Filmmaker
+doctor 
+engineer 
+filmmaker
 sneak up
 set = words to music
 alternative
@@ -8781,6 +8781,7 @@ interred
 brown 
 licence
 intentional
+barren terrain
 impression 
 chapter
 ----------------------------------------------------------------------
@@ -8859,3 +8860,22 @@ mount
 restating
 interjectionally
 chiefly
+sharks
+barren 
+fireworks 
+correctly
+--------------------------------------------------------------
+desert
+snob
+collarbone
+dog collar
+squalid
+repugnantly
+minerals
+preconception
+conception
+inaccurate
+unenviable
+vastly
+deprivation
+consider 
