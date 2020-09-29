@@ -3541,8 +3541,8 @@ close
 house
 refusal
 funeral
-will we
-that will
+will 
+that will do 
 seemingly
 carried
 get = move/travel
@@ -8929,3 +8929,37 @@ therapy
 session
 plaiting 
 retained 
+offensive
+unwelcome
+dramatization 
+fragile
+traveller
+professional 
+lifestyle
+------------------------------------------------------
+reli
+reli up
+goo
+populated
+ill will 
+sedition
+diction
+dord
+unabridged
+lifelong
+gauntlet
+rambunctious
+crabwise
+emollient
+abstain
+allusion
+pediculous
+heyday
+plaudit
+encumber
+sisyphean
+limpid
+delve
+purport
+cronyism
+operose
