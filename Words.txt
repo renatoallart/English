@@ -3547,7 +3547,7 @@ seemingly
 carried
 get = move/travel
 regularly
-incomprehensimble
+incomprehensible
 soon begin
 spur
 improvising
@@ -6441,7 +6441,6 @@ cloak
 burglar
 esoteric
 set on
-obscure
 Freemasons
 examines
 set = arrange
@@ -8784,7 +8783,6 @@ intentional
 barren terrain
 impression 
 chapter
-----------------------------------------------------------------------
 detonate
 veteran
 mercenary
@@ -8803,7 +8801,7 @@ directorship
 deadline
 tempting 
 reconstruct
--------------------------------------------------------------------------
+
 impose
 plucky
 unlocked
@@ -8834,7 +8832,6 @@ storing
 indirectly 
 gently 
 taken off
-------------------------------------------------------
 haze
 sledgehammer 
 tarot
@@ -8864,7 +8861,6 @@ sharks
 barren 
 fireworks 
 correctly
---------------------------------------------------------------
 desert
 snob
 collarbone
@@ -8885,7 +8881,6 @@ hostility
 patriot
 sordid
 reverberation
--------------------------------------------------------
 drowned 
 echo
 obviousness
@@ -8908,7 +8903,6 @@ damp
 wine
 motorbike
 cruise
------------------------------------------------------------------
 naming
 ligaments
 fracturing
@@ -8936,7 +8930,6 @@ fragile
 traveller
 professional 
 lifestyle
-------------------------------------------------------
 reli
 reli up
 goo
@@ -8963,3 +8956,26 @@ delve
 purport
 cronyism
 operose
+raft
+branches
+recommending
+schoolwork
+-----------------------------------------------
+symptom
+cremating 
+reflecting
+vine
+wherever 
+incomprehensibly
+perched 
+sinuous
+ruddy
+risible
+aficionado
+grubstake
+demure
+beholden
+midriff
+moderator
+shush
+logorrhea
