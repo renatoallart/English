@@ -2659,9 +2659,9 @@ headed
 thin
 spread
 younger
-Painter 
-Pharmacist
-Photographer
+painter 
+pharmacist
+photographer
 siblings
 caretaker
 blanket
@@ -3555,9 +3555,9 @@ lodge
 overthinking
 stuntman
 cliff
-Blacksmith 
-Bricklayer 
-Carpenter 
+blacksmith 
+bricklayer 
+carpenter 
 handsome
 wires
 mommy
@@ -3566,9 +3566,9 @@ conduct
 we're
 slightly off
 read-through
-concludion
+conclusion
 throw up
-unfording
+unfolding 
 throwing up
 stick
 jury 
@@ -8979,3 +8979,35 @@ midriff
 moderator
 shush
 logorrhea
+remember
+retrace
+eventide
+bethink
+enduring
+franchise
+tenet
+treading 
+misplaced
+horseshoes
+bricks
+enquire
+necessity
+excellent
+twists
+-----------------------------------------
+pole
+encircles
+pinpoint 
+practising 
+conclusive
+noticeboard
+verdict
+inferences 
+paragraph
+wall planner
+water coller
+data projector
+photocopier
+castor
+intercom
+nail clapper
