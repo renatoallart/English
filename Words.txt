@@ -7532,7 +7532,6 @@ mingle
 intrinsic
 extrinsic
 solidarity
-handicapped
 vicious
 childish
 suspensed
@@ -9075,7 +9074,7 @@ silvery
 conservation
 troughs 
 semantic
-dogma
+fragrant 
 bread
 deterrence
 miscarriage
@@ -9085,3 +9084,19 @@ literally
 eggcorn
 intensive
 challenging
+stalk
+warrior
+mage
+newspapers
+----------------------------------------------------------------
+emitting
+fragrantly 
+dogma
+cyclist
+barbecue
+watering
+vegetarian
+presenter
+rainforests 
+conviction
+realistic 
