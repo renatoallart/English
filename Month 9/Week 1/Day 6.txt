@@ -13,3 +13,4 @@ arbitrarily
 tension
 delicate
 instigating
+bear = not be suitable
