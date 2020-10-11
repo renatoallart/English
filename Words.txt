@@ -3696,7 +3696,6 @@ borne
 burdens
 jeez
 upstage
-set = mathematics
 rain
 throw off
 substitute
@@ -9150,8 +9149,8 @@ roleplay
 bear up
 rival
 go-ahead 
-go on
 chunk
+oneself
 godsend
 curl
 shameful
@@ -9201,3 +9200,26 @@ deer
 germinate
 bear with
 fees
+born 
+literature
+--------------------------------------------------------------------
+downstage
+nearly
+self
+go on
+justify
+scumbag
+maximum
+coronation
+alien
+planet
+hound 
+heand-on
+explosion
+spray
+ascension
+throne
+dynasty
+silkworm
+silk
+mobilize
