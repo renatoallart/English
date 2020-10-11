@@ -3711,12 +3711,12 @@ bleargh
 irresistible
 breathes
 confused
-Jeweler 
-Journalist
-Orthopedist 
+jeweler 
+journalist
+orthopaedic 
 conforming
 strangle
-enexpected
+unexciting
 swept
 swept up
 arbitrarily
@@ -9223,3 +9223,20 @@ dynasty
 silkworm
 silk
 mobilize
+--------------------------------------------------------------------------
+possibilities 
+irrepressibly
+resistible
+exertion
+polluted 
+watches
+exciting
+likable
+arbitrary
+unfriendly
+ecological 
+documentary
+classroom
+skirt
+horseback
+channel 
