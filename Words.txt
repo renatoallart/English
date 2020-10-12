@@ -3729,7 +3729,7 @@ been up
 take = remove
 blended
 halfway
-hastly
+hastily
 fuller
 end up
 bulldozer
@@ -5732,7 +5732,6 @@ refillable
 tease
 consolation
 chaff
-hastily
 ruthless
 bloody
 insight
@@ -9031,6 +9030,7 @@ horn
 toot
 bump and grind
 invading
+hasten
 uniting
 bumping
 ugliest
@@ -9240,3 +9240,25 @@ classroom
 skirt
 horseback
 channel 
+------------------------------------------------------------------------------------
+component
+ethnic minorities
+freelancer
+decomposed
+obscene
+dinner
+lunch 
+sexual 
+appreciation 
+respect
+claymore
+hurriedly
+haste
+superstore
+rectangular
+ley
+throw pillow
+saliva
+teething
+tariffs
+sexual harassment 
