@@ -796,7 +796,7 @@ Mediator
 business
 doses 
 credit 
-Considered
+considered
 directors 
 tight
 realised
@@ -1107,7 +1107,7 @@ passport
 judge
 could've
 offers
-Breakfast
+breakfast
 districts
 organ
 donors
@@ -7723,7 +7723,7 @@ peculiarity
 invalidate
 unwilling
 dam
-Quantities
+quantities
 preamble
 stealthily
 permeate
@@ -9278,3 +9278,34 @@ pertinacious
 leitmotif
 pecniary
 ombudsman
+enormous 
+qualify
+minimum
+greeter 
+biased
+cultivates 
+future 
+affectionate
+harry
+------------------------------------------------------------------------------
+harassed = adjective
+torment 
+soliloquy
+superstition
+write off
+inoculation
+reacted
+evolution
+encompasses
+contained
+self-centred 
+confiscating
+cull
+palace
+wishful
+sabotaging
+desist
+damaging
+shun
+demonstrator
+policy
