@@ -3858,7 +3858,7 @@ known
 perceived
 grant
 acquired
-archaist
+archaism
 tombs
 get = start
 jackpot
@@ -9422,8 +9422,21 @@ retribution
 bestow
 monks
 wick
+---------------------------------------------------------------------------------------------
 repress
 breakthrough
 knot
 college
 unlucky
+itinerary
+dishonesty
+submarine 
+honour 
+unrest 
+booties
+monopolizing
+spade
+protege
+quaint 
+wily
+archaeological 
