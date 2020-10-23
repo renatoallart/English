@@ -13,3 +13,7 @@ submission
 Action
 take = eat/drink
 Drama
+
+A most unwelcome event claimed his attention.
+claim
+to get or take somebody’s attention

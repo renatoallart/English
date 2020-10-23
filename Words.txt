@@ -3888,7 +3888,7 @@ belonged
 take = seat
 feeble
 blabbering
-cliam
+claim
 engulfed
 tremble
 biggest
@@ -4094,6 +4094,11 @@ facilitating
 preserving
 reviving
 voices
+bear = accept/deal with
+arrangement = a plan or preparation that you make so that something can happen
+account = at bank
+claim = for money
+statement = something that you say or write that gives information or an opinion
 encouragement
 manifesting
 opportunity
@@ -4176,6 +4181,10 @@ largest
 secret
 ahold
 lakely
+bear = turn
+statement = the act of stating or expressing something in words
+arrangement = the way things are done or organized
+account = computing
 regrade
 alias
 connections
@@ -4288,6 +4297,10 @@ affluently
 outperformed
 on top
 associated
+bear = of trees/plants
+statement = an official report on a child’s special needs made by a local education authority
+account = regular customer
+arrangement = an agreement that you make with somebody that you can both accept
 disrupt
 singing
 fourth
@@ -4377,6 +4390,10 @@ stocks
 shed = get rid of
 plummeting
 wreaked
+bear = child
+statement = a clear expression of an opinion or attitude that you make through your actions or appearance
+account = bill
+arrangement = a piece of music that has been changed, for example for another instrument to play
 evacuated
 proposal
 gum
@@ -4470,6 +4487,10 @@ assigned
 handling
 mainly
 suited
+bear = yourself
+statement = a printed record of money paid, received, etc.
+account = with shop
+arrangement = a group of things that are organized or placed in a particular order or position; the act of placing things in a particular order
 meddling
 storange
 storage
@@ -4567,6 +4588,9 @@ deflect
 broad daylight
 daylight
 boundaries
+bear = carry
+statement = a formal or official account of facts or opinions
+account = business records
 heeding
 commands
 aforementioned
@@ -4665,6 +4689,8 @@ slicing
 mutiny
 postman
 consultant
+bear = name
+account = description
 assessed
 gripped
 contract
@@ -4759,6 +4785,7 @@ tutor
 protesting
 jealous
 scammer
+bear = negative feeling
 castrated
 patience
 fee
@@ -5096,6 +5123,7 @@ toaster
 plead
 execution
 compassion
+bear = not be suitable
 leniency
 army
 rebel
@@ -5281,6 +5309,7 @@ overdo
 headband
 laziness
 oozing
+bear = show
 magically
 strictly
 birthplace
@@ -5416,6 +5445,7 @@ striking back
 sulking
 way cooler
 infirmiry
+bear = support weight
 councilor
 shareholders
 stadium
@@ -5568,6 +5598,7 @@ filing
 parking lot
 sworn
 mischief
+bear = be responsible for something
 dragged off
 lapdog
 forsaking
@@ -9457,3 +9488,24 @@ visage
 lethally
 let down
 adduce
+-------------------------------------------------------------------------
+removers 
+napkin 
+blab
+add the 1001 bear mean
+braid
+hibernate
+restart
+shut down
+productivity
+observable
+tumor
+vest
+step in
+magnifying
+wannabe
+magnifying glass
+embossed
+overcrowded 
+workmen
+brandish
