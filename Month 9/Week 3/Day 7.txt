@@ -17,3 +17,5 @@ Detective
 this problem claims our attention.
 claim 
 to call for or need; deserve
+
+though = verb
