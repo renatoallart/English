@@ -9557,8 +9557,15 @@ bead
 amphibian
 repulsive
 spacious
-
-
+-------------------------------------------------------------------------------------
+valid 
+blindly
+inexcusable
+injustifiable
+execusable
+fall apart
+dredge
+unemployed
 
 due = all 
 whoever
