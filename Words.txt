@@ -8840,7 +8840,6 @@ directorship
 deadline
 tempting 
 reconstruct
-
 impose
 plucky
 unlocked
@@ -9310,7 +9309,6 @@ cultivates
 future 
 affectionate
 harry
-------------------------------------------------------------------------------
 harassed = adjective
 torment 
 soliloquy
@@ -9335,7 +9333,6 @@ policy
 steroids
 extremity
 frontier 
--------------------------------------------------------------------------
 admiration
 reform
 juice 
@@ -9361,7 +9358,6 @@ enjoyment
 imperfect 
 ruling 
 dim
-----------------------------------------------------------------------------
 mankind
 repulsed
 modification
@@ -9380,7 +9376,6 @@ biotoxic
 abandonment
 tiller
 satisfactory
------------------------------------------------------------------------------------
 reasonably
 ghostwrite
 unsuspected
@@ -9402,7 +9397,6 @@ interment
 passageway
 lace
 disobedience
--------------------------------------------------------------------------------
 qualities
 solicitation
 pet = verb
@@ -9420,7 +9414,6 @@ breakup
 overlapped
 set out
 timetable
-----------------------------------------------------------------------------------------
 keep out
 motionless
 sliding door 
@@ -9436,7 +9429,6 @@ weikle
 quotidian
 obverse
 homologate
---------------------------------------------------------------------------------------------
 bland
 venture
 spin
@@ -9453,7 +9445,6 @@ retribution
 bestow
 monks
 wick
----------------------------------------------------------------------------------------------
 repress
 breakthrough
 knot
@@ -9471,7 +9462,6 @@ protege
 quaint 
 wily
 archaeological 
--------------------------------------------------------------------------------------
 denounced 
 opposable
 oak 
@@ -9488,7 +9478,6 @@ visage
 lethally
 let down
 adduce
--------------------------------------------------------------------------
 removers 
 napkin 
 blab
@@ -9509,7 +9498,6 @@ embossed
 overcrowded 
 workmen
 brandish
-----------------------------------------------------------------------------------------
 vulnerability
 mended 
 poetry
@@ -9529,7 +9517,6 @@ shin
 sustainable
 homage 
 musicals
----------------------------------------------------------------------------------------------
 decrepit
 mimicking
 shriveled
@@ -9557,7 +9544,6 @@ bead
 amphibian
 repulsive
 spacious
--------------------------------------------------------------------------------------
 valid 
 blindly
 inexcusable
@@ -9566,6 +9552,38 @@ execusable
 fall apart
 dredge
 unemployed
+traveler
+repine
+emissary
+sophomoric
+guttersnipe
+format 
+treasured 
+happily 
+---------------------------------------------------------------------------
+boast
+impostor
+imposing 
+ruffian
+sycophant
+pickle
+flattery
+in a daze
+fiend
+flickring
+interlocked
+intensity
+aloof
+detached
+ashtray
+
+
+
+
+
+
+
+
 
 due = all 
 whoever
