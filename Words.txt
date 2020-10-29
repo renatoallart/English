@@ -3975,7 +3975,7 @@ discussions
 directions
 asthma
 reply
-about issues
+issues = topic of discussion
 marble
 There are
 will be
@@ -3985,12 +3985,12 @@ roommate
 softie
 military
 classified
-authorites
+authorities
 foreign
 experts
 absolute
 assist
-anycase
+in any case
 progressing
 so far
 by far
@@ -4077,7 +4077,6 @@ facing
 back there
 endowed
 shrug
-set = mathematics
 erasure
 evaded
 thier
@@ -4170,6 +4169,9 @@ insolvent
 cross
 boyfriend
 Conquest
+due = all 
+charge = money
+arrange = to plan or organize something in advance
 emptied
 slide
 indebted
@@ -4261,6 +4263,9 @@ trails
 forcefully
 continuing
 award
+due = suitable/right
+charge = gun
+arrange = to put something in a particular order; to make something neat or attractive
 doing
 popping
 popping up
@@ -4374,6 +4379,9 @@ heavenly
 purse
 celebrity
 pandemonium
+due = owed
+charge = glass
+arrange = to change a piece of music so that it is suitable for a particular instrument or voice
 frightening
 allowable
 deteriorating
@@ -4650,6 +4658,8 @@ timeline
 nerveless
 reappear
 absorb
+due = expected
+charge = task
 notify
 doctor 
 engineer 
@@ -4861,6 +4871,8 @@ asserted
 foremost
 everyone else
 looking for
+due = caused by
+charge = responsibility
 India
 vindictive
 overcome
@@ -5024,6 +5036,8 @@ dodge
 proven
 qualified
 restrictions
+due = noun
+charge = of crime/something wrong
 tuition
 brute
 chestnut
@@ -5162,6 +5176,8 @@ unfair
 Turkey
 stance
 thinner
+due = adverb
+charge = electricity
 wristwatches
 plow
 defamation
@@ -5308,6 +5324,7 @@ overdo
 headband
 laziness
 oozing
+charge = strong feeling
 bear = show
 magically
 strictly
@@ -5417,6 +5434,7 @@ earring
 pissi off
 satisfying
 fazed
+charge = strong feeling
 induce
 unsolved
 reassume
@@ -5519,6 +5537,7 @@ set = bone
 test
 phase
 gist
+charge = rush/attack
 treason
 property
 trespassed
@@ -5650,6 +5669,7 @@ activists
 sexuality
 apparition
 daycare
+charge = explosive
 early
 elegantly
 head on
@@ -5848,6 +5868,7 @@ rashly
 businesslike
 heretical
 hand me over
+charge = explosive
 rarites
 savage
 meekly
@@ -9592,15 +9613,25 @@ rural
 issue from
 claim back
 sculptures
+---------------------------------------------------------------
+greatness
+look forward to
+uncivil
+predilection
+peony
+legacy
+improvisation
+vibrant
+indistinguishable
+untouched
+pilgrimage
+cloistered
+flute
+knit
+disparage
+saboteur
+accordingly
+width
+shoppers
 
-
-
-
-
-
-
-
-due = all 
 whoever
-charge = all
-arreged
