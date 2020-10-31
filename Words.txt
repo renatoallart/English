@@ -4011,7 +4011,6 @@ inflections
 idling
 idle
 get = meal
-tombglyphs
 fantasy
 decipher
 glyphs
@@ -9477,6 +9476,7 @@ honour
 unrest 
 booties
 monopolizing
+karma
 spade
 protege
 quaint 
@@ -9656,6 +9656,26 @@ morsel
 cotton
 comb
 portent
+--------------------------------------------------------------------
+pilfering
+looting
+comeliness
+dread
+possessiveness
+upheaval
+penniless
+crackpot
+gruff
+turn to
+have (got) what it takes
+seaward
+seaweed
+deforestation
+loafer
+reparation
+karmic
+horticulturist
+pitch
 
 whoever
 stir = all 
