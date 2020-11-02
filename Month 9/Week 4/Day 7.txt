@@ -1,9 +1,93 @@
-Musician
-Neurologist 
-Nutritionist
-Thriller
-Comedy
-Documentaries
+
+2/11/2020
+
+She has been a professional musician for over 25 years.
+musician /mjuˈzɪʃn/
+a person who plays a musical instrument or writes music, especially as a job
+
+But the neurologist wants her to stay Just for observation.
+neurologist  /nʊˈrɑːlədʒɪst/
+​a doctor who studies and treats diseases of the nerves
+
+The nutritionist said it had everything she needed! She loves to eat and intends to be a chef or nutritionist.
+nutritionist /nuˈtrɪʃənɪst/
+​a person who is an expert on the relationship between food and health
+
+A couple of years ago, my wife talked me into writing a thriller.
+thriller /ˈθrɪlər/
+a book, film, play, etc, depicting crime, mystery, or espionage in an atmosphere of excitement and suspense
+
+He moved to Los Angeles to write comedy. She went on to star in a hit comedy series.
+comedy /ˈkɑːmədi/
+a play, film or TV show that is intended to be funny, usually with a happy ending; plays, films and TV shows of this type
+
+There were some interesting interviews in the documentary.
+documentaries /ˌdɑːkjuˈmentri/
+​a film or a radio or television programme giving facts about something
+
+Well, he had bovine tuberculosis, as I'm sure he told you.
+bovine /ˈbəʊvaɪn/
+connected with cows
+
+Memberships are available on a monthly or yearly basis.
+membership /ˈmembərʃɪp/
+the state of being a member of a group, a club, an organization, etc.
+
+We're all sad at her going. She did not notice the coming and going of people now.
+going /ˈɡəʊɪŋ/
+an act of leaving a place
+
+He was part of an organized criminal gang.
+organized /ˈɔːrɡənaɪzd/
+nvolving large numbers of people who work together to do something in a way that has been carefully planned
+
+I've to write an essay this weekend.
+essay /ˈeseɪ/
+a short piece of writing by a student as part of a course of study
+
+His first essay in politics was a complete disaster.
+essay /ˈeseɪ/
+an attempt to do something
+
+I vividly remember the day we first met.
+vividly /ˈvɪvɪdli/
+in a way that produces very clear pictures in your mind
+
+She was accompanied by her husband on piano.
+piano /piˈænəʊ/
+a large musical instrument played by pressing the black and white keys on the keyboard. The sound is produced by small hammers hitting the metal strings inside the piano.
+
+Joe provided piano accompaniment.
+accompany /əˈkʌmpəni/
+to play a musical instrument, especially a piano, while somebody else sings or plays the main tune
+
+I get off at the next station.
+station /ˈsteɪʃn/
+a place where trains stop so that passengers can get on and off; the buildings connected with this
+
+A huge fire was blazing in the fireplace. Within minutes the whole building was blazing.
+blaze /bleɪz/
+to burn brightly and strongly
+
+Every room in the house has a fireplace.
+fireplace /ˈfaɪərpleɪs/
+an open space for a fire in the wall of a room
+
+A lot of lost property's never claimed.
+claim /kleɪm/
+to demand or ask for something because you believe it is your legal right to own or to have it
+
+The vegetables are stirred into the rice while it is hot. Stir the paint before you use it.
+stir /stɜːr/
+to move a liquid or substance around, using a spoon or something similar, in order to mix it completely
+
+
+musician
+neurologist 
+nutritionist
+thriller
+comedy
+documentaries
 bovine
 membership
 going
@@ -14,6 +98,3 @@ piano
 station
 blaze
 
-A lot of lost property is never claimed.
-claim
-to demand or ask for something because you believe it is your legal right to own or to have it
