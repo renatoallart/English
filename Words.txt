@@ -4107,7 +4107,7 @@ allows
 take = write down
 gain
 derived
-opressive
+oppressive
 coercive
 abusive
 prophecy
@@ -9773,6 +9773,23 @@ skim off
 lively
 complemented
 bill = money
+---------------------------------------------------------
+nature
+change = money
+delicious
+race = people
+lane
+yak
+dispose of 
+snout
+expound
+hoarse
+personalities
+rapport
+stifling
+will = testament
+
+
 
 
 make matters worse
@@ -9780,4 +9797,5 @@ heed
 whoever
 stir = all 
 make = to manage to reach or go to a place or position
-will = testament
+
+ought to
