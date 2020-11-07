@@ -3636,7 +3636,6 @@ alarming
 intentions
 dots
 dashes
-set = mathematics
 sinking
 sent out
 century
@@ -3827,7 +3826,6 @@ pounds
 even so
 squirrel 
 get there
-set = mathematics
 Mediterranean 
 bothering
 lifespan
@@ -3914,7 +3912,6 @@ nonexistent
 utilize
 achieving
 wandering
-set = mathematics
 sunburn
 blisters
 mother-in-law
@@ -4114,14 +4111,14 @@ prophecy
 egyptian
 usage
 wisely
-set = mathematics
+nod
 needed
 drop
 wields
 manhole
 connected
 too
-noticiable
+noticeable
 messy
 bewildered
 mound
@@ -6630,6 +6627,7 @@ swam
 access
 memory 
 inspiring
+overlap
 societal
 efficiency
 be taken with
@@ -6763,7 +6761,6 @@ forest
 showdown
 overdid
 overlapping
-overlap
 supplier
 reluctantly
 lock up
@@ -7790,7 +7787,6 @@ elderly
 hold up
 somehow
 spies
-nod
 tormnet
 wheelchair
 silhouette
@@ -9788,14 +9784,38 @@ personalities
 rapport
 stifling
 will = testament
+uncertainty
+dictated to
+physicists
+-------------------------------------------------------------
+sprinkle
+salt
+morale
+vandals
+sniping
+circumventing
+attrition
+tire out 
+detained
+bleed
+cahoots
+nodded
+moult 
+grassy
+socialists
 
 
 
 
+
+gift = talent
 make matters worse
 heed
 whoever
 stir = all 
 make = to manage to reach or go to a place or position
-
+committed
 ought to
+change = money
+bill = money
+badly = more
