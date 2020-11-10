@@ -4160,7 +4160,7 @@ set = in sport
 largest
 secret
 ahold
-lakely
+likely
 bear = turn
 statement = the act of stating or expressing something in words
 arrangement = the way things are done or organized
@@ -6013,7 +6013,7 @@ groggy
 set = of sun/moon
 anchor
 dimple
-Disruptive
+disruptive
 pollution
 twiddle
 innovations
@@ -9825,8 +9825,22 @@ combat
 solvent
 bin
 slid 
+consign
+officiated 
+recycling 
+declared 
+---------------------------------------------------------
+metiiculous
+larvae
 
 
+
+
+
+
+
+sneering
+learn = become aware
 gift = talent
 make matters worse
 heed
