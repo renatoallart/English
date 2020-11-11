@@ -9584,7 +9584,6 @@ guttersnipe
 format 
 treasured 
 happily 
----------------------------------------------------------------------------
 boast
 impostor
 imposing 
@@ -9600,7 +9599,6 @@ intensity
 aloof
 detached
 ashtray
----------------------------------------------------------------
 panels 
 impertinence
 comprehension
@@ -9617,7 +9615,6 @@ rural
 issue from
 claim back
 sculptures
----------------------------------------------------------------
 greatness
 look forward to
 uncivil
@@ -9637,7 +9634,6 @@ saboteur
 accordingly
 width
 shoppers
-------------------------------------------------------------------------
 lone
 sign
 applicable
@@ -9660,7 +9656,6 @@ morsel
 cotton
 comb
 portent
---------------------------------------------------------------------
 pilfering
 looting
 comeliness
@@ -9680,14 +9675,12 @@ reparation
 karmic
 horticulturist
 pitch
---------------------------------------------------------------------
 disenchhant
 reativate
 thermometers
 skim
 dominant
 heritage
--------------------------------------------------------------------------
 enchantment
 trick and treat
 denote
@@ -9706,7 +9699,6 @@ fracking
 coyote
 boffo
 stare decisis
------------------------------------------------------------------------
 tuberculosis
 talk into
 patients 
@@ -9724,7 +9716,6 @@ disinfecting
 accidental 
 make matters worse
 crevice
-------------------------------------------------------------------------------------------
 moonligth
 jammed
 antimutagenic
@@ -9744,7 +9735,6 @@ amid
 facilitation
 dissolves 
 tablet 
-------------------------------------------------------------------------
 pension
 speculated
 inscribed
@@ -9769,7 +9759,6 @@ skim off
 lively
 complemented
 bill = money
----------------------------------------------------------
 nature
 change = money
 delicious
@@ -9787,7 +9776,6 @@ will = testament
 uncertainty
 dictated to
 physicists
--------------------------------------------------------------
 sprinkle
 salt
 morale
@@ -9803,7 +9791,6 @@ nodded
 moult 
 grassy
 socialists
-----------------------------------------------------------------
 similarities
 integrity 
 diversity
@@ -9817,7 +9804,6 @@ brainwashing
 distinguished
 grease 
 massage 
----------------------------------------------------
 profoundly 
 patrons
 ration
@@ -9832,13 +9818,23 @@ declared
 ---------------------------------------------------------
 metiiculous
 larvae
+reevaluate
+snowfall
+clarity 
+----------------------------------------------
+hub
+fade
+incremental
+superorganism
+refuel
+goner
+pour out
+cede
 
 
 
 
-
-
-
+whatever 
 sneering
 learn = become aware
 gift = talent
