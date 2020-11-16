@@ -4253,7 +4253,7 @@ bowl
 withstood
 tolerance
 unidentified
-responsability
+responsibility
 announcement
 official
 scandal
@@ -9877,6 +9877,24 @@ exaggerating
 gnarled
 litter
 fine = multa
+questionnaire
+craftsmen
+side with
+detox
+goggles
+reflectiive
+hunch = a feeling that something is true even though you do not have any evidence to prove it
+pull out = ​an act of taking an army away from a particular place; an act of taking an organization out of a system
+sorceress
+proving 
+-----------------------------------------------------
+refilled
+hunger
+intolerance
+unicycle
+unidentifiable
+rug 
+
 
 
 
