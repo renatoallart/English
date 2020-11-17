@@ -4264,9 +4264,9 @@ individual
 order = no sentido pedido de comida
 positions
 incomplete
-investiment
-iliminate
-horean
+investment
+eliminate
+korean
 crow
 pissing
 prince
@@ -9894,6 +9894,17 @@ intolerance
 unicycle
 unidentifiable
 rug 
+chronological
+decorating
+-----------------------------------------------------------
+lavish 
+attire 
+counter
+sheltered
+lease 
+diplomacy
+postcards
+considerable
 
 
 
