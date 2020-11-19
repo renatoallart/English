@@ -9910,6 +9910,15 @@ initiative
 closure
 swindle
 ravage
+----------------------------------------------------
+camaraderie
+questioning
+heartily 
+moaning
+to death
+Harsher
+motorways
+plaque
 
 
 
@@ -9917,6 +9926,10 @@ ravage
 
 
 
+
+
+stick out = to (cause to) project; His front teeth stick out; He stuck out his tongue.
+withdraw
 engage = to employ a person, company, etc. to do a particular job
 whatever 
 sneering
