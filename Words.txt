@@ -447,10 +447,10 @@ scoping
 range
 distinguish
 flourish
-Hourly 
-Breakdown
-Forecast
-Answer
+hourly 
+breakdown
+forecast
+answer
 dinosaurs
 backing
 sitting
@@ -9718,6 +9718,7 @@ crevice
 moonligth
 jammed
 antimutagenic
+clamour 
 swiped
 imago
 misfire
@@ -9919,6 +9920,21 @@ to death
 Harsher
 motorways
 plaque
+--------------------------------------------------------
+flame
+sobriety
+sheathe
+skirmish 
+step ahead
+treacherous
+deceitful
+clamoring
+unimportant
+belittle
+unripe
+instalments
+withdrew
+tough out 
 
 
 
@@ -9926,11 +9942,7 @@ plaque
 
 
 
-
-
-stick out = to (cause to) project; His front teeth stick out; He stuck out his tongue.
-withdraw
-engage = to employ a person, company, etc. to do a particular job
+tough = all
 whatever 
 sneering
 learn = become aware
