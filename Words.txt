@@ -4345,8 +4345,8 @@ allowed
 slot
 get round
 machines
-chash
-set = in sport
+cLash
+bill =  a written suggestion for a new law that is presented to a country’s parliament so that its members can discuss it
 gawking
 scored
 souvenir
@@ -9727,6 +9727,7 @@ tilt
 conscience
 clonded
 adamantly
+sleepy
 umbilical cord
 seal = on containers
 arose
@@ -9818,7 +9819,7 @@ declared
 ---------------------------------------------------------
 metiiculous
 larvae
-reevaluate
+immaculate
 snowfall
 clarity 
 ----------------------------------------------
@@ -9951,12 +9952,42 @@ waned
 heft
 ultra 
 inconsistently
+caller 
+about time
+----------------------------------------------------------------------------
+gape
+spotless
+reevaluate
+tightened
+torches
+perilous
+jeopardize 
+doze off 
+drowsy 
+ransack
+mortality
+guise
+reprieve
+liable
+childless
+perished 
+ramp
 
 
 
 
 
 
+
+i'll be ready for the stage due time
+due time
+that is suitable or right in the circumstances
+
+
+
+get around
+about time
+bill =  a written suggestion for a new law that is presented to a country’s parliament so that its members can discuss it
 tough = all
 whatever 
 sneering
