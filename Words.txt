@@ -9816,13 +9816,12 @@ consign
 officiated 
 recycling 
 declared 
----------------------------------------------------------
 metiiculous
 larvae
 immaculate
 snowfall
+bridegroom
 clarity 
-----------------------------------------------
 hub
 fade
 incremental
@@ -9831,7 +9830,6 @@ refuel
 goner
 pour out
 cede
--------------------------------------------------------------
 rod
 nicely
 paper tiger
@@ -9844,7 +9842,6 @@ rucksack
 radiation
 consumed 
 moderation
---------------------------------------------------------------------
 shake off
 indecsiveness
 foil
@@ -9855,7 +9852,6 @@ cuddled
 acquittal
 purse your lips
 languid
-------------------------------------------------------
 gunner
 convoys
 invested
@@ -9874,7 +9870,6 @@ porcelain
 insurgents
 vase 
 keyhole
----------------------------------------------------------
 exaggerating
 gnarled
 litter
@@ -9889,7 +9884,6 @@ hunch = a feeling that something is true even though you do not have any evidenc
 pull out = ​an act of taking an army away from a particular place; an act of taking an organization out of a system
 sorceress
 proving 
------------------------------------------------------
 refilled
 hunger
 intolerance
@@ -9898,7 +9892,6 @@ unidentifiable
 rug 
 chronological
 decorating
------------------------------------------------------------
 lavish 
 attire 
 counter
@@ -9908,11 +9901,9 @@ diplomacy
 postcards
 considerable
 initiative 
---------------------------------------------------
 closure
 swindle
 ravage
-----------------------------------------------------
 camaraderie
 questioning
 heartily 
@@ -9921,7 +9912,6 @@ to death
 Harsher
 motorways
 plaque
---------------------------------------------------------
 flame
 sobriety
 sheathe
@@ -9937,7 +9927,6 @@ instalments
 withdrew
 tough out 
 petty 
--------------------------------------------------------------------
 assailing
 zeal
 compunction
@@ -9954,7 +9943,6 @@ ultra
 inconsistently
 caller 
 about time
-----------------------------------------------------------------------------
 gape
 spotless
 reevaluate
@@ -9972,6 +9960,15 @@ liable
 childless
 perished 
 ramp
+acupuncture
+------------------------------------------------------------------------
+inarticulate
+throng 
+insofar as 
+ecstatic
+seek out
+bulging
+groom
 
 
 
@@ -9979,7 +9976,12 @@ ramp
 
 
 
-i'll be ready for the stage due time
+
+I can react when you do mean to cut me.
+mean
+to have something as a purpose or intention
+
+I'll be ready for the stage due time.
 due time
 that is suitable or right in the circumstances
 
