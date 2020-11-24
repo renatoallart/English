@@ -4371,7 +4371,7 @@ stepping
 wealthiest
 reach out
 unsightly
-sightly
+turnover 
 stocks
 shed = get rid of
 plummeting
@@ -5596,7 +5596,6 @@ freed
 waking
 halbet
 polnfrume
-unsightly
 butterball
 get back at
 dull-looking
@@ -9969,21 +9968,23 @@ ecstatic
 seek out
 bulging
 groom
+--------------------------------------------
+haunt
+hay
+uniqueness
+turn into
+what for
+work out  =  to develop in a successful way
+overindulge
+underage
+douchebag
+hang out with
+cope 
+plunge
+stuffy
 
 
 
-
-
-
-
-
-I can react when you do mean to cut me.
-mean
-to have something as a purpose or intention
-
-I'll be ready for the stage due time.
-due time
-that is suitable or right in the circumstances
 
 
 
