@@ -8037,6 +8037,7 @@ depict
 actionable
 descriptive
 puralized
+bench
 owner
 ownership
 brood
@@ -9922,6 +9923,7 @@ clamoring
 unimportant
 belittle
 unripe
+unexploded
 instalments
 withdrew
 tough out 
@@ -10006,15 +10008,51 @@ crudely
 cluster
 conifers
 delegation
-papery
+papery-thin
 scaly 
 whistle-blower
+inherent
+indigo
+differ
+simultaneous
+jogging
+convivial
+epistemic
+desi
+fascism
+panoply
+victual
+vaunted
+clause
+prudish
+redness
+-------------------------------------------------------------
+din
+abundance
+irresponsibly
+ran away
+bench press
+overpay
+graze =  to touch something lightly while passing it
+delirium
+algorithm
+self-recovery
+exploded 
+incarnation
+stunned
+behave yourself
+picket
+downturn
+steadied
 
 
+Hey, you should behave yourself, stop it now.
+behave yourself
+to be good or act well in a situation. It means to not cause trouble.
 
-
-
-
+maria's father who was thought to have dead appeared before her.
+before /bɪˈfɔːr/
+used to say that somebody/something is in a position in front of somebody/something
 
 about time
 tough = all
