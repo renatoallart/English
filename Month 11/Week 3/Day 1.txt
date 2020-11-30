@@ -1,0 +1,15 @@
+dipper
+achilles
+presumed
+goddess
+slicing
+mutiny
+postman
+consultant
+bear = name
+account = description
+assessed
+gripped
+contract
+charity
+unwanted 
