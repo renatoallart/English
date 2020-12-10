@@ -10210,9 +10210,33 @@ pretence
 dangle 
 swig 
 you've got me there
+aforesaid
+fool around
+grumpy
+degrading
+wade
 
 
+I plan on sticking around longer than all of you.
+stick around
+to stay in a place, waiting for something to happen or for somebody to arrive
 
+
+If it were in human form, I'd take it on, but...
+take on 
+to play against somebody in a game or contest; to fight against somebody
+
+I can't pour this on it
+pour
+to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle
+
+You dont have to go. I was just fooling aorund.
+fool around
+to waste time instead of doing something that you should be doing
+
+and it'll run off on its own.
+run off
+​to cause a race to be run
 
 last = verbs
 matter = all
