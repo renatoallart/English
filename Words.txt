@@ -4610,7 +4610,7 @@ scale
 resorted
 method
 juries
-heavir
+heavier
 iron
 wannabe
 donate
@@ -5245,7 +5245,6 @@ smaller
 misery
 given
 sissy
-heavier
 drift
 presentation
 jar
@@ -10215,7 +10214,27 @@ fool around
 grumpy
 degrading
 wade
+-----------------------------------------------------
+go by 
+wonky
+cigar
+corrugated
+provincial
+provisional
+unveil 
 
+
+I heard the security guard closed off the underground parking lot ahead of time.
+ahead of time
+Earlier than a given deadline.
+
+At least we managed to keep hyun under control since he was out in the open.
+out in the open
+Exposed and visible to others in an open space or area.
+
+That means way more than revenge.
+way
+a method, style or manner of doing something
 
 I plan on sticking around longer than all of you.
 stick around
