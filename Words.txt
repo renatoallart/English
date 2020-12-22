@@ -10104,7 +10104,6 @@ torrent
 amidst
 tactful 
 more like 
---------------------------------------------------------------
 surge
 figurehead
 in a tight corner/spot
@@ -10117,7 +10116,6 @@ resolution
 callousness
 dissembler
 incapable
--------------------------------------------------
 missile
 extravagantly 
 infringement 
@@ -10141,7 +10139,6 @@ prod
 geyser
 mosque
 community
------------------------------------------------------------------
 botch
 tickle
 verge of death
@@ -10152,7 +10149,6 @@ wiry
 materialism
 self-isolate
 crossfire
------------------------------------------------------------------
 scolding
 unconcernedly
 upbringing
@@ -10163,7 +10159,6 @@ hang around
 typhoid
 pineapples
 unsportsmanlike
--------------------------------------------------------------------
 empower
 cut it out
 smolder
@@ -10172,7 +10167,6 @@ unrivaled
 practicable
 fiefdom
 tropics
---------------------------------------------------------
 zap
 narrowly
 brace yourself
@@ -10180,7 +10174,6 @@ makeshift
 tanker
 welding
 stick around
---------------------------------------------------------------
 constipated
 pessomistic
 sorted
@@ -10199,7 +10192,6 @@ fractured
 up to date
 tenant
 identifying
---------------------------------------------------------
 frill
 (all) by themselves
 devious
@@ -10215,7 +10207,6 @@ fool around
 grumpy
 degrading
 wade
------------------------------------------------------
 go by 
 wonky
 cigar
@@ -10224,17 +10215,14 @@ provincial
 provisional
 unveil 
 bruises
-----------------------------------------------------------
 caregiver
 snap out of it
 skewer 
 chord
 brighter
 on my own
----------------------------------------------------
 blink
 midwife
------------------------------------------------------
 fiding
 separation
 displeased
@@ -10251,7 +10239,6 @@ fragment
 wad
 draw breath
 subject to
--------------------------------------------------------------------
 ram
 to do with 
 feasible
@@ -10262,7 +10249,6 @@ unvoiced
 discontent
 Little's known
 container
---------------------------------------------------------
 disheartened
 detestable
 diversion
@@ -10270,7 +10256,6 @@ go astray
 sherpas
 hiss 
 mountaineering 
-------------------------------------------------------
 graceful
 audit
 have got
@@ -10280,7 +10265,6 @@ coil
 stamp
 miserably
 do with
---------------------------------------------------------
 fief
 bygones
 literary
@@ -10304,7 +10288,6 @@ originally
 discount 
 weasel 
 go with the flow    
------------------------------------------------------
 freeload
 plough 
 no avail
@@ -10322,7 +10305,6 @@ working party
 set up = create
 overcrowding
 rely on
--------------------------------------------------------
 come through
 manufacturer
 diaries
@@ -10335,7 +10317,6 @@ destitute
 sow
 radish 
 interprovinciales
--------------------------------------------------------
 wobble
 bog
 spongy
@@ -10347,8 +10328,19 @@ spout
 withering
 yummy 
 courtship
-
-
+-----------------------------------------------------
+before long
+jet
+levely
+liveliness
+paddy
+inadvertant
+workforce
+refer to
+bring up
+detachable
+view
+fart around
 
 
 
