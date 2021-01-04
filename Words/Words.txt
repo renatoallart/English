@@ -10359,6 +10359,7 @@ pressing
 fret
 tame
 anducator
+reel = noun
 exult
 courteously
 impolitely
@@ -10468,26 +10469,27 @@ homology
 epiphany
 slader
 hearken
+place order
+taxman
+be meant to be something
+------------------------------------------------------------
+reel = verb 
+bankruptcy
+wind2
+film reel
+harpoon
+launcher
+compressed air
 
 
-I'm not that easy to take out.
-take out
-to kill somebody or destroy something
-
-what's taking them so long to get down here?
-
-The teacher waited for her students to get into line before they walked to the auditorium.
-get in line.
-To become straight; to form into a line or row. 
-
-We survivors can't afford to fight each other.
-can’t afford 
-if you say that you can’t afford to do something, you mean that you should not do it because it will cause problems for you if you do
 
 
-So far, I've run out of cupcake batter. I've made it this far, there's no turning back now.
-this far 
-​until now; up to this point
+
+
+
+
+
+
 
 
 get into = all 
