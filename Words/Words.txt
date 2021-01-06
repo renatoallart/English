@@ -10282,6 +10282,7 @@ prehensile
 antediluvian
 contraband
 rescind
+got to
 paucity
 lucrative
 mangle
@@ -10335,7 +10336,6 @@ spout
 withering
 yummy 
 courtship
------------------------------------------------------
 before long
 jet
 levely
@@ -10348,7 +10348,6 @@ bring up
 detachable
 view
 fart around
-------------------------------------------------------------
 maw
 seed money
 wither
@@ -10363,7 +10362,6 @@ reel = noun
 exult
 courteously
 impolitely
-------------------------------------------
 forst
 stick up for
 breweries
@@ -10375,7 +10373,6 @@ prolific
 contrail 
 pay off 
 as = adverb
----------------------------------------------------------
 statistically
 surgically 
 merry
@@ -10388,7 +10385,6 @@ fam
 hearth
 fauna 
 flora
--------------------------------------------------------
 nervously
 handmade
 in a row
@@ -10405,7 +10401,6 @@ clueless
 stretch out
 crumb
 ludo
-----------------------------------------------------------------
 fishing
 contemptible 
 matter of time
@@ -10413,24 +10408,20 @@ jettisoning
 one-piece
 all by
 chummy
---------------------------------------------------
 moody
 seizure
 spiteful
 submitted 
 day-to-day
--------------------------------------------------
 sock
 stay sharp
 draw the short straw
 get hold of
 indubitably
----------------------------------------------------
 pave
 epileptic
 mouthful 
 leopard
--------------------------------------------------
 bag = eyes
 theatrical
 colorless
@@ -10439,20 +10430,17 @@ catching up
 deceased
 cringe
 way more
---------------------------------------------------
 eve
 in league 
 get used to 
 deport
 stutter
-----------------------------------------------------------
 embryo
 mischievous
 engage in
 naughty
 real estate
 finance
---------------------------
 mourning
 whoop your ass 
 nighty night
@@ -10462,7 +10450,6 @@ starring
 this far
 screening
 factor
----------------------------------------------------------------
 bicycle
 inculcate
 homology
@@ -10472,7 +10459,6 @@ hearken
 place order
 taxman
 be meant to be something
-------------------------------------------------------------
 reel = verb 
 bankruptcy
 wind2
@@ -10480,7 +10466,6 @@ film reel
 harpoon
 launcher
 compressed air
-----------------------------------------------
 unenthusiastic
 flexibility
 blizzard
@@ -10488,7 +10473,14 @@ suit yourself
 depictions
 rapist
 to begin with
-
+appraise
+not the least
+-------------------
+encompass
+go away
+manliness
+have to
+yourselves
 
 
 
@@ -10496,7 +10488,6 @@ to begin with
 
 
 get into = all 
-last = verbs
 matter = all
 about time
 tough = all
