@@ -9,5 +9,7 @@ Mike is a cook at a restaurant.
 He makes food for hungry customers.
 The customers are from many countries.
 They speak many different languages.
+
+up ------------------------------------------
 Mike can meet many friendly people.
 Mike's happy when he talks to the customers.
