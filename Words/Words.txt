@@ -4906,7 +4906,7 @@ irritates
 leaving
 disbands
 bravely
-heartfeelt
+heartfelt
 ancestors
 hang out
 handguard
@@ -10497,7 +10497,34 @@ futility
 procession
 cycling
 flit
+-----------------------------------------------
+phone = verb
+be about to
+stick/poke your nose into something
 
+
+
+let the adults handle things.
+
+
+he'd be right around you age.
+around 
+approximately
+
+what's about to happen?
+be about to
+to be close to doing something; to be going to do something very soon
+
+we messed with something we shouldn't have.
+messe with
+
+
+you've been sticking your nose in a lot people's business.
+stick/poke your nose into something
+to try to become involved in something that should not involve you
+
+my family turned their backs on me.
+back
 
 
 
