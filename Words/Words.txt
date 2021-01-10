@@ -10514,6 +10514,14 @@ deceivers
 glare = noun
 be struck by
 population
+---------------------------------------------------
+soundproofing
+asterisk
+woe
+quandary
+downer 
+extrication
+
 
 let the adults handle things.
 
@@ -10548,6 +10556,17 @@ there's no point pulling it off now
 
 I'm just gonna be myself.
 
+The Romans left their mark on Britain.
+left
+to make something happen or remain as a result
+
+She displayed her bruises for all to see.
+display 
+to put something in a place where people can see it easily; to show something to people
+
+Their strategy produced the desired outcome.
+outcome
+​the result or effect of an action or event
 
 get into = all 
 matter = all
