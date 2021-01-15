@@ -10337,6 +10337,7 @@ bog
 spongy
 speaker
 precipitous
+protrude
 outpace
 sweep away
 spout 
@@ -10554,6 +10555,32 @@ weaving
 drainage
 custom
 custom-made
+jut 
+--------------------------
+drill field
+sharp = adverb
+cadet 
+deserting
+by that time
+senate
+
+
+
+
+so we're getting dragged down with him.
+drag down
+
+Dwelling on the past only drags you down.
+dwelling
+a house, flat, etc. where a person lives
+
+out unit.... there were many flaws found.
+flaw
+a mistake in something that means that it is not correct or does not work correctly
+
+gather at the fist drill field at 9o'clock sharp.
+sharp /ʃɑːrp/
+​used after an expression for a time of day to mean ‘exactly’
 
 Rachel, on your firt battle, you've to be able to avoid hitting your allies if you make it out alive, the you are amazing.
 make it out alive
@@ -10564,6 +10591,9 @@ toll
 
 
 deployment is in the afternoon?
+
+
+who am I?
 
 
 
