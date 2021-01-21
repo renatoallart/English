@@ -5089,13 +5089,13 @@ criminals
 assailant
 condolences
 concentrated
-Western
+western
 expelled
 sobbing
 attained
 set to
 retaliation
-umerciful
+unmerciful
 get over yourself
 posture
 worn-out
@@ -10602,10 +10602,35 @@ give in
 adulthood
 adolescence
 attacker
+-------------------------------------------------
+slant
+plastered
+splattered
+duck = verb
+take the time
+scooter
+dork
+reprisal
+inflated
 
 
 
 
+
+Let's all take the time. They never took the time to get to know her.
+take the time
+To make an effort to spend enough time on something to do it properly or sufficiently.
+
+
+No station attandants are coming
+attandants
+
+
+
+
+
+Even if that guy over there  lives to be old.
+be
 
 
 get into = all 
