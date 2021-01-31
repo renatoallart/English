@@ -5198,7 +5198,7 @@ angle
 slam
 outright
 earful
-defibrilator
+defibrillator
 mounting
 anticipation
 moth
@@ -10728,13 +10728,23 @@ start off
 gang up
 downhill
 amber
+volcanoes
+unhealthy 
+-------------------------------------------------------------------
+sweetheat
+slam dunk
+dribbling
+go through with
+cruelly 
+out of date
+
+everybody  loves Joe even though i fell that it's hard to get through to him.
+
+is he really gonna go through with it?
+go through with
+​to do what is necessary to complete a course of action, especially one that is difficult or unpleasant
 
 
-
-
-start off slow. and then make it go faster
-start off
-​to begin doing something; to make something begin
 
 
 The bridge's closed at the moment. It was been damaged last week and it hasn't been repaired yet.
@@ -10767,6 +10777,8 @@ when was this bridge builded?
 how were these windows broke?
 
 
+latter
+
 get into = all 
 matter = all
 about time
@@ -10775,4 +10787,5 @@ whatever
 heed
 stir = all 
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
 
