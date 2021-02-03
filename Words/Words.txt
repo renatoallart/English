@@ -5222,7 +5222,7 @@ assailed
 decisively
 chock-full
 sorely
-angatonized
+antagonize
 antagonist
 meteorological
 beware
@@ -5244,7 +5244,7 @@ bathtowel
 stained 
 tucked 
 abysmal
-intirely
+entirely
 women
 polite
 peaceful
@@ -10603,7 +10603,6 @@ woodwork
 emancipated
 mold 
 heimlich
---------------------------------------------
 ale
 hangar
 settle down
@@ -10614,7 +10613,6 @@ give in
 adulthood
 adolescence
 attacker
--------------------------------------------------
 slant
 plastered
 splattered
@@ -10625,7 +10623,6 @@ dork
 reprisal
 inflated
 prom
----------------------------------------------------
 lemme
 be up to somebody
 schmuck
@@ -10637,7 +10634,6 @@ be/get carried away
 stuffing
 slavery
 sufficiently
--------------------------------------------------------------
 chessy
 hood = the metal part over the front of a vehicle
 hand out
@@ -10652,7 +10648,6 @@ what if
 disappointment
 be meant to be
 candlelight
--------------------------------------------------------------
 longer than 
 have already
 have just
@@ -10673,7 +10668,6 @@ straight away
 hide out
 illicitly
 patronage
--------------------------------------------------
 cram
 frenemy
 queer
@@ -10691,7 +10685,6 @@ stability
 lean out
 broom
 be to blame 
---------------------------------------------------------------
 blob
 splotch
 ink
@@ -10701,17 +10694,14 @@ by all means
 intone
 chant
 recite
-----------------------------------------------------------------------
 toil
 hook up
---------------------------------------------------------------------
 uniform
 come to think of it
 come over
 deranged
 weed
 true colors
------------------------------------------------------------
 clam
 knob
 adonis
@@ -10722,7 +10712,6 @@ whirl
 misapprehension
 insecure
 enact
-----------------------------------------------------------
 iron = verb
 start off
 gang up
@@ -10730,13 +10719,71 @@ downhill
 amber
 volcanoes
 unhealthy 
--------------------------------------------------------------------
 sweetheat
 slam dunk
 dribbling
 go through with
 cruelly 
 out of date
+persist
+bandicoot
+implantable 
+muck
+fizzy
+faint-hearted
+pedestrians
+courtyard
+heard
+dropout 
+--------------------------------------
+goner
+waterloon
+torrential
+who cares
+threshold
+------------------------------
+thunder
+washing-up
+lantern
+loophole
+tusks
+
+
+
+
+
+if a lantern is lit during the day it serves no purpose whatsoever.
+lantern
+
+
+
+
+that sure took you long enough
+take long enough
+Taking someone a long time to do something or make something happen.
+
+
+
+
+
+
+
+so you two don't get along every well
+get along
+have a harmonious or friendly relationship.
+
+
+i can sense your urge to survive
+urge
+​a strong desire to do something
+
+if it attacks again, i'm a goner!
+goner
+a person or animal who is going to die soon; somebody/something that cannot be saved from a dangerous situation
+
+all these people appeared outta no-where.
+outta 
+used for writing the way ‘out of’ is sometimes pronounced in informal speech
 
 everybody  loves Joe even though i fell that it's hard to get through to him.
 
@@ -10777,7 +10824,7 @@ when was this bridge builded?
 how were these windows broke?
 
 
-latter
+
 
 get into = all 
 matter = all
