@@ -10254,6 +10254,7 @@ behead
 count
 timeless
 boredom 
+eye doctor
 pariahs
 compromise
 fragment
@@ -10753,20 +10754,32 @@ atrocity
 courteous
 fumes
 ophthalmologist 
+microwave 
+recreation 
+----------------------------------------------------------
+hoist
+candyfloss
+premonition
+deception
+latitude
+follower
+get it right
+ream out
+take long enough
+
+
+rachel, do you have any idea what you're trying to pull here?
 
 Who with?
 
 
 
-if a lantern is lit during the day it serves no purpose whatsoever.
-lantern
 
 
 
 
-that sure took you long enough
-take long enough
-Taking someone a long time to do something or make something happen.
+
+
 
 
 
