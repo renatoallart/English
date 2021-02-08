@@ -5308,12 +5308,12 @@ magically
 strictly
 birthplace
 set = bone
-graffit
+graffiti
 authentic
 lens
 stump
 toys
-infrigment
+infringement
 get through with
 bordering
 copyright
@@ -6642,7 +6642,6 @@ touristy
 unhappy
 sumptuous
 nun
-graffiti
 swe
 stitches 
 desperation
@@ -10137,8 +10136,7 @@ callousness
 dissembler
 incapable
 missile
-extravagantly 
-infringement 
+extravagantly  
 violation 
 clip
 clasp
@@ -10786,11 +10784,28 @@ yawned
 treachery 
 full-length
 bladder
+-------------------------------------------------
+synchronicity
+pathos
+rejoicing
+tinted
+expires
+railroad
+addict
+
+
+
+like i know!
+
+
+even though you boast your speed, i can see that you're nervous.
+
+
+
 
 
 it went in this guy?
 
-I gagged at the stench of stale urine.
 
 The Victorians regarded the railways as bringing progress and civilization.
 
@@ -10877,3 +10892,4 @@ stir = all
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
 
 
+000107930370-4sp
