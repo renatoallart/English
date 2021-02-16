@@ -5435,11 +5435,11 @@ canyon
 set apart
 peered
 rush around
-constest
+contest
 striking back
 sulking
 way cooler
-infirmiry
+infirmary 
 bear = support weight
 councilor
 shareholders
@@ -10737,19 +10737,16 @@ obsene
 courtyard
 heard
 dropout 
---------------------------------------
 goner
 waterloon
 torrential
 who cares
 threshold
-------------------------------
 thunder
 washing-up
 lantern
 loophole
 tusks
---------------------------------------------------------
 flounder
 atrocity
 courteous
@@ -10757,7 +10754,6 @@ fumes
 ophthalmologist 
 microwave 
 recreation 
-----------------------------------------------------------
 hoist
 candyfloss
 premonition
@@ -10770,14 +10766,12 @@ take long enough
 try to pull
 let someone be
 customer care
-------------------------------------------------------
 piece of cake
 go for it
 charcoal
 transposition
 cater for 
 toilet paper
------------------------------------------
 exhilaration
 try and stop me
 thesis 
@@ -10786,7 +10780,6 @@ yawned
 treachery 
 full-length
 bladder
--------------------------------------------------
 synchronicity
 pathos
 rejoicing
@@ -10794,14 +10787,12 @@ tinted
 expires
 railroad
 addict
-----------------------------------------------------
 hazy
 snivel 
 suffragan 
 go red
 victorians
 mountainous 
-----------------------------------------------
 conk out
 betcha
 retort
@@ -10810,7 +10801,6 @@ neutral
 allegedly
 lewd
 physiology
-----------------------------------------------
 lurk 
 of course
 rid
@@ -10822,7 +10812,6 @@ shaddap
 exude
 solitude
 irrefutable
--------------------------------------------------
 hast
 thou
 take longer
@@ -10840,7 +10829,6 @@ Amped
 wedded
 herd
 i'm told
---------------------------------------------------
 sheesh
 up against
 wuss
@@ -10848,11 +10836,14 @@ on somebody own
 oblivion
 glower
 agricultural 
-----------------------------------------------------------
 posh
 disconcert
 defect
 pick somebody up
+----------------------------------------------------------
+shore up
+gulf
+follow along
 
 
 
@@ -10993,4 +10984,4 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-capcher - 272 - https://mangaclash.com/manga/gantz/chapter-300/
+capcher - 272 - https://mangaclash.com/manga/gantz/chapter-305/
