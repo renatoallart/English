@@ -5634,7 +5634,7 @@ gourd
 aggravate
 tendencies
 revered
-oeril
+peril
 amassed
 surging
 demoralize
@@ -10822,6 +10822,7 @@ physiology
 lurk 
 of course
 rid
+slake
 strut
 roost
 aureate
@@ -10946,9 +10947,37 @@ chore
 ged
 quenched
 dish out
+------------------------------------------------------
+anna
+warrant
+calabash
+worsen
+idolize
+screen-print
+register
+contemporary
+fertile
+wry
+
+
+someone's tailing us.
+tailing
+
+
+
+
+we're still missing some.
+missing
+
+
 
 you guys already learned this in cram school, right?
+cram
 
+
+She's always dishing out advice, even when you don't want it.
+dish out
+to give something, often to a lot of people or in large amounts
 
 when did you take the middle school ged?
 ged
@@ -10963,6 +10992,7 @@ keep
 food, clothes and all the other things that a person needs to live; the cost of these things    
 
 gotta choose the right weapon.
+gotta
 
 do what you want! we're done with them.
 
