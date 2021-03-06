@@ -5661,7 +5661,7 @@ exile
 sin
 trickle
 trickle down
-anauthorized
+unauthorized 
 alliance
 spectator
 demonstrate
@@ -10859,31 +10859,25 @@ posh
 disconcert
 defect
 pick somebody up
-----------------------------------------------------------
 shore up
 gulf
 follow along
---------------------------------------------
 hair clippers
 barbershop
 amazement 
 embarked
 take a rain check
--------------------------
 prance
 burnout
 gangway
 patchwork
 cupboard
------------------------------------------
 snowman
----------------------------------------
 flushed
 cardboard boxe
 tribesmen
 boycott
 standardized
------------------------------------------
 marvel
 affordable
 generalization
@@ -10896,42 +10890,35 @@ tonight
 take stock
 bode well
 trespass on
---------------------------------------------
 wishful thinking
 fend off
 gallon
--------------------------------------------------
 rev
 waterworks
 hung in the air
 hover 
 heave
-------------------------------------------
 should
 humongous
 thwart 
 detritus 
 thatcher
 hand in
---------------------------------------------
 cling to 
 perpetuity 
 repelled
 abrupt
 graph
 dreamlike 
------------------------------------------------
 help out 
 rep 
 featherweight 
-------------------------------------------
 poodle
 renounce
 imperialists
 wreckage
 settler
 hop on
-----------------------------------------
 greenhorn
 order around
 warble
@@ -10940,14 +10927,12 @@ money off
 what's with somebody
 lap
 opportune
----------------------------------------------------
 fair and square
 patch up
 chore
 ged
 quenched
 dish out
-------------------------------------------------------
 anna
 warrant
 calabash
@@ -10958,13 +10943,116 @@ register
 contemporary
 fertile
 wry
--------------------------------------------------------
 carsick 
 grove
 rest up
 depth charge
 fuze
+------------------------------
+dogfish
+constellation
+gemini
+capricornus
+aries
+pisces
+scorpius
+libra
+leo
+sagittarius
+aquarius
+virgo
+taurus
+cancer
+scorpius
+libra
+scribble 
+overgrown
+gavel
+-----------------------------------------------
+convincingly
+---------------------------------------------
+It couldn't be helped 
+indecisive
+cash register
+crowded 
+mag
+firecrackers
+dawg
+crotch
+self propelled
+mope
+commendable
 
+
+
+i think rachel must great,big wings. but since you always cling to the ground, when  your wings spread they bashed.
+cling to the ground
+to hold your ground. phrase.
+
+i think rachel must great, with big wings. but since you always cling to the ground, when your wings spread they get bashed.
+bashed
+to hit somebody/something very hard
+
+I'm already fish food.
+
+
+let's go! it's your debut as.
+debut
+​the first public appearance of a performer or sports player
+
+are these ping pong your crotch?! huh!
+crotch
+​the part of the body where the legs join at the top, including the area around the genitals
+
+geez, our dawg sure is a pain.
+dawg
+A male friend or acquaintance; a fellow.
+
+just because he lost a fight and got his ass struck with firecrackers.
+firecrackers
+​a small firework that explodes with a loud noise
+
+quit slobbering.
+slobbering
+​to let saliva come out of your mouth
+
+
+he's all dangling ans soft
+dangling
+to hang or move freely; to hold something so that it hangs or moves freely
+
+he forgot the errand and player around somewhere.
+errand
+​a job that you do for somebody that involves going somewhere to take a message, to buy something, deliver goods, etc.
+
+it was crowded at the cash register.
+cash register
+​a machine used in shops, restaurants, etc. for keeping money in, and that shows and records the amount of money received for each thing that is sold
+
+The main beach can get really crowded in summer.
+crowded 
+having a lot of people or too many people
+
+I'll clean you up on a large scale.
+scale
+the size or extent of something, especially when compared with something else
+
+A flock of grids gathering around Joe
+flock
+a group of sheep, goats or birds of the same type
+
+I really didn't want to go away this weekend but, oh well, it can't be helped.
+It couldn't be helped 
+​used to say that it is impossible to prevent or avoid something
+
+you came especially pick me up?
+pick up
+​to go somewhere in your car and collect somebody who is waiting for you
+
+
+who's careful when they fight
+
+Seth and the  other Korean will be taken from our side.
 
 i'll try pulling some string with the Japanese police, but it won't be easy.
 string
@@ -10991,6 +11079,7 @@ held
 is that boy also participating? he reeks of blood.
 reek
 to smell very strongly of something unpleasant
+
 
 
 someone's tailing us.
@@ -11097,6 +11186,9 @@ carving
   __
 _|  |O
 
+it couldn't be helped these guys are weak
+It couldn't be helped 
+​used to say that it is impossible to prevent or avoid something
 
 Joe's been lurking around the school.
 lurk
