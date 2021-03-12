@@ -10551,6 +10551,7 @@ mug = noun
 hard copy
 rectangle
 kindle
+mincemeat 
 seriously
 polar bear
 take a guess
@@ -10950,7 +10951,6 @@ grove
 rest up
 depth charge
 fuze
-------------------------------
 dogfish
 constellation
 gemini
@@ -10970,9 +10970,7 @@ libra
 scribble 
 overgrown
 gavel
------------------------------------------------
 convincingly
----------------------------------------------
 It couldn't be helped 
 indecisive
 cash register
@@ -10998,8 +10996,7 @@ apart from somebody
 gateway 
 canceled
 harem
----------------------------------------------
-let's get your raggy rag.
+let's get your raggy rag
 raggy
 displeased
 grasshopper 
@@ -11012,13 +11009,11 @@ fiddle around
 pub
 convicted 
 rogue
---------------------------------------------------
 molten
 leave be
 end on 
 ramble
 unbother
--------------------------------------------------
 put out
 guest house
 family-run
@@ -11031,7 +11026,6 @@ having somebody
 slip out 
 manhood 
 whipping
-------------------------------------------------
 inactive
 reign
 pauper
@@ -11045,7 +11039,6 @@ lead up to
 lapse
 triplets
 come up with
------------------------------------------------------
 bloat
 daily
 start-up
@@ -11055,6 +11048,44 @@ balloony
 stand out
 look forward
 observer
+digest
+cessation
+-------------------------------------------------
+non-stop 
+chew down
+wag
+fearsome
+hurdle
+gutter 
+handrail
+make mincemeat of somebody
+get the hang of something
+protrusion
+traction
+treat to
+heiress
+
+
+
+hey what was that gag just now?
+gag 
+a trick you play on somebody // a joke or a funny story, especially one told by a professional comedian
+
+
+
+
+since, I only just got the hang of skating normally.
+get the hang of something
+to learn how to do or to use something; to understand something
+
+
+oh, i thought it might've been something else.
+
+right now, fearsome battle of wits is going on between those two.
+wits
+
+
+
 
 i look forward to tomorrow.
 look forward to
@@ -11540,6 +11571,7 @@ device /dɪˈvaɪs/
 an object or a piece of equipment that has been designed to do a particular job
 
 You've just got to.
+Você só tem que
 
 He has served on the editorial boards of several scientific journals.
 board
@@ -11550,6 +11582,8 @@ board
 used in the name of some organizations
 
 which rather means here's better
+
+he breached it
 
 get into = all 
 matter = all
