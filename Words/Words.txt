@@ -5818,7 +5818,7 @@ hidden
 added
 dougle-edged
 stirrups
-expland
+expand
 creativity
 hoot
 giggle
@@ -11123,7 +11123,64 @@ head-on
 freezing
 corduroy 
 baggy 
+helicopter
+demonstration
+-------------------------------------------------------
+flasher 
+eyepatch
+blend in
+under arrest
+proverb
+waggon
+ambiguous
+honk
+paper
+Immigration
+saddle
+----------------------------------------------------
+ironing
+round
 
+
+He felt he was back on familiar ground.
+ground
+an area of interest, knowledge or ideas
+
+
+
+would trifle over such little trivial thing.
+trifle
+toy, dally, flirt, coquet mean to deal with or act toward without serious purpose.
+
+you are all under arrest.
+under arrest
+you take them into custody and hold them so they can't continue breaking the law.
+
+
+ikki got nailed by a gun
+nail
+acertado por uma arma
+
+we normally send our people to blend in undercover as staff or customer.
+blend
+o mix two or more substances together
+
+The scandal was revealed after months of undercover work by journalists.
+undercover
+​working or done secretly in order to find out information for the police, a government, etc.
+
+
+what the hell are you trying to do to my brother, waving that ugly thing around?
+waving
+to move your hand or arm from side to side in the air in order to attract attention.
+
+the opponent must've got quite a beating right now!
+quite a beating
+a very heavy defeat
+
+the events are unfolded way too suddenly.
+unfolded
+to spread open or flat something that has previously been folded; to become open and flat
 
 
 aren't only about flashy or fancy techniques
@@ -11753,3 +11810,82 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 https://mangaclash.com/manga/gantz/chapter-369/
+
+
+
+
+Mangas:
+
+All You Need Is Kill
+Gantz
+Air Gear
+Deadman Wonderland
+psyren
+lookism
+i'm a hero
+gleipnir
+act-age
+
+
+animes:
+
+fire force
+attack on tittan final season
+slime datta ken season two
+Horimiya
+Redo of Healer
+golden kamui season 3
+Jujutsu Kaisen 
+
+ Pronouns           Possessive
+I                         Mine
+You                    Yours
+He                      His
+She                     Hers
+It                         -
+We                      Ours
+You                     Yours
+They                   Theirs
+
+
+Am = 1st person singular
+Is = 3rd person singular
+Are = 2nd person singular; 1st, 2nd, & 3rd person plural
+Was = past 1st & 3rd person singular
+Were = past 2nd person singular; 1st, 2nd, & 3rd person plural
+Being = pres participle
+Been = past participle
+Be = present subjunctive
+Were = past subjunctive
+
+
+Affirmative      Negative        Aff. Question          N. Question
+
+I do                 I don't              do I                         don't I
+You do            You don't         do You                    don't You
+We do             We don't          do We                    don't We
+They do          They don't        do They                  don't They
+
+He does          He doens't        does He                 doesn't He
+She does         Se doens't        does She                doesn't She
+It does             It doens't         does It                    doesn't It
+
+
+positive
+
+I am (I'm)
+he (he's)
+she is (she's)
+it (it's)
+we (we're)
+you are (you're)
+they (they're)
+
+Subject	       Object	   Possessive            Number              Genen              Person
+I 	       me	                my                       Singular                   -                   First
+you	       you	   your                       S  /  P                     -                   Second
+he	       him	   his                        Singular                   M                 Third
+she	       her	                her                       Singular                   F                  Third
+it	       it	                its                        Singular                    -                  Third
+we	       us	                our                      Plural                        -                   First
+they	       them             their                    Plural                        -                   Third
