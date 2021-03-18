@@ -5846,7 +5846,7 @@ businesslike
 heretical
 hand me over
 charge = explosive
-rarites
+rarities
 savage
 meekly
 hand in hand
@@ -7679,7 +7679,6 @@ eliminate
 humour
 all this way
 island
-rarities
 spooky
 daytime
 unrelatedly
@@ -11140,10 +11139,33 @@ saddle
 ----------------------------------------------------
 ironing
 round
+legume
+crossword
+squeal
+----------------------------------------------------
+millennia
+regalia
+alight 
+helmet
+focused
+half-arsed
+jiggle
+brisk
+bomber
+
+you'll soon discover the thing you fly out for!
+
+
+i'll take you on!
+take on
+to play against somebody in a game or contest; to fight against somebody
 
 
 
-test do mal
+every road leads to the summit of the trophaeum.
+summit
+the highest point of something, especially the top of a mountain
+
 
 He felt he was back on familiar ground.
 ground
@@ -11811,84 +11833,3 @@ whatever
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
 
 
-
-https://mangaclash.com/manga/gantz/chapter-369/
-
-
-
-
-Mangas:
-
-All You Need Is Kill
-Gantz
-Air Gear
-Deadman Wonderland
-psyren
-lookism
-i'm a hero
-gleipnir
-act-age
-
-
-animes:
-
-fire force
-attack on tittan final season
-slime datta ken season two
-Horimiya
-Redo of Healer
-golden kamui season 3
-Jujutsu Kaisen 
-
- Pronouns           Possessive
-I                         Mine
-You                    Yours
-He                      His
-She                     Hers
-It                         -
-We                      Ours
-You                     Yours
-They                   Theirs
-
-
-Am = 1st person singular
-Is = 3rd person singular
-Are = 2nd person singular; 1st, 2nd, & 3rd person plural
-Was = past 1st & 3rd person singular
-Were = past 2nd person singular; 1st, 2nd, & 3rd person plural
-Being = pres participle
-Been = past participle
-Be = present subjunctive
-Were = past subjunctive
-
-
-Affirmative      Negative        Aff. Question          N. Question
-
-I do                 I don't              do I                         don't I
-You do            You don't         do You                    don't You
-We do             We don't          do We                    don't We
-They do          They don't        do They                  don't They
-
-He does          He doens't        does He                 doesn't He
-She does         Se doens't        does She                doesn't She
-It does             It doens't         does It                    doesn't It
-
-
-positive
-
-I am (I'm)
-he (he's)
-she is (she's)
-it (it's)
-we (we're)
-you are (you're)
-they (they're)
-
-Subject	       Object	   Possessive            Number              Genen              Person
-I 	       me	                my                       Singular                   -                   First
-you	       you	   your                       S  /  P                     -                   Second
-he	       him	   his                        Singular                   M                 Third
-she	       her	                her                       Singular                   F                  Third
-it	       it	                its                        Singular                    -                  Third
-we	       us	                our                      Plural                        -                   First
-they	       them             their                    Plural                        -                   Third
