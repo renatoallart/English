@@ -2659,7 +2659,6 @@ headed
 thin
 spread
 younger
-painter 
 pharmacist
 photographer
 siblings
@@ -5946,7 +5945,7 @@ jest
 set = jewellery
 beef
 pardon
-physican
+physician
 shipyard
 good grief
 misplace
@@ -11258,8 +11257,37 @@ surveillance
 infatuated
 highlight
 junction
+wicker
+sapphire 
+berries 
+paint
+repairing 
+-----------------------------------------------
+mislay
+adulterate
+drinking
+groundwater
+appalling
+intimate
+netherworld
+nose-shit
+lessen
+diminish
+
+let me throw this into the pond.
+pond
+a small area of still water, especially one that is artificial
 
 
+I ain't really fond of running is very tiring, and makes me perspire all over.
+found
+having warm or loving feelings for somebody, especially somebody you have known for a long time
+
+
+
+Remember to get in some beers for this evening.
+get in 
+​to buy a supply of something
 
 
 I'll go through it with my strong hands!
@@ -11292,8 +11320,19 @@ cherry boy
 A male virgin.
 
 
+He mopped his perspiring face with a handkerchief.
+perspire
+to produce sweat on your body
 
 
+The buildings have been designed to blend in with their surroundings.
+surroundings
+​everything that is around or near somebody/something
+
+
+I got in an hour's work while the baby was asleep.
+get in /ɡet, ɪn/
+to manage to do or say something
 
 
 
