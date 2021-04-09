@@ -6258,6 +6258,7 @@ rewarded
 abundant
 fruits
 guesswork
+dial into
 deduction
 separately
 fortress
@@ -7549,6 +7550,7 @@ spiral staircase
 everyway
 gerund
 reprimand
+dial up
 etiquette
 incapacitated
 stockholder
@@ -11105,6 +11107,7 @@ reproduce
 samaritan
 go up
 endorse
+dial down
 lingerie
 spirited
 call off
@@ -11116,6 +11119,7 @@ avid
 restaurateur
 affluent
 imagesmoke
+restraint
 pay up
 tone
 take a dump
@@ -11167,6 +11171,7 @@ intangible
 windscreen wiper
 alarmed
 nursery school
+dial in
 commute
 gobble up
 frivolousness
@@ -11282,6 +11287,33 @@ expertise
 tweaking
 deep moved
 hysterically
+prolly
+vitamin 
+----------------------------------------------
+lengthen
+anaesthetic
+set sail
+dials
+cycles
+acetylcholine
+rest assured
+hoodlum 
+calmness
+self-restraint
+
+
+Rest assured, it'll be something you're never seen before.
+rest assured
+to be certain that something will happen
+
+
+she felt guilty now and a little uneasy
+uneasy 
+causing or feeling anxiety; troubled or uncomfortable.
+
+Their marriage has broken up.
+break up
+to come to an end
 
 I'm gonna receive you.
 receive
@@ -11366,8 +11398,13 @@ get in /ɡet, ɪn/
 to manage to do or say something
 
 
+The meeting broke up at eleven o'clock.
+break up
+to go away in different directions
 
-
+When do you break up for Christmas?
+break up
+to begin the holidays when school closes at the end of a term
 
 get into = all 
 matter = all
