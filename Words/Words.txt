@@ -4936,16 +4936,16 @@ itchier
 foresaw
 downfall
 critters
-Chin 
-Cheek 
-Ear
-Wrist
+chin 
+cheek 
+ear
+wrist
 professions 
 crap out = no sentido de falhar
 back then
 creeping up = andar de fininho
-Accountant 
-Actor
+accountant 
+actor
 mail
 contractual
 obligations
@@ -5995,7 +5995,7 @@ pinwheel
 socially
 realisation
 lettuce
-has it in for
+have it in for someone
 Canada
 wallet
 humid
@@ -7006,6 +7006,7 @@ casualties
 protest
 settle for
 shed = no sentido desmarcar
+vigour
 low profile
 protester
 inefficient
@@ -11300,6 +11301,41 @@ rest assured
 hoodlum 
 calmness
 self-restraint
+-------------------------------------------------------
+fern
+vigorously
+on cloud nine
+touchdown
+indescribable
+
+
+i'd like to still fly for awhile! Because I have a lot of people urging me forward at my back too!
+urging
+encourage someone to continue or succeed.
+
+
+Even if we lodge a complaint, it'll take at one month for the commissioner to make his decision.
+lodge
+(formal) to make a formal statement about something to a public organization or authority
+
+
+
+you'll find me earlier you count from the back.
+
+
+How come you can understand crow speech, Joe?
+how come
+used to say you do not understand how something can happen and would like an explanation
+
+
+I can sort of understand the feeling when one reaches the top, it's on cloud nine.
+on cloud nine
+extremely happy
+
+
+the urge to put everything down and espace to somewhere else.
+urge
+​a strong desire to do something
 
 
 Rest assured, it'll be something you're never seen before.
