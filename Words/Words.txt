@@ -6035,10 +6035,10 @@ generator
 judicial
 uncountable
 disappearance
-Stockport
+refurbish
 marathon
 insufficient
-boodness
+broadness
 butcher
 notorious
 halting
@@ -11228,6 +11228,7 @@ stow
 mold-filled
 squished
 dimly   
+flirt with
 be done for
 unpaid
 game on
@@ -11327,8 +11328,59 @@ barcodes
 heading home
 something is up
 insurmountable
+off chance
+--------------------------------------------------------------
+inadequate
+sprinkling
+take steps
+as per something
+exhilarating
+lockjaw 
+toy with
+comical
 
 
+
+Here's money for room and board.
+board
+the meals that are provided when you stay in a hotel, guest house, etc.; what you pay for the meals
+
+
+Wait! If this continues, won't i be labeled as a guy who only kisses other men!?
+label
+to fix a label(a word or phrase that is used to describe somebody/something in a way that seems too general, unfair or not correct) on something or write information on something
+
+
+
+Rachel, wht are you cruelly toying with my feeling?
+toy with
+to consider an idea or a plan, but not very seriously and not for a long time
+
+
+My first parachute jump was an exhilarating experience.
+exhilarating
+very exciting and great fun
+
+The work was carried out as per instructions.
+carry out
+to do and complete a task
+
+Young people often find danger rather exhilarating.
+rather
+used to mean ‘fairly’ or ‘to some degree’, often when you are disappointed, surprised or expressing slight criticism
+
+As per your instructions I went to do some research, and I discovered some very interesting information.
+as per something
+​following something that has been decided
+
+We're currently taking steps to secure funding for the project before we announce it to the public.
+take steps
+To do what is necessary to prepare for or begin doing something
+
+
+We’re not hiring right now.
+hire /ˈhaɪər/
+to give somebody a job
 
 I went a little overboard.
 go overboard
@@ -11343,7 +11395,9 @@ speak of which, Rachel didn't you say you were heading home?
 heading home
 to move in a particular direction
 
-
+Running forward on an uncharted road, isn't it exhilarating.
+uncharted
+not marked on a map; that has not been visited or investigated before
 
 
 They offered me a lift home.
@@ -11388,6 +11442,9 @@ How come you can understand crow speech, Joe?
 how come
 used to say you do not understand how something can happen and would like an explanation
 
+He was shouting and carrying on.
+carry on 
+to argue or complain noisily
 
 I can sort of understand the feeling when one reaches the top, it's on cloud nine.
 on cloud nine
@@ -11416,10 +11473,21 @@ I'm gonna receive you.
 receive
 to get or accept something that is sent or given to you
 
+The show barely covered its costs.
+covers /ˈkʌvər/
+to be or provide enough money for something
+
 What crow said id correct we should set off at once.
 set off
 to begin a journey
 
+Please note the change of venue for this event.
+venue 
+a place where people meet for an organized event, for example a concert, sporting event or conference
+
+The price includes the hire of the hall.
+hire /ˈhaɪər/
+the act of paying to use something for a short time
 
 i'm deeply moved.
 deep moved
@@ -11494,6 +11562,10 @@ I got in an hour's work while the baby was asleep.
 get in /ɡet, ɪn/
 to manage to do or say something
 
+
+Carry on until you get to the junction, then turn left.
+carry on
+to continue moving
 
 The meeting broke up at eleven o'clock.
 break up
