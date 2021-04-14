@@ -11250,10 +11250,10 @@ cherry boy
 welsh 
 whoa 
 bloke
+sifter
 lad
 wilt 
 topped 
---------------------------------------------------
 palatial
 take in
 classless
@@ -11269,7 +11269,6 @@ sapphire
 berries 
 paint
 repairing 
------------------------------------------------
 mislay
 adulterate
 drinking
@@ -11280,7 +11279,6 @@ netherworld
 nose-shit
 lessen
 diminish
-----------------------------------------------
 bump
 preemptive
 get the knack of something
@@ -11291,7 +11289,6 @@ deep moved
 hysterically
 prolly
 vitamin 
-----------------------------------------------
 lengthen
 anaesthetic
 set sail
@@ -11302,13 +11299,11 @@ rest assured
 hoodlum 
 calmness
 self-restraint
--------------------------------------------------------
 fern
 vigorously
 on cloud nine
 touchdown
 indescribable
-----------------------------------------------------------
 adversary
 combed
 comb
@@ -11320,7 +11315,6 @@ evict
 selfless
 unsinkable
 octuplets
--------------------------------------------------------------
 antelope
 consonantal
 passionate
@@ -11338,8 +11332,83 @@ exhilarating
 lockjaw 
 toy with
 comical
+bankroll 
+extensively 
+discriminatory
+-----------------------------------------------------
+fatal
+tranquillize
+husk
+sift
+wholemeal
+awe
+underhand
+treadmill
+pick up
+pick on
+universe
+indefinitely
+stem from
+catch somebody red-handed
 
 
+The three of us put all of effort into controlling the lake region. And now, from outta nowhere, this brat appears.
+outta nowhere
+in a sudden and unexpected way
+
+
+Joe, you've caught me red-handed. But that's still no excuse for being so unfriendly.
+catch somebody red-handed
+to catch somebody in the act of doing something wrong or committing a crime
+
+The dog caught the stick in its mouth.
+caught
+to stop and hold a moving object or person, especially in your hands
+
+Guys! We can`t hold out much longer!
+hold out
+to resist or survive in a dangerous or difficult situation
+
+victory stems from preparation, timing and also, brain.
+stem from
+to be the result of something
+
+People who waer such stupid hats are known throughout the universe as unimportant sidekick!
+throughout 
+in or into every part of something
+
+Huh? Why are you picking on me?
+pick on 
+​to treat somebody unfairly, by blaming, criticizing or punishing them
+
+However you girls tried yo pick up men! Have you no shame?
+pick up
+to start talking to somebody you do not know because you want to have a sexual relationship with them
+
+The wonders that this temple holds
+wonder
+a feeling of surprise and pleasure that you have when you see or experience something beautiful, unusual or unexpected
+
+Let's stop talking and get going then!
+get going
+to start doing something
+
+A vet was called to sedate the animal.
+vet
+a person who has been trained in the science of animal medicine, whose job is to treat animals who are sick or injured
+
+He takes bends much too fast.
+take
+to go over or around something
+
+
+It happens at the very beginning of the book.
+very
+used to emphasize an extreme place or time
+
+That's the very thing I need.
+very
+used to emphasize that you are talking about a particular thing or person and not about another
 
 Here's money for room and board.
 board
@@ -11484,6 +11553,10 @@ to begin a journey
 Please note the change of venue for this event.
 venue 
 a place where people meet for an organized event, for example a concert, sporting event or conference
+
+Computers are being used to sift the information.
+sift
+to examine something very carefully in order to decide what is important or useful or to find something important
 
 The price includes the hire of the hall.
 hire /ˈhaɪər/
