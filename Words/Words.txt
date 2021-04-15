@@ -7528,7 +7528,7 @@ survey
 custody
 decently
 innocently
-Appearance
+appearance
 resemblance
 punished
 batch
@@ -11350,12 +11350,75 @@ universe
 indefinitely
 stem from
 catch somebody red-handed
+scepticism
+nut = a small piece of metal
+fibre
+-----------------------------------------------------
+clean-shaven
+inconsiderate
+appetizer
+turbulence
+flouted 
+on earth
 
+Did you lock the door?
+locked /lɒk/
+to fasten something with a lock; to be fastened with a lock
+
+So they’ve locked me out of the house? Very droll, I’m sure!
+droll
+funny, but not in a way that you expect
+
+Motorists regularly flout the law.
+flouted 
+to show that you have no respect for a law, etc. by openly not obeying it
+
+She's a young woman who enjoys flouting conventions.
+convention 
+the way in which something is done that most people in a society expect and consider to be polite or the right way to do it
+
+
+The tradition of ancestor worship stretches back thousands of years
+worship
+the practice of showing respect for God or a god, by saying prayers, singing with others, etc.; a ceremony for this
+
+Here's the time you should make every hand your friends
+every
+used with singular nouns to refer to all the members of a group of things or people
+
+While the "ball" movesa turbulence is created in the air behind him,and that draws the body from behind and for it, the speed and also the orbit are not stable.
+draw
+to attract or interest somebody
+
+Understood? be daring as a devil!
+daring 
+courage and the quality of being willing to take risks if necessary
+
+Understood? be daring as a devil! be delicate as an angel! Twin yourself around his arms like a sneak so you don't let go of your trophy 
+twin
+to join two people or things closely together
+
+Who on earth would venture out in weather like this.
+on earth
+used for emphasis
+
+In the first year, Rachel was tickled by Joe and he spits all the milk he'd for lunch
+tickle
+to move your fingers on a sensitive part of somebody’s body in a way that makes them laugh
+
+
+They sought refuge in the mountain villages.
+seek 
+to ask somebody for something; to try to obtain or achieve something
 
 The three of us put all of effort into controlling the lake region. And now, from outta nowhere, this brat appears.
 outta nowhere
 in a sudden and unexpected way
 
+
+They seem to get along pretty well.
+get along
+have a harmonious or friendly relationship.
 
 Joe, you've caught me red-handed. But that's still no excuse for being so unfriendly.
 catch somebody red-handed
@@ -11460,7 +11523,7 @@ something up
 something unusual or undesirable is happening
 
 
-speak of which, Rachel didn't you say you were heading home?
+Speak of which, Rachel didn't you say you were heading home?
 heading home
 to move in a particular direction
 
@@ -11493,7 +11556,7 @@ hold off
 to not do something immediately
 
 
-i'd like to still fly for awhile! Because I have a lot of people urging me forward at my back too!
+I'd like to still fly for awhile! Because I have a lot of people urging me forward at my back too!
 urging
 encourage someone to continue or succeed.
 
@@ -11504,7 +11567,9 @@ lodge
 
 
 
-you'll find me earlier you count from the back.
+You'll find me earlier you count from the back.
+count from the back
+to say the counting numbers in backward order, starting from a given number
 
 
 How come you can understand crow speech, Joe?
@@ -11520,7 +11585,7 @@ on cloud nine
 extremely happy
 
 
-the urge to put everything down and espace to somewhere else.
+The urge to put everything down and espace to somewhere else.
 urge
 ​a strong desire to do something
 
@@ -11529,8 +11594,16 @@ Rest assured, it'll be something you're never seen before.
 rest assured
 to be certain that something will happen
 
+A jar full of nuts and bolts.
+nuts
+a small piece of metal with a hole through the centre that is screwed onto a bolt to hold pieces of wood, parts of machines, etc. together
 
-she felt guilty now and a little uneasy
+
+The nuts weren't properly tightened and the wheel came off.
+tightens 
+to hold or fix something more securely in position; to make something or become more difficult to move, open or separate
+
+She felt guilty now and a little uneasy
 uneasy 
 causing or feeling anxiety; troubled or uncomfortable.
 
@@ -11562,7 +11635,7 @@ The price includes the hire of the hall.
 hire /ˈhaɪər/
 the act of paying to use something for a short time
 
-i'm deeply moved.
+I'm deeply moved.
 deep moved
 If you are deeply moved it means that something made you emotional. It's often used in response to an act of kindness or something innocent & sweet. You can also just say “moved.” Something that stirs up or “moves” your emotions. 
 
@@ -11575,7 +11648,7 @@ get the knack of something
 To learn how to do something competently or well after a certain period of practice or development.
 
 
-let me throw this into the pond.
+Let me throw this into the pond.
 pond
 a small area of still water, especially one that is artificial
 
@@ -11608,11 +11681,11 @@ take in
 ​to take notice of something with your eyes
 
 
-contrary perspectives can take it otherwise.
+Contrary perspectives can take it otherwise.
 otherwise
 in a different way.
 
-i'll shoulder anything and fly.
+I'll shoulder anything and fly.
 shoulder
 to accept the responsibility for something
 
