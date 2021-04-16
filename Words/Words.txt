@@ -11360,6 +11360,76 @@ appetizer
 turbulence
 flouted 
 on earth
+-----------------------------------------------------
+set out to (do something)
+undertake
+user-friendly
+gully
+afoot
+wrought
+doorway
+dinghy 
+airbone
+feasting
+somber
+anorexia
+slimming
+go down (on somebody)
+defile
+retina
+subsequently
+
+
+When he saw me coming he took off in the opposite direction.
+take off
+to leave a place, especially in a hurry
+
+The media dubbed anorexia ‘the slimming disease’.
+dub
+to give somebody/something a particular name, often in a humorous or critical way
+
+
+I knew I wouldn't win the marathon, but I still went for it with everything I had.
+go for it
+To put forth the necessary effort or energy to do or pursue something, especially in the face of any doubt or trepidation. Often used as words of encouragement.
+
+
+
+This century wrought major changes in our society.
+wrought
+caused something to happen, especially a change
+
+Plans are afoot for a festival.
+afoot
+in preparation or progress; happening or beginning to happen
+
+A climber was killed when he plummeted 300 feet down an icy gully.
+plummet
+fall or drop straight down at high speed.
+
+His resignation was perceived as an act of treachery.
+treachery
+betrayal of trust; deceptive action or nature.
+
+
+What can we do to make the museum more user-friendly?
+user-friendly
+easy for people who are not experts to use or understand
+
+
+He undertook to finish the job by Friday.
+undertake
+to agree or promise that you will do something
+
+
+We've picked up a distress signal
+pick up
+detect or receive a signal or sound, especially by means of electronic apparatus
+
+We set out to create the most elegant and user-friendly smartphone ever made, and I think we did it.
+set out to do something
+To begin to undertake a task; to attempt or intend to do something
+
 
 Did you lock the door?
 locked /lɒk/
@@ -11390,6 +11460,10 @@ While the "ball" movesa turbulence is created in the air behind him,and that dra
 draw
 to attract or interest somebody
 
+The plane is ready for take-off.
+take off
+the moment at which an aircraft leaves the ground and starts to fly
+
 Understood? be daring as a devil!
 daring 
 courage and the quality of being willing to take risks if necessary
@@ -11415,6 +11489,9 @@ The three of us put all of effort into controlling the lake region. And now, fro
 outta nowhere
 in a sudden and unexpected way
 
+The explosion nearly took his arm off.
+take off
+​to remove some of somebody’s hair, part of somebody’s body, etc.
 
 They seem to get along pretty well.
 get along
@@ -11477,6 +11554,9 @@ Here's money for room and board.
 board
 the meals that are provided when you stay in a hotel, guest house, etc.; what you pay for the meals
 
+They were forced to go afoot.
+afoot
+on foot
 
 Wait! If this continues, won't i be labeled as a guy who only kisses other men!?
 label
@@ -11522,6 +11602,10 @@ Something up?
 something up
 something unusual or undesirable is happening
 
+
+University professors both teach and undertake research.
+undertake
+to make yourself responsible for something and start doing it
 
 Speak of which, Rachel didn't you say you were heading home?
 heading home
@@ -11657,7 +11741,9 @@ I ain't really fond of running is very tiring, and makes me perspire all over.
 found
 having warm or loving feelings for somebody, especially somebody you have known for a long time
 
-
+To set capital costs off against tax.
+set against
+to record something as a business cost as a way of reducing the amount of tax you must pay
 
 Remember to get in some beers for this evening.
 get in 
@@ -11721,12 +11807,37 @@ When do you break up for Christmas?
 break up
 to begin the holidays when school closes at the end of a term
 
+
+Set against the benefits of the new technology, there is also a strong possibility that jobs will be lost.
+set against
+to judge something by comparing good or positive qualities with bad or negative ones
+
+Not even Joe the rumble king can go against this decision
+rumble
+a street fight between gangs or large groups
+
+I really wanna go down on Rachel
+go down (on somebody)
+to perform oral sex on somebody (= to use the mouth to give somebody sexual pleasure)
+
+I will bow down to no one.
+bow down 
+to show weakness by agreeing to the demands or following the orders of (someone or something) I
+
+Joe has taken out his shoes too, so the opponent is serious too.
+take out
+to remove something from inside somebody’s body, especially a part of it
+
+I'll pack your eyes and I'll burn it on your retina.
+pack
+to put something into a container so that it can be stored, transported or sold
+
+pick up = all
 get into = all 
 matter = all
 about time
 tough = all
 stir up
-whatever 
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
 
 
