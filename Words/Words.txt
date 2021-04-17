@@ -6103,7 +6103,7 @@ petrol
 tank
 purposeful
 take = in sports
-mysophomia
+misophonia
 imprisonment
 outer
 vitally
@@ -11378,6 +11378,33 @@ go down (on somebody)
 defile
 retina
 subsequently
+antibiotic
+---------------------------------------------------
+rim
+beaver away
+wind up
+overspend
+elaborate
+wag
+wag tongue
+faculty
+diffuse
+density
+stagnant
+drift away
+
+
+
+
+That brat's every faculty is absorbed with staring at the sky.
+faculty
+any of the physical or mental abilities that a person is born with
+
+Bullshit! do you only know how to was your tongue, Rachel.
+wag tongue
+to talk or chat
+
+
 
 
 When he saw me coming he took off in the opposite direction.
@@ -11387,6 +11414,10 @@ to leave a place, especially in a hurry
 The media dubbed anorexia ‘the slimming disease’.
 dub
 to give somebody/something a particular name, often in a humorous or critical way
+
+When the meeting wound up
+wind up
+To come or bring to a finish; end
 
 
 I knew I wouldn't win the marathon, but I still went for it with everything I had.
@@ -11476,6 +11507,10 @@ Who on earth would venture out in weather like this.
 on earth
 used for emphasis
 
+Wound up her affairs before leaving the country.
+wind up
+to put in order; settle
+
 In the first year, Rachel was tickled by Joe and he spits all the milk he'd for lunch
 tickle
 to move your fingers on a sensitive part of somebody’s body in a way that makes them laugh
@@ -11546,6 +11581,10 @@ It happens at the very beginning of the book.
 very
 used to emphasize an extreme place or time
 
+Took a long walk and wound up at the edge of town.
+wind up
+To arrive in a place or situation after or because of a course of action
+
 That's the very thing I need.
 very
 used to emphasize that you are talking about a particular thing or person and not about another
@@ -11602,6 +11641,13 @@ Something up?
 something up
 something unusual or undesirable is happening
 
+It'll be found to be unacceptable when carefully examined.
+find
+to have a particular feeling or opinion about something
+
+The plan won't bear close inspection
+not bear
+not bear to not be suitable for something
 
 University professors both teach and undertake research.
 undertake
@@ -11736,6 +11782,10 @@ Let me throw this into the pond.
 pond
 a small area of still water, especially one that is artificial
 
+He got the children off to school.
+get off
+to leave a place or start a journey; to help somebody do this
+
 
 I ain't really fond of running is very tiring, and makes me perspire all over.
 found
@@ -11831,6 +11881,18 @@ to remove something from inside somebody’s body, especially a part of it
 I'll pack your eyes and I'll burn it on your retina.
 pack
 to put something into a container so that it can be stored, transported or sold
+
+The caterpillar spins the silk around its entire body.
+silk
+fine soft thread produced by silkworms
+
+Get off me, that hurts!
+get off 
+used especially to tell somebody to stop touching you or another person
+
+I wonder id it's possible to drift away on a cloud
+drift away
+To move away from something slowly, especially while floating on water
 
 pick up = all
 get into = all 
