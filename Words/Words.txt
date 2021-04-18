@@ -11392,6 +11392,45 @@ diffuse
 density
 stagnant
 drift away
+-------------------------------
+flurried
+impulsive
+presidency
+tender = adjective
+gram
+tuner
+nurtured
+draw out =  REMOVE, EXTRACT
+
+Every time the clock starts tolling it remainds of the old wound.
+toll
+when a bell tolls or somebody tolls it, it is rung slowly many times, especially as a sign that somebody has died
+
+
+You probably won't  be able to draw out all of its power.
+draw out
+remove, extract
+
+A finely tuned engine.
+tune
+to make changes to an engine so that it runs smoothly and as well as possible
+
+The main shaft's moving.
+shaft 
+a metal bar that joins parts of a machine or an engine together, enabling power and movement to be passed from one part to another
+
+
+tch, I originally wanted to be on the swing alone, to think.
+swing
+a seat for swinging on, hung from above on ropes or chains
+
+We're what connect people to the sky. We give birth to the ultimate weapon.
+birth
+the time when a baby is born; the process of being born
+
+Rachel you must be more tender in your heart, and your body.
+tender
+kind, gentle and loving
 
 
 
@@ -11782,6 +11821,14 @@ Let me throw this into the pond.
 pond
 a small area of still water, especially one that is artificial
 
+This is not a drill! Please evacuate the building.
+drill
+a practice of what to do in an emergency, for example if there is a fire
+
+A complex maneuver in a game of chess.
+maneuver
+a clever plan, action or movement that is used to give somebody an advantage
+
 He got the children off to school.
 get off
 to leave a place or start a journey; to help somebody do this
@@ -11816,6 +11863,9 @@ He took in every detail of her appearance.
 take in 
 ​to take notice of something with your eyes
 
+The book is primarily concerned with Soviet-American relations during the Cold War.
+concern
+to be about something
 
 Contrary perspectives can take it otherwise.
 otherwise
