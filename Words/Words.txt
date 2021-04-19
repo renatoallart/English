@@ -1426,9 +1426,9 @@ stare
 prissy
 proud
 elegant
-Physical educator
-Physiotherapist 
-Pilot 
+physical educator
+physiotherapist 
+pilot 
 injury
 switch
 vulnerable
@@ -4031,13 +4031,13 @@ dominance
 submission
 Action
 take = eat/drink
-Drama
-Musician
-Neurologist 
-Nutritionist
-Thriller
-Comedy
-Documentaries
+drama
+musician
+neurologist 
+nutritionist
+thriller
+comedy
+documentaries
 bovine
 membership
 going
@@ -11401,39 +11401,14 @@ gram
 tuner
 nurtured
 draw out =  REMOVE, EXTRACT
-
-Every time the clock starts tolling it remainds of the old wound.
-toll
-when a bell tolls or somebody tolls it, it is rung slowly many times, especially as a sign that somebody has died
-
-
-You probably won't  be able to draw out all of its power.
-draw out
-remove, extract
-
-A finely tuned engine.
-tune
-to make changes to an engine so that it runs smoothly and as well as possible
-
-The main shaft's moving.
-shaft 
-a metal bar that joins parts of a machine or an engine together, enabling power and movement to be passed from one part to another
-
-
-tch, I originally wanted to be on the swing alone, to think.
-swing
-a seat for swinging on, hung from above on ropes or chains
-
-We're what connect people to the sky. We give birth to the ultimate weapon.
-birth
-the time when a baby is born; the process of being born
-
-Rachel you must be more tender in your heart, and your body.
-tender
-kind, gentle and loving
-
-
-
+--------------------------------------
+manual
+tally
+self-catering
+pluralism
+picnic
+typeset 
+wrecker 
 
 That brat's every faculty is absorbed with staring at the sky.
 faculty
@@ -11442,9 +11417,6 @@ any of the physical or mental abilities that a person is born with
 Bullshit! do you only know how to was your tongue, Rachel.
 wag tongue
 to talk or chat
-
-
-
 
 When he saw me coming he took off in the opposite direction.
 take off
@@ -11458,12 +11430,9 @@ When the meeting wound up
 wind up
 To come or bring to a finish; end
 
-
 I knew I wouldn't win the marathon, but I still went for it with everything I had.
 go for it
 To put forth the necessary effort or energy to do or pursue something, especially in the face of any doubt or trepidation. Often used as words of encouragement.
-
-
 
 This century wrought major changes in our society.
 wrought
@@ -11481,16 +11450,13 @@ His resignation was perceived as an act of treachery.
 treachery
 betrayal of trust; deceptive action or nature.
 
-
 What can we do to make the museum more user-friendly?
 user-friendly
 easy for people who are not experts to use or understand
 
-
 He undertook to finish the job by Friday.
 undertake
 to agree or promise that you will do something
-
 
 We've picked up a distress signal
 pick up
@@ -11499,7 +11465,6 @@ detect or receive a signal or sound, especially by means of electronic apparatus
 We set out to create the most elegant and user-friendly smartphone ever made, and I think we did it.
 set out to do something
 To begin to undertake a task; to attempt or intend to do something
-
 
 Did you lock the door?
 locked /lɒk/
@@ -11517,7 +11482,6 @@ She's a young woman who enjoys flouting conventions.
 convention 
 the way in which something is done that most people in a society expect and consider to be polite or the right way to do it
 
-
 The tradition of ancestor worship stretches back thousands of years
 worship
 the practice of showing respect for God or a god, by saying prayers, singing with others, etc.; a ceremony for this
@@ -11525,6 +11489,10 @@ the practice of showing respect for God or a god, by saying prayers, singing wit
 Here's the time you should make every hand your friends
 every
 used with singular nouns to refer to all the members of a group of things or people
+
+We set out from New York on Friday for Egypt.
+set out
+begin a journey
 
 While the "ball" movesa turbulence is created in the air behind him,and that draws the body from behind and for it, the speed and also the orbit are not stable.
 draw
@@ -11542,6 +11510,10 @@ Understood? be daring as a devil! be delicate as an angel! Twin yourself around 
 twin
 to join two people or things closely together
 
+Can I get down please?
+get down
+leave the table after a meal.
+
 Who on earth would venture out in weather like this.
 on earth
 used for emphasis
@@ -11553,7 +11525,6 @@ to put in order; settle
 In the first year, Rachel was tickled by Joe and he spits all the milk he'd for lunch
 tickle
 to move your fingers on a sensitive part of somebody’s body in a way that makes them laugh
-
 
 They sought refuge in the mountain villages.
 seek 
@@ -11640,12 +11611,9 @@ Wait! If this continues, won't i be labeled as a guy who only kisses other men!?
 label
 to fix a label(a word or phrase that is used to describe somebody/something in a way that seems too general, unfair or not correct) on something or write information on something
 
-
-
 Rachel, wht are you cruelly toying with my feeling?
 toy with
 to consider an idea or a plan, but not very seriously and not for a long time
-
 
 My first parachute jump was an exhilarating experience.
 exhilarating
@@ -11654,6 +11622,10 @@ very exciting and great fun
 The work was carried out as per instructions.
 carry out
 to do and complete a task
+
+‘How will you manage without me?’ ‘Don't flatter yourself.’
+flatter
+to choose to believe something good about yourself and your abilities, especially when other people do not share this opinion
 
 Young people often find danger rather exhilarating.
 rather
@@ -11667,7 +11639,6 @@ We're currently taking steps to secure funding for the project before we announc
 take steps
 To do what is necessary to prepare for or begin doing something
 
-
 We’re not hiring right now.
 hire /ˈhaɪər/
 to give somebody a job
@@ -11675,6 +11646,10 @@ to give somebody a job
 I went a little overboard.
 go overboard
 o be too excited or enthusiastic about something or about doing something
+
+He threw all his old friends overboard once he was promoted.
+throw somebody/something overboard
+to get rid of somebody/something that you think is not useful
 
 Something up?
 something up
@@ -11700,11 +11675,9 @@ Running forward on an uncharted road, isn't it exhilarating.
 uncharted
 not marked on a map; that has not been visited or investigated before
 
-
 They offered me a lift home.
 lift
 a free ride in a car, etc. to a place you want to get to
-
 
 I was forced to ask passing strangers for money.
 passing 
@@ -11714,32 +11687,25 @@ If we were evicted from this place, we wouldn't have any place to call home.
 evict 
 to force somebody to leave a house or land, especially when you have the legal right to do so
 
-
 We've to strike while the iron's hot! I'll explain our future plans.
 strike
 to attack somebody/something, especially suddenly
-
 
 This matter could you hold off a bit?
 hold off
 to not do something immediately
 
-
 I'd like to still fly for awhile! Because I have a lot of people urging me forward at my back too!
 urging
 encourage someone to continue or succeed.
-
 
 Even if we lodge a complaint, it'll take at one month for the commissioner to make his decision.
 lodge
 (formal) to make a formal statement about something to a public organization or authority
 
-
-
 You'll find me earlier you count from the back.
 count from the back
 to say the counting numbers in backward order, starting from a given number
-
 
 How come you can understand crow speech, Joe?
 how come
@@ -11753,11 +11719,9 @@ I can sort of understand the feeling when one reaches the top, it's on cloud nin
 on cloud nine
 extremely happy
 
-
 The urge to put everything down and espace to somewhere else.
 urge
 ​a strong desire to do something
-
 
 Rest assured, it'll be something you're never seen before.
 rest assured
@@ -11766,7 +11730,6 @@ to be certain that something will happen
 A jar full of nuts and bolts.
 nuts
 a small piece of metal with a hole through the centre that is screwed onto a bolt to hold pieces of wood, parts of machines, etc. together
-
 
 The nuts weren't properly tightened and the wheel came off.
 tightens 
@@ -11816,7 +11779,6 @@ Preemptive strike are the most important  in fighting! One you get the knack of 
 get the knack of something
 To learn how to do something competently or well after a certain period of practice or development.
 
-
 Let me throw this into the pond.
 pond
 a small area of still water, especially one that is artificial
@@ -11833,7 +11795,6 @@ He got the children off to school.
 get off
 to leave a place or start a journey; to help somebody do this
 
-
 I ain't really fond of running is very tiring, and makes me perspire all over.
 found
 having warm or loving feelings for somebody, especially somebody you have known for a long time
@@ -11846,7 +11807,6 @@ Remember to get in some beers for this evening.
 get in 
 ​to buy a supply of something
 
-
 I'll go through it with my strong hands!
 go through
 undergo a difficult period or experience.
@@ -11858,6 +11818,10 @@ the act of carefully watching a person suspected of a crime or a place where a c
 It's a nice prek for me nonetheless
 nonetheless
 despite this fact
+
+That colour doesn't flatter many people.
+flatter
+to make somebody look attractive; to make somebody seem more attractive or better than they really are
 
 He took in every detail of her appearance.
 take in 
@@ -11879,21 +11843,17 @@ No one can call them "cherry boy" now!
 cherry boy
 A male virgin.
 
-
 He mopped his perspiring face with a handkerchief.
 perspire
 to produce sweat on your body
-
 
 The buildings have been designed to blend in with their surroundings.
 surroundings
 ​everything that is around or near somebody/something
 
-
 I got in an hour's work while the baby was asleep.
 get in /ɡet, ɪn/
 to manage to do or say something
-
 
 Carry on until you get to the junction, then turn left.
 carry on
@@ -11906,7 +11866,6 @@ to go away in different directions
 When do you break up for Christmas?
 break up
 to begin the holidays when school closes at the end of a term
-
 
 Set against the benefits of the new technology, there is also a strong possibility that jobs will be lost.
 set against
@@ -11943,6 +11902,79 @@ used especially to tell somebody to stop touching you or another person
 I wonder id it's possible to drift away on a cloud
 drift away
 To move away from something slowly, especially while floating on water
+
+Every time the clock starts tolling it remainds of the old wound.
+toll
+when a bell tolls or somebody tolls it, it is rung slowly many times, especially as a sign that somebody has died
+
+You probably won't  be able to draw out all of its power.
+draw out
+remove, extract
+
+A finely tuned engine.
+tune
+to make changes to an engine so that it runs smoothly and as well as possible
+
+The main shaft's moving.
+shaft 
+a metal bar that joins parts of a machine or an engine together, enabling power and movement to be passed from one part to another
+
+tch, I originally wanted to be on the swing alone, to think.
+swing
+a seat for swinging on, hung from above on ropes or chains
+
+We're what connect people to the sky. We give birth to the ultimate weapon.
+birth
+the time when a baby is born; the process of being born
+
+Rachel you must be more tender in your heart, and your body.
+tender
+kind, gentle and loving
+
+Her boyfriend appears out of nowhere and starts to get down on the dance floor.
+get down
+dance energetically
+
+I read chapter after chapter of the book.
+chapter /ˈtʃæptər/
+a separate section of a book, usually with a number or title
+
+This chapter sets out the debate surrounding pluralism.
+set out
+present information or ideas in a well-ordered way in writing or speech
+
+Be strong! your wife just got stolen by a family wrecker. 
+wrecker 
+a person who destroys another person’s plans, relationship, etc.
+
+Cultural pluralism.
+pluralism
+the existence of many different groups of people in one society, for example people of different races or of different political or religious beliefs
+
+They'd a picnic by the river where there was a jetty and rustic tables and chairs set out.
+set out
+arrange or display something in a particular order or position.
+
+I began to regain my appetite and managed to get some food down.
+get down
+swallow food or drink, especially with difficulty.
+
+Ben jumped ashore and tied the rowboat up to the small wooden jetty
+jetty
+a wall or platform built out into the sea, a river, etc., where boats can be tied and where people can get on and off boats
+
+The box was tied with plastic string.
+tied
+to attach or hold two or more things together using string, rope, etc.; to fasten somebody/something with string, rope, etc.
+
+
+You guys should be helping him out in times like this! Otherwise who knows where you all will end up!
+help out
+to help somebody, especially in a difficult situation
+
+Hey Joe the current outlook isn't very bright don't you agree?
+outlook
+the likely future for somebody/something; what is likely to happen
 
 pick up = all
 get into = all 
