@@ -6142,7 +6142,7 @@ inviting
 increasingly
 compulsory
 parade
-caresse
+caress
 Maternal
 cords
 broccoli
@@ -9894,6 +9894,7 @@ moderation
 shake off
 indecsiveness
 foil
+redundancy
 virtually
 strolled
 ascend
@@ -11409,6 +11410,60 @@ pluralism
 picnic
 typeset 
 wrecker 
+thang
+bout
+-----------------------------------------------
+bristle
+elaborate 
+skull  
+take heed
+bode well
+role-play
+mandatory
+prop up
+ravening
+redundancies
+frock
+supposidly
+split up
+plushie
+during
+really
+laud 
+
+
+
+Some of the studies show positive results, whereas others do not.
+whereas
+used to compare or contrast two facts
+
+the angel of death with his grinning skull
+skull
+the bone structure that forms the head and surrounds and protects the brain
+
+They grinned with delight when they heard our news.
+grinning
+to smile widely 
+
+She has a fortune stashed away in various bank accounts.
+stash
+to store something in a safe or secret place
+
+She took little heed of her surroundings.
+take heed
+to pay careful attention to somebody/something
+
+These figures don't bode well for the company's future.
+bode well
+to be a good/bad sign for somebody/something
+
+He was washed overboard by a huge wave.
+washe
+to flow or carry something/somebody in a particular direction
+
+He suffered occasional bouts of depression.
+bout
+an attack or period of illness
 
 That brat's every faculty is absorbed with staring at the sky.
 faculty
@@ -11623,6 +11678,10 @@ The work was carried out as per instructions.
 carry out
 to do and complete a task
 
+Use a low-fat spread instead of butter.
+spread
+a soft food that you put on bread
+
 ‘How will you manage without me?’ ‘Don't flatter yourself.’
 flatter
 to choose to believe something good about yourself and your abilities, especially when other people do not share this opinion
@@ -11787,6 +11846,11 @@ This is not a drill! Please evacuate the building.
 drill
 a practice of what to do in an emergency, for example if there is a fire
 
+Children ran around the village playing tricks.
+play
+to trick somebody for fun
+
+
 A complex maneuver in a game of chess.
 maneuver
 a clever plan, action or movement that is used to give somebody an advantage
@@ -11878,6 +11942,10 @@ a street fight between gangs or large groups
 I really wanna go down on Rachel
 go down (on somebody)
 to perform oral sex on somebody (= to use the mouth to give somebody sexual pleasure)
+
+The part of Elizabeth was played by Cate Blanchett.
+play
+to act in a play, film, etc.; to act the role of somebody
 
 I will bow down to no one.
 bow down 
@@ -11976,6 +12044,54 @@ Hey Joe the current outlook isn't very bright don't you agree?
 outlook
 the likely future for somebody/something; what is likely to happen
 
+All countries have a part to play in protecting the environment.
+play
+to have an effect or influence on something
+
+Her new party frock.
+frock
+a woman's or girl's dress
+
+A frock of pale blue silk
+silk
+fine soft thread produced by silkworms
+
+I knocked loudly in the vain hope that someone might answer.
+vain
+that does not produce the result you want
+
+The strikers are protesting against the threat of compulsory redundancies.
+strikers
+a worker who has stopped working because of argument over pay or conditions
+
+Thousands of factory workers are facing redundancy.
+redundancies
+the situation when somebody has to leave their job because there is no more work available for them
+
+The current "genesis" is lauded as being th strongest in history, even stronger then "sleeping florest"
+laud
+to praise somebody/something
+
+All these case have a pattern which, lead to that clock.
+pattern
+the regular way in which something happens or is done
+
+And it was held at Joe's home ground.
+be held
+to take place or to occur
+
+I really don't wanna think about this, but don't tell me that you actually wore the on the way here.
+wore
+to have something on your body as a piece of clothing, a decoration, etc.
+
+Are they out? They're splitting up.
+split up
+to divide a group of people into smaller parts; to become divided up in this way
+
+He was very despicable during that fight I was really med that time.
+despicable
+very unpleasant or evil
+
 pick up = all
 get into = all 
 matter = all
@@ -11983,6 +12099,7 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
 
 
 
