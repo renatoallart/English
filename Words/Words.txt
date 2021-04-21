@@ -6152,77 +6152,6 @@ takeover
 chick
 scarier
 wolf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------   year 2 Month 4 +
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 tiger
 squash
 defies
@@ -6475,6 +6404,90 @@ perform = no sentido de atuar
 turn [sth] around  = so sentido de mudar
 pleasant 
 jumper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------   year 2 Month 5 +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 rounder
 slipped
 unsteady
@@ -7611,7 +7624,6 @@ treble
 tamper with
 cancelling
 beep
-parking lot 
 bravery
 install
 skittish
@@ -11324,7 +11336,6 @@ heading home
 something is up
 insurmountable
 off chance
---------------------------------------------------------------
 inadequate
 sprinkling
 take steps
@@ -11336,7 +11347,6 @@ comical
 bankroll 
 extensively 
 discriminatory
------------------------------------------------------
 fatal
 tranquillize
 husk
@@ -11354,14 +11364,12 @@ catch somebody red-handed
 scepticism
 nut = a small piece of metal
 fibre
------------------------------------------------------
 clean-shaven
 inconsiderate
 appetizer
 turbulence
 flouted 
 on earth
------------------------------------------------------
 set out to (do something)
 undertake
 user-friendly
@@ -11380,7 +11388,6 @@ defile
 retina
 subsequently
 antibiotic
----------------------------------------------------
 rim
 beaver away
 wind up
@@ -11393,7 +11400,6 @@ diffuse
 density
 stagnant
 drift away
--------------------------------
 flurried
 impulsive
 presidency
@@ -11402,7 +11408,6 @@ gram
 tuner
 nurtured
 draw out =  REMOVE, EXTRACT
---------------------------------------
 manual
 tally
 self-catering
@@ -11430,667 +11435,31 @@ plushie
 during
 really
 laud 
+airmen
+lighten
+lentils
+----------------------------------------------------
+parking
+deceleration
+reckoning
+day of reckoning
+soggy
 
+To mean it is, but that is another problem.
+mean
+to intend to say something on a particular occasion
 
 
-Some of the studies show positive results, whereas others do not.
-whereas
-used to compare or contrast two facts
+the rapid acceleration and deceleration creates energy. Which creates light.
+deceleration
+​a reduction in the speed at which a vehicle is travelling
 
-the angel of death with his grinning skull
-skull
-the bone structure that forms the head and surrounds and protects the brain
+The day of reckoning has come.
+day of reckoning
+the time when past mistakes or misdeeds must be punished or paid for; a testing time when the degree of one's success or failure will be revealed.
 
-They grinned with delight when they heard our news.
-grinning
-to smile widely 
 
-She has a fortune stashed away in various bank accounts.
-stash
-to store something in a safe or secret place
 
-She took little heed of her surroundings.
-take heed
-to pay careful attention to somebody/something
-
-These figures don't bode well for the company's future.
-bode well
-to be a good/bad sign for somebody/something
-
-He was washed overboard by a huge wave.
-washe
-to flow or carry something/somebody in a particular direction
-
-He suffered occasional bouts of depression.
-bout
-an attack or period of illness
-
-That brat's every faculty is absorbed with staring at the sky.
-faculty
-any of the physical or mental abilities that a person is born with
-
-Bullshit! do you only know how to was your tongue, Rachel.
-wag tongue
-to talk or chat
-
-When he saw me coming he took off in the opposite direction.
-take off
-to leave a place, especially in a hurry
-
-The media dubbed anorexia ‘the slimming disease’.
-dub
-to give somebody/something a particular name, often in a humorous or critical way
-
-When the meeting wound up
-wind up
-To come or bring to a finish; end
-
-I knew I wouldn't win the marathon, but I still went for it with everything I had.
-go for it
-To put forth the necessary effort or energy to do or pursue something, especially in the face of any doubt or trepidation. Often used as words of encouragement.
-
-This century wrought major changes in our society.
-wrought
-caused something to happen, especially a change
-
-Plans are afoot for a festival.
-afoot
-in preparation or progress; happening or beginning to happen
-
-A climber was killed when he plummeted 300 feet down an icy gully.
-plummet
-fall or drop straight down at high speed.
-
-His resignation was perceived as an act of treachery.
-treachery
-betrayal of trust; deceptive action or nature.
-
-What can we do to make the museum more user-friendly?
-user-friendly
-easy for people who are not experts to use or understand
-
-He undertook to finish the job by Friday.
-undertake
-to agree or promise that you will do something
-
-We've picked up a distress signal
-pick up
-detect or receive a signal or sound, especially by means of electronic apparatus
-
-We set out to create the most elegant and user-friendly smartphone ever made, and I think we did it.
-set out to do something
-To begin to undertake a task; to attempt or intend to do something
-
-Did you lock the door?
-locked /lɒk/
-to fasten something with a lock; to be fastened with a lock
-
-So they’ve locked me out of the house? Very droll, I’m sure!
-droll
-funny, but not in a way that you expect
-
-Motorists regularly flout the law.
-flouted 
-to show that you have no respect for a law, etc. by openly not obeying it
-
-She's a young woman who enjoys flouting conventions.
-convention 
-the way in which something is done that most people in a society expect and consider to be polite or the right way to do it
-
-The tradition of ancestor worship stretches back thousands of years
-worship
-the practice of showing respect for God or a god, by saying prayers, singing with others, etc.; a ceremony for this
-
-Here's the time you should make every hand your friends
-every
-used with singular nouns to refer to all the members of a group of things or people
-
-We set out from New York on Friday for Egypt.
-set out
-begin a journey
-
-While the "ball" movesa turbulence is created in the air behind him,and that draws the body from behind and for it, the speed and also the orbit are not stable.
-draw
-to attract or interest somebody
-
-The plane is ready for take-off.
-take off
-the moment at which an aircraft leaves the ground and starts to fly
-
-Understood? be daring as a devil!
-daring 
-courage and the quality of being willing to take risks if necessary
-
-Understood? be daring as a devil! be delicate as an angel! Twin yourself around his arms like a sneak so you don't let go of your trophy 
-twin
-to join two people or things closely together
-
-Can I get down please?
-get down
-leave the table after a meal.
-
-Who on earth would venture out in weather like this.
-on earth
-used for emphasis
-
-Wound up her affairs before leaving the country.
-wind up
-to put in order; settle
-
-In the first year, Rachel was tickled by Joe and he spits all the milk he'd for lunch
-tickle
-to move your fingers on a sensitive part of somebody’s body in a way that makes them laugh
-
-They sought refuge in the mountain villages.
-seek 
-to ask somebody for something; to try to obtain or achieve something
-
-The three of us put all of effort into controlling the lake region. And now, from outta nowhere, this brat appears.
-outta nowhere
-in a sudden and unexpected way
-
-The explosion nearly took his arm off.
-take off
-​to remove some of somebody’s hair, part of somebody’s body, etc.
-
-They seem to get along pretty well.
-get along
-have a harmonious or friendly relationship.
-
-Joe, you've caught me red-handed. But that's still no excuse for being so unfriendly.
-catch somebody red-handed
-to catch somebody in the act of doing something wrong or committing a crime
-
-The dog caught the stick in its mouth.
-caught
-to stop and hold a moving object or person, especially in your hands
-
-Guys! We can`t hold out much longer!
-hold out
-to resist or survive in a dangerous or difficult situation
-
-victory stems from preparation, timing and also, brain.
-stem from
-to be the result of something
-
-People who waer such stupid hats are known throughout the universe as unimportant sidekick!
-throughout 
-in or into every part of something
-
-Huh? Why are you picking on me?
-pick on 
-​to treat somebody unfairly, by blaming, criticizing or punishing them
-
-However you girls tried yo pick up men! Have you no shame?
-pick up
-to start talking to somebody you do not know because you want to have a sexual relationship with them
-
-The wonders that this temple holds
-wonder
-a feeling of surprise and pleasure that you have when you see or experience something beautiful, unusual or unexpected
-
-Let's stop talking and get going then!
-get going
-to start doing something
-
-A vet was called to sedate the animal.
-vet
-a person who has been trained in the science of animal medicine, whose job is to treat animals who are sick or injured
-
-He takes bends much too fast.
-take
-to go over or around something
-
-
-It happens at the very beginning of the book.
-very
-used to emphasize an extreme place or time
-
-Took a long walk and wound up at the edge of town.
-wind up
-To arrive in a place or situation after or because of a course of action
-
-That's the very thing I need.
-very
-used to emphasize that you are talking about a particular thing or person and not about another
-
-Here's money for room and board.
-board
-the meals that are provided when you stay in a hotel, guest house, etc.; what you pay for the meals
-
-They were forced to go afoot.
-afoot
-on foot
-
-Wait! If this continues, won't i be labeled as a guy who only kisses other men!?
-label
-to fix a label(a word or phrase that is used to describe somebody/something in a way that seems too general, unfair or not correct) on something or write information on something
-
-Rachel, wht are you cruelly toying with my feeling?
-toy with
-to consider an idea or a plan, but not very seriously and not for a long time
-
-My first parachute jump was an exhilarating experience.
-exhilarating
-very exciting and great fun
-
-The work was carried out as per instructions.
-carry out
-to do and complete a task
-
-Use a low-fat spread instead of butter.
-spread
-a soft food that you put on bread
-
-‘How will you manage without me?’ ‘Don't flatter yourself.’
-flatter
-to choose to believe something good about yourself and your abilities, especially when other people do not share this opinion
-
-Young people often find danger rather exhilarating.
-rather
-used to mean ‘fairly’ or ‘to some degree’, often when you are disappointed, surprised or expressing slight criticism
-
-As per your instructions I went to do some research, and I discovered some very interesting information.
-as per something
-​following something that has been decided
-
-We're currently taking steps to secure funding for the project before we announce it to the public.
-take steps
-To do what is necessary to prepare for or begin doing something
-
-We’re not hiring right now.
-hire /ˈhaɪər/
-to give somebody a job
-
-I went a little overboard.
-go overboard
-o be too excited or enthusiastic about something or about doing something
-
-He threw all his old friends overboard once he was promoted.
-throw somebody/something overboard
-to get rid of somebody/something that you think is not useful
-
-Something up?
-something up
-something unusual or undesirable is happening
-
-It'll be found to be unacceptable when carefully examined.
-find
-to have a particular feeling or opinion about something
-
-The plan won't bear close inspection
-not bear
-not bear to not be suitable for something
-
-University professors both teach and undertake research.
-undertake
-to make yourself responsible for something and start doing it
-
-Speak of which, Rachel didn't you say you were heading home?
-heading home
-to move in a particular direction
-
-Running forward on an uncharted road, isn't it exhilarating.
-uncharted
-not marked on a map; that has not been visited or investigated before
-
-They offered me a lift home.
-lift
-a free ride in a car, etc. to a place you want to get to
-
-I was forced to ask passing strangers for money.
-passing 
-​going past
-
-If we were evicted from this place, we wouldn't have any place to call home.
-evict 
-to force somebody to leave a house or land, especially when you have the legal right to do so
-
-We've to strike while the iron's hot! I'll explain our future plans.
-strike
-to attack somebody/something, especially suddenly
-
-This matter could you hold off a bit?
-hold off
-to not do something immediately
-
-I'd like to still fly for awhile! Because I have a lot of people urging me forward at my back too!
-urging
-encourage someone to continue or succeed.
-
-Even if we lodge a complaint, it'll take at one month for the commissioner to make his decision.
-lodge
-(formal) to make a formal statement about something to a public organization or authority
-
-You'll find me earlier you count from the back.
-count from the back
-to say the counting numbers in backward order, starting from a given number
-
-How come you can understand crow speech, Joe?
-how come
-used to say you do not understand how something can happen and would like an explanation
-
-He was shouting and carrying on.
-carry on 
-to argue or complain noisily
-
-I can sort of understand the feeling when one reaches the top, it's on cloud nine.
-on cloud nine
-extremely happy
-
-The urge to put everything down and espace to somewhere else.
-urge
-​a strong desire to do something
-
-Rest assured, it'll be something you're never seen before.
-rest assured
-to be certain that something will happen
-
-A jar full of nuts and bolts.
-nuts
-a small piece of metal with a hole through the centre that is screwed onto a bolt to hold pieces of wood, parts of machines, etc. together
-
-The nuts weren't properly tightened and the wheel came off.
-tightens 
-to hold or fix something more securely in position; to make something or become more difficult to move, open or separate
-
-She felt guilty now and a little uneasy
-uneasy 
-causing or feeling anxiety; troubled or uncomfortable.
-
-Their marriage has broken up.
-break up
-to come to an end
-
-I'm gonna receive you.
-receive
-to get or accept something that is sent or given to you
-
-The show barely covered its costs.
-covers /ˈkʌvər/
-to be or provide enough money for something
-
-What crow said id correct we should set off at once.
-set off
-to begin a journey
-
-Please note the change of venue for this event.
-venue 
-a place where people meet for an organized event, for example a concert, sporting event or conference
-
-Computers are being used to sift the information.
-sift
-to examine something very carefully in order to decide what is important or useful or to find something important
-
-The price includes the hire of the hall.
-hire /ˈhaɪər/
-the act of paying to use something for a short time
-
-I'm deeply moved.
-deep moved
-If you are deeply moved it means that something made you emotional. It's often used in response to an act of kindness or something innocent & sweet. You can also just say “moved.” Something that stirs up or “moves” your emotions. 
-
-Preemptive strike are the most important  in fighting!
-preemptive
-​done to stop somebody taking action, especially action that will be harmful to yourself
-
-Preemptive strike are the most important  in fighting! One you get the knack of it one finger  will be enough to win.
-get the knack of something
-To learn how to do something competently or well after a certain period of practice or development.
-
-Let me throw this into the pond.
-pond
-a small area of still water, especially one that is artificial
-
-This is not a drill! Please evacuate the building.
-drill
-a practice of what to do in an emergency, for example if there is a fire
-
-Children ran around the village playing tricks.
-play
-to trick somebody for fun
-
-
-A complex maneuver in a game of chess.
-maneuver
-a clever plan, action or movement that is used to give somebody an advantage
-
-He got the children off to school.
-get off
-to leave a place or start a journey; to help somebody do this
-
-I ain't really fond of running is very tiring, and makes me perspire all over.
-found
-having warm or loving feelings for somebody, especially somebody you have known for a long time
-
-To set capital costs off against tax.
-set against
-to record something as a business cost as a way of reducing the amount of tax you must pay
-
-Remember to get in some beers for this evening.
-get in 
-​to buy a supply of something
-
-I'll go through it with my strong hands!
-go through
-undergo a difficult period or experience.
-
-Very good, continue careful surveillance!
-surveillance
-the act of carefully watching a person suspected of a crime or a place where a crime may be committed
-
-It's a nice prek for me nonetheless
-nonetheless
-despite this fact
-
-That colour doesn't flatter many people.
-flatter
-to make somebody look attractive; to make somebody seem more attractive or better than they really are
-
-He took in every detail of her appearance.
-take in 
-​to take notice of something with your eyes
-
-The book is primarily concerned with Soviet-American relations during the Cold War.
-concern
-to be about something
-
-Contrary perspectives can take it otherwise.
-otherwise
-in a different way.
-
-I'll shoulder anything and fly.
-shoulder
-to accept the responsibility for something
-
-No one can call them "cherry boy" now!
-cherry boy
-A male virgin.
-
-He mopped his perspiring face with a handkerchief.
-perspire
-to produce sweat on your body
-
-The buildings have been designed to blend in with their surroundings.
-surroundings
-​everything that is around or near somebody/something
-
-I got in an hour's work while the baby was asleep.
-get in /ɡet, ɪn/
-to manage to do or say something
-
-Carry on until you get to the junction, then turn left.
-carry on
-to continue moving
-
-The meeting broke up at eleven o'clock.
-break up
-to go away in different directions
-
-When do you break up for Christmas?
-break up
-to begin the holidays when school closes at the end of a term
-
-Set against the benefits of the new technology, there is also a strong possibility that jobs will be lost.
-set against
-to judge something by comparing good or positive qualities with bad or negative ones
-
-Not even Joe the rumble king can go against this decision
-rumble
-a street fight between gangs or large groups
-
-I really wanna go down on Rachel
-go down (on somebody)
-to perform oral sex on somebody (= to use the mouth to give somebody sexual pleasure)
-
-The part of Elizabeth was played by Cate Blanchett.
-play
-to act in a play, film, etc.; to act the role of somebody
-
-I will bow down to no one.
-bow down 
-to show weakness by agreeing to the demands or following the orders of (someone or something) I
-
-Joe has taken out his shoes too, so the opponent is serious too.
-take out
-to remove something from inside somebody’s body, especially a part of it
-
-I'll pack your eyes and I'll burn it on your retina.
-pack
-to put something into a container so that it can be stored, transported or sold
-
-The caterpillar spins the silk around its entire body.
-silk
-fine soft thread produced by silkworms
-
-Get off me, that hurts!
-get off 
-used especially to tell somebody to stop touching you or another person
-
-I wonder id it's possible to drift away on a cloud
-drift away
-To move away from something slowly, especially while floating on water
-
-Every time the clock starts tolling it remainds of the old wound.
-toll
-when a bell tolls or somebody tolls it, it is rung slowly many times, especially as a sign that somebody has died
-
-You probably won't  be able to draw out all of its power.
-draw out
-remove, extract
-
-A finely tuned engine.
-tune
-to make changes to an engine so that it runs smoothly and as well as possible
-
-The main shaft's moving.
-shaft 
-a metal bar that joins parts of a machine or an engine together, enabling power and movement to be passed from one part to another
-
-tch, I originally wanted to be on the swing alone, to think.
-swing
-a seat for swinging on, hung from above on ropes or chains
-
-We're what connect people to the sky. We give birth to the ultimate weapon.
-birth
-the time when a baby is born; the process of being born
-
-Rachel you must be more tender in your heart, and your body.
-tender
-kind, gentle and loving
-
-Her boyfriend appears out of nowhere and starts to get down on the dance floor.
-get down
-dance energetically
-
-I read chapter after chapter of the book.
-chapter /ˈtʃæptər/
-a separate section of a book, usually with a number or title
-
-This chapter sets out the debate surrounding pluralism.
-set out
-present information or ideas in a well-ordered way in writing or speech
-
-Be strong! your wife just got stolen by a family wrecker. 
-wrecker 
-a person who destroys another person’s plans, relationship, etc.
-
-Cultural pluralism.
-pluralism
-the existence of many different groups of people in one society, for example people of different races or of different political or religious beliefs
-
-They'd a picnic by the river where there was a jetty and rustic tables and chairs set out.
-set out
-arrange or display something in a particular order or position.
-
-I began to regain my appetite and managed to get some food down.
-get down
-swallow food or drink, especially with difficulty.
-
-Ben jumped ashore and tied the rowboat up to the small wooden jetty
-jetty
-a wall or platform built out into the sea, a river, etc., where boats can be tied and where people can get on and off boats
-
-The box was tied with plastic string.
-tied
-to attach or hold two or more things together using string, rope, etc.; to fasten somebody/something with string, rope, etc.
-
-
-You guys should be helping him out in times like this! Otherwise who knows where you all will end up!
-help out
-to help somebody, especially in a difficult situation
-
-Hey Joe the current outlook isn't very bright don't you agree?
-outlook
-the likely future for somebody/something; what is likely to happen
-
-All countries have a part to play in protecting the environment.
-play
-to have an effect or influence on something
-
-Her new party frock.
-frock
-a woman's or girl's dress
-
-A frock of pale blue silk
-silk
-fine soft thread produced by silkworms
-
-I knocked loudly in the vain hope that someone might answer.
-vain
-that does not produce the result you want
-
-The strikers are protesting against the threat of compulsory redundancies.
-strikers
-a worker who has stopped working because of argument over pay or conditions
-
-Thousands of factory workers are facing redundancy.
-redundancies
-the situation when somebody has to leave their job because there is no more work available for them
-
-The current "genesis" is lauded as being th strongest in history, even stronger then "sleeping florest"
-laud
-to praise somebody/something
-
-All these case have a pattern which, lead to that clock.
-pattern
-the regular way in which something happens or is done
-
-And it was held at Joe's home ground.
-be held
-to take place or to occur
-
-I really don't wanna think about this, but don't tell me that you actually wore the on the way here.
-wore
-to have something on your body as a piece of clothing, a decoration, etc.
-
-Are they out? They're splitting up.
-split up
-to divide a group of people into smaller parts; to become divided up in this way
-
-He was very despicable during that fight I was really med that time.
-despicable
-very unpleasant or evil
 
 pick up = all
 get into = all 
