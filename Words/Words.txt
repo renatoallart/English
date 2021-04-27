@@ -8786,6 +8786,7 @@ sportsmanship
 mottled
 streaked
 self-satisfied
+grope
 shotgun 
 passengers 
 junk food
@@ -11503,6 +11504,17 @@ hopefully
 bid farewell
 debris
 pulverize
+medieval 
+tax return
+ream
+stark
+paperboy
+reign
+jack
+feel up
+pick out
+along with
+hooker
 
 To mean it is, but that is another problem.
 mean
@@ -11543,7 +11555,6 @@ forth
 There's still some fodder left.
 fodder
 people or things that are considered to have only one use
-
 
 Don't worry about me. As long as I don't exert my full power, I won't overheat.
 exert
@@ -11661,7 +11672,6 @@ Even god doesn't know what's keeping these two apart
 apart
 separated by a distance, of space or time
 
-
 This is excellent! I can take on the world again.
 take on 
 to play against somebody in a game or contest; to fight against somebody
@@ -11738,6 +11748,55 @@ Hidden throughout the sky sit the wings of countless reapers. Is this the "Wind"
 sit 
 to be in a particular place
 
+Note how these animals sometimes walk with their tails up in the air.
+note 
+to notice or pay careful attention to something
+
+A bankruptcy filing,
+filing 
+something that is placed in an official record
+
+He tries to feel up my little sister!
+feel up
+to touch somebody sexually, especially when they do not want you to
+
+So you're the kind of guy who'd see his friend dying in the street and jack his stuff.
+jack
+to steal something from somebody, especially something small or of low value
+
+I was so intent on eavesdropping.
+intent
+​showing strong interest and attention
+
+looks like the death god reign has been postponed for now
+reign
+the period during which a king, queen, emperor, etc. rules
+
+The most important step, The step one that I couldn't afford to miss.
+afford
+(usually used with can or could, especially in negative sentences and questions)
+if you say that you can’t afford to do something, you mean that you should not do it because it will cause problems for you if you do
+
+And I say to unto you, aks and ye(you) shall receive.
+unto
+to or towards somebody/something
+
+Are you free this sunday? since I don't know much about parts, you can help me puck out what's good.
+pick out
+to choose somebody/something carefully from a group of people or things
+
+I'll treat you to tea as thanks
+treat to
+provide someone with (food, drink, or entertainment) at one's own expense.
+
+Rechal has been missing since yesterday, along with the skate that Joe made!
+along with
+in company with or at the same time as.
+
+Joe! you told us there would be hookers.
+hooker
+a prostitute
+
 
 pick up = all
 get into = all 
@@ -11746,6 +11805,9 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
+
+
 
 
 
