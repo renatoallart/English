@@ -4131,7 +4131,7 @@ intern
 touchline
 passports
 Irish
-Orchestra
+orchestra
 economy
 revitalize
 get up
@@ -11420,7 +11420,6 @@ typeset
 wrecker 
 thang
 bout
------------------------------------------------
 bristle
 elaborate 
 skull  
@@ -11441,7 +11440,6 @@ laud
 airmen
 lighten
 lentils
-----------------------------------------------------
 parking
 deceleration
 reckoning
@@ -11457,7 +11455,6 @@ headlong
 underhand
 die-hard
 stretches back 
--------------------------------------------
 slap on 
 smack
 bone to pick
@@ -11466,7 +11463,6 @@ wobbly
 ban
 leave off 
 undertaking
--------------------------------------------------
 throttle
 engrossed
 overzealous 
@@ -11481,7 +11477,6 @@ prolly
 be holed up 
 retune
 qualm
--------------------------------------------
 take on 
 take a shit
 reconstructed
@@ -11490,7 +11485,6 @@ take on the world = https://hinative.com/en-US/questions/18893066
 treat to
 have a part
 helicopter
----------------------------------------------------
 come to pass
 intake
 mald
@@ -11499,7 +11493,6 @@ atop
 wear on
 smudge
 against 
-----------------------------------------------------
 hopefully 
 bid farewell
 debris
@@ -11515,7 +11508,6 @@ feel up
 pick out
 along with
 hooker
---------------------------------------------------------
 pushed aside
 in a way
 logistics
@@ -11536,7 +11528,6 @@ chase away
 magma
 volcanic
 harness
-----------------------------------------------------------
 apron
 rap
 go about
@@ -11549,7 +11540,6 @@ held at bay
 pin-down
 uphand
 zucchini
-----------------------------------------------------
 resound
 rung 
 dance floor
@@ -11570,12 +11560,10 @@ get tongue-tied
 gravitational
 unoccupied
 millionfold
-----------------------------------------------------------
 generic
 faggot
 back in the day
 flame faggot
--------------------------------------------------
 take into
 cruelty
 paramedics
@@ -11585,6 +11573,17 @@ obtaining
 chauffeur 
 pair up
 rarefied air
+----------------------------------------------------------
+stage-manage
+huddled
+plentiful
+conjecture
+ramparts
+dunk
+germ
+weathervane
+enrollment
+unforgettable
 
 
 We all thought we were done for when the boat started to sink.
@@ -12136,6 +12135,51 @@ She laid down strict rules for her tenants, including prompt payment of rent.
 lay down
 establish// ​if you lay down a rule or a principle, you state officially that people must obey it or use it
 
+you never noticed. that back when we were in the town
+back
+in or into the past; ago
+
+The band's new album takes up where their last one left off.
+take up /bi, teɪk, ʌp/
+to continue, especially starting after somebody/something else has finished
+
+He left off playing the piano to answer the door.
+left off
+to stop doing something
+
+Pick the tomatoes before they get too ripe.
+ripe
+(of fruit or crops) fully grown and ready to be eaten
+
+people now have substantial assets to dispose of after their death
+dispose 
+get rid of by throwing away or giving or selling to someone else.
+
+Her assets include shares in the company and a house in France.
+assets
+a thing of value, especially property, that a person or company owns, which can be used or sold to pay debts
+
+
+Substantial sums of money.
+substantial 
+large in amount, value or importance
+
+he's supposed to be the guy you have to take out first!
+take out
+to kill somebody or destroy something
+
+why would you bring up a test so late.
+bring up
+​to mention a subject or start to talk about it
+
+Stay awhile.
+awhile 
+for a short time
+
+He was a very reliable and honest man who would never betray anyone.
+reliable
+that can be trusted to do something well; that you can rely on
+
 
 pick up = all
 get into = all 
@@ -12144,7 +12188,6 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
-
 
 
 
