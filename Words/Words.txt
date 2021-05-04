@@ -11584,7 +11584,17 @@ germ
 weathervane
 enrollment
 unforgettable
-
+--------------------------------------------------------------
+sag
+fade away
+fascination
+reattach
+crippling
+dimissal
+pedal
+spare time
+perk up
+tombstone 
 
 We all thought we were done for when the boat started to sink.
 done for
@@ -12180,6 +12190,37 @@ He was a very reliable and honest man who would never betray anyone.
 reliable
 that can be trusted to do something well; that you can rely on
 
+A cheap plastic ball was seemingly dropped at a crossroad by accident.
+seemingly
+in a way that appears to be true but may in fact not be // according to the facts as one knows them; as far as one knows.
+
+His voice took on a more serious tone.
+take on 
+to begin to have a particular quality, appearance, etc.
+
+London has a fascination all of its own.
+fascination
+a very strong attraction, that makes something very interesting
+
+I made sure to pick up your arm, too. They should be able to reattach it for ypu.
+reattach 
+attach (something that has fallen or been taken off) in its former position.
+
+all the fun of the fair
+fair
+a type of entertainment in a field or park at which people can ride on large machines and play games to win prizes
+
+Wouldn't it be nice? to find a screw able to mend all this sadness.
+mend
+repair (something that is broken or damaged).
+
+A crippling disease.
+crippling
+damaging somebody's body so that they are no longer able to walk or move normally
+
+In the past there've been two times. When I held your life in my hands and both times I've spared it.
+spare
+To refrain from harming, injuring, destroying, or killing
 
 pick up = all
 get into = all 
@@ -12188,6 +12229,7 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
 
 
 
