@@ -6212,7 +6212,7 @@ disturb
 inward
 champagne
 riper
-throbing
+throbbing
 fleeting
 fruitless
 break
@@ -8643,6 +8643,7 @@ equator
 downy
 blurred
 reforming
+dishevelled
 crude
 net
 fungi 
@@ -11595,6 +11596,17 @@ pedal
 spare time
 perk up
 tombstone 
+circus
+place an order
+unproductive
+shoddy
+scruffy
+unkempt
+mid-turn
+skewed 
+askew
+gust
+sodden
 
 We all thought we were done for when the boat started to sink.
 done for
@@ -12222,6 +12234,35 @@ In the past there've been two times. When I held your life in my hands and both 
 spare
 To refrain from harming, injuring, destroying, or killing
 
+It was so hot day and the wind was building, he clashed from flying too low when a gust hit him.
+gust
+​a sudden strong increase in the amount and speed of wind that is blowing
+
+It was so hot day and the wind was building.
+building
+to create or develop something
+
+Now that it's all come down to this.
+come down to
+(of a situation or outcome) be dependent on a specified factor // resumir-se
+
+The two teams clash in tomorrow's final.
+clash
+to come together and fight or compete in a contest
+
+What a crappy bike if it were anything like skate. This curb here would make it easy to pull off a trick even mid-turn.
+pull off
+to succeed in doing something difficult
+
+I'd like to place an order for delivery.
+place an order
+to place an order: to request, to buy, to purchase (in a commercial context)
+
+We placed an advertisement for a cleaner in the local paper.
+place an order
+to give instructions about something or make a request for something to happen
+
+
 pick up = all
 get into = all 
 matter = all
@@ -12234,3 +12275,6 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
+During his visit, Mark became increasingly attached to Sara.
+attached
+full of affection or fondness.
