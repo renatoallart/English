@@ -11607,6 +11607,15 @@ skewed
 askew
 gust
 sodden
+--------------------------------------------
+yonks
+entangle
+rebut
+rather forward
+unbearable
+beat down
+head out
+
 
 We all thought we were done for when the boat started to sink.
 done for
@@ -12262,6 +12271,21 @@ We placed an advertisement for a cleaner in the local paper.
 place an order
 to give instructions about something or make a request for something to happen
 
+During his visit, Mark became increasingly attached to Sara.
+attached
+full of affection or fondness.
+Rachel the wing road may not be encompassing enough for you.
+encompass
+to surround or cover something completely
+
+Alright, I'm heading out to go shopping. Is there anything you need?
+head out
+to leave or depart, often used in reference to a planned departure or as a way to announce one's exit.
+
+my power has increased 30 fold
+fold
+times as much
+
 
 pick up = all
 get into = all 
@@ -12275,6 +12299,10 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-During his visit, Mark became increasingly attached to Sara.
-attached
-full of affection or fondness.
+
+
+
+
+
+
+
