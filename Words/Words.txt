@@ -6279,7 +6279,7 @@ delicacy
 get up to
 roller coaster
 United States 
-brith certificate
+birth certificate 
 be up to
 munching
 distracted
@@ -11630,6 +11630,14 @@ chimney pot
 philanderer
 side plates
 back on track
+-------------------------------------------------
+compiled 
+tweezers
+expertly
+dictator
+fairground
+chomp
+strained
 
 We all thought we were done for when the boat started to sink.
 done for
@@ -12324,6 +12332,22 @@ I think this dish is very delicious, do you think so too?
 dish
 food prepared in a particular way as part of a meal
 
+Jo looked drawn and strained after her long night’s work.
+drawn
+​(of a person or their face) looking pale and thin because the person is ill, tired or worried
+
+Her face looked strained and weary.
+strained
+showing the effects of worry or pressure
+
+The contract states that you guys will carry out your duties, you'll use our products.
+carry out
+to do something that you have said you will do or have been asked to do
+
+A Contracting State may specify in accordance with Article 57
+contract states
+state which has consented to be bound by the treaty, whether or not the treaty has entered into force
+
 
 pick up = all
 get into = all 
@@ -12332,7 +12356,6 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
-
 
 
 
