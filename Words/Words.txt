@@ -11662,7 +11662,17 @@ blast furnace
 furlough
 misspelling
 sternly
-
+------------------------------------------------
+parkland
+cathedral
+coherent
+break off
+rousing
+bulge
+cuff
+couch
+damper  
+timid
 
 
 
@@ -12414,6 +12424,30 @@ a period of substantial failure or decline.
 She was dull right through the preseason, but all of a sudden she hammered in a new world record.
 hammered
 to defeat somebody very easily
+
+Nothing can make up for the loss of a child.
+make up for
+(SYNONYM compensate)to do something that corrects a bad situation
+
+What I intended to do. Is to make things up and try to run away
+make up
+to invent a story, etc., especially in order to trick or entertain somebody
+
+Stupid you're so good at picking out sound from the blackground but, you can't understand what Joe means.
+pick out
+to recognize somebody/something from among other people or things
+
+The damper and soft pedals are capable of continuous detection.
+damper 
+a device for reducing mechanical vibration, in particular a shock absorber on a motor vehicle.
+
+Funding will be awarded on an annual basis.
+awarded
+to make an official decision to give something to somebody as a payment, prize, contract, etc.
+
+There have been large cuts in government funding for scientific research.
+Funding
+money for a particular purpose; the act of providing money for such a purpose
 
 
 
