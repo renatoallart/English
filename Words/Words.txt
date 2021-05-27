@@ -11770,7 +11770,13 @@ perchance
 seeping out
 roam
 meager
-evict 
+--------------------------------------------------
+evict
+conditioned
+immunize
+cash grab
+dig into
+ 
 
 
 This didn't come from a gut felling right?
@@ -11875,6 +11881,14 @@ I can't make up for a lack of skill.
 make up for
 to provide something good to balance or reduce the bad effects of damage, loss, etc.
 
+You wouldn't lump hunters and ordinary humans into the same category would you?
+lump
+to put or consider different things together in the same group, even when they are actually quite different
+
+So we dug into it and found you.
+dig into
+to find out information by searching or asking questions
+
 
 
 pick up = all
@@ -11884,6 +11898,8 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
+
 
 
 
