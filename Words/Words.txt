@@ -11776,7 +11776,13 @@ conditioned
 immunize
 cash grab
 dig into
- 
+------------------------------------------------------
+drawn-out
+monster
+toe-to-toe
+yearn
+longed
+rock bottom 
 
 
 This didn't come from a gut felling right?
@@ -11889,6 +11895,30 @@ So we dug into it and found you.
 dig into
 to find out information by searching or asking questions
 
+She brought about a revolution.
+brought about
+cause something to happen
+
+I longed for the highest place.
+longed
+to want something very much especially if it does not seem likely to happen soon
+
+How do I even put up a decent fight against this monster.
+put up
+to show a particular level of skill, determination, etc. in a fight or contest
+
+The numbers decrease in exchange for destructiveness!
+exchange
+an act of giving something to somebody or doing something for somebody and receiving something in return
+
+A job will be granted after the player's actions have been analyse.
+granted
+used to show that you accept that something is true, often before you make another statement about it
+
+you'll be the one to bring about your own demise
+demise
+death
+nothingness
 
 
 pick up = all
@@ -11898,6 +11928,8 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
+
 
 
 
