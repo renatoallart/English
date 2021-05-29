@@ -11783,7 +11783,13 @@ toe-to-toe
 yearn
 longed
 rock bottom 
-
+-----------------------------------------------------
+gull
+whomp
+play on
+strand = verb
+clothing 
+bring over
 
 This didn't come from a gut felling right?
 gut
@@ -11934,4 +11940,11 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
+He has refrained from criticizing the government in public.
+refrain 
+(SYNONYM desist) ​to stop yourself from doing something, especially something that you want to do
 
+distress 
+
+sniff
+sniff out
