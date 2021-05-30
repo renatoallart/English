@@ -11790,6 +11790,13 @@ play on
 strand = verb
 clothing 
 bring over
+-----------------------------------------------------
+sniff
+sniff out
+
+
+
+
 
 This didn't come from a gut felling right?
 gut
@@ -11946,5 +11953,3 @@ refrain
 
 distress 
 
-sniff
-sniff out
