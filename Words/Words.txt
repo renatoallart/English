@@ -2516,7 +2516,7 @@ as usual
 nut = no sentido de maluco
 speak out
 put on trial
-smarten  up
+smarten up
 drove off
 ravish = no sentido de estrupo
 cut out
@@ -6426,7 +6426,7 @@ salute
 underprivileged
 South Africa
 cemetery
-teleporte
+teleport
 commemorate
 honorary
 prioritized
@@ -11650,7 +11650,6 @@ cuff
 couch
 damper  
 timid
---------------------------------------------------
 wash up
 acres 
 teamwork
@@ -11669,7 +11668,6 @@ subsidiary
 seceded
 adamant
 dwindle
------------------------------------------
 spout nonsense
 commandment
 sit by
@@ -11685,14 +11683,12 @@ shilly-shally
 clay
 landslide
 weight-lifting
-----------------------------------------------
 improvised
 cushions 
 imaginable
 break away
 driftwood
 palmistry
--------------------------------------------
 guzzle
 aspiration
 antibody
@@ -11703,7 +11699,6 @@ dismissal
 decorum
 hewn
 tumble
--------------------------------------------
 put into realization
 pull through
 break in
@@ -11721,14 +11716,12 @@ altar
 propeller
 realization
 misdeed
-------------------------------------------
 gully
 inside
 through and through
 impaled
 nested
 autonomously
------------------------------------------
 senseless
 buttercup 
 cower 
@@ -11742,7 +11735,6 @@ on someone last legs
 chop up
 at short notice
 space out
------------------------------------------
 juggle
 bask
 chiseled
@@ -11752,14 +11744,12 @@ fetch = to be sold for a particular price
 doable
 elongate
 It's a given
-----------------------------------------------
 beat around the bush
 explosively
 contributing
 get out of = to gain or obtain something good from somebody/something
 line up 
 dire
-----------------------------------------------
 tryna
 as though
 play it cool
@@ -11770,38 +11760,32 @@ perchance
 seeping out
 roam
 meager
---------------------------------------------------
 evict
 conditioned
 immunize
 cash grab
 dig into
-------------------------------------------------------
 drawn-out
 monster
 toe-to-toe
 yearn
 longed
 rock bottom 
------------------------------------------------------
 gull
 whomp
 play on
 strand = verb
 clothing 
 bring over
------------------------------------------------------
 sniff
 sniff out
 blackground
--------------------------------------------------------
 frugal
 hold on
 account = verb
 shudder
 shrew
 nothingness
----------------------------------------------------------
 weep
 grief
 grieve
@@ -11813,7 +11797,14 @@ vapour
 a broad question
 overlord
 put up wiyh
-fill in = inform someone more fully of a matter, giving all the details.
+fill in = inform someone more fully of a matter, giving all the details
+----------------------------------------------------------
+contrite
+remorseful
+repentant
+disadvantaged
+unrepentant
+
 
 
 This didn't come from a gut felling right?
@@ -11984,9 +11975,5 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-
-
-
 distress 
-
 
