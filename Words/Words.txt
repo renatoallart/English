@@ -6436,7 +6436,7 @@ laziness
 rushed
 vehemently
 denies
-unploished
+unpolished
 cagey
 injustice
 gunshot 
@@ -6444,7 +6444,7 @@ calendar
 kitchen 
 glimmer
 bird
-commercialalization
+commercialization
 overwhelmingly
 heading
 flunked
@@ -11804,7 +11804,11 @@ remorseful
 repentant
 disadvantaged
 unrepentant
-
+----------------------------------------------------------------
+scarecrow
+secretive
+quick-witted
+excuse = verbo
 
 
 This didn't come from a gut felling right?
@@ -11957,10 +11961,17 @@ He has refrained from criticizing the government in public.
 refrain 
 (SYNONYM desist) ​to stop yourself from doing something, especially something that you want to do
 
-
 the cab driver filled me in on much important economic and sociological data.
 fill in 
 inform someone more fully of a matter, giving all the details.
+
+She sensed his deep emotional distress.
+distress 
+a feeling of great worry or unhappiness; great mental pain
+
+Why did you excuse my clan?
+excuse
+to forgive somebody for something that they have done, for example not being polite or making a small mistake
 
 pick up = all
 get into = all 
@@ -11974,6 +11985,4 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-
-distress 
 
