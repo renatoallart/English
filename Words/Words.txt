@@ -6463,7 +6463,7 @@ unfamiliar
 noisy
 noisier
 all in
-i figured
+figured
 vibe
 smelly
 admission
@@ -11809,6 +11809,20 @@ scarecrow
 secretive
 quick-witted
 excuse = verbo
+---------------------------------------------------
+incomparable
+don
+wave something aside/away
+socialism
+turn somebody in
+superfluous
+sanctum
+viewership
+husk
+trade off
+rattlesnake
+rattle
+
 
 
 This didn't come from a gut felling right?
@@ -11980,7 +11994,6 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
-
 
 
 
