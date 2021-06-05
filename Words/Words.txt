@@ -11822,6 +11822,17 @@ husk
 trade off
 rattlesnake
 rattle
+-----------------------------------------------
+slander
+parliament
+plumped up
+priceless
+gallery
+liege
+quota
+clarify
+clouded
+unattended
 
 
 
@@ -11987,6 +11998,10 @@ Why did you excuse my clan?
 excuse
 to forgive somebody for something that they have done, for example not being polite or making a small mistake
 
+You're sweating profusely, are you felling ill?
+profusely
+in large amounts
+
 pick up = all
 get into = all 
 matter = all
@@ -11994,7 +12009,6 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
-
 
 
 
