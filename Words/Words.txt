@@ -11833,7 +11833,11 @@ quota
 clarify
 clouded
 unattended
-
+-----------------------------------------
+scavenger 
+preconceived
+comprising
+shrunk
 
 
 This didn't come from a gut felling right?
@@ -12002,6 +12006,10 @@ You're sweating profusely, are you felling ill?
 profusely
 in large amounts
 
+But they were just scouts.
+scout
+a person, an aircraft, etc. sent ahead to get information about the enemy’s position, strength, etc.
+
 pick up = all
 get into = all 
 matter = all
@@ -12012,4 +12020,5 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
+shady = seeming to be dishonest or illegal
 
