@@ -6524,7 +6524,6 @@ aghast
 workshop
 agriculture
 toppled
-croquet
 wax
 amendment
 rumble
@@ -6535,7 +6534,7 @@ unwittingly
 enabling
 Indonesia
 enable
-truthin
+truthing
 alienated
 nominated
 wavy
@@ -11804,12 +11803,10 @@ remorseful
 repentant
 disadvantaged
 unrepentant
-----------------------------------------------------------------
 scarecrow
 secretive
 quick-witted
 excuse = verbo
----------------------------------------------------
 incomparable
 don
 wave something aside/away
@@ -11822,7 +11819,6 @@ husk
 trade off
 rattlesnake
 rattle
------------------------------------------------
 slander
 parliament
 plumped up
@@ -11833,20 +11829,21 @@ quota
 clarify
 clouded
 unattended
------------------------------------------
 scavenger 
 preconceived
 comprising
 shrunk
----------------------------------------------
 shady = seeming to be dishonest or illegal
 make it quick
 get with
---------------------------------------------
 bears testimony
 twinkle
-
-
+faction
+--------------------------------------
+glup
+wittingly
+drought
+try me
 
 
 This didn't come from a gut felling right?
@@ -11912,8 +11909,9 @@ It's not budging!
 budge 
 to move slightly; to make something/somebody move slightly
 
-is it because they were called out on a short notice?
+Is it because they were called out on short notice?
 call out 
+to ask somebody to come, especially to an emergency
 
 Prices may be altered without notice.
 at short notice
@@ -12043,6 +12041,26 @@ He's the eldest son and thus heir to the title.
 thus
 as a result of something just mentioned
 
+how did I call out a mosnter like him?
+call out
+to ask somebody to come, especially to an emergency
+
+You must be ready to leave on short notice.
+on short notice
+(SYNONYM moment) a very short period of time
+
+Are you trying me?
+try me
+you are offering to prove yourself when someone has doubted you.
+
+You still throw high kick when you get worked up.
+work up
+​to make somebody/yourself reach a state of great excitement, anger, etc.
+
+The builders are putting in the plumbing and electrics.
+plumbing 
+the system of pipes, etc. that supply water to a building
+
 pick up = all
 get into = all 
 matter = all
@@ -12053,11 +12071,8 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
+fitted 
 
 
-
-
-
-
-
+shite
 
