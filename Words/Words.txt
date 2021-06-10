@@ -6543,7 +6543,7 @@ thrilling
 set = work/task
 leukemia
 marrow
-trnasplant
+transplant
 chemotherapy
 untreatrable
 organically
@@ -8056,7 +8056,6 @@ inquisitive
 delight
 crumple
 wring
-transplant
 consideration
 overtaken
 pull out
@@ -11844,7 +11843,11 @@ glup
 wittingly
 drought
 try me
-
+-------------------------------------------
+shite
+whop
+tackle down
+rush out 
 
 This didn't come from a gut felling right?
 gut
@@ -12061,6 +12064,30 @@ The builders are putting in the plumbing and electrics.
 plumbing 
 the system of pipes, etc. that supply water to a building
 
+She's set a difficult task for herself.
+set /set/
+to give somebody a piece of work to do or a task or target to achieve
+
+The president was overthrown in a military coup.
+overthrow
+to remove a leader or a government from a position of power by force
+
+He was sentenced to death for his part in the attempted coup.
+coup
+a sudden change of government that is illegal and often violent
+
+If Hollis was a double agent then the Crabb affair fits neatly into the jigsaw.
+jigsaw
+​a mysterious situation in which it is not easy to understand all the causes of what is happening; a complicated problem
+
+So I was think of utilizing that trait about him.
+trait
+​a particular quality in your personality
+
+The blouse has a fitted bodice.
+fitted 
+made or shaped to fill a space or to cover something closely or exactly.
+
 pick up = all
 get into = all 
 matter = all
@@ -12071,8 +12098,8 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-fitted 
 
 
-shite
+
+
 
