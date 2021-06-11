@@ -6556,7 +6556,7 @@ tussle
 noun
 gauge
 prohibitive
-anthusiastic
+enthusiast
 wig
 annoy
 steady
@@ -6567,7 +6567,7 @@ snatching
 alleviate
 deity
 tilt
-windening
+winding
 rudely
 roughly
 seagull
@@ -11848,6 +11848,14 @@ shite
 whop
 tackle down
 rush out 
+-------------------------------------------
+compromised 
+moonstruck
+loom
+exorbitant
+clattered
+capital = adjective
+underdog
 
 This didn't come from a gut felling right?
 gut
@@ -12087,6 +12095,10 @@ trait
 The blouse has a fitted bodice.
 fitted 
 made or shaped to fill a space or to cover something closely or exactly.
+
+The telescope is focused on a dense cluster of stars at the edge of the galaxy.
+clusters 
+a group of things of the same type that grow or appear close together
 
 pick up = all
 get into = all 
