@@ -6576,7 +6576,7 @@ bribe
 glossy
 calf
 upsetting
-recrutiment
+recruitment
 exotic
 burger
 rallies
@@ -11856,6 +11856,12 @@ exorbitant
 clattered
 capital = adjective
 underdog
+-------------------------------------------
+described 
+brushed
+swollen
+
+
 
 This didn't come from a gut felling right?
 gut
@@ -12100,6 +12106,18 @@ The telescope is focused on a dense cluster of stars at the edge of the galaxy.
 clusters 
 a group of things of the same type that grow or appear close together
 
+My hand's so much more swollen than before.
+swollen
+​(of a part of the body) larger than normal, especially as a result of a disease or an injury
+
+She's torn a ligament in her right hand.
+torn
+(PAST PARTICIPLE OF tear)to injure a muscle, etc. by stretching it too much
+
+I gess Joe's on another rant today.
+rant
+to speak or complain about something in a loud and/or angry way
+
 pick up = all
 get into = all 
 matter = all
@@ -12107,6 +12125,7 @@ about time
 tough = all
 stir up
 tried = to examine evidence in court and decide whether somebody is innocent or guilty
+
 
 
 
