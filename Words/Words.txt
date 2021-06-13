@@ -6593,7 +6593,7 @@ touristy
 unhappy
 sumptuous
 nun
-swe
+spur = verb
 stitches 
 desperation
 swam
@@ -11341,7 +11341,6 @@ tranquillize
 husk
 sift
 wholemeal
-awe
 underhand
 treadmill
 pick up
@@ -11860,7 +11859,12 @@ underdog
 described 
 brushed
 swollen
-
+----------------------------------------------
+remorse
+footfalls
+trying to
+dilated
+sandals
 
 
 This didn't come from a gut felling right?
@@ -12118,6 +12122,22 @@ I gess Joe's on another rant today.
 rant
 to speak or complain about something in a loud and/or angry way
 
+His speech was a powerful spur to action.
+spur
+a fact or an event that makes you want to do something better or more quickly
+
+It was a quick attack, but it was bearable.
+bearable
+a person or thing that is bearable can be accepted or dealt with // able to be endured.
+
+As the beast became ungry for th thrill to survive.
+thrill to   
+to feel very excited at something
+
+These experiments serve no useful purpose.
+served
+to be useful to somebody in achieving or satisfying something
+
 pick up = all
 get into = all 
 matter = all
@@ -12134,3 +12154,8 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
+I'm tryna understand.
+tryna
+
+
+spent
