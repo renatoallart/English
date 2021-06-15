@@ -11875,6 +11875,9 @@ sandals
 grassland
 wildfire
 sheet = of paper
+---------------------------------------------
+familiar
+impeccable 
 
 
 
@@ -11895,3 +11898,11 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
+
+
+I was you from the beginnig.
+
+
+We're to meet tomorrow at 8:00.
+were to meet
+We are scheduled to meet tomorrow at 8:00.
