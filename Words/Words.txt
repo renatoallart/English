@@ -11527,6 +11527,7 @@ apron
 rap
 go about
 uniquely
+squat
 amiss
 hoodlum
 aside from
@@ -11898,6 +11899,13 @@ tough something out
 court = be involved with girls
 hand sanitizer
 blast off
+------------------------------------------------------
+cab 
+sprunce
+paramedic
+sanworms
+squat = to live in a building or on land which is not yours, without the owner’s permission
+
 
 
 Ongoing serach for missing college student tourists.
@@ -11970,7 +11978,5 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-
-
-
-
+heir
+budget
