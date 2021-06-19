@@ -11905,6 +11905,9 @@ sprunce
 paramedic
 sanworms
 squat = to live in a building or on land which is not yours, without the owner’s permission
+--------------------------------------------------------
+sickle
+noxious
 
 
 
@@ -11961,6 +11964,21 @@ Comb through his room tomorrow while you're cleaning it.
 comb
 to search something carefully in order to find somebody/something
 
+The only way to get into the cabin, is to climb the ladder hanging at the entrance.
+ladder
+a piece of equipment for climbing up and down a wall, the side of a building, etc., consisting of two lengths of wood or metal that are joined together by steps or rungs
+
+Don't swear at her.
+swear
+to use rude or offensive language, usually because you are angry
+
+To be heir to a large fortune.
+heir /er/
+a person who has the legal right to receive somebody’s property, money or title when that person dies
+
+An annual budget of £10 million.
+budget
+the money that is available to a person or an organization and a plan of how it will be spent over a period of time
 
 
 pick up = all
@@ -11975,8 +11993,3 @@ tried = to examine evidence in court and decide whether somebody is innocent or 
 
 
 
-
-
-
-heir
-budget
