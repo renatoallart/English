@@ -11908,7 +11908,10 @@ squat = to live in a building or on land which is not yours, without the ownerâ€
 --------------------------------------------------------
 sickle
 noxious
-
+--------------------------------------------------------
+repetitious 
+screwy 
+lipstick
 
 
 Ongoing serach for missing college student tourists.
@@ -11980,6 +11983,17 @@ An annual budget of Â£10 million.
 budget
 the money that is available to a person or an organization and a plan of how it will be spent over a period of time
 
+The box fitted neatly into the drawer.
+neatly 
+in a way that is tidy and in order; carefully
+
+Many people have criticized the way the government handled the affair.
+affair 
+an event that people are talking about or describing in a particular way
+
+Who will be setting (= writing the questions for) the French exam?
+set /set/
+to give somebody a piece of work to do or a task or target to achieve
 
 pick up = all
 get into = all 
@@ -11987,9 +12001,10 @@ matter = all
 about time
 tough = all
 stir up
-tried = to examine evidence in court and decide whether somebody is innocent or guilty
 
 
 
-
+repetitious 
+screwy 
+lipstick
 
