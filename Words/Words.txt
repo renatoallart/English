@@ -11554,6 +11554,7 @@ remittance
 wassenaar arrangement
 get tongue-tied
 gravitational
+wrap up = complete or conclude something.
 unoccupied
 millionfold
 generic
@@ -11872,17 +11873,13 @@ footfalls
 trying to
 dilated
 sandals
-----------------------------------------------
 grassland
 wildfire
 sheet = of paper
----------------------------------------------
 familiar
 impeccable 
------------------------------------------------
 lair
 mailbox
-------------------------------------------------
 loam
 bountiful
 devoid 
@@ -11899,20 +11896,16 @@ tough something out
 court = be involved with girls
 hand sanitizer
 blast off
-------------------------------------------------------
 cab 
 sprunce
 paramedic
 sanworms
 squat = to live in a building or on land which is not yours, without the owner’s permission
---------------------------------------------------------
 sickle
 noxious
---------------------------------------------------------
 repetitious 
 screwy 
 lipstick
----------------------------------------------------------
 cool off
 lapsed into
 laid-back
@@ -11923,7 +11916,6 @@ boarded up
 steam roll
 whomever
 snub
------------------------------------------------------
 uninspired
 out of spite
 last straw
@@ -11934,6 +11926,21 @@ impure
 hush
 wingding 
 recalled
+------------------------------------------------
+ramshackle
+hyphen
+prune
+Earth-like
+gaudy clothes
+tasteless 
+enzyme
+glider
+wrap up
+dilapidated
+subjugation
+ensue
+giant
+
 
 
 Ongoing serach for missing college student tourists.
@@ -12069,12 +12076,41 @@ There was blanket coverage (= reports everywhere) of the royal divorce.
 coverage
 the reporting of news and sport in the media
 
+Lower tier monster were occupying the cities along with the giants, so evacuation and subjugation had to ensue simultaneously.
+ensue
+to happen after or as a result of another event
+
+tasteless jokes
+tasteless
+offensive and not appropriate
+
+The sculpture seemed tasteless and vulgar to her.
+tasteless
+showing a lack of the ability to choose things that people recognize as attractive and of good quality
+
+He's definitely getting carried away with his strength.
+carry away
+to arouse to a high and often excessive degree of emotion or enthusiasm
+
+His offer was very daring, But it don't coax me.
+coax
+to persuade somebody to do something by talking to them in a kind and gentle way
+
+Joe take this man and wrap up the evacuation.
+wrap up
+complete or conclude something
+
+There are plenty of activities at the resort for the less daring.
+daring
+brave; willing to do dangerous or unusual things; involving danger or taking risks
+
 pick up = all
 get into = all 
 matter = all
 about time
 tough = all
 stir up
+
 
 
 
