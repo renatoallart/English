@@ -3216,9 +3216,9 @@ groceries
 get = receive/obtain
 take = carry/lead
 grand prize
-Tin/Can opener
-Strainer
-Tablecloth
+tin/can opener
+strainer
+tablecloth
 dastardly
 twin
 taste
@@ -11965,6 +11965,25 @@ hallucinate
 sanctimonious
 reservoirs
 use up
+------------------------------------------
+protective 
+trainer 
+put on = to produce or present a play, a show, etc.
+infertile
+break-in
+coral 
+reefs 
+unsettling 
+aggravating
+pigpen
+pen = a small piece of land surrounded by a fence in which farm animals are kept
+imagery
+brilliant
+hopscotch
+solitary 
+succession
+
+
 
 
 
@@ -11999,7 +12018,6 @@ to leave a piece of equipment working
 We're to meet tomorrow at 8:00.
 were to meet
 We are scheduled to meet tomorrow at 8:00.
-
 
 Currently you are freeload, yet.
 freeload
@@ -12181,7 +12199,33 @@ Dancers were loosening up before going on stage.
 lossen up
 to relax your muscles or parts of the body or to make them relax, before taking exercise, etc.
 
+A sheep pen.
+pen
+a small piece of land surrounded by a fence in which farm animals are kept
 
+I just need to myself from aggravating that crazy bastard.
+aggravating
+making an illness or a bad or unpleasant situation worse
+
+Water had spilled out of the bucket onto the floor.
+spills
+(especially of liquid) to flow over the edge of a container by accident; to make liquid do this
+
+Paralysis of both legs
+paralysis
+a loss of control of, and sometimes feeling in, part or most of the body, caused by disease or an injury to the nerves
+
+The local drama club is putting on 'Macbeth'.
+put on 
+to produce or present a play, a show, etc.
+
+A tea strainer.
+strainer 
+a kitchen utensil (= a tool) with a lot of small holes in it, used for separating solids from liquids
+
+The report urged that all children be taught to swim.
+urge
+to advise or try hard to persuade somebody to do something
 
 pick up = all
 get into = all 
@@ -12189,6 +12233,7 @@ matter = all
 about time
 tough = all
 stir up
+
 
 
 
