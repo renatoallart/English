@@ -6737,7 +6737,7 @@ overlapping
 supplier
 reluctantly
 lock up
-turn out right
+turn out all right
 pavement
 texture
 wort
@@ -11992,7 +11992,12 @@ denizen
 inhabitant
 painstakingly
 clad
-
+-------------------------------------------------
+screenwriter
+screenplay 
+reckon
+screen out 
+bouquet
 
 
 
@@ -12256,6 +12261,42 @@ Their capital is all locked up in property.
 lock up/away
 ​to put money into an investment that you cannot easily turn into cash
 
+Those kids are driving me to despair.
+drive
+to make somebody very angry, crazy, etc. or to make them do something extreme
+
+It's this place that dives people insane.
+drive
+to make somebody very angry, crazy, etc. or to make them do something extreme
+
+
+My hand slipped as I was slicing the bread and I cut myself.
+slip
+to slide out of position or out of your hand
+
+It's a tug of war I've no wish to be part of.
+tug-of-war /ˌtʌɡ əv ˈwɔːr/
+situation in which two people or groups try very hard to get or keep the same thing
+
+Flames devoured the house.
+devour 
+(SYNONYM engulf) to destroy somebody/something
+
+Mark and Jenny were growing closer every day.
+grow
+to begin to have a particular quality or feeling over a period of time
+
+A carton of cigarettes.
+carton
+a large container in which goods are packed in smaller containers
+
+He was extremely tired but sleep eluded him.
+eluded 
+if something eludes you, you are not able to achieve it, or not able to remember or understand it
+
+She slipped out of the house before the others were awake.
+slip 
+(SYNONYM creep) to go somewhere quickly and quietly, especially without being noticed
 
 
 pick up = all
@@ -12264,7 +12305,6 @@ matter = all
 about time
 tough = all
 stir up
-
 
 
 
