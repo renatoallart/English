@@ -11998,7 +11998,15 @@ screenplay
 reckon
 screen out 
 bouquet
-
+--------------------------------------------
+fermented 
+distilled 
+gas-fired
+faulty 
+defective
+via
+stud
+precedent
 
 
 Ongoing serach for missing college student tourists.
@@ -12298,6 +12306,30 @@ She slipped out of the house before the others were awake.
 slip 
 (SYNONYM creep) to go somewhere quickly and quietly, especially without being noticed
 
+The family was short of even the bare necessities of life.
+bare
+just enough; the most basic or simple
+
+I'm afraid I'm a little short (= of money) this month.
+short
+not having enough of something; being without something
+
+A gas-fired power station.
+gas-fired
+using gas as a fuel
+
+The accident was caused by a faulty signal.
+faulty 
+(SYNONYM defective) not perfect; not working or made correctly
+
+The team suffered a major setback when their best player was injured.
+setbacks
+a difficulty or problem that delays or prevents something, or makes a situation worse
+
+He was a big, strong guy but short on brains.
+short
+not having enough of a particular quality
+
 
 pick up = all
 get into = all 
@@ -12305,6 +12337,10 @@ matter = all
 about time
 tough = all
 stir up
+
+
+
+
 
 
 
