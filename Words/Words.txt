@@ -11926,7 +11926,6 @@ impure
 hush
 wingding 
 recalled
-------------------------------------------------
 ramshackle
 hyphen
 prune
@@ -11940,7 +11939,6 @@ dilapidated
 subjugation
 ensue
 giant
--------------------------------------------------
 clear out
 hang about 
 doorstep
@@ -11952,7 +11950,6 @@ parenthood
 dimmed
 take the cake
 collectors 
--------------------------------------------------------
 pat
 plague
 pre-record
@@ -11965,7 +11962,6 @@ hallucinate
 sanctimonious
 reservoirs
 use up
-------------------------------------------
 protective 
 trainer 
 put on = to produce or present a play, a show, etc.
@@ -11982,7 +11978,6 @@ brilliant
 hopscotch
 solitary 
 succession
------------------------------------------------------
 slurp
 take out
 all out
@@ -11992,13 +11987,11 @@ denizen
 inhabitant
 painstakingly
 clad
--------------------------------------------------
 screenwriter
 screenplay 
 reckon
 screen out 
 bouquet
---------------------------------------------
 fermented 
 distilled 
 gas-fired
@@ -12007,7 +12000,6 @@ defective
 via
 stud
 precedent
--------------------------------------------------------
 stripe
 skip
 buster
@@ -12015,7 +12007,6 @@ sweetheart
 cartridge
 braise
 gruesome
----------------------------------------------
 aught 
 practicability
 subtract
@@ -12044,8 +12035,23 @@ firmly
 for a change
 get a grip
 off someone go
-blue eyes = having or representing childlike innocence.
-
+blue eyes = having or representing childlike innocence
+--------------------------------------------------------------------------
+flop =  to be a complete failure
+upswing
+accompanied 
+mercantilism
+protectionist 
+henhouse
+mincemeat
+flop
+figment
+unsavory
+keener
+kinner
+I'm spent
+lewd
+skeevy
 
 
 
@@ -12393,10 +12399,6 @@ matter = all
 about time
 tough = all
 stir up
-
-
-
-
 
 
 
