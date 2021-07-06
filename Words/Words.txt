@@ -6862,12 +6862,12 @@ United Kingdom
 harbour 
 lenses
 centuries
-milleniia
+millennia
 abusing
 visceral
 twiddling
 thumbs
-knucle
+knuckle
 emotional
 rationality
 uncompromising
@@ -12072,7 +12072,14 @@ ballots
 stimulus
 out of shape
 hood = the metal part over the front of a vehicle, usually covering the engine
-
+------------------------------------------
+reasonableness
+calling card 
+be out cold
+carted
+get to the bottom of
+test something out
+hunch = a feeling that something is true even though you do not have any evidence to prove it
 
 
 
@@ -12473,12 +12480,49 @@ I could tell her arm was broken by the way it was sticking out to the right at s
 stick something out
 to project, protrude, or extend in some direction.
 
+I just found the card lying around, and wanted to test it out.
+test something out
+(try something out)to try something out; to test something to see if it works.
+
+I'll be the one to get to the bottom of this! I'll anyone who dares get in my way!
+get to the bottom of
+find an explanation for (a mystery).
+
+There's a $5.000 reward to anyone who can uncover the mystery behind Moon!
+uncover
+to discover something that was previously hidden or secret
+
+I've finally got a lead to discoverring the truth behind Moon's urban myth!
+lead
+a piece of information that may help to find out the truth or facts about a situation, especially a crime
+
+When we were all passed out they carted us over here.
+carted
+to carry something in a cart or other vehicle
+
+I was blinded by those two thugs who were after the calling card.
+blinded
+to make it difficult for somebody to see for a short time
+
+Both her face and clothes were coated in sand, her body was bruised and battered.
+battered
+attacked violently or repeatedly and injured
+
+No good! She's out cold.
+be out cold
+If someone is out cold, they are unconscious or sleeping very heavily
+
+She abused her position as principal by giving jobs to her friends.
+abuse
+to use power or knowledge unfairly or wrongly
+
 pick up = all
 get into = all 
 matter = all
 about time
 tough = all
 stir up
+
 
 
 
