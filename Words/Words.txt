@@ -7291,7 +7291,7 @@ wonderland
 tender
 porn
 tadpole
-girlriend
+girlfriend
 protection
 knucklehead
 pregnancies
@@ -11363,6 +11363,7 @@ scepticism
 nut = a small piece of metal
 fibre
 clean-shaven
+grope =  to touch somebody sexually, especially when they do not want you to
 inconsiderate
 appetizer
 turbulence
@@ -11665,6 +11666,7 @@ wash up
 acres 
 teamwork
 jewish
+truck = to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat
 mint
 to do the dishes
 push up
@@ -12105,10 +12107,13 @@ recoil
 coolly 
 titleholder
 truck = to cover somebody with something so that they are warm and comfortable
-truck = to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat
 brand = a particular type or kind of something
 on a whim = because of a sudden decision
-
+---------------------------------------------------------------------------
+trimmed 
+flabby 
+hung up
+grope = to try and reach a place by feeling with your hands because you cannot see clearly
 
 
 
@@ -12624,12 +12629,55 @@ Quit doubting me already!
 quit
 to stop doing something
 
+She described how he had groped her whenever they were alone.
+grope
+to touch somebody sexually, especially when they do not want you to
+
+As long as you're hung up on schedules you'll never get a grildfriend.
+hung up
+to be very worried about somebody/something; to be thinking about somebody/something too much
+
+this concert was on me, celebrating your safe return home!
+on me
+"On me" sounds like you want to pay for it
+
+I can't get out of the habit of waking at six in the morning.
+get out of
+to stop having a particular habit
+
+The police finally got a confession out of her.
+get out of
+​to persuade somebody to tell or give you something, especially by force
+
+gloves trimmed with fur
+trimmed 
+to decorate something, especially around its edges
+
+Parents are always anxious for their children to get on.
+get on 
+​(get along) to be successful in your career, etc.
+
+We promised we'd go—we can't get out of it now.
+get out of
+​to avoid a responsibility or duty
+
+Together with Joe, come leap through time. 
+leap
+to jump high or a long way
+
+It's actually a power that everyone has, but just lies dormant.
+lie
+to be, remain or be kept in a particular state
+
 pick up = all
 get into = all 
 matter = all
 about time
 tough = all
 stir up
+
+
+
 
 
 
