@@ -6948,7 +6948,7 @@ roller
 coaster
 certificate
 realist
-romancticist
+romanticist
 confirmed
 adverse
 chill
@@ -12124,6 +12124,14 @@ vitality
 rubble
 overtax
 sore loser
+------------------------------------
+cantaloupe
+domineering
+swallow = a small bird
+loaded = rich 
+flap your lips
+cuffed
+chocaholics
 
 
 Ongoing serach for missing college student tourists.
@@ -12698,6 +12706,14 @@ Beacuse it was just too unbearable to watch
 unbearable
 (SYNONYM intolerable) too painful, annoying or unpleasant to deal with or accept
 
+You're pretty loaded, huh?
+loaded
+very rich
+
+Papa rented out his condo for my personal use, so I live by myself.
+rent out
+grant the services of or the temporary use of, for a fee
+
 pick up = all
 get into = all 
 matter = all
@@ -12705,6 +12721,26 @@ about time
 tough = all
 stir up
 
+
+
+
+all set
+
+all set? then let's go!
+all set
+all set is "completely ready" or "wholly prepared," or—to put it another way—"in the proper state for some purpose, use, or activity
+
+nail down
+welled up
+make a move on somebody
+
+You batter nail down a decent job first
+nail down
+to find out or identify (something)
+
+How dare you make a move on my woman! i'll rip you limb from limb, bastard.
+make a move on somebody
+to try to start sexual activity with someone
 
 
 
