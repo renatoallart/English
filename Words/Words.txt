@@ -11924,7 +11924,6 @@ lapsed into
 laid-back
 skyscraper
 escalator
-skyscraper
 boarded up
 steam roll
 whomever
@@ -12149,7 +12148,17 @@ come in handy
 augment
 fend for yourself
 from the beginnig
-
+-------------------------------------------------
+spouting = to speak a lot about something; to repeat something in a boring or annoying way
+derive
+ceded
+idly
+airhead
+attention
+imaginative
+clouded = to show that you feel sad, afraid, angry, etc.; to make somebody look sad, afraid, angry, etc.
+strain = to make an effort to do something, using all your mental or physical strength
+pith
 
 
 
@@ -12162,6 +12171,29 @@ this cover page comes in handy.
 come in handy
 to be useful
 
+That's right, we nees some way to divert its attention, even if just for a short time.
+divert
+(SYNONYM distract) to take somebody’s thoughts or attention away from something
+
+I was spouting that nonsense when I couldn't even do a cart-wheel.
+spouting 
+to speak a lot about something; to repeat something in a boring or annoying way
+
+I ain't the type to sit there idly and watch a dangerous situation pass.
+idly
+without any particular reason, purpose or effort; doing nothing
+
+C'mon! Forget about refilling your stupid toy and get down here!
+refilling 
+to fill something again
+
+I say we wrap this up.
+wrap up
+(SYNONYM finish) usually used as an order to tell somebody to stop talking or causing trouble, etc.
+
+Employing two type of Psi simultaneously cause huge strain on the user.
+strain
+to make an effort to do something, using all your mental or physical strength
 
 
 
@@ -12177,19 +12209,6 @@ tough = all
 stir up
 
 
-
-
-
-
-
-
-
-attention
-clouded = to show that you feel sad, afraid, angry, etc.; to make somebody look sad, afraid, angry, etc.
-
-That's right, we nees some way to divert its attention, even if just for a short time.
-divert
-(SYNONYM distract) to take somebody’s thoughts or attention away from something
 
 
 
