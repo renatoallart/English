@@ -9767,7 +9767,7 @@ consign
 officiated 
 recycling 
 declared 
-metiiculous
+meticulous
 larvae
 immaculate
 snowfall
@@ -15291,8 +15291,16 @@ professed
 let go from job = (SYNONYM fired) when an employer uses the term "let go" to describe a job termination, it means you are losing your position because of company needs, not because of your personal job performance
 taken aback 
 spew = to vomit (= bring food from the stomach back out through the mouth) 
-
-
+--------------------------
+severance 
+unkempt 
+sweeper
+hit =  to have a bad effect on somebody/something
+dying out 
+indebted
+flagship = the best or most important thing owned or produced by a particular organization
+frowing
+pent-up
 
 
 ---------------------------------------> Phrases <--------------------------------------------------
@@ -15862,9 +15870,52 @@ A grain of wheat that doesn't die, must be felled by my hands.
 felled
 (P.T of fall) to cut down a tree
 
+Young people who've their whole lives ahead of them are dying out.
+dying out
+to die one after another until few or none are left. to become extinct, esp after a period of gradual decline
+
+U may call me bald now, but it'll happen to u too once u hit 30.
+hit
+to reach a particular level
+
+That's "useless unkempt" Joe.
+unkempt
+(SYNONYM dishevelled)(especially of somebody’s hair or general appearance) not well cared for; not neat or tidy
+
+I've heard of him then, he's the bald galaxy sweeper
+sweeper
+a person whose job is to sweep something
+
+The river burst its banks after heavy rain.
+bank
+the side of a river, canal, etc. and the land near it
+
+Although I poured it carefully, I still managed to spill some.
+poured
+to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle
+
+She poured out her troubles to me over a cup of coffee.
+poured out
+(RELATED NOUN outpouring) to express your feelings or give an account of something, especially after keeping them or it secret or hidden
+
+she was frantic with worry
+frantic
+wild or distraught with fear, anxiety, or other emotion
+
+Pent-up frustration.
+pent-up
+​(of feelings, energy, etc.) that cannot be expressed or released
+
 ---------------------- Today  --------------------------------
 
 
+
+
+
+
+U're this arrogant of a kid. and I won't u baldie for a kid.
+
+I won't take u baldie for a kid
 
 
 
