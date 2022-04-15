@@ -9830,7 +9830,7 @@ craftsmen
 side with
 detox
 goggles
-reflectiive
+reflective
 hunch = a feeling that something is true even though you do not have any evidence to prove it
 pull out = ​an act of taking an army away from a particular place; an act of taking an organization out of a system
 sorceress
@@ -15312,7 +15312,11 @@ lay siege to
 scoff 
 gullibility
 good and dandy 
-
+----------------------------------------------------
+disapprovingly
+carbon-neutral
+pheasant
+arrant
 
 
 
@@ -15966,8 +15970,11 @@ U insolent whelp! how dare u scoff a generous offer.
 scoff 
 (SYNONYM mock) to talk about somebody/something in a way that makes it clear that you think they are stupid or silly
 
----------------------- Today  --------------------------------
+Peace? Hope? To promote non-violence? To endure the pain? What arrant nonsense!
+arrant
+used to emphasize how bad something/somebody is
 
+---------------------- Today  --------------------------------
 
 
 
@@ -16065,8 +16072,6 @@ u need spending 20% working on ur network!
 who's the 1?
 
 u need spending 10% working on ur branding!
-
-
 
 
 
