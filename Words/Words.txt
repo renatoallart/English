@@ -15294,7 +15294,6 @@ indebted
 flagship = the best or most important thing owned or produced by a particular organization
 frowing
 pent-up
---------------------------------------------------
 bum
 thawing
 sawing
@@ -15306,24 +15305,26 @@ thrown out
 teeming
 foolproof
 unappealing
-----------------------------------------------------
 besieged
 lay siege to
 scoff 
 gullibility
 good and dandy 
-----------------------------------------------------
 disapprovingly
 carbon-neutral
 pheasant
 arrant
------------------------------------------------------
 pad = a thick piece of soft material that is used, for example, for cleaning or protecting something or for holding liquid
 sprained
 joystick
 topless
 mibbling
 unneeded
+------------------------------------------
+wartime
+citizenship
+torch =  a tool for directing a very hot flame onto part of a surface, for example to remove paint
+sunbae
 
 
 
@@ -16000,6 +16001,22 @@ not wearing any clothes on the upper part of the body, especially so that the br
 I can't get the door open—it's completely jammed.
 jammed
 not able to move
+
+U're tired after this?
+after
+later than something; following something in time
+
+Looks like even mad dogs can catch burglars every now and then.
+burglar
+a person who enters a building illegally in order to steal
+
+Why are u still so hung up on this guitar?
+be hung up on/about somebody/something
+to be very worried about somebody/something; to be thinking about somebody/something too much
+
+I enrolled for citizenship.
+enrolled
+to arrange for yourself or for somebody else to officially join a course, school, etc.
 
 ---------------------- Today  --------------------------------
 
