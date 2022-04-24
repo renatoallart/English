@@ -15325,18 +15325,15 @@ joystick
 topless
 mibbling
 unneeded
-------------------------------------------
 wartime
 citizenship
 torch =  a tool for directing a very hot flame onto part of a surface, for example to remove paint
 sunbae
-----------------------------------------------
 failing
 fret
 cuss
 throttle
 violently
---------------------------------------
 do away with
 sirens 
 hypocritical 
@@ -15346,7 +15343,6 @@ pedantry
 do away with
 hot takes
 keep someone's posted
------------------------------------------------
 incongruous
 clunky
 incongruous
@@ -15354,15 +15350,21 @@ throwing off
 resume =  brief written account of personal, educational, and professional qualifications and experience, as that prepared by an applicant for a job.
 composed = calm and in control of your feelings
 grandeur
----------------------------------------------------
 sustenance
 pivotal
---------------------------------------------------
 lecherous
 achy
 lustful
 lascivious
 countervailing
+peddler
+---------------------------------------------------
+stand to again
+stand to lose
+fluctuation
+take stock
+adore 
+suntan
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Please, do away with my shameful existence.
@@ -15457,10 +15459,24 @@ The men, all of them are lecherous beasts.
 lecherous
 (SYNONYM lascivious, lustful)​ showing an unpleasant sexual interest in somebody
 
+Take stock of the inventory then.
+take stock
+review or make an overall assessment of a particular situation, typically as a prelude to making a decision
+
+Don't group me with such lowlifes.
+group
+to gather into a group; to make somebody/something form a group
+
+What'd I stand to again?
+stand to again/lose
+to be in a situation where you can get/lose money or an advantage
+
+This bim (= grenade) will home in on u.
+home in on someone
+to find and move directly toward (someone or something)
+
 
 ---------------------- Today  --------------------------------
-
-
 
 
 
