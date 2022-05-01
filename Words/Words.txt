@@ -9937,7 +9937,7 @@ call out
 scrape
 outbreak
 monsterization
-evoluntionary
+evolutionary
 civic
 secluded
 clarinet
@@ -15402,7 +15402,9 @@ prosecuted
 acutely 
 be thronged with
 bale
-
+-------------------------------------------------
+underhanded
+-ization
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15590,6 +15592,22 @@ Online, they're unified by their own laws, currency and language, working togeth
 unified
 to join people, things, parts of a country, etc. together so that they form a single unit
 
+Using such an underhanded tactic to kill me, that's not how u wanna win.
+underhanded
+​secret and dishonest
+
+If it's doable u'll help right?
+doable
+able to be done
+
+he always towering over me!
+tower over someone
+to be much taller than (someone or something) 
+
+Voting should be a matter of civic duty.
+civic
+connected with the people who live in a town or city
+
 
 
 ---------------------- Today  --------------------------------
@@ -15597,6 +15615,11 @@ to join people, things, parts of a country, etc. together so that they form a si
 
 
 
+
+
+The monks secluded themselves from the rest of society
+secluded
+to keep yourself/somebody away from contact with other people
 
 Mom, when do ever I get to eat lunches that u make?
 get = have
