@@ -80,8 +80,8 @@ duck
 arm
 bleeding
 caliber
-carthenon
-wordship
+parthenon
+worship
 vast
 beyond
 ominous
@@ -93,7 +93,7 @@ corpse
 remained
 when
 although
-squasing
+squashing
 approaching
 pattern
 wishes
@@ -115,7 +115,7 @@ wrong
 predetermined
 motions
 kept
-dyng
+dying
 may
 least
 rash
@@ -144,7 +144,7 @@ betrayals
 glad
 lying
 courage
-superprise
+super price
 inspectors
 impede
 most
@@ -165,13 +165,12 @@ unread
 couple
 figure
 perhaps
-cudere
 towards
 struggled
 without
 stench
 afford
-ligth
+light
 bought
 weighted
 slaughtered
@@ -185,7 +184,7 @@ scales
 lacking
 childishly
 brag
-pressring
+pressuring
 squeezes
 yield
 overwhelm
@@ -201,11 +200,11 @@ sunset
 discharged
 fellow
 how 
-horrifyng
+horrifying
 themselves
 I would change
 aches
-boradcast
+broadcast
 destructiveness
 chiseled
 folding
@@ -230,7 +229,7 @@ inherit
 friction
 avoided
 seat
-leaftovers
+leftovers
 unrealistic
 refuse
 reach
@@ -245,12 +244,12 @@ department
 handicap
 postponing
 retirement
-taugth
+taught
 lack
 both
 cuties
 made
-nauisance
+nuisance
 inflicted
 wreck
 depression
@@ -272,7 +271,7 @@ graze
 lump
 ordinary
 category
-babblemouth
+blabbermouth
 depth
 wail
 echoed
@@ -326,12 +325,12 @@ grouped
 summoning
 granted
 valley
-derise
+deride
 wander
 path
 thread
 law
-amongs
+amongst
 arise 
 he was
 wouldn't
@@ -343,13 +342,13 @@ aiming
 measures
 imbued
 purchasing
-fullfledged
+full-fledged
 arriving
 despicable
 claiming
 aimed
 spent
-sympath
+sympathy
 vacant
 spot
 ourselves
@@ -469,7 +468,7 @@ diligently
 electricity
 unmodern
 inconvenience
-roasred
+roasted
 ashes
 estimated
 discrimination
@@ -507,7 +506,7 @@ intuitively
 deplete
 telekinesis
 curse
-unnie
+untie
 fairly 
 encountered
 frustrating
@@ -515,7 +514,7 @@ wavelength
 prideful
 maintain
 swoop
-annikilate
+annihilate
 grinned
 devour
 climbing
@@ -539,7 +538,7 @@ surpassing
 behalf
 showed
 middle
-revelead
+reveled
 entrust
 ported
 surface
@@ -568,7 +567,7 @@ rooted
 deeply
 annihilated
 permit
-shemaless
+shameless
 optimistic
 showing
 constantly
@@ -693,13 +692,13 @@ meanwhile
 deployed
 duty
 opt
-reassureance
+reassurance
 accomplish
 perish 
 haphazardly
 darkened
 abandoning
-preasants
+peasants
 chambers
 nearby
 those
@@ -710,7 +709,7 @@ newbie
 bashed
 rely
 stink
-guestmating
+guestimating
 breached
 sinister
 entity
@@ -746,7 +745,7 @@ confident
 collected
 clearly
 witnessing
-belived
+believed
 reckless
 faith
 grass
@@ -799,7 +798,7 @@ credit
 considered
 directors 
 tight
-realised
+realized
 intercessor
 toxic
 operation
@@ -813,7 +812,6 @@ improve
 surround
 withstand
 competitors
-concorrentes
 spoken
 notices
 pronounced 
@@ -929,7 +927,7 @@ southeast
 promise
 poisonous
 countless
-interwined
+intertwined
 bait
 which
 locate
@@ -1278,7 +1276,7 @@ hell
 trace
 thought
 though
-glomy
+gloomy
 gave
 sorta
 bunch
@@ -2421,7 +2419,7 @@ weep
 went past
 rear = no sentido de criar
 charge = no sentido de partir pra cima
-remined of = no sentido de lembrança
+remained of = no sentido de lembrança
 stick = no sentido colocar
 slush fund
 fill out
@@ -15405,6 +15403,21 @@ bale
 -------------------------------------------------
 underhanded
 -ization
+---------------------------
+pliable
+hubbed up
+entitled
+weed
+sturgeon
+bulky
+whirled
+dapper
+coincide
+newer
+bail
+rancid
+patch someone through
+dust = to remove dirt from somebody/something/yourself with your hands or a brush
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15608,6 +15621,33 @@ Voting should be a matter of civic duty.
 civic
 connected with the people who live in a town or city
 
+We can't bail in front of everyone!
+bail 
+money that somebody agrees to pay if a person accused of a crime does not appear at their trial. When bail has been arranged, the accused person is allowed to go free until the trial.
+
+I patched her through to customer service.
+patch someone through
+to connect someone to a phone number or network
+
+She dusted some ash from her sleeve.
+dusted
+to remove dirt from somebody/something/yourself with your hands or a brush
+
+She attended lectures only sporadically.
+sporadically
+(SYNONYM intermittently) occasionally or at intervals that are not regular
+
+The monks secluded themselves from the rest of society
+secluded
+to keep yourself/somebody away from contact with other people
+
+Joe, for u how often is the only choice and killing people coincides.
+coincides 
+(of two or more events) to take place at the same time
+
+A whole new whirled(= new troubles).
+whirled
+(SYNONYM reel) if your mind, thoughts, etc. whirl, you feel confused and excited and cannot think clearly
 
 
 ---------------------- Today  --------------------------------
@@ -15615,11 +15655,10 @@ connected with the people who live in a town or city
 
 
 
+u hubbed up(= marriage)?
+hubbed up
 
 
-The monks secluded themselves from the rest of society
-secluded
-to keep yourself/somebody away from contact with other people
 
 Mom, when do ever I get to eat lunches that u make?
 get = have
