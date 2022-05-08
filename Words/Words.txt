@@ -15454,6 +15454,10 @@ miffed
 balk
 pescatarian
 av actress
+----------------------------------
+parody
+priesthood
+round up
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15757,10 +15761,40 @@ Could you run off twenty copies of the agenda?
 run off
 ​to copy something on a machine
 
+u gave it ur all though, right?
+though
+despite the fact that
+
+We're of the priesthood.
+priesthood
+the job or position of being a priest
+
+Just talking? Arguing more like it.
+more like
+used to give what you think is a better description of something
+
+She’ll always help you if you’re in a spot.
+in a (tight) spot/corner
+in a difficult situation
+
+His glasses were smeared.
+smeared
+to make something dirty or greasy
+
+I'm sorry to be the bearer of bad news.
+bearer
+a person who brings a message, a letter, etc.
+
+The ones who betrayed me, one day I'll find a way to round them all up and kill them all.
+round up
+​to find and gather together people, animals or things
+
+In the end, they're all selfish bastard spouting their bullshit!
+spout
+to speak a lot about something; to repeat something in a boring or annoying way
+
 
 ---------------------- Today  --------------------------------
-
-
 
 
 
@@ -15856,6 +15890,7 @@ u need spending 20% working on ur network!
 who's the 1?
 
 u need spending 10% working on ur branding!
+
 
 
 
