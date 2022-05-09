@@ -10067,7 +10067,7 @@ clip
 clasp
 cucumber
 unbreakable
-timelap
+time lapse
 falter
 ponder
 unconcealed
@@ -15373,7 +15373,6 @@ snarl
 snarl = to speak in a rough, low, angry voice
 trunk = a large, strong box with a lid (= cover), used for storing or transporting clothes, books, etc.
 live up to
---------------------------------------------
 appeal = to attract or interest somebody
 wax and wane
 scheme = an ordered system or arrangement
@@ -15383,7 +15382,6 @@ detested
 dumpster 
 pitch
 shuffle = to mix cards up in a pack of playing cards before playing a game
----------------------------------------------------
 account for
 schtick
 living in guilt
@@ -15391,7 +15389,6 @@ curvy
 whelp
 cuss out
 account for = to know where somebody/something is or what has happened to them, especially after an accident
---------------------------------------------------
 linger
 throng with
 goofy
@@ -15400,10 +15397,8 @@ prosecuted
 acutely 
 be thronged with
 bale
--------------------------------------------------
 underhanded
 -ization
----------------------------
 pliable
 hubbed up
 entitled
@@ -15418,13 +15413,11 @@ bail
 rancid
 patch someone through
 dust = to remove dirt from somebody/something/yourself with your hands or a brush
--------------------------------------------
 cheekbones 
 genial
 affable
 groundwork
 strait-laced
------------------------------------
 grossly
 grimace
 made face
@@ -15441,12 +15434,10 @@ fentanyl
 whomever
 aesthetic
 nick of time
---------------------------------------
 slanted
 home remedies 
 pysh out
 ruse
---------------------------------------
 cut out for sth 
 choad
 bogged down
@@ -15454,10 +15445,11 @@ miffed
 balk
 pescatarian
 av actress
-----------------------------------
 parody
 priesthood
-round up
+round 
+-----------------------------------
+bring something to the fore
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15793,8 +15785,21 @@ In the end, they're all selfish bastard spouting their bullshit!
 spout
 to speak a lot about something; to repeat something in a boring or annoying way
 
+Ever since I become blind I've been more attuned to sounds.
+attuned
+familiar with somebody/something so that you can understand or recognize them or it and act in an appropriate way
+
+Joe's love for his mom, combined with our unreliable selves, set off the switch inside him
+unreliable
+​that cannot be trusted or depended on
+
+Ever since I become blind I've been more attuned to sounds. I can even tell u apart by the unique sound of ur footsteps.
+tell apert
+distinguish or separate one from another
+
 
 ---------------------- Today  --------------------------------
+
 
 
 
