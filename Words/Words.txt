@@ -10120,7 +10120,7 @@ tanker
 welding
 stick around
 constipated
-pessomistic
+pessimistic
 sorted
 chubby
 dorky
@@ -15464,6 +15464,14 @@ flying saucer
 jabber
 authorize
 sugar cane
+--------------------------------------
+ill-kempt
+legal pad 
+coterie 
+rely on
+leeching
+roll out
+apathy
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15866,12 +15874,38 @@ I'm sick of that joke; cut it out, can't you?
 cut it out
 used to ask someone to stop doing or saying something that is annoying or offensive
 
+Bill and Frank geeked out over computer stuff for a bit.
+geeked
+to do or discuss computer tasks with great enthusiasm and attention to technical detail
+
+We chatted and geeked about pop culture we both like.
+geek
+to be or become extremely excited about something, especially something that only a few people are interested in
+
+These days we rely heavily on computers to organize our work.
+rely on
+to need or depend on somebody/somethin
+
+He can't be relied on to tell the truth.
+relied on
+to trust or have faith in somebody/something
+
+She was delighted by the news of the wedding.
+delighted
+​very pleased
+
 ---------------------- Today  --------------------------------
-ill-kempt
 
 
 
 
+
+
+Do u have a coterie of supervillains?
+coterie
+a small group of people who have the same interests and do things together but do not like to include others
+
+I dread waking up to his memories 
 
 
 
