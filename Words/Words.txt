@@ -10168,7 +10168,7 @@ brighter
 on my own
 blink
 midwife
-fiding
+finding
 separation
 displeased
 go over
@@ -15448,9 +15448,7 @@ av actress
 parody
 priesthood
 round 
------------------------------------
 bring something to the fore
----------------------------------
 via
 self-quarantine
 holistic
@@ -15459,12 +15457,10 @@ stud
 penmanship
 rhetorical
 bigots
---------------------------------------
 flying saucer
 jabber
 authorize
 sugar cane
---------------------------------------
 ill-kempt
 legal pad 
 coterie 
@@ -15472,18 +15468,17 @@ rely on
 leeching
 roll out
 apathy
----------------------------------------
 baton
 granted
 losing ground
 mated = to put your opponent in a position in which they cannot prevent their king (= the most important piece) being captured and therefore lose the game
 cozying up
 dread to think
--------------------------------------------
 scalp
 subducted
 crustal
-
+------------------------------
+half-ass 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Please, do away with my shameful existence.
@@ -15662,6 +15657,10 @@ The children thronged into the hall.
 throng
 ​to go somewhere or be present somewhere in large numbers
 
+He went over the events of the day in his mind (= thought about them carefully).
+went over
+​to study something carefully, especially by repeating it
+
 How many strokes(= pintanda) did it take for u to conceive ur child.
 conceive
 when a woman conceives or conceives a child, she becomes pregnant
@@ -15793,6 +15792,10 @@ despite the fact that
 We're of the priesthood.
 priesthood
 the job or position of being a priest
+
+The news of her promotion went over well with her colleagues.
+went over
+​to be received in a particular way by somebody
 
 Just talking? Arguing more like it.
 more like
@@ -15948,9 +15951,15 @@ to be guided by something; to form an opinion from something
 He goes by the name of King Creole.
 goes by
 to be known or called by a particular name
+
+To beat Joe, I can't half-ass things.
+half-ass 
+to do (something) poorly due to lack of care or effort 
+
+He went over and shook hands with his guests.
+went over
+to move from one place to another, especially when this means crossing something such as a room, town or city
 ---------------------- Today  --------------------------------
-
-
 
 
 
