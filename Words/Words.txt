@@ -15505,13 +15505,26 @@ gender
 crotch 
 nick = to make a small cut in something
 sedge-grass
-offed  =  to kill somebody
+offed = to kill somebody
 coddled
 about-face 
 wed
 wondrous
 twaddle
 roll over
+---------------------------------------
+depressingly
+lithospheric 
+writ of pardon
+dashed
+welt
+surveyors
+manacle
+whittle down
+shed
+with all due deference
+showstopper
+pose
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -15595,9 +15608,28 @@ U may be at the top of the world online, but in the end, u're just a loser who c
 cut in
 (btoom 120) to join in something even when not invited. 
 
+They'll pose a danger to u as well.
+pose a danger
+it is the cause of that problem or danger.
+
+We'll be having u shed ur numbers.
+shed
+to get rid of something that is no longer wanted
+
+I apologize, there's actually one more thing! before we embark we'd like u to whittle down ur numbers
+whittle down
+to reduce the size or number of something
+
+Sorry, I dashed ur expectations.
+dashed
+​used as a mild swear word by some people to emphasize something or to show they are annoyed
+
+Ur swordsmanship is saddled with, Sara is u continue being lost and afraid then the criminals will only suffer as they die.
+saddled with
+to give somebody/yourself an unpleasant responsibility, task, debt, etc.
+
+
 ---------------------- Today  --------------------------------
-
-
 
 
 
