@@ -15535,6 +15535,15 @@ posthaste
 vacillating
 bereft
 erstwhile
+--------------------------------
+dour
+crowing = to talk too proudly about something you have achieved, especially when somebody else has been unsuccessful
+drape
+fraught
+glean
+be on edge
+chalk up
+ailing
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -15666,13 +15675,56 @@ Turn ur erstwhile weakness into a strength.
 erstwhile
 ​former; that until recently was the type of person or thing described but is not any more
 
+He had to face up to his own inadequacies as a father.
+inadequacies
+a weakness; a lack of something
+
+I don't see how u can go on enjoying ur everyday rice, off the neck of the criminals u kill, whatever-emon.
+off
+(hell's paradise ep 7) used to say that something has been removed or become separated
+
+He was a haughty one, always crowing aboit his big estate.
+crowing
+(SYNONYM boast, gloat) to talk too proudly about something you have achieved, especially when somebody else has been unsuccessful
+
+When they started calling mea peerless paragon, the "dragon of the sword"?
+peerless
+(SYNONYM unsurpassed) better than all others of its kind
+
+The couple have no savings except for the equity in their house.
+equity
+the value of a property after all charges and debts have been paid
+
+Sense of inadequacy.
+inadequacy
+a state of not being able or confident to deal with a situation
+
+A society where justice and equity prevail.
+equity
+(SYNONYM fairness) a situation in which everyone is treated equally
+
+The doctors tried everything to keep him alive but to no avail.
+to little/no avail
+with little or no success
+
+I've got a litlle sister. Only one in this world, she was ailing from an incurrable disease, but I didn't even have the money dor the midice.
+ailing
+​ill and not improving
+
+I was aware that the duty was onebe fraught with danger.
+fraught
+filled with something unpleasant
+
+U don't need be so on edge!
+be on edge
+​to be nervous, excited or easily made angry
+
+U must be one dour bastard.
+dour
+giving the impression of being unfriendly and severe
+
 
 ---------------------- Today  --------------------------------
-
-
-
-
-
 
 
 
@@ -15766,6 +15818,7 @@ u need spending 20% working on ur network!
 who's the 1?
 
 u need spending 10% working on ur branding!
+
 
 
 
