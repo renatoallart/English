@@ -10259,7 +10259,7 @@ tent
 scamper
 fare
 hare
-unsheath
+unsheathe
 destitute
 sow
 radish 
@@ -15727,7 +15727,13 @@ giving the impression of being unfriendly and severe
 ---------------------- Today  --------------------------------
 
 
+With such a weak heart she was lucky to come through the operation.
+come through
+(SYNONYM survive) to get better after a serious illness or to avoid serious injury
 
+The bank finally came through with the money.
+came through
+​to successfully do or complete something that you have promised to do
 
 
 Mom, when do ever I get to eat lunches that u make?
