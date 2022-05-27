@@ -10278,10 +10278,10 @@ yummy
 courtship
 before long
 jet
-levely
+levelly
 liveliness
 paddy
-inadvertant
+inadvertent
 workforce
 refer to
 bring up
@@ -12205,7 +12205,7 @@ charge = energy
 plead = present and argue
 condemned
 hereby
-I was today years old
+i was today years old
 veer
 towing = pull hand
 settle into = used to
@@ -13180,7 +13180,7 @@ kiln
 blacken
 recur
 go up in flames
-distastefull
+distasteful
 unused
 go off on a tangent 
 glee
@@ -15497,7 +15497,6 @@ draws near
 toe-to-toe
 sound out
 tangling = a disagreement or fight
------------------------------------
 qualms
 wisdom teeth
 diligent 
@@ -15512,7 +15511,6 @@ wed
 wondrous
 twaddle
 roll over
----------------------------------------
 depressingly
 lithospheric 
 writ of pardon
@@ -15525,7 +15523,6 @@ shed
 with all due deference
 showstopper
 pose
---------------------------------------
 uptight
 enthralled
 downright
@@ -15535,7 +15532,6 @@ posthaste
 vacillating
 bereft
 erstwhile
---------------------------------
 dour
 crowing = to talk too proudly about something you have achieved, especially when somebody else has been unsuccessful
 drape
@@ -15544,6 +15540,25 @@ glean
 be on edge
 chalk up
 ailing
+----------------------------------
+con
+exemplary
+bail
+unyielding
+guidepost
+---------------------------------
+peat
+unintentional
+come to = recover consciousness
+it behoves somebody to do something
+fix =  to provide or prepare something, especially food
+misbegotten
+so to speak
+shoddily 
+mandala
+betroth
+procure
+unimpeachable
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -15723,10 +15738,6 @@ U must be one dour bastard.
 dour
 giving the impression of being unfriendly and severe
 
-
----------------------- Today  --------------------------------
-
-
 With such a weak heart she was lucky to come through the operation.
 come through
 (SYNONYM survive) to get better after a serious illness or to avoid serious injury
@@ -15734,6 +15745,93 @@ come through
 The bank finally came through with the money.
 came through
 ​to successfully do or complete something that you have promised to do
+
+The magistrate's got some stubborn-ass stooge here.
+stooge
+person who is used by somebody to do things that are unpleasant or dishonest
+
+My brother's true strength is how he can change, and it's because he can change, that it always comes to the fore: that unyielding pride of his
+come to the fore
+to be/become important and noticed by people; to play an important part
+
+Have u come to Sara?
+come to
+recover consciousness
+
+I'm fixing us some food.
+fix
+to provide or prepare something, especially food
+
+Speaking of their appearance, they look bizarre. In addition to their alien anatomy, some even have altogether different life-form stitched onto them.
+stitched
+to use a needle and thread to repair, join, or decorate pieces of cloth
+
+They're misbegotten Gods, so to speak.
+misbegotten
+​badly designed or planned
+
+It's as tough we've all been tossed into a distasteful and shoddily made mandala.
+shoddily 
+built, made or designed badly and with not enough care
+
+U're a daughter of the Yamada clan before u're a samurai. Women are obliged to betroth themselves to the next head of the family.
+betroth
+enter into a formal agreement to marry.
+
+Ur skill with the sword are unimpeachable.
+unimpeachable
+that you cannot doubt or question
+
+What's need on this island is battle prowess.
+prowess 
+great skill at doing something
+
+It all hinges on securing an escape route.
+hinge on
+​(of an action, a result, etc.) to depend on something completely
+
+An educated workforce.
+workforce
+all the people in a country or an area who are available for work
+
+The liveliness of a big city.
+liveliness
+the fact of being full of interest or excitement
+
+A precipitous decline in exports.
+precipitous
+sudden and great
+
+The news put him in a bit of a paddy.
+paddy
+(SYNONYM temper) a state of being angry or in a bad mood
+
+Any doubts had long since been swept away.
+swept away 
+​to get rid of something completely
+
+Well, that's my holiday plans gone up the spout!
+be/go up the spout
+to be/go wrong; to fail to work or be successful
+
+A precipitous action.
+precipitous
+(SYNONYM hasty) ​done very quickly, without enough thought or care
+
+It'd behoove u not to move yet.
+it behoves somebody to do something
+it is right or necessary for somebody to do something
+
+
+---------------------- Today  --------------------------------
+
+
+
+
+
+
+
+
 
 
 Mom, when do ever I get to eat lunches that u make?
@@ -15824,18 +15922,6 @@ u need spending 20% working on ur network!
 who's the 1?
 
 u need spending 10% working on ur branding!
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
