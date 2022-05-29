@@ -10303,7 +10303,6 @@ reel = noun
 exult
 courteously
 impolitely
-forst
 stick up for
 breweries
 churning
@@ -15572,6 +15571,16 @@ snubbed
 stupefying
 hemoglobin
 impaired
+-------------------------------------------
+vapour trail​
+tipsy
+merry
+allure
+alas
+shrugged off
+flock = a large group of people, especially of the same type
+enchanted = ​placed under a spell (= magic words that have special powers)
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -15899,9 +15908,35 @@ Tamp down ur emotions and take a stance of pure  reationality.
 tamp down
 to reduce the amount, level, size, or importance of something
 
+We paid off our mortgage after fifteen years.
+pay off
+to finish paying money owed for something
+
+The crew were paid off as soon as the ship docked.
+pay off
+​to pay somebody what they have earned and tell them to leave their job
+
+I was merry after only a glass of champagne.
+merry
+(SYNONYM tipsy) slightly drunk
+
+The giant aberrations come flocking
+flock
+a large group of people, especially of the same type
+
+Alas, this worn body can't resist the allure of a good bath.
+allure
+​the quality of being attractive and exciting
+
+According to the legends, it's not monsters that live in the enchanted lands, but the mountain sages.
+enchanted
+​placed under a spell (= magic words that have special powers)
+
+I still haven't shrugged off the hits I toke before.
+shrugged off
+to treat something as if it is not important
 
 ---------------------- Today  --------------------------------
-
 
 
 
