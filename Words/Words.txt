@@ -15639,7 +15639,12 @@ quell
 compelled = to cause a particular reaction
 mewling
 doorstep
-happenstance
+-----------------------------------
+amount to = to add up to something; to make something as a total
+ledger
+inscrutable
+amount to = to be equal to or the same as something
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -16214,7 +16219,33 @@ A button had come off my coat.
 come off
 ​to become separated from something
 
+Our opponents today don't even amount to a warm-up.
+amount to
+to develop into something
+
+The men we knocked out are all upright?
+upright
+(of a person) not lying down, and with the back straight rather than bent
+
+Indeed that man's an inscrutable fellow.
+inscrutable
+(especially of a person's expression) impossible to understand or interpret
+
+The chaos unfurling about us.
+unfurl/ˌʌnˈfɜːrl/
+
+A tale of woe.
+woe
+(SYNONYM misery) great unhappiness
+
+The Red Sox enter the season on a downer.
+downer
+a period of consistent failure
+
 ---------------------- Today  --------------------------------
+
+
+
 
 
 
