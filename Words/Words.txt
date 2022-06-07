@@ -15644,6 +15644,10 @@ amount to = to add up to something; to make something as a total
 ledger
 inscrutable
 amount to = to be equal to or the same as something
+--------------------------------
+sanctums
+rite
+inaminate
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -16242,7 +16246,12 @@ The Red Sox enter the season on a downer.
 downer
 a period of consistent failure
 
+Doing this heist at night present a problem.
+heist
+(SYNONYM robbery) ​an act of stealing something valuable from a shop or bank
+
 ---------------------- Today  --------------------------------
+
 
 
 
