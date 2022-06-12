@@ -10559,14 +10559,13 @@ be/get carried away
 stuffing
 slavery
 sufficiently
-chessy
 hood = the metal part over the front of a vehicle
 hand out
 let down
 i'm down
 revile
 catch up on
-take it = can't stand
+can't take sth
 strike = thought
 give oneself away
 what if
@@ -15670,6 +15669,11 @@ meager
 besmirch
 chicanery
 the remainder
+-----------------------------------------
+embezzle
+undaunted
+expulsion
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -16336,17 +16340,28 @@ This doesn't bode well.
 bode well/ill (for sb/sth)
 (SYNONYM augur) to be a good/bad sign for somebody/something
 
+This skirt needs letting down.
+let down /let, daʊn/
+​to make a dress, skirt, coat, etc. longer, by reducing the amount of material that is folded over at the bottom
+
+We let the bucket down by a rope.
+let down /let, daʊn/
+​to let or make something go down
+
+Sara will u accompany us and try to sway Joe?
+sway
+(SYNONYM influence) to persuade somebody to believe something or do something
+
+U forge ur own path undaunted by concerns over reputation.
+undaunted
+(SYNONYM undeterred) ​still enthusiastic and determined, despite difficulties, danger, etc.
+
+The cheif says, he will rescind the expulsion order if u do the right thing and take ur own life.
+expuslsion
+the act of forcing somebody to leave a place; the act of expelling somebody
+
+
 ---------------------- Today  --------------------------------
-
-
-
-
-
-
-
-
-
-
 
 
 
