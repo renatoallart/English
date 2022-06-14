@@ -15713,15 +15713,39 @@ beguile
 inebriated
 pawned
 escapades
+----------------------------
+about-turn 
+guffawing
+inscrutable
+iffy
+condone
+dutifully
 ---------------------------------------> Phrases <--------------------------------------------------
 
+What're u guffawaing about?
+guffawing
+to laugh noisily
+
+Why's Joe always inscrutable?
+inscrutable
+(especially of a person's expression) impossible to understand or interpret
+
+That info we got was kinda iffy!
+iffy
+not certain
+
+I can't condone the execution of an innocent.
+condone
+to accept behaviour that is morally wrong or to treat it as if it were not serious
+
+I couldn't pay back that debt dutifully.
+dutifully
+(SYNONYM obediently) ​doing everything that you are expected to do; in a way that shows respect
 
 
 
 
-
----------------------- Today  --------------------------------
-
+----------------------  Today Words  --------------------------------
 
 
 
@@ -15818,6 +15842,7 @@ u need spending 20% working on ur network!
 who's the 1?
 
 u need spending 10% working on ur branding!
+
 
 
 
