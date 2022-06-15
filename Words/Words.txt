@@ -15670,19 +15670,16 @@ crass
 ambulance-chaser
 stovetop
 egress
---------------------------------------
 pints 
 eke out
 meager
 besmirch
 chicanery
 the remainder
------------------------------------------
 embezzle
 undaunted
 expulsion
 feedback 
------------------------------------------
 big trouble 
 groove = enjoy oneself
 come through
@@ -15713,13 +15710,23 @@ beguile
 inebriated
 pawned
 escapades
-----------------------------
 about-turn 
 guffawing
 inscrutable
 iffy
 condone
 dutifully
+------------------------------------
+chipping away at
+to contend with
+chipping away
+facsimile
+screened = check on or investigate (someone), typically to ascertain whether they are suitable for or can be trusted in a particular situation or job
+straitlaced
+tethered
+normalcy
+drudgery
+ploy
 ---------------------------------------> Phrases <--------------------------------------------------
 
 What're u guffawaing about?
@@ -15742,10 +15749,68 @@ I couldn't pay back that debt dutifully.
 dutifully
 (SYNONYM obediently) ​doing everything that you are expected to do; in a way that shows respect
 
+She gazed into the murky depths of the water.
+murky
+(of a liquid) not clear; dark or dirty with mud or another substance
+
+We also have ur ninja persuers to contend with.
+to contend with
+to deal with (something difficult or unpleasant) 
+
+I haven't the leeway to assist Joe.
+leeway
+(SYNONYM latitude) the amount of freedom that you have to change something or to do something in the way you want to
+
+Sara knows more ninjutsu moves than me, so chipping away won't work.
+chipping away 
+gradually and relentlessly make something smaller or weaker.
+
+I lived a murky facsimile of life.
+facsimile
+an exact copy of something
+
+We endure or die. In this way, th children are screened.
+screened
+check on or investigate (someone), typically to ascertain whether they are suitable for or can be trusted in a particular situation or job
+
+He had a somewhat murky past.
+murky
+(of people’s actions or character) not clearly known and suspected of not being honest
+
+U're  way more straitlaced than u seemed back home.
+straitlaced
+​having strict or old-fashioned ideas about people’s moral behaviour
+
+U were pure danger. An ephemeral being, barely tethered to our mortal plane.
+tethered
+to tie an animal to a post so that it cannot move very far
+
+I couldn't see the value of her struggle, seemed like meaningless drudgery to me.
+drudgery
+hard boring work
+
+This was an effective ploy.
+ploy
+(SYNONYM manoeuvre) ​words or actions that are carefully planned to get an advantage over somebody else
+
+Grind down the opponent's will to fight with sheer brutality.
+grind down
+gradually reduce someone's confidence or strength, especially by harsh or oppressive treatment
 
 
 
 ----------------------  Today Words  --------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -15842,6 +15907,7 @@ u need spending 20% working on ur network!
 who's the 1?
 
 u need spending 10% working on ur branding!
+
 
 
 
