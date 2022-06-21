@@ -8949,7 +8949,7 @@ traveller
 professional 
 lifestyle
 reli
-reli up
+rele up
 goo
 populated
 ill will 
@@ -15758,6 +15758,11 @@ nudge = to reach or make something reach a particular level
 get one's act together
 totaled
 stand up = fail to meet someone for a date without informing them beforehand
+------------------------------------
+disgustingly
+enforcement
+weariness
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15957,12 +15962,24 @@ How dare you—I have never pulled my punches during a fight in my entire career
 pull one's punches 
 to act as if one is punching someone, without making any or much physical contact
 
+He's the one called who's called sucessor, so it's a given that they are gonna crowd over there.
+it's a given
+there are no ifs or ands ot buts about something; it's a sure thing
+
+Looks like all the male teachers are swooning over her.
+swoon 
+to feel very excited, emotional, etc. about somebody that you think is sexually attractive
+
+This school's Mr.Lee is part of the enforcement coalition.
+enforcement
+the act of making people obey a particular law or rule
+
+I wonder if this weariness will subside when I meet him?
+weariness
+extreme tiredness; fatigue
+
 
 ----------------------  Today Words  --------------------------------
-
-
-
-
 
 
 
