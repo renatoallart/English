@@ -15779,6 +15779,12 @@ idolised
 twerp
 get over = to go to some place
 armsling
+---------------------------------------
+splodge
+slogging = to walk or travel somewhere steadily, with great effort or difficulty
+IV drip
+conman
+upfront
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15853,6 +15859,10 @@ gradually reduce someone's confidence or strength, especially by harsh or oppres
 Joe only wanted a speck of praise.
 speck
 ​a very small spot; a small piece of dirt, etc.
+
+Why don't you come over to England in the summer?
+come over (to/from)
+to travel from one place to another, usually over a long distance
 
 She was singled out for criticism.
 singled out
@@ -15930,6 +15940,10 @@ U shattered my resolve and dragged me back toward doubt.
 shattered 
 to suddenly break into small pieces; to make something suddenly break into small pieces
 
+He came over well in the interview.
+come over
+to make a particular impression
+
 I'm the spear. The linchpin of out plan.
 linchpin
 a person or thing that is the most important part of an organization, a plan, etc., because everything else depends on them or it
@@ -16002,10 +16016,31 @@ Get over to rest area on the Tokyo interchange, now.
 get over
 to go to some place
 
+This kid, sticking on like a leech even though he knew this was coming.
+sticking
+to fix something to something else, usually with a sticky substance; to become fixed to something in this way
+
+Tyler found a leech stuck to his leg after he waded in the pond.
+leech
+​a small worm that usually lives in water and that attaches itself to other creatures and drinks their blood. Leeches were used in the past by doctors to remove blood from sick people
+
+Ah sorry for being so upfront. Let's do some introductions first.
+upfront
+(SYNONYM honest, frank) not trying to hide what you think or do
+
+We will email the receipt to you.
+receipt /rɪˈsiːt/
+a piece of paper or an electronic document that shows that goods or services have been paid for
+
+I've been slogging around the streets of London all day.
+slogging
+to walk or travel somewhere steadily, with great effort or difficulty
+
+I can't think what came over me (= I do not know what caused me to behave in that way).
+come over sb
+to affect somebody
 
 ----------------------  Today Words  --------------------------------
-
-
 
 
 
