@@ -10644,7 +10644,7 @@ downhill
 amber
 volcanoes
 unhealthy 
-sweetheat
+sweetheart
 slam dunk
 dribbling
 go through with
@@ -10658,7 +10658,6 @@ muck
 fizzy
 faint-hearted
 pedestrians
-obsene
 courtyard
 heard
 dropout 
@@ -12065,7 +12064,6 @@ precedent
 stripe
 skip
 buster
-sweetheart
 cartridge
 braise
 gruesome
@@ -15749,7 +15747,6 @@ plight
 on the lam
 nunnery 
 wardrobe
------------------------------------
 absentmindedness
 pull one's punches
 maternity
@@ -15758,11 +15755,9 @@ nudge = to reach or make something reach a particular level
 get one's act together
 totaled
 stand up = fail to meet someone for a date without informing them beforehand
-------------------------------------
 disgustingly
 enforcement
 weariness
------------------------------------
 melodramatic
 hit the nail on the head 
 roasted = criticize or reprimand severely
@@ -15770,7 +15765,6 @@ hiatus
 gargle
 undeterred
 undaunted = not intimidated or discouraged by difficulty, danger, or disappointment
----------------------------------------
 sure enough
 fair enough
 scanlating
@@ -15779,7 +15773,6 @@ idolised
 twerp
 get over = to go to some place
 armsling
----------------------------------------
 splodge
 slogging = to walk or travel somewhere steadily, with great effort or difficulty
 IV drip
@@ -15794,6 +15787,10 @@ idly by
 lay up = if somebody is laid up, they are unable to work, etc. because of an illness or injury
 first off
 jaunt off = to go on a short journey for pleasure
+-----------------------------------------
+sparkling
+go apeshit
+pansy = an offensive word for a gay man
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -15995,7 +15992,11 @@ to damage a car very badly, so that it is not worth repairing it
 
 I didn't pull any punches. I told her exactly what I thought of her.
 pull one's punches 
-to hold back in one's criticism. (Usually in the negative. The one's can be replaced with any in the negative.)
+to hold back in one's criticism (Usually in the negative. The one's can be replaced with any in the negative.)
+
+I can't eat this muck!
+muck
+something very unpleasant
 
 How u dare to stand me up?
 stand up
@@ -16096,7 +16097,25 @@ annoyed
 Let's start off with some gentle exercises.
 start off
 to begin by doing or being something
+
+Shit they caught uo so fast! Stop worrying lika a pansy ans just keep driving!
+pansy
+an offensive word for a gay man
+
+The whole city is going apeshit trynna capture that kid!
+apeshit
+​to become extremely angry or excited
+
+Can you wipe the muck off the windows?
+muck
+dirt or mud
+
+
 ----------------------  Today Words  --------------------------------
+
+
+
+
 
 
 
