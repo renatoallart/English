@@ -10662,7 +10662,7 @@ courtyard
 heard
 dropout 
 goner
-waterloon
+waterloo
 torrential
 who cares
 threshold
@@ -15791,6 +15791,12 @@ jaunt off = to go on a short journey for pleasure
 sparkling
 go apeshit
 pansy = an offensive word for a gay man
+------------------------------------------
+cotton Candy
+spot = a small round area that has a different colour or feels different from the surface it is on
+rowdiness
+let the cat out of the bag
+proxy
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -16110,11 +16116,27 @@ Can you wipe the muck off the windows?
 muck
 dirt or mud
 
+The rain's letting up now.
+let up 
+to become less strong
+
+She pulled up a stool next to me.
+stool
+a seat with legs but with nothing to support your back or arms
+
+There'll be no more tolerance of any rowdiness in front og this building!
+rowdiness
+​behaviour that involves making a lot of noise and is likely to cause trouble
+
+My apologies, Cheif. Well the kid just reckless put the pressure on us, ans somehow the cat's out of the bag now.
+let the cat out of the bag
+reveal a secret carelessly or by mistake
+
+I dictate what we do, what more justification or interest do we need?
+dictate 
+to tell somebody what to do, especially in an annoying way
 
 ----------------------  Today Words  --------------------------------
-
-
-
 
 
 
