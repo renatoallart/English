@@ -10745,12 +10745,12 @@ pungent
 what gives?
 thriving 
 stay put
-Dontcha
+doncha
 drowning
 bliss
-to chill out
-Wheels
-Amped
+chill out
+wheels
+amped
 wedded
 herd
 i'm told
@@ -15778,7 +15778,6 @@ IV drip
 conman
 upfront
 broke into
-----------------------------------------
 reaffirmed
 peeved
 rehearsing 
@@ -15786,17 +15785,14 @@ idly by
 lay up = if somebody is laid up, they are unable to work, etc. because of an illness or injury
 first off
 jaunt off = to go on a short journey for pleasure
------------------------------------------
 sparkling
 go apeshit
 pansy = an offensive word for a gay man
-------------------------------------------
 cotton Candy
 spot = a small round area that has a different colour or feels different from the surface it is on
 rowdiness
 let the cat out of the bag
 proxy
--------------------------------------------
 reheat 
 cream sb
 brazenly
@@ -15804,17 +15800,24 @@ roughed up
 commonalities
 clamp down 
 somber
---------------------------------------------
 foster care
 buddy-buddy
 foster care
 flat-out 
 bailed
---------------------------------------------
 peacocks
 apron
 bail out = to escape from a situation that you no longer want to be involved in
 bail out = to rescue somebody from a difficult situation
+---------------------------------------------
+creeping out 
+made ur acquaintance
+cramped together
+wallop
+slice and dice 
+chip = a small flat piece of plastic used to represent a particular amount of money in some types of gambling
+top off 
+about it = to be in agreement with something or wanting to do something
 ---------------------------------------> Phrases <--------------------------------------------------
 
 What're u guffawaing about?
@@ -16210,6 +16213,18 @@ We're getting too much attention. We should just bail out.
 bail out
 to escape from a situation that you no longer want to be involved in
 
+A Blackjack chip.
+chip
+a small flat piece of plastic used to represent a particular amount of money in some types of gambling
+
+U busted out?
+busted out
+to escape from a prison, jail, etc.
+
+The outfit was topped off with a large black hat.
+top off
+to complete something successfully by doing or adding one final thing
+
 ----------------------  Today Words  --------------------------------
 
 
@@ -16219,4 +16234,5 @@ to escape from a situation that you no longer want to be involved in
 
 
 
-Gosu = manga finished
+
+Gosu = finished manga
