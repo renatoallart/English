@@ -10915,12 +10915,12 @@ molten
 leave be
 end on 
 ramble
-unbother
+unbothered
 put out
 guest house
 family-run
 upperclassman
-okei dokie
+okie dokie
 enrol
 bookery
 panting
@@ -15872,6 +15872,20 @@ retrofitted
 have need for
 grow apart from sb
 seggs 
+-----------------------------------------------
+fall flat = fail completely to produce the intended or expected effect
+go rogue
+on end
+caravan
+fetch =  to be sold for a particular price
+adminish
+disown
+keep dog
+too much is as bad as too little 
+trample
+nuisance
+u're such a tool =  stupid or foolish
+think up 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 What're u guffawaing about?
@@ -16443,6 +16457,38 @@ He let us off homework today.
 let off
 to allow somebody not to do something or not to go somewhere
 
+Her jokes fell flat.
+fell flat
+fail completely to produce the intended or expected effect.
+
+He's a bit of a rogue, but very charming.
+rogue
+a person who behaves badly, but despite this is quite attractive
+
+He had lost track of what he was saying and began to ramble.
+ramble
+to talk about somebody/something in a confused way, especially for a long time
+
+Police have put out a description of the man they wish to question.
+put out
+to publish or broadcast something
+
+The rise in interest rates put our estimates out by several thousands.
+put out
+to make a figure, result, etc. wrong
+
+Don't tense up Joe, U'll relax our muscles.
+tensed up
+very nervous and worried and unable to relax because of something that is going to happen
+
+We're a caravan of peddlers.
+peddlers
+a person who in the past travelled from place to place trying to sell small objects
+
+The lord intited u to his birthday party out of kidness, but it seems u've gone mad with despair!
+out of
+indicating the source or derivation of something; from
+
 ----------------------  Today Words  --------------------------------
 
 
@@ -16450,6 +16496,5 @@ to allow somebody not to do something or not to go somewhere
 
 
 
-Gosu = finished manga
 
 

@@ -1,3 +1,105 @@
+
+
+
+10/7/2022
+
+Pipes covered with rust.
+rust /rʌst/
+​a red-brown substance that is formed on some metals by the action of water and air
+
+A polished haft which allows for a quick and sly manipulation of the deadly tool.
+haft /hæft/
+​the handle of a knife or weapon
+
+You sly old devil! How long have you known?
+sly /slaɪ/
+acting or done in a secret or dishonest wa  y, often intending to trick people
+
+We're constantly upgrading our software to meet customers' needs.
+upgrade /ˈʌpɡreɪd/
+to make a machine, computer system, etc. more powerful and efficient; to start using a new and better version of a machine, system, etc.
+
+They spent hours just fiddling around when they should have been working.
+fiddling around /ˈfɪdlɪŋ, əˈraʊnd/
+​to spend your time doing things that are not important
+
+We're all gonna the pub after work.
+pub /pʌb/
+a building where people go to drink and meet their friends. Pubs serve alcoholic and other drinks, and often also food.
+
+He was convicted of fraud.
+convicted /kənˈvɪktɪd/
+​to decide and state officially in court that somebody is guilty of a crime
+
+a rogues’ gallery (= a collection of pictures of criminals)
+rogue /rəʊɡ/
+(SYNONYM rascal) a man who is not honest or moral
+
+A stream of molten lava.
+molten /ˈməʊltən/
+(of metal, rock or glass) heated to a very high temperature so that it becomes liquid
+
+Why can’t you stop texting me and just leave me be?
+leave sb be /liːv, ˈsʌmbədi, bi/
+(SYNONYM leave/let somebody alone) to stop annoying somebody or trying to get their attention
+
+Seen end on, their sharp, rocky summits point like arrows.
+end on /end, ɒn/
+with the furthest point of an object facing toward one
+
+Slim stone tiles had been layered end on with incredible skill
+end on /end, ɒn/
+with the furthest point of an object touching that of another
+
+We spent the summer rambling in Ireland.
+ramble /ˈræmbl/
+to walk for pleasure, especially in the countryside
+
+Climbing plants rambled over the front of the house.
+rambled /ˈræmbld/
+(of plants) to grow in many different directions, especially over other plants or objects
+
+She was unbothered by the mess in the sink.
+unbothered /ˌənˈbɒðəd/
+showing or feeling a lack of concern about or interest in something.
+
+I hope our arriving late didn't put 'em out.
+put sb out /pʊt, ˈsʌmbədi, aʊt/
+(SYNONYM inconvenience)to cause somebody trouble, extra work, etc.
+
+To put the garbage out.
+put sth out /pʊt, ˈsʌmθɪŋ, aʊt/
+​to take something out of your house and leave it, for example for somebody to collect
+
+It's a comfortable family-run guest house near the beach.
+guest house /ˈɡest haʊs/
+a small hotel
+
+A family-run business.
+family-run /ˈfæməli, rʌn/
+a company owned and operated by a family
+
+When you're an upperclassman, you will have a coat just like this one.
+upperclassman /ˌʌpəˈklɑːsmən/
+​(in the US) a male student in the last two years of high school or college
+
+"I'll be there in a minute". "Okey dokey".
+okie dokie /oʊki doʊki/
+used in the same way as 'OK' to show that you agree to something, or that you want to start talking about something else or doing something else
+
+To enroll in a course.
+enrol /ɪnˈrəʊl/
+to arrange for yourself or for somebody else to officially join a course, school, etc.
+
+How often do you go to the bookery(= library)?
+bookery /ˈbʊk(ə)ri/
+a collection of books; a library, a bookshop.
+
+
+
+
+
+
 rust
 haft 
 upgrade
@@ -9,11 +111,11 @@ molten
 leave be
 end on 
 ramble
-unbother
+unbothered
 put out
 guest house
 family-run
 upperclassman
-okei dokie
+okie dokie
 enrol
 bookery
