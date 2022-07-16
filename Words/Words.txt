@@ -15972,6 +15972,15 @@ filial
 mildly
 mildly = ​in a gentle manner
 defiled
+--------------------------------
+bail = abandon a commitment, obligation, or activity
+flat broke
+teeter
+impious
+unpious
+trying experience
+spank
+pamper
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Watch out for the knave who lurks in the bushes at night.
@@ -16067,7 +16076,13 @@ She had a few streaks of grey in her black hair.
 streak
 a long, thin mark or line that is a different colour from the surface it is on
 
+She'll meet with amost trying experience in the near future.
+trying experience
+extremely annoying, difficult, or the like; straining one's patience and goodwill to the limit
+
 ---------------------- Words Todays --------------------------------
+
+
 
 
 
