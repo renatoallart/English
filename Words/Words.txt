@@ -11010,7 +11010,6 @@ prefab
 avid
 restaurateur
 affluent
-imagesmoke
 restraint
 pay up
 tone
@@ -16037,6 +16036,22 @@ contracted = o get an illness
 sully
 sanctioned
 stout = strong and thick
+-------------------------------------------
+band = a belt connecting wheels or pulleys.
+umpire
+untainted
+got/took the hint
+tamper with
+leech off
+undoing
+standing = used to specify the length of time that something has lasted or that someone has fulfilled a particular role.
+talk down
+eff
+unnerving
+the tick of it
+tryst
+couch
+wrinkle = all
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Watch out for the knave who lurks in the bushes at night.
@@ -16227,13 +16242,30 @@ I've only changed my outward appearance a bit.
 outward
 ​connected with the way people or things seem to be rather than with what is actually true
 
+The tramp of marching feet.
+tramp
+the sound of somebody’s heavy steps
+
+The departure lounge.
+lounge
+a room for waiting in at an airport, etc.
+
+Several students were lounging around, reading newspapers.
+lounging
+(SYNONYM laze) to stand, sit or lie in a lazy way
+
+He was avid for more information.
+avid
+wanting to get something very much
+
+The overall tone of the book is gently nostalgic.
+tone
+the general character and attitude of something such as a piece of writing, or the atmosphere of an event 
+
 ---------------------- Words Todays --------------------------------
 
 
 
 
 
-
-
-
-
+ 
