@@ -11199,7 +11199,7 @@ adversary
 combed
 comb
 hold off 
-supermacy
+supremacy
 after-image
 potemkin
 evict 
@@ -16245,6 +16245,22 @@ preconcieved
 rad
 ebb
 contractee
+-----------------------------------
+outcry 
+underlying
+staycation
+week-old
+consonants 
+forklift 
+pallet
+discern
+grate =  to rub food against a grater in order to cut it into small pieces
+torque
+revulsion
+high strung
+better off
+dwarf  = verb
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -16606,9 +16622,34 @@ I've been trying to get a hold of my lawyer for days.
 get hold of sb
 to find and talk to (someone) : to contact (someone)
 
+His right foot was grating.
+grate
+to rub food against a grater in order to cut it into small pieces
 
+The baby was wrapped in a blanket.
+blanket
+a large cover, often made of wool, used especially on beds to keep people warm
+
+The trial was conducted under a blanket of secrecy.
+blanket
+a thick layer or mass of something
+
+Many buyers are holding off until prices are lower.
+held off
+​to not do something immediately
+
+She held off all the last-minute challengers and won the race in a new record time.
+held off
+to stop somebody/something defeating you
+
+I could never revulsion towards "unnatural deaths".
+revlusion
+(SYNONYM disgust, repugnance) a strong feeling of horror
+
+Their parting was near.
+parting
+the act or occasion of leaving a person or place
 ---------------------- Words Todays --------------------------------
-
 
 
 
