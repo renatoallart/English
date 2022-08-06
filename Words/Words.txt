@@ -16198,7 +16198,6 @@ unhinged
 rally = troops...
 battlefield
 drive to wedge between
------------------
 be derive from
 fringed
 pec
@@ -16210,14 +16209,12 @@ shrewd
 snotnose 
 rites
 curbing
-----------------------------
 besotted
 junkies
 strike out on your own
 brush up on 
 demonsbane
 backer 
----------------------------------------
 barf
 sneezes
 shut-in 
@@ -16230,7 +16227,6 @@ get by the nose
 thrash
 thrash = to move or make something move in a way that is violent or shows a loss of control
 excruciating
-----------------------------------
 be on good, friendly... terms (with sb)
 choline
 racketeers
@@ -16245,7 +16241,6 @@ preconcieved
 rad
 ebb
 contractee
------------------------------------
 outcry 
 underlying
 staycation
@@ -16260,7 +16255,6 @@ revulsion
 high strung
 better off
 dwarf  = verb
--------------------------------------
 dry = bare or lacking adornment
 adornment
 adorning 
@@ -16275,7 +16269,18 @@ counter-initiative
 awestruck 
 boldly
 tenure
-
+--------------------------------------
+spruce = make a person or place smarter or tidier
+red-handed 
+roughage
+every waking moment
+sham
+unadultered
+mind boggling 
+aspersions
+write off = to cancel a debt; to recognize that something is a failure, has no value, etc.
+flurry 
+fealty
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -16701,9 +16706,24 @@ He looked faintly embarrassed.
 faintly
 ​slightly; to a small degree
 
+He's throwing a flurry of low punches!
+flurry
+a small amount of snow, rain, etc. that falls for a short time and then stops
+
+I wanna void any possibility of aspersions being cast on me when I become Kegan association chairman!
+aspersions
+critical or unpleasant remarks or judgements
+
+The prison sentences will run concurrently.
+concurrently
+at the same time
+
+The cut was bandaged to stem the bleeding.
+stem
+to stop something that is flowing from spreading or increasing
+
+
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
