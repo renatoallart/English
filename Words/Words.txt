@@ -11256,7 +11256,7 @@ afoot
 wrought
 doorway
 dinghy 
-airbone
+airborne
 feasting
 somber
 anorexia
@@ -16281,7 +16281,32 @@ aspersions
 write off = to cancel a debt; to recognize that something is a failure, has no value, etc.
 flurry 
 fealty
-
+----------------------------------
+limp
+suss out 
+hustle over
+deflower 
+to deprive of virginity
+eunuch 
+feast your eyes (on sb/sth)
+drab
+took for
+backbone
+snoopy 
+prey  = take advance 
+nailed it
+stride
+expat 
+heat sb up
+went off without a hitch
+came off 
+get ur game on 
+picky
+hamstring
+elongated
+no avail
+the last laugh 
+limp = not stiff or strong
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Watch out for the knave who lurks in the bushes at night.
@@ -16721,6 +16746,18 @@ at the same time
 The cut was bandaged to stem the bleeding.
 stem
 to stop something that is flowing from spreading or increasing
+
+A parting of way.
+parting
+the act or result of dividing something into parts
+
+The course of the stream has now been diverted.
+diverted
+to make somebody/something change direction
+
+They danced rhythmically, swaying their hips to the music.
+swayed
+to move slowly from side to side; to move something in this way
 
 
 ---------------------- Words Todays --------------------------------
