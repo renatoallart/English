@@ -11276,7 +11276,6 @@ wag tongue
 faculty
 diffuse
 density
-stagnant
 drift away
 flurried
 impulsive
@@ -11301,192 +11300,6 @@ skull
 take heed
 bode well
 role-play
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------   year 3 Month 8 +
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 mandatory
 prop up
 ravening
@@ -11861,6 +11674,197 @@ sniff out
 blackground
 frugal
 hold on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------   year 3 Month 9 +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 account = verb
 shudder
 shrew
@@ -16307,460 +16311,106 @@ elongated
 no avail
 the last laugh 
 limp = not stiff or strong
+-----------------------------------
+strike the right note
+flung open
+concur
+inception
+pass up
+nigh
+unison
+peritoneum
+the last rites
+the brunt of sth
+fit as a fiddle
+coalesce
+cut out
+soundboard
 ---------------------------------------> Phrases <--------------------------------------------------
 
-Watch out for the knave who lurks in the bushes at night.
-knave
-a dishonest man or boy
-
-Dave won the hand with flush, knave high.
-knave
-(in a pack of cards) a jack (= a card with a picture of a young man on it, normally worth more than a ten and less than a queen)
-
-The punishment was harsh and unfair.
-harsh
-cruel, severe and unkind
-
-She'd been deluding herself that he loved her.
-delude 
-(SYNONYM deceive) to make somebody believe something that is not true
-
-She was hanging on the rope bridge, crying her head off.
-head off    
-to take action in order to prevent something from happening
-
-Within the happiness created from the "miracle", they clutched the doubt of what couln't be possible.
-clutched
-(SYNONYM grip) to hold somebody/something tightly
-
-Do u want the up-and-coming great magician Joe to teach u a lesson?
-up-and-coming
-​likely to be successful and popular in the future
-
-I'm willing to give you the benefit of the doubt.
-willing
-not objecting to doing something; having no reason for not doing something
-
-The judge was far too lenient with him.
-lenient
-not as strict as expected when punishing somebody or when making sure that rules are obeyed
-
-A wicked deed.
-wicked
-(SYNONYM evil) ​morally bad
-
-The fields around had been sown with wheat.
-sown
-to plant or spread seeds in or on the ground
-
-First, I'll prosecute u for the crime of killed our leader.
-prosecute
-institute legal proceedings against (a person or organization).
-
-U can't log out of "SAO" of ur own volition.
-volition
-(SYNONYM free will) the power to choose something freely or to make your own decisions
-
-The parts Joe helped us with turned up(= show up) on the exam!
-turned up on
-be found, especially by chance, after being lost
-
-Sorry, it was a spur of the moment thing.
-spur 
-​to encourage somebody to do something or to encourage them to try harder to achieve something
-
-U're still timid when u push off( = push back).
-push
-to use your hands, arms or body in order to make somebody/something move forward or away from you; to move part of your body into a particular position
-
-For the First time, I've found something to strive for.
-strive for
-To put forth a great and tenacious effort to attain or accomplish something
-
-U can see another HP(= hitpoint) gauge below urs, around here, right?
-gauge
-to measure something accurately using a special instrument
-
-unruly behaviour
-unruly 
-(SYNONYM disorderly) difficult to control or manage
-
-All that's me left is this defiled body.
-defiled
-to make something dirty or no longer pure, especially something that people consider important or holy
-
-I'm going ahead! Stay fifty paces behind me!
-paces
-(SYNONYM step)an act of stepping once when walking or running; the distance travelled when doing this
-
-Fiding a Sansam is all up to fate.
-all up
-(SYNONYM depend on) at or very near an end : with death, defeat, or failure hopelessly or unalterably approaching —used predicatively and in impersonal constructions with it
-
-She had a few streaks of grey in her black hair.
-streak
-a long, thin mark or line that is a different colour from the surface it is on
-
-She'll meet with amost trying experience in the near future.
-trying experience
-extremely annoying, difficult, or the like; straining one's patience and goodwill to the limit
-
-U'll always wallow in the pool of your own insecurity!
-wallow
-(of large animals or people) to lie and roll about in water or mud, to keep cool or for pleasure
-
-We often let lives wither away when we try to raise them.
-wither away
-to shrivel; fade; decay
-
-What gruesome corner of heel did this guy crawl out of?
-gruesome
-very unpleasant and filling you with horror, usually because it is connected with death or injury
-
-I'll cut off ur heads and string 'em up like beads.
-string
-hang something up on strings
-
-Don't be taken in by his charm—he's ruthless.
-taken in
-(SYNONYM deceive) to make somebody believe something that is not true
-
-Why I'm drawn to u?
-drawn
-to attract or interest somebody
-
-He wagged his head from side to side.
-wagged
-to shake your finger or your head from side to side or up and down, often because you do not approve of something
 
-The next hurdle will be getting her parents' agreement.
-hurdle
-a problem or difficulty that must be solved or dealt with before you can achieve something
 
-The candle guttered in the wind.
-guttered
-​(of a flame or candle) to burn in an unsteady way
 
-She rose from the gutter to become a great star.
-the gutter
-the bad social conditions or low moral standards sometimes connected with the lowest level of society
 
-No one tackles love.
-tackle
-(SYNONYM confront) to speak to somebody about a problem or difficult situation
 
-She lingered for a few minutes to talk to Nick.
-lingered
-to stay somewhere for longer because you do not want to leave; to spend a long time doing something
 
-Not a building nor a tree was left standing.
-nor
-neither… nor… | not… nor… and not
 
-The civil war lingered on well into the 1930s.
-lingered
-to continue to exist for longer than expected
 
-‘I'm not going.’ ‘Nor am I.’
-nor
-used before a positive verb to agree with something negative that has just been said
 
-A painful and lingering death.
-lingering
-slow to end or disappear
 
-She's the heiress of the talent of her mother and grandmother.
-heiress
-a woman inheriting and continuing the legacy of a predecessor
 
-I think he's holding something back. I'm sure he knows more than he admits.
-holding sth back
-​to not tell somebody something they want or need to know
 
-The atmosphere of the novel is successfully reproduced in the movie.
-reproduced
-to produce something very similar to something else in a different medium or context; to make something happen again in the same way
 
-She just managed to hold back her anger.
-hold back
-​to stop yourself from expressing how you really feel
 
-The whole building went up in flames.
-went up
-​to be destroyed by fire or an explosion
 
-I wanted to tell him the truth, but something held me back.
-hold back (from doing sth) | hold somebody back (from doing sth)
-She held back, not knowing how to break the terrible news.
 
-Just 'cuz ur feelings for me have soured, don't go around blaming it on me changing!
-soured
-(of relationships, attitudes, people, etc.) to change so that they become less pleasant or friendly than before; to make something do this
 
-I've only changed my outward appearance a bit.
-outward
-​connected with the way people or things seem to be rather than with what is actually true
 
-The tramp of marching feet.
-tramp
-the sound of somebody’s heavy steps
 
-The departure lounge.
-lounge
-a room for waiting in at an airport, etc.
 
-Several students were lounging around, reading newspapers.
-lounging
-(SYNONYM laze) to stand, sit or lie in a lazy way
 
-Police have taken a man in for questioning following the attacks.
-taken in
-​(of the police) to take somebody to a police station in order to ask them questions
 
-He was avid for more information.
-avid
-wanting to get something very much
 
-The overall tone of the book is gently nostalgic.
-tone
-the general character and attitude of something such as a piece of writing, or the atmosphere of an event 
 
-U were on ur last legs right now.
-on one's last legs
-near the end of life, usefulness, or existence.
 
-How many times does ur truly have to clean up ur mess?
-
-She poured boiling water down the sink.
-poured
-to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle
-
-It's hard to keep track of the children's comings and goings.
-comings and goings
-the movement of people arriving at and leaving a particular place
-
-This coming Sunday is her birthday.
-coming
-happening soon; next
-
-There was a head-on confrontation between management and unions.
-head-on
-in which people express strong views and deal with something in a direct way
-
-Beat the butter and sugar; then blend in the egg.
-blend in
-(in cooking) to add another substance and mix it in with the others
-
-The restaurant’s elegant new decor.
-decor
-​the style in which the inside of a building is decorated
-
-Her wedding dress was stitched by hand.
-stitch 
-(SYNONYM sew) to use a needle and thread to repair, join, or decorate pieces of cloth
-
-A hay wagon was winding slowly along the lane.
-wagon
-a vehicle with four wheels, pulled by horses or oxen and used for carrying heavy loads
-
-His role has always been ambiguous.
-ambiguous
-​not clearly stated or defined
-
-A pile of ironing.
-ironing
-the clothes, etc. that you have just ironed or that need to be ironed
-
-I'm steamed now!
-steamed
-extremely angry
-
-I told u not to flounce around so much.
-flounce 
-to move somewhere in a way that draws attention to yourself, for example because you are angry or upset
-
-A foam mattress.
-foam 
-a soft light rubber material, full of small holes, that is used for seats, mattresses, etc
-
-I have rescinded the hit on Joe(= stop the sttack) a long time ago.
-rescinded
-to officially state that a law, contract, decision, etc. no longer has any legal force
-
-They'd been muscling in on Joe's turf.
-muscling in
-to involve yourself in a situation when you have no right to do so, in order to get something for yourself
-
-We're not in short supply when it comes to video games to Tv adaptations.
-short 
-not having enough of something; being without something
-
-We do have one means by which to drive a wedge the coalition armies advance.
-drive to wedge
-cause disagreement or hostility between.
-
-If u gotta lean on someone grab onto Joe of the "Fein Force".
-lean on 
-to depend on somebody/something for help and support
-
-How long can u hold out agaisnt my unrelenting onslaught from every direction?
-unrelenting
-(of an unpleasant situation) not stopping or becoming less severe
-
-His approach was met with a vicious onslaught.
-onslaught
-a strong or violent attack
-
-The terrifying name Joe made men soil their pants!
-soil sb pants
-to make something dirty, especially with solid waste
-
-Do u mean to dim the glory Joe's won on the battlefield?
-dim
-it becomes or you make it less bright
-
-This world's chock-full of fighters more powerful than I've ever seen before.
-chock-full 
-filled to overflowing
-
-I don't intend to derive any pleasure from this fight. I'll simply take u down, for his majesy sake.
-derive from
-​to come or develop from something
-
-We suppose "an aged thoroughbred will fall behind a packhorse", as they say
-thoroughbred
-​(of an animal, especially a horse) of high quality, with parents that are both of the same type
-
-This is a perfect opportunity for u, Agito. Let this distress stew for while.
-stew
-a dish of meat and/or vegetables cooked slowly in liquid in a container that has a lid (= cover)
-
-To take in lodgers.
-take in
-to allow somebody to stay in your home
-
-It's finally time for u to "strike out on your own".
-strike out on your own  
-to start doing something new, independently of other people
-
-There's no way in heel I hiring a fighter I can't rein in.
-rein in
-(SYNONYM check) to start to control somebody/something more strictly
-
-I'm gonna need a new playmate to make things interesting, u pass with flying colors Joe!
-with flying colors
-​very well; with a very high mark / with distinction
-
-U've helped me deplete my stamina.
-deplete
-to reduce something by a large amount so that there is not enough left; to be reduced by a large amount
-
-I'll stop beating around the bush now.
-beat around the bush 
-to avoid giving a definite answer or position
-
-There's no way he could throw a killing blow twice in succession! That preconceived notion is ripe for taking advantage of.
-ripe for sth
-ready or suitable for something to happen
-
-I've been trying to get a hold of my lawyer for days.
-get hold of sb
-to find and talk to (someone) : to contact (someone)
-
-His right foot was grating.
-grate
-to rub food against a grater in order to cut it into small pieces
-
-The baby was wrapped in a blanket.
-blanket
-a large cover, often made of wool, used especially on beds to keep people warm
-
-The trial was conducted under a blanket of secrecy.
-blanket
-a thick layer or mass of something
-
-Many buyers are holding off until prices are lower.
-held off
-​to not do something immediately
-
-She held off all the last-minute challengers and won the race in a new record time.
-held off
-to stop somebody/something defeating you
-
-I could never revulsion towards "unnatural deaths".
-revlusion
-(SYNONYM disgust, repugnance) a strong feeling of horror
-
-Their parting was near.
-parting
-the act or occasion of leaving a person or place
-
-She pounded him with her fists.
-pounded
-to hit something/somebody hard many times, especially in a way that makes a lot of noise
-
-That create the illusion that's phasing through(to pass through) him.
-phasing
-adjust the phase of (something), especially so as to synchronize it with something else
-
-A spice used extensively in Eastern cooking.
-extensively
-​to a large degree; a great amount
-
-We insisted on a refund of the full amount.
-insist on
-​to demand something and refuse to be persuaded to accept anything else
-
-He sifted the relevant data from the rest.
-sifted
-to separate something from a group of things
-
-A faintly glowing fire.
-faintly
-in a way that cannot be clearly seen, heard or smelt
-
-I do not perceive myself as an expert.
-perceived 
-(SYNONYM see, consider) to understand or think of somebody/something in a particular way
-
-He has written extensively on contemporary art.
-extensively
-in a way that includes or deals with a wide range of information
-
-He looked faintly embarrassed.
-faintly
-​slightly; to a small degree
-
-He's throwing a flurry of low punches!
-flurry
-a small amount of snow, rain, etc. that falls for a short time and then stops
-
-I wanna void any possibility of aspersions being cast on me when I become Kegan association chairman!
-aspersions
-critical or unpleasant remarks or judgements
-
-The prison sentences will run concurrently.
-concurrently
-at the same time
-
-The cut was bandaged to stem the bleeding.
-stem
-to stop something that is flowing from spreading or increasing
-
-A parting of way.
-parting
-the act or result of dividing something into parts
-
-The course of the stream has now been diverted.
-diverted
-to make somebody/something change direction
-
-They danced rhythmically, swaying their hips to the music.
-swayed
-to move slowly from side to side; to move something in this way
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---------------------- Words Todays --------------------------------
+
+
+
+
+
 
 
 
