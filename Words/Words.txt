@@ -11305,9 +11305,9 @@ prop up
 ravening
 redundancies
 frock
-supposidly
+supposedly
 split up
-plushie
+plush
 during
 really
 laud 
@@ -16392,7 +16392,12 @@ insidiously
 us
 birds of a feather flock together 
 transpired 
-
+--------------------------------------------
+plush
+plush toy 
+draws to a close
+procedures
+obtrusive
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Hey, u guys! Stop rooting for Joe all the damn time!
@@ -16527,7 +16532,56 @@ The only one who knows what transpired that day are u and Sara.
 transpired 
 occur; happen
 
+The sky began to lighten in the east.
+lighten
+to become or make something become brighter or lighter in colour
+
+Why are you all turning on me (= criticizing or blaming me)?
+turn on
+to attack somebody suddenly and unexpectedly
+
+Jazz has never really turned me on.
+turned on 
+to make somebody excited or interested, especially sexually
+
+Her heels sank into the plushy carpet
+plushy
+made of or resembling plush; soft to the touch
+
+My mood gradually lightened.
+lightened
+(SYNONYM cheer) to feel or make somebody feel less sad, worried or serious
+
+Crimes allegedly committed during the war.
+allegedly
+expressed as though something is a fact but without giving any proof
+
+The day was split up into 6 one-hour sessions.
+split up
+to divide something into smaller parts
+
+I'd have come on my own if I wasn't so weak.
+come
+to arrive at or reach a place
+
+I, too, have dirtied my hands since I was young, but as my life draws to a close, I'll do something that's proper for a policeman!
+draws to a close
+to come to an end
+
+Please follow the proper procedures for dealing with complaints.
+proper
+right, appropriate or correct; according to the rules
+
+He's so obtrusive and impertinent, that he won't be influenced by his surroundings.
+obtrusive
+​easy to notice in an unpleasant way
+
+Just that fact, that it flutters about somewhere in this is making it hard for a lot of people to close their eyes at night.
+flutters
+to move lightly and quickly; to make something move in this way
+
 ---------------------- Words Todays --------------------------------
+
 
 
 
@@ -16537,3 +16591,4 @@ occur; happen
 U really pulled one over on me
 
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
+
