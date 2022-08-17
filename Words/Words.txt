@@ -11342,7 +11342,6 @@ engrossed
 overzealous 
 recast
 trouper 
-walterfall
 time out 
 barn
 cold weapon
@@ -16414,6 +16413,13 @@ milimeter
 tracery
 long haul
 martyrdom
+-------------------------------------
+scrapyard
+dough = money
+milk = to obtain as much money, advantage, etc. for yourself as you can from a particular situation, especially in a dishonest way
+pin on
+remorse
+pore over
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Hey, u guys! Stop rooting for Joe all the damn time!
@@ -16648,9 +16654,47 @@ As the drug wore off I felt myself coming down.
 coming down
 to become less excited or happy, especially after taking drugs
 
+U're eaten by remorse, aren't u?
+remorse
+the feeling of being extremely sorry for something wrong or bad that you have done
+
+He waved to the adoring crowds.
+adoring
+showing much love
+
+I got a tip on a bet.
+tip
+a secret or expert piece of advice about what the result of a competition, etc. is likely to be, especially about which horse is likely to win a race
+
+The more illegal, the more dough u can milk out of it.
+dough
+money
+
+anyone got some change?
+change
+the money that you get back when you have paid for something giving more money than the amount it costs
+
+I'm getting increasingly fed up.
+fed up
+bored or unhappy, especially with a situation that has continued for too long
+
+She's milked a small fortune from the company over the years.
+milk 
+to obtain as much money, advantage, etc. for yourself as you can from a particular situation, especially in a dishonest way
+
+That accident, u pinned that on me. 
+pinned on
+to make somebody be blamed for something, especially for something they did not do
+
+He overcame a strong temptation to run away.
+overcome 
+to succeed in dealing with or controlling a problem that has been preventing you from achieving something
+
+I couldn't stand u from the begining, Joe and Sara pampered u all the time.
+pampered
+to take care of somebody very well and make them feel as comfortable as possible
+
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
