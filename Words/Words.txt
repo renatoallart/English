@@ -11389,7 +11389,6 @@ appendages
 sensor
 hormone balance
 keratin
-keratin line
 unsavory
 undies
 wondrous
@@ -16435,6 +16434,12 @@ reimburse
 meanie
 shenanigans 
 bombardment
+------------------------------------
+nappy
+satin
+sneer
+bumpy = ​(of a journey) uncomfortable with a lot of sudden unpleasant movements caused by the road surface, weather conditions, etc
+eventful 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Hey, u guys! Stop rooting for Joe all the damn time!
@@ -16760,6 +16765,26 @@ to continue doing (something)
 The car lights picked out a cat running across the road.
 picked out
 to make something easy to see or hear
+
+Who do u think u are? Cowering there in ur corner like the trash u are!
+cower
+to bend low and/or move backwards because you are frightened
+
+A distinct outward appearance.
+outward
+relating to the external appearance of something rather than its true nature or substance
+
+If u've got a problem with me then kill me now! I'll still get by without u!
+get by
+manage with difficulty to live or accomplish something
+
+Are u gonna give it a go?
+give it a go
+to try doing something
+
+The car was hauled out of the river.
+hauled
+to pull something/somebody with a lot of effort
 
 ---------------------- Words Todays --------------------------------
 
