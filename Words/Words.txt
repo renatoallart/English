@@ -16470,6 +16470,11 @@ lay out = all
 -----------------------------
 disinfectant
 overturned 
+-----------------------------
+inscription
+trainers = a shoe that you wear for sports or as informal clothing
+slipping
+stiffer = more difficult or severe than usual
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Hey, u guys! Stop rooting for Joe all the damn time!
@@ -16919,7 +16924,13 @@ beating down
 I'd like to take up the point you raised earlier.
 take up
 ​to continue something that somebody else has not finished, or that has not been mentioned for some time
+
+A baggy T-shirt.
+baggy
+(OPPOSITE tight)​(of clothes) fitting loosely
 ---------------------- Words Todays --------------------------------
+
+
 
 
 
