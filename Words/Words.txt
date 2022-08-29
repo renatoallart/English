@@ -11539,9 +11539,9 @@ wash up
 acres 
 teamwork
 jewish
-truck = to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat
+tuck = to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat
 mint
-to do the dishes
+do the dishes
 push up
 sit up
 squat
@@ -16467,22 +16467,18 @@ winch
 stencilling 
 prelim 
 lay out = all
------------------------------
 disinfectant
 overturned 
------------------------------
 inscription
 trainers = a shoe that you wear for sports or as informal clothing
 slipping
 stiffer = more difficult or severe than usual
--------------------------------
 nickel
 behemoth 
 past of split = spat
 let alone
 take a leak
 meatloaves
--------------------------------
 sketch
 suffragists
 rolling = (of land) extending in gentle undulations
@@ -16495,6 +16491,18 @@ posse
 top dog
 unhinged
 pick up on sth = to react to something that has happened or that you have noticed.
+------------------------------------
+ticklish
+inhibiting = to make somebody nervous or embarrassed so that they are unable to do something
+tanning oil
+subduing
+inhibiting
+drop the hat
+cosy up to
+scope out
+scout out
+hotbed
+ticklish = (of a situation or problem) difficult to deal with; requiring careful handling.
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Hey, u guys! Stop rooting for Joe all the damn time!
@@ -17012,10 +17020,31 @@ to work as a prostitute
 She had expected Dan to pick up on her insult.
 pick up on sth
 to react to something that has happened or that you have noticed.
+
+I'm an expert on these thugs and how they think. It takes one to know one.
+it takes one to know one
+is a common idiom used to describe how one person relates to another
+
+I saw him skulking around, cozying up to u so the bullies wouldn't get him.
+skulking
+to hide or move around secretly, especially when you are planning something bad
+
+The prime minister has recently been cosying up to the trade unions.
+cosy up to
+to act in a friendly way towards somebody, especially somebody who will be useful to you
+
+I'll go scope out Joe's crew.
+scope out
+to look at (someone or something) especially in order to get information 
+
+We can't let our school a hotbed of gangsters.
+hotbed
+a place where a lot of a particular activity, especially something bad or violent, is happening
+
+Now, let's go sort out those kids outside.
+sort out
+to deal with somebody’s/your own problems successfully
 ---------------------- Words Todays --------------------------------
-
-
-
 
 
 
