@@ -11594,7 +11594,7 @@ swag of something
 work out
 pesky
 take into
-put dowm = baby
+put down = baby
 take in
 payout
 altar
@@ -16512,6 +16512,10 @@ acrimony
 unwound
 banter
 clad
+------------------------------------
+tumble to
+cooling pipe
+shambles
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -17074,9 +17078,47 @@ flustered
 I appreciate the friendly banter, but please practice good manners.
 banter
 friendly remarks and jokes
+
+These firms are the backbone of our industrial sector.
+backbone
+the chief support of a system or organization; the mainstay.
+
+She moved swiftly to the rescue.
+swiftly 
+quickly; after a very short time
+
+It's going to be tough but we'll pull through it together.
+pull through
+to succeed in doing something very difficult
+
+I relied on my instincts to pull me through.
+pull sb through
+to help somebody succeed in doing something very difficult
+
+The military government is determined to put down all opposition.
+put down
+(SYNONYM crush) ​to stop something by force
+
+To break in new recruits.
+break sb in
+to train somebody/something in something new that they must do
+
+It'll work out cheaper to travel by bus.
+work out
+if something works out at something, you calculate that it will be a particular amount
+
+I'm sure u can feel the sacred madness.
+sacred
+connected with God or a god; considered to be holy
+
+How's Joe faring behind bars?(= in prison)
+faring
+(SYNONYM get on) to be successful/unsuccessful in a particular situation
+
+Company 8's jurisdiction is in shambles with them gone.
+shambles
+(SYNONYM mess) a situation in which there is a great lack of order or understanding
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
