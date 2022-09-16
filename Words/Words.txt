@@ -11691,7 +11691,7 @@ unrepentant
 scarecrow
 secretive
 quick-witted
-excuse = verbo
+excuse = verb
 incomparable
 don
 wave something aside/away
@@ -16654,6 +16654,11 @@ instil
 high-pitched
 neigh
 whinny
+-------------------------------------
+inflation = a fall in the value of money and a general increase in prices; the rate at which this happens
+put at ease
+reassuring
+treading down
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -16881,6 +16886,18 @@ to behave in a particular way
 There's no such thing as a human with an independent will, all are swept up in that of religion or government.
 swept
 (P.P of sweep) to clean a room, surface, etc. using a broom (= a type of brush on a long handle)
+
+I knew the 1st could do it! U guys really put us at ease!
+put at ease
+to make (someone) feel calm and relaxed
+
+Quite reassuring!
+reassuring
+making you feel less worried or uncertain about something
+
+If u're treading down the worng path it's ur friend's duty to stop u!
+treading down
+walk on and flatten
 ---------------------- Words Todays --------------------------------
 
 
@@ -16899,5 +16916,6 @@ swept
 U really pulled one over on me
 
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
+
 
 
