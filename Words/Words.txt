@@ -11724,7 +11724,7 @@ get with
 bears testimony
 twinkle
 faction
-glup
+gulp
 wittingly
 drought
 try me = expression
@@ -16659,6 +16659,9 @@ inflation = a fall in the value of money and a general increase in prices; the r
 put at ease
 reassuring
 treading down
+------------------------------
+roll up = to arrive
+have a (heavy) cross to bear
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -16898,6 +16901,14 @@ making you feel less worried or uncertain about something
 If u're treading down the worng path it's ur friend's duty to stop u!
 treading down
 walk on and flatten
+
+I remember the day Joe rolled up to my workshop like it was yesterday!
+rolled up
+to arrive
+
+From here on out, this is my cross to bear alone.
+have a (heavy) cross to bear
+to have a difficult problem that makes you worried or unhappy but that you have to deal with
 ---------------------- Words Todays --------------------------------
 
 
