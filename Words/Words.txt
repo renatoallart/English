@@ -11815,7 +11815,7 @@ giant
 clear out
 hang about 
 doorstep
-hopscoth
+hopscotch
 melanin
 fighter pilot
 pinnacle
@@ -16790,6 +16790,12 @@ keep sb i the loop
 make up with sb 
 alimony
 convention
+--------------------------------------
+squared off
+easy-going
+garish
+instinctual
+stigma
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -17277,9 +17283,19 @@ an embarrassing or difficult predicament caused by one's own unwise behavior
 A ramshackle house
 ramshackle
 (​SYNONYM tumbledown, dilapidated)(of buildings, vehicles, furniture, etc.) in a very bad condition and needing repair
+
+Hang about! There's something not quite right here.
+hang about
+used to tell somebody to stop what they are doing or saying for a short time
+
+I can't hang about—the boss wants to see me.
+hang about
+​to be very slow doing something
+
+The hotel is just off the main square.
+square
+an open area in a town, usually with four sides, surrounded by buildings
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
