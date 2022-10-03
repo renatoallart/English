@@ -16767,7 +16767,6 @@ uniting
 heightened
 up and do
 purse-string = financial resouces 
--------------------------------------------------
 tumbledown
 cold-shoulder
 hush up
@@ -16777,7 +16776,7 @@ signage
 connoisseur
 singe 
 all the above
-content = satisfy (someone).
+content = satisfy (someone)
 into the leather
 mired 
 adhere
@@ -16790,13 +16789,11 @@ keep sb i the loop
 make up with sb 
 alimony
 convention
---------------------------------------
 squared off
 easy-going
 garish
 instinctual
 stigma
---------------------------------------
 having fits
 consolingly
 i wouldn't hld my breath
@@ -16811,7 +16808,6 @@ enterpreneur
 pass up 
 keynote 
 bidding = what somebody asks or orders you to do
--------------------------------------------
 on hand
 on hand = readily available
 eclipse
@@ -16822,10 +16818,13 @@ wretched = (SYNONYM pitiful) making you feel sympathy or making you sad
 wretched =  used to show that you think that somebody/something is extremely annoying
 sliver
 brimmed
--------------------------------------
 immolated
 despite
 top over
+--------------------------------------
+depiction
+hung up on =  to be extremely interested in or worried by a particular subject and spend an unreasonably large amount of time thinking about it
+rip up
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -17402,7 +17401,24 @@ to calculate an amount, a number, etc.
 Being blamed for the eath of ur family, despite the slander, u stood up an pushe forward!
 despite
 (SYNONYM in spite of) used to show that something happened or is true although something else might have happened to prevent it
+
+Why get hung up on appearances?
+hung up on
+to be extremely interested in or worried by a particular subject and spend an unreasonably large amount of time thinking about it
+
+It ssems the depiction of this world has changed again, if I had to guess, now it's like a world of madness.
+depiction
+the act of showing somebody/something in a particular way in words or pictures, especially in a work of art
+
+How can you stand by and see him accused of something he didn't do?
+stand by
+​to be present while something bad is happening but not do anything to stop it
+
+I'm not one to sweat on small stuff.
+sweat on small stuff
+to worry about minor things
 ---------------------- Words Todays --------------------------------
+
 
 
 
