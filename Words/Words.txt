@@ -17044,6 +17044,9 @@ pitcher = (in baseball) the player who throws the ball to the batter
 on-field
 time is nigh = it is nearly time
 over- under = a bet on whether the outcome of an event (usually the combined score of a sports game) will be above or below a number established in advance by the bookmaker
+------------------------------------
+ringleaders 
+as per normal 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -17179,12 +17182,20 @@ That time might be nigh.
 time is nigh
 it is nearly time
 
+The ringleaders were jailed for 15 years.
+ringleaders 
+​a person who leads others in crime or in causing trouble
+
+Even if I were to shoot as per normal, there's a high change  of missing.
+as per normal 
+as typically happens; as is usually the case
+
+Her deceased parents.
+deceased
+dead
+
 
 ---------------------- Words Todays --------------------------------
-
-
-
-
 
 
 
