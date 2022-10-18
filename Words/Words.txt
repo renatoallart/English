@@ -17049,6 +17049,7 @@ ringleaders
 as per normal 
 ---------------------------------------> Phrases <--------------------------------------------------
 
+stat
 
 She was the outright winner.
 outright
@@ -17194,12 +17195,20 @@ Her deceased parents.
 deceased
 dead
 
+I'll take u up on that offer then.
+take up on
+accept it
+
+The boy who took up lodging in a girl awakens.
+lodging
+temporary accommodation
 
 ---------------------- Words Todays --------------------------------
 
 
-
-
+take up on = accept it
+gloating
+wit's end 
 
 
 
