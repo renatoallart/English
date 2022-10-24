@@ -17015,11 +17015,9 @@ initiate
 bill =  a written suggestion for a new law that is presented to a country’s parliament so that its members can discuss it
 upright = ​(of a person) behaving in a moral and honest way
 paltry 
--------------------------------------
 repatriation
 ramp up 
 in one go
--------------------------------------
 intrigue
 probe
 gloss over
@@ -17042,10 +17040,8 @@ pitcher = (in baseball) the player who throws the ball to the batter
 on-field
 time is nigh = it is nearly time
 over- under = a bet on whether the outcome of an event (usually the combined score of a sports game) will be above or below a number established in advance by the bookmaker
-------------------------------------
 ringleaders 
 as per normal 
----------------------------
 fumbling around
 exult
 logrolling 
@@ -17080,13 +17076,17 @@ shortcoming
 vying 
 ticking down 
 stat
--------------------
 slogan
 pupa
 manor 
 be lost for words
 spiel
 i'll get even with sb
+-----------------------------------------
+party-goer
+stumbled into
+parkgoers
+drape = all
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -17279,11 +17279,33 @@ U don't have the look of someone to whom things happen by accident.
 whom
 used instead of ‘who’ as the object of a verb or preposition
 
-i'll get even with you myself.
+I'll get even with you myself.
 i'll get even with sb
 you are going to cause them the same amount of harm or annoyance as they have caused you
 
+All the parties seem anxious to nail down a ceasefire.
+nail down
+​to reach an agreement or a decision, usually after a lot of discussio
+
+Something seems unexpected—I can't nail it down, but it makes me uneasy.
+nail down
+identify something precisely
+
+They had an awesome task ahead.
+awesome 
+very impressive or very difficult and perhaps rather frightening
+
+I did my best and somehow stumbled into being a company man!
+stumbled into
+​to become involved in something by chance
+
+If u're to lives as demons, u must cast aside the 'lies' u drape urself in as humans.
+drape
+to cover or decorate somebody/something with material
+
 ---------------------- Words Todays --------------------------------
+
+
 
 
 
