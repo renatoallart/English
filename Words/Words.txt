@@ -12085,7 +12085,6 @@ fittest = adjective
 law of the fittest
 carelessness
 live out
-discem
 get a hold of yourself
 way out = a way of escaping from a difficult situation
 envelop
@@ -17087,6 +17086,12 @@ party-goer
 stumbled into
 parkgoers
 drape = all
+---------------------------------------------
+deduping
+mock
+cutting edge 
+mash 
+jiggy 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -17194,6 +17199,10 @@ you act badly toward the person who is helping or has helped you
 They're one glorified corporate lapdogs existing to serve.
 glorified
 making somebody/something seem more important or better than they are
+
+To live out your fantasies.
+live out
+​to actually do what you have only thought about doing before
 
 His coworkers regarded him as the boss's lap dog.
 lapdogs
@@ -17303,7 +17312,14 @@ If u're to lives as demons, u must cast aside the 'lies' u drape urself in as hu
 drape
 to cover or decorate somebody/something with material
 
+He lived out his days alone.
+lived out
+to spend the rest of your life in a particular way
+
+
+
 ---------------------- Words Todays --------------------------------
+
 
 
 
