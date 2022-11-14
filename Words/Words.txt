@@ -16526,6 +16526,7 @@ tumble to
 cooling pipe
 shambles
 incongruity
+bearing = the way in which something is related to something or influences it
 unnecessarily
 air conditioning
 shyly
@@ -16858,6 +16859,7 @@ up in the clouds
 foray
 forevermore
 pipe dream 
+bearing = the way in which you stand, walk or behave
 greengrocer
 prattle 
 lukewarm
@@ -17108,6 +17110,7 @@ tepid
 boner = ab erect penis 
 ram me = to strike with violent 
 chad 
+bearing = a direction measured from a fixed point using a compass
 fix up
 schlechr
 demographic
@@ -17167,14 +17170,12 @@ boldness
 foster 
 halfway 
 disclosed
----------------------------
 irrevocably
 scribbled
 gunning
 tepid 
 tear jerking
 glossed up
-------------------------------------------
 eaten alive =they will be completely destroyed or defeated by someone who is much stronge
 malleable = ​(of people, ideas, etc.) easily influenced or changed
 droves
@@ -17183,14 +17184,27 @@ muddied
 peril 
 fan out
 defiance
-------------------------------------------------
 gush =  to express so much praise or emotion about somebody/something that it does not seem sincere
 throes
 in the throes of something/of doing something
-----------------------------------------------
 last-ditch
 at ease
 last-ditch
+---------------------------------------------
+bearings = a part of a machine that supports a moving part, especially one that is turning
+intertwine
+alluding 
+crim
+unbiased
+nail down 
+bearing  = knowledge of your position relative to everything that is around or near you
+mary sue 
+thrilled
+cometh
+woke  
+minutiae
+intertwine = to be or become very closely connected with something/somebody else
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 The citizens of Tokio city gush over Joe's self-sacrifices.
@@ -17232,7 +17246,15 @@ It's time for a last-ditch effort!
 last-ditch
 used to describe a final attempt to achieve something, when there is not much hope of succeeding
 
+If he touches u, he'll fiddle with ur brain and kill u.
+fiddle with
+to touch or move the parts of something in order to try to change it or repair it
+
+I'm just getting my bearings.
+bearings
+knowledge of your position relative to everything that is around or near you
 ---------------------- Words Todays --------------------------------
+
 
 
 
