@@ -12353,8 +12353,8 @@ foyer
 dresser
 ramble = to talk about somebody/something in a confused way, especially for a long time
 message board
-spolier
-malicius
+spoiler
+malicious
 comments
 make up one's mind
 bronchitis
@@ -17213,6 +17213,19 @@ partial
 wiggle
 quack doctor
 expeditionary
+--------------------------------------------------
+blue collar 
+menacingly
+furrow brow 
+sled 
+sham
+squeak
+--------------------------------
+enterprising
+viscount
+bait
+fester
+numbing me down
 ---------------------------------------> Phrases <--------------------------------------------------
 
 The citizens of Tokio city gush over Joe's self-sacrifices.
@@ -17230,9 +17243,6 @@ offset
 These are the death throes of a saved human!!!
 throes
 ​violent pains, especially at the moment of death
-
-
-
 
 It was a shock to discover the truth about his sordid past.
 sordid 
@@ -17297,16 +17307,41 @@ the feeling that somebody/something is without value and deserves no respect at 
 Not even sliver of pain.
 sliver
 a small or thin piece of something that is cut or broken off from a larger piece
+
+A heavily made-up face.
+made-up
+​wearing make-up
+
+These are nasty pieces of malicious code such as viruses, Trojan horses and worms.
+malicious
+(of software or computer code) intended to damage somebody's computer or data files
+
+I don’t know why they despise me so much.
+despised
+​to dislike and have no respect for somebody/something
+
+We spent the summer rambling in Ireland.
+rambling
+to walk for pleasure, especially in the countryside
+
+Warning: this review contains spoilers.
+spoilers
+​information that you are given about what is going to happen in a film, television series, etc. before it is shown to the public
+
+A made-up story.
+made up
+not true or real; invented
+
+My thrist for revenge began numbing me down after time.
+numbing me down
+to become numb to one's emotions or outside sensations as a result some physical or psychological stimulus or trauma.
+
+The festering wounds rotting on my body.
+festering
+(of a wound or cut) to become painful and infected (= full of bacteria)
 ---------------------- Words Todays --------------------------------
 
 
-
-
-blue collar 
-menacingly
-furrow brow 
-sled 
-sham
 
 
 
