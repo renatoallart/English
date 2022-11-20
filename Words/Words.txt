@@ -17189,7 +17189,6 @@ in the throes of something/of doing something
 last-ditch
 at ease
 last-ditch
----------------------------------------------
 bearings = a part of a machine that supports a moving part, especially one that is turning
 intertwine
 alluding 
@@ -17203,7 +17202,6 @@ cometh
 woke  
 minutiae
 intertwine = to be or become very closely connected with something/somebody else
-------------------------------------------------
 shrill
 sought someone out
 devout
@@ -17212,20 +17210,17 @@ partial
 wiggle
 quack doctor
 expeditionary
---------------------------------------------------
 blue collar 
 menacingly
 furrow brow 
 sled 
 sham
 squeak
---------------------------------
 enterprising
 viscount
 bait
 fester
 numbing me down
---------------------------------------
 proxy
 pretense
 seize = (SYNONYM grab) to take somebody/something in your hand suddenly and using force
@@ -17235,10 +17230,12 @@ criclet
 denoument
 divulging
 leverage
----------------------------------------
 resemblance
 gator
 trumped =  to beat something that somebody says or does by saying or doing something even better
+---------------------------------------------
+defection
+speak your piece
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Retailers can exert leverage over producers by threatening to take their business elsewhere.
@@ -17396,7 +17393,24 @@ in ease and luxury.
 My fear trumped my thrist for revenge.
 trumped
 to beat something that somebody says or does by saying or doing something even better
+
+Some officials were dismissed because they could not fulfill their duties.
+fulfill
+carry out (a task, duty, or role) as required, pledged, or expected.
+
+I'll never accept the prisoner's defection.
+defection
+the act of leaving a political party, country, etc. to join another that is considered to be an enemy
+
+If I were to speak my piece, I accept Joe' defection.
+speak your piece
+state your opinion or view
+
+He wouldn't be able to fulfill his ambition to visit Naples.
+fulfill
+bring to completion or reality; achieve or realize (something desired, promised, or predicted)
 ---------------------- Words Todays --------------------------------
+
 
 
 
