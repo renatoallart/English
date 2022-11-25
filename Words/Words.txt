@@ -12487,11 +12487,11 @@ mitt
 be into
 pay up
 menagerie
-highflautin
+highfalutin 
 flaunt
 commission
 time off
-floatsam
+flotsam
 lest 
 goofy
 tick off
@@ -17269,6 +17269,15 @@ offset = place out of line.
 in a big way
 spewing = to vomit (= bring food from the stomach back out through the mouth)
 stuck up = ​thinking that you are more important than other people and behaving in an unfriendly way towards them
+--------------------------------
+drawbridge
+ringed  = to surround somebody/something
+span =  (SYNONYM cross) to stretch right across something, from one side to the other
+deactivate
+attest 
+kindling 
+ineffectualness
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Retailers can exert leverage over producers by threatening to take their business elsewhere.
@@ -17542,9 +17551,19 @@ to limit something, especially a noise
 The bank was into her for $100 000.
 be into sb for sth
 to owe somebody money or be owed money by somebody
+
+They failed to develop a coherent economic strategy.
+coherent
+(of an argument, theory, or policy) logical and consistent.
+
+She was lucid and coherent and did not appear to be injured
+coherent
+(of a person) able to speak clearly and logically
+
+Divided into a number of geographically coherent kingdoms.
+coherent
+united as or forming a whole.
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
