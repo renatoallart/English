@@ -17233,10 +17233,8 @@ leverage
 resemblance
 gator
 trumped =  to beat something that somebody says or does by saying or doing something even better
----------------------------------------------
 defection
 speak your piece
--------------------------
 stalemate
 stand off
 patronize
@@ -17244,12 +17242,10 @@ silver lining
 check out 
 gofer 
 addlepated
---------------------------
 billable 
 be holed up
 mounds
 spine sprain
-----------------------------
 luck out
 duece
 fort
@@ -17262,14 +17258,12 @@ wombs
 saddle
 paramount
 yoke
-------------------------------
 spewing
 far out
 offset = place out of line.
 in a big way
 spewing = to vomit (= bring food from the stomach back out through the mouth)
 stuck up = ​thinking that you are more important than other people and behaving in an unfriendly way towards them
---------------------------------
 drawbridge
 ringed  = to surround somebody/something
 span =  (SYNONYM cross) to stretch right across something, from one side to the other
@@ -17277,6 +17271,8 @@ deactivate
 attest 
 kindling 
 ineffectualness
+--------------------------------------
+principality
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -17563,6 +17559,18 @@ coherent
 Divided into a number of geographically coherent kingdoms.
 coherent
 united as or forming a whole.
+
+The two stared each other down after the match.
+stare down
+look fixedly at someone, typically in a hostile or intimidating way, until they feel forced to look away.
+
+An ordnance depot.
+ordnance
+military supplies and materials
+
+Can you cue me when you want me to begin speaking?
+cue
+to give somebody a signal so they know when to start doing something
 ---------------------- Words Todays --------------------------------
 
 
