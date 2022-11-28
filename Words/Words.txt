@@ -17271,12 +17271,19 @@ deactivate
 attest 
 kindling 
 ineffectualness
---------------------------------------
 principality
--------------------------------------
 formation
 long face
 have (one's) luck run out/dry
+-----------------------------------------
+coarse = (of skin or cloth) rough
+parse
+pegs
+coarse = consisting of relatively large pieces
+make oneself scarce
+immorality
+fratricidal
+contaminates
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Retailers can exert leverage over producers by threatening to take their business elsewhere.
@@ -17286,6 +17293,10 @@ the ability to influence what people do
 Seize the elf.
 seize 
 (SYNONYM grab) to take somebody/something in your hand suddenly and using force
+
+Ok, so you lost. Get over it!
+get over
+to return to your usual state of health, happiness, etc. after an illness, a shock, the end of a relationship, etc.
 
 The citizens of Tokio city gush over Joe's self-sacrifices.
 gush 
@@ -17459,6 +17470,10 @@ A plan to entice mothers back to work.
 entice
 (SYNONYM persuade) ​to persuade somebody/something to go somewhere or to do something, usually by offering them something
 
+I'll be glad to get the exam over and done with.
+get something over (with)
+to complete something unpleasant but necessary
+
 How can you watch that drivel on TV?
 drivel
 (SYNONYM nonsense) ideas, statements or beliefs that you think are silly or not true
@@ -17578,10 +17593,56 @@ to give somebody a signal so they know when to start doing something
 I guess my luck hadn't run dry just yet.
 have (one's) luck run out/dry
 to stop experiencing good fortun
+
+We record our lives in that incomplete state, blazing like a fire till the moment we die.
+record
+a written account of something that is kept so that it can be looked at and used in the future
+
+What about all the fratricidal wars? The blatant display of immorality?
+fratricidal
+connected with the crime of killing your brother or sister, or people from your own country or group
+
+It was a blatant lie.
+blatant
+(SYNONYM flagrant)​(of actions that are considered bad) done in an obvious and open way without caring if people are shocked
+
+U should've been grateful for the opportunity and made oneself scarce.
+make oneself scarce
+to leave somewhere and stay away for a time in order to avoid an unpleasant situation
+
+We must take steps to rectify the situation.
+rectify
+(SYNONYM correct) to put right something that is wrong
+
+Coarse manners
+coarse
+(SYNONYM vulgar) ​rude and offensive, especially about sex
+
+A failed parse was retried.
+parse
+an act of or the result obtained by parsing a string or a text
+
+Child hunger is the offspring of political indfference, unaccountable governance, and economic mismanagemen
+offspring
+the product or result of something
+
+A quick once-over with a broom.
+once-over
+a piece of work that is done quickly.
+
+That blouse sets off the blue of her eyes.
+set off
+​to make something more attractive or easy to notice by being placed near it
+
+He didn't really get his meaning over to the audience.
+get something over (to somebody)
+to make something clear to somebody
+
+A user question input is parsed into an internal conceptual representation.
+parse
+to divide a sentence into parts and describe the grammar of each word or part
+
 ---------------------- Words Todays --------------------------------
-
-
-
 
 
 
