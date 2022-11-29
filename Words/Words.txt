@@ -17284,6 +17284,8 @@ make oneself scarce
 immorality
 fratricidal
 contaminates
+---------------------------------------
+take your place
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Retailers can exert leverage over producers by threatening to take their business elsewhere.
@@ -17642,9 +17644,19 @@ A user question input is parsed into an internal conceptual representation.
 parse
 to divide a sentence into parts and describe the grammar of each word or part
 
+I'll finish ur filthy lives now, beofre u defile the world any furthermore
+defile
+to make something dirty or no longer pure, especially something that people consider important or holy
+
+He managed to carve out a successful photographic career for himsel.
+carve out
+establish a career, role, or reputation for oneself through hard work.
+
+Their supporters have certainly earned the right to celebrate.
+earned
+to get something that you deserve, usually because of something good you have done or because of the good qualities you have
+
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
