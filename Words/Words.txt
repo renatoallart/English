@@ -17609,6 +17609,10 @@ take no chance  =  to not do something that is risky or dangerous
 tack 
 hog = verb 
 mustard = slang 
+----------------------------------------
+armrests
+files =  to walk in a line of people, one after the other, in a particular direction
+scaffolding
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -18256,7 +18260,43 @@ strings
 (SYNONYM thread) to put a series of small objects on string, etc.; to join things together with string, etc.
 
 
+Everyone files off the bus.
+files
+to walk in a line of people, one after the other, in a particular direction
+
+She rummages around in her pocket and produces a ten-dollar bill. “For breakfast,” she says.
+rummages
+to move things around carelessly while searching for something
+
+His words failed to produce the desired effect.
+produce
+to cause a particular result or effect
+
+Grate the cheese and sprinkle it over the tomatoes.
+grate
+to rub food against a grater in order to cut it into small pieces
+
+The fire extinguisher directs foam onto the fire.
+foam
+a chemical substance that forms or produces a soft mass of very small bubbles, used for washing, shaving (= cutting hair from the skin), or putting out fires, for example
+
+Whisk the egg whites until stiff.
+stiff
+​thick; difficult to stir (= move around with a spoon)
+
+He spoke for a long time but his meaning didn't really come across.
+come across
+​to be understood
+
 ---------------------- Words Todays --------------------------------
+
+
+
+
+
+
+
+
 
 
 
