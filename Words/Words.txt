@@ -17421,7 +17421,6 @@ hiss = to say something in a quiet angry voice
 rolls her eyes
 giggling = to laugh in a silly way because you are embarrassed or nervous or you think that something is funny
 sober = ​(of people and their behaviour) serious and sensible
-------------------------------------
 bog down 
 aisle 
 smooch = kiss 
@@ -17442,7 +17441,6 @@ dew
 beanie
 take off = to leave a place, especially in a hurry
 porch = varanda
-------------------------------
 wing = one section of an organization that has a particular function or whose members share the same opinions
 titter
 depot
@@ -17453,7 +17451,6 @@ gliding
 eerily
 wing = a part of a large building that sticks out from the main part
 pull = noun = a strong physical force that makes something move in a particular direction
----------------------------------
 cock = verb
 slab
 staffed
@@ -17475,14 +17472,12 @@ roaring = ​making a continuous loud deep noise
 cock =  to raise a part of your body so that it is pointing upwards or at an angle
 beeping = to make a short high sound
 back up = to move backwards, especially in a vehicle
----------------------------------------
 broom
 retried
 count out =take items one by one from a stock of something, especially money, keeping a note of how many one takes. // to count things one after the other as you put them somewhere
 croons
 shuffled 
 hemmed = to take a long time to make a decision or before you say something
-----------------------------------------
 mildly
 pull up = (of a vehicle) come to a halt.
 shamefacedly
@@ -17511,7 +17506,6 @@ nicked
 slaving 
 headlong = in a rush; with reckless haste
 gearshift
---------------------------------------
 egregious foul
 study hall
 thrift
@@ -17530,7 +17524,6 @@ trail = a route that is followed for a particular purpose
 trail off 
 coed
 egregious
-------------------------------------
 muffle
 take care (that…/to do something)
 blissfully
@@ -17544,7 +17537,6 @@ hulking
 thrashes 
 shoos
 flushes =  (of a person or their face) to become red, especially because you are embarrassed, angry or hot; to make somebody's face become red
-----------------------------------
 lanky
 gangling
 guns =(verb) to start driving a vehicle very fast
@@ -17557,7 +17549,6 @@ laminate
 whooshing = to move very quickly with the sound of air or water rushing
 slide = to move quickly and quietly
 laminate desk
-------------------------------------------
 string = to put a series of small objects on string, etc.; to join things together with string, etc.
 be/feel flattered = ​to be pleased because somebody has made you feel important or special
 slam
@@ -17609,11 +17600,13 @@ take no chance  =  to not do something that is risky or dangerous
 tack 
 hog = verb 
 mustard = slang 
-----------------------------------------
 armrests
 files =  to walk in a line of people, one after the other, in a particular direction
 scaffolding
-
+-----------------------------------------
+hedge
+marzipan
+mortar
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -17655,7 +17648,11 @@ communication; news
 
 I flunked math in second grade.
 flunked down
-to fail especially in an examination or course.
+to fail especially in an examination or course
+
+My car wouldn't start this morning.
+would
+used to show that somebody/something was not willing or refused to do something
 
 Tosses the cigarette down and grinds it into the gravel(= to extinguish by rubbing the lighted end against a hard surface).
 grinds
@@ -17704,6 +17701,10 @@ a narrow space or opening
 I’ve got shoes that’ll go with the dress.
 go with 
 to accompany something else as a typical or intrinsic part or aspect.
+
+They would never have met if she hadn't gone to Emma's party.
+would
+used for describing a possible action or event that did not in fact happen, because something else did not happen first
 
 “You look fine, Janie,” Stu says. “Come on. Don’t make me sit there with a bunch of teenybopper airheads all night. Have pity on an old man.”
 teenybopper
@@ -17764,6 +17765,10 @@ dizzying
 Melinda Jeffers and her rich friends make puking noises when they pass Janie in the hall.
 puking
 to vomit
+
+I'd say he was about fifty.
+would
+used to give opinions that you are not certain about
 
 They startle at the same time. 
 startle 
@@ -17897,6 +17902,10 @@ She curled her legs up under her.
 curled
 to form or make something form into a curved shape
 
+I wish that you'd be quiet for a minute.
+would
+used for saying what you want to happen
+
 She's been put on a drip.
 IV drip
 a piece of equipment that passes liquid food, medicine or blood very slowly through a tube into a patient’s vein
@@ -17964,6 +17973,10 @@ slide in a sitting position.
 You don’t notice all the girls drooling over your new look.
 drooling
 (SYNONYM dribble) to let saliva (= liquid) come out of your mouth
+
+He worked hard in order that he would pass all his exams.
+would
+used for saying why somebody does something
 
 She picks up his shirt and refolds it so the buttons turn in. “So you don’t get a button impression on your face,” she says.
 refolds
@@ -18049,6 +18062,10 @@ The teacher comes in and shoos them to their seats.
 shoo 
 to make somebody/something go away or to another place, especially by saying ‘shoo’ and waving your arms and hands
 
+Her face was wreathed in smiles (= she was smiling a lot).
+wreathed 
+to surround or cover something
+
 You look freaked. Did you have a bad dream or something?
 freaked
 to react very strongly to something that makes them suddenly feel shocked, surprised, frightened, etc.
@@ -18092,6 +18109,10 @@ to make a long, high sound
 The charcoaled remains shrivel up and the wind takes them down the street, across the yards. 
 charcoaled
 ​a black substance made by burning wood slowly in an oven with little air. Charcoal is used as a fuel or for drawing
+
+I wouldn't have any more to drink, if I were you.
+would
+used to give advice
 
 The leaves on the plant had shrivelled up from lack of water.
 shriveled up
@@ -18175,6 +18196,10 @@ Pass the book on to me when you've finished with it.
 pass sth on (to sb)
 to give something to somebody else, especially after receiving it or using it yourself
 
+He'd always be the first to offer to help.
+would
+(SYNONYM used to) used for talking about things that often happened in the past
+
 Don't write me off as a failure just because of that one time when things didn't go right.
 written off 
 (SYNONYM dismiss) to decide that somebody/something is a failure or not worth paying any attention to
@@ -18215,6 +18240,10 @@ I cringe when I think of the poems I wrote then.
 cringe
 to feel very embarrassed and uncomfortable about something
 
+‘She said it was your fault.’ ‘Well, she would say that, wouldn't she? She's never liked me.’
+would
+used for talking about behaviour that you think is typical
+
 Cabel is gawking at Janie. “Okay,” he says. “Okay. Jesus.”
 gawking
 (SYNONYM gape) to stare at somebody/something in a rude or stupid way
@@ -18250,6 +18279,10 @@ belches
 The other students board the bus in twos and threes. Some stand outside, sucking on cigarettes.
 sucking
 just a casual way to say "smoking a cigarette"
+
+She'd be a fool to accept it (= if she accepted).
+would
+used for talking about the result of an event that you imagine
 
 He combs his hair with his fingers, and it feathers and falls again.
 feathers
@@ -18288,7 +18321,39 @@ He spoke for a long time but his meaning didn't really come across.
 come across
 ​to be understood
 
+She asked if I would help.
+would
+used as the past form of will when reporting what somebody has said or thought
+
+He was too bashful to talk about sex.
+bashful
+​shy and easily embarrassed
+
+He looked away, blushing.
+blushing
+to become red in the face because you are embarrassed or ashamed
+
+The was instrumental in molding the policy and ideals of the journal.
+molding
+influence the formation or development of
 ---------------------- Words Todays --------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
