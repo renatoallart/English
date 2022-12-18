@@ -12763,7 +12763,7 @@ patched up
 wind on
 unbeknown
 burn down
-rashy
+rashly
 floundering
 unnerve
 rattle = (SYNONYM unnerve) to make somebody nervous or frightened
@@ -18342,13 +18342,20 @@ influence the formation or development of
 
 
 
+gait
+
+John picked some lint out of his pocket and threw it away.
+lint
+short fine fibres that come off the surface of cloth when it is being made
+
+She patched up his wounded arm.
+patched up
+to give quick and usually temporary medical treatment to (someone or something)
 
 
-
-
-
-
-
+The new democracy there continues to flounder.
+democracy
+to have a lot of problems and to be in danger of failing completely
 
 
 
@@ -18376,6 +18383,7 @@ influence the formation or development of
 U really pulled one over on me
 
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
+
 
 
 
