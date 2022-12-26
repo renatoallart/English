@@ -17603,11 +17603,9 @@ mustard = slang
 armrests
 files =  to walk in a line of people, one after the other, in a particular direction
 scaffolding
------------------------------------------
 hedge
 marzipan
 mortar
-------------------------------------------
 flicks
 squirms
 bursts out
@@ -17624,11 +17622,9 @@ dairy plant
 contentious 
 skewed 
 gait 
-------------------------------------
 dismay
 austere 
 preschooler
------------------------------------
 tacky
 crass
 matinee
@@ -17636,7 +17632,44 @@ push past = To rudely force one's way in front of another
 make out = to kiss and touch somebody in a sexual way; to have sex with somebody
 disinterested
 strike up
+---------------------------------
+mournful
+intrigued
+melancholy
+carpenter
+mainmast
+gaff
+luck out 
+hedge
+internship
+referral
+latitude = freedom to choose what you do or the way that you do it
+----------------------------------------
+infractions
+pare
+lowborn
+---------------------------------------
+crispy
+jargon
+toil 
+wanderer
+tromp 
+copium
+intrepid 
+raisins 
+salve 
+skid 
+swole 
+interstellar 
+frenzy
+ludwig
+hinge = dependable on
+i can but try
+mop 
+sear
 ---------------------------------------> Phrases <--------------------------------------------------
+
+
 
 
 Janie, blind to the room her physical body's in.
@@ -18510,13 +18543,105 @@ Janie slips into a grateful coma, her head propped against the window.
 propped
 ​to support an object by leaning it against something, or putting something under it, etc.; to support a person in the same way
 
+An internship at a television station.
+internship
+a period of time during which a student or new graduate gets practical experience in a job, for example during the summer holiday
+
+I work for an employment staffing firm.
+staffing firm
+an organization that matches companies and job candidates
+
+She walked to the front of the class with a swagger.
+swagger
+​a way of walking or behaving that seems too confident
+
+Illnesses requiring referral to hospitals.
+referral
+the act of sending somebody who needs professional help to a person or place that can provide it
+
+Some degree of latitude is required in interpreting the law on this point.
+latitude
+freedom to choose what you do or the way that you do it
+
+Handmade wedding stationery.
+stationery
+special paper for writing letters on
+
+If the day turns out wet, we may have to change our plans.
+turned out
+to happen in a particular way; to develop or end in a particular way
+
+A shepherd herding his flock.
+herd
+to keep or look after a group of animals; to make animals move together as a group
+
+A shepherd tending his sheep.
+tends
+to care for somebody/something
+
+The brig sailed to the coast of Norway to avoid capture.
+brig
+a two-masted, square-rigged ship with an additional gaff sail on the mainmast.
+
+He was intrigued by her story.
+intrigued
+very interested in something/somebody and wanting to know more about it/them
+
+She slips under the water slowly.
+slips
+to slide a short distance by accident so that you fall or nearly fall
+
+I couldn't bear the mournful look on her face.
+mournful
+(SYNONYM melancholy) ​very sad
+
+He slips his hand into hers.
+slips
+to put something somewhere quickly, quietly or secretly
+
+She's ust another wench, he told himself angrily, but deep down he knew different
+wench
+a prostitute
+
+I'll do my homework after supper.
+supper /ˈsʌpər/
+the last meal of the day, either a main meal, usually smaller and less formal than dinner, or a snack eaten before you go to bed
+
+I'm not looking forward to our next away game, because we have to drive over five hours to get there!
+away game
+in sports and athletics, a game, match, or contest that is held at the opposing team's home location
+
+The pairing of food and wine.
+pairing
+the action of pairing things or people
+
+My uncle claims that he was raised in a drainage ditch, but it's just another of his tall tales.
+tall tales
+a story that is very difficult to believe
+
+The management and unions have reached a settlement over new working conditions.
+settlement
+an official agreement that ends an argument between two people or groups
+
+Her hair was still damp from the shower.
+damp 
+slightly wet
+
+A top-down management style
+top-down
+​starting from or involving the people who have higher positions in an organization
+
+A black and white spotted dress.
+spotted
+​(of cloth, etc.) having a regular pattern of small dots (= small round marks) on it
+
+She's always quick to spot an opportunity.
+spot
+to see or notice a person or thing, especially suddenly or when it is not easy to do so
 ---------------------- Words Todays --------------------------------
 
 
-
-
-
-
+ 
 
 
 
@@ -18530,6 +18655,7 @@ propped
 U really pulled one over on me
 
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
+
 
 
 
