@@ -12909,11 +12909,11 @@ subjunctive
 open questions 
 seminar
 soak in
-waer off
+wear off
 warn off
 outlive
 sit on
-buried = (SYNONUM hide) to cover something so that it cannot be seen
+buried = (SYNOYM hide) to cover something so that it cannot be seen
 restraint = a type of seat belt or safety device
 restraint
 call off = ​to cancel something; to decide that something will not happen
@@ -12930,7 +12930,7 @@ usefulness
 pique
 seamless
 hoes
-chuff
+chuffed
 practicing
 fix up
 flesh out 
@@ -17667,6 +17667,13 @@ hinge = dependable on
 i can but try
 mop 
 sear
+------------------------------
+rink
+apartheid
+mascara 
+leggings
+chuffed
+a fet of pique/anger
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -18638,16 +18645,42 @@ spotted
 She's always quick to spot an opportunity.
 spot
 to see or notice a person or thing, especially suddenly or when it is not easy to do so
+
+A collar and cuffs of white lace.
+cuff
+the lower end of a coat or shirt sleeve at the wrist
+
+I'll fix you up with a place to stay.
+fix up
+to arrange for somebody to have something; to provide somebody with something
+
+A pair of leggings.
+trousers that fit tightly over the legs, made of cloth that stretches easily
+
+They simply fudged on the details.
+fudged
+to present or deal with something in a way that avoids giving clear and accurate information
+
+She was suddenly smitten with remorse.
+smitten
+severely affected by a feeling, disease, etc.
+
+He has effectively killed off any political opposition.
+killed off
+​to stop or get rid of something
+
+He stormed from the room in a fit of pique, shouting that he had been misunderstood. 
+a fet of pique/anger
+a feeling of anger, especially caused by someone damaging your feeling of being proud of yourself
 ---------------------- Words Todays --------------------------------
 
 
- 
+
 
 
 
 
 (said in reply to a question, usually from a journalist)
-
 
 
 
