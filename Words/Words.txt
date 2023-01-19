@@ -13059,7 +13059,7 @@ reject
 outclass 
 sputtering
 splutter
-unflawfully
+unlawfully
 slow-witted 
 ascertain 
 pick off
@@ -17789,6 +17789,14 @@ wap = (slang) female sexual excitement
 excelsior = slender, curved wood shavings used especially for packing.
 crate
 pudgy
+--------------------------------
+most of it 
+flatter 
+withhold 
+probe 
+untold 
+roster out 
+goofball
 ---------------------------------------> Phrases <--------------------------------------------------
 
 It’s late—I think I’ll turn in.
@@ -17855,6 +17863,10 @@ I’m afraid you haven’t been privy to that dream yet.
 privy
 allowed to know about something secret
 
+Come along! We're late.
+come along
+​used in orders to tell somebody to hurry, or to try harder
+
 He tugs her arm.
 tug
 to pull something hard, often several times
@@ -17897,6 +17909,10 @@ a musical instrument with strings, that you hold under your chin and play with a
 Time to conduct evil.
 conduct
 to lead or guide somebody through or around a place
+
+Your French has come along a lot recently.
+come along
+(SYNONYM progress) to improve or develop in the way that you want
 
 We can get into the gritty( = obscure) details later.
 gritty
@@ -18143,7 +18159,33 @@ to move quickly making a quiet rubbing noise
 She wallowed in the luxury of the hotel.
 wallowed
 to enjoy something that causes you pleasure
+
+Who stands to benefit the most?
+stand to do sth
+to be in a situation where you are likely to do something
+
+I'm glad you came along.
+came along
+​to go somewhere with somebody
+
+Your French has come along a lot recently.
+come along
+(SYNONYM progress) to improve or develop in the way that you want
+
+Pick off all the dead leaves.
+pickoff
+​to remove something from something such as a tree, a plant, etc.
+
+Drop by sometime.
+drop by 
+​to pay an informal visit to a person or a place
+
+My offer still stands.
+stand 
+if an offer, a decision, etc. made earlier stands, it is still available or relevant or still exists
+
 ---------------------- Words Todays --------------------------------
+
 
 
 
