@@ -17797,6 +17797,8 @@ probe
 untold 
 roster out 
 goofball
+--------------------
+oversteered
 ---------------------------------------> Phrases <--------------------------------------------------
 
 It’s late—I think I’ll turn in.
@@ -18183,6 +18185,14 @@ drop by
 My offer still stands.
 stand 
 if an offer, a decision, etc. made earlier stands, it is still available or relevant or still exists
+
+Shane and Mary played games to spin out the afternoon
+spin out
+spend or occupy time aimlessly.
+
+He oversteered on the correction, then lost it entirely and spun out
+spun out
+lose control of a car, especially in a skid.
 
 ---------------------- Words Todays --------------------------------
 
