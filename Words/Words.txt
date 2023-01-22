@@ -13115,7 +13115,7 @@ fare = verb
 goof off
 blot out
 coincidentally
-i stand corrected
+stand corrected
 longshoreman
 indenture
 raw deal
@@ -17799,6 +17799,9 @@ roster out
 goofball
 --------------------
 oversteered
+---------------------
+malignant
+stand corrected
 ---------------------------------------> Phrases <--------------------------------------------------
 
 It’s late—I think I’ll turn in.
@@ -18225,7 +18228,26 @@ to make a hollow place in a hard surface, usually by hitting it
 Hundreds of people were rendered homeless by the earthquake.
 render
 to cause somebody/something to be in a particular state or condition
+
+The industry's environmental impact is relatively benign, even positive.
+benign
+not causing damage or harm
+
+She’s a bit miffed that we’re not taking her with us.
+miffed
+(SYNONYM annoyed) ​slightly angry or upset
+
+He tried to blot out the image of Helen's sad face.
+blot out
+to deliberately try to forget an unpleasant memory or thought
+
+She's recovering after surgery to remove a benign tumour.
+benign
+(OPPOSITE malignant)(of tumours growing in the body) not dangerous or likely to cause death
 ---------------------- Words Todays --------------------------------
+
+
+
 
 
 
