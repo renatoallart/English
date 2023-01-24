@@ -13130,9 +13130,9 @@ incur
 overdraft   
 incumbent
 clenched fist
-stuck donw
+stuck down
 minister to
-pental
+penal
 stalk = a thin stem that supports a leaf, flower or fruit and joins it to another part of the plant or tree; the main stem of a plant
 call up = to make somebody do their training in the army, etc. or fight in a war
 up for something
@@ -17765,7 +17765,6 @@ overanimated
 pothead
 sloshes around 
 a good lay 
------------------------------------
 roster 
 foothill
 roster out 
@@ -17775,21 +17774,17 @@ mast
 deposits
 morosely
 cursory
---------------------------------
 slips into
 life-changing
 score = very many
 score = a set or group of 20 or approximately 20 
 flounder = to have a lot of problems and to be in danger of failing completely
---------------------------------
 power lunch
 typify
-------------------------------
 wap = (slang) female sexual excitement
 excelsior = slender, curved wood shavings used especially for packing.
 crate
 pudgy
---------------------------------
 most of it 
 flatter 
 withhold 
@@ -17797,11 +17792,14 @@ probe
 untold 
 roster out 
 goofball
---------------------
 oversteered
----------------------
 malignant
 stand corrected
+--------------------------
+clenched
+coccyx
+stevedore
+hurtful
 ---------------------------------------> Phrases <--------------------------------------------------
 
 It’s late—I think I’ll turn in.
@@ -17922,6 +17920,10 @@ come along
 We can get into the gritty( = obscure) details later.
 gritty
 (onepunche man cap 166) containing or covered with grit.
+
+They have called up more than 20,000 reservists
+called up
+(SYNONYM enlist, recruit) summon someone to serve in the armed forces
 
 It seems like he still retains at least some humanity, did he manage to stave off the full importation of power?
 stave off
@@ -18244,6 +18246,54 @@ to deliberately try to forget an unpleasant memory or thought
 She's recovering after surgery to remove a benign tumour.
 benign
 (OPPOSITE malignant)(of tumours growing in the body) not dangerous or likely to cause death
+
+The smell of the sea called up memories of her childhood.
+called up
+(SYNONYM recall) to bring something back to your mind
+
+The illness left them with open sores all over their backs.
+sores
+(SYNONYM wound1 ) a painful, often red, place on your body where there is a wound or an infection
+
+Jane told some evil gossip about Bill out of spite. That was not an accident! You did it out of spite.
+out of spite
+with the desire to harm someone or something. 
+
+I called his address up on the computer.
+called sth up
+​to use something that is stored or kept available
+
+Inflammatory cells.
+inflammatory
+relating to or causing inflammation of a part of the body.
+
+When I woke up my head was sore and throbbing.
+sore
+​if a part of your body is sore, it is painful, and often red, especially because of infection or because a muscle has been used too much
+
+He was still sore at me for telling him he couldn't sing.
+sore
+(SYNONYM annoyed) upset and angry, especially because you have been treated unfairl
+
+Two candidates are up for election.
+up for sth
+​being considered for something, especially as a candidate
+
+We're going clubbing tonight. Are you up for it?
+up for sth
+willing to take part in a particular activity
+
+Demand for the new model's outrunning supply.
+outrunning
+(SYNONYM outstrip) to develop faster than something
+
+These machines have lain idle since the factory closed.
+lain
+(P.P of lie1) to be, remain or be kept in a particular state
+
+A spy thriller.
+thriller
+​a book, play or film with an exciting story, especially one about crime or spying
 ---------------------- Words Todays --------------------------------
 
 
