@@ -13177,10 +13177,9 @@ agronomy
 mediocre
 slit-eyed 
 limp
-lodstone
+lodestone
 stable hand 
 latch
-airborn
 anemone 
 flare out
 waive 
@@ -17804,6 +17803,15 @@ hurtful
 brush it off 
 a few and between 
 get ur ass handed 
+--------------------------
+concessions 
+esper
+hanging all over someone
+grit 
+stable
+croupier 
+cartridge
+printer
 ---------------------------------------> Phrases <--------------------------------------------------
 
 It’s late—I think I’ll turn in.
@@ -18314,7 +18322,52 @@ loafing
 I hete the goof-off, they must be fired!
 goof off
 to spend your time doing nothing, especially when you should be working
+
+Their tent was swept away in the storm.
+swept
+Rumours of his resignation swept through the company.
+
+The horse was led back to its stable.
+stable
+a building in which horses are kept
+
+They were spreading grit and salt on the icy roads.
+grit
+very small pieces of stone or sand
+
+Gritty determination
+gritty
+showing the courage and strength of mind to continue doing something difficult or unpleasant
+
+Gritty realism.
+gritty
+showing something unpleasant as it really is; having a lot of unpleasant features
+
+His eyes narrowed into slits.
+slit
+​a long, narrow cut or opening
+
+The dealing room has become the lodestone of morality in our society.
+lodestone
+​a piece of iron that acts as a magnet
+
+Flare out the pages so that I can see them all at once
+flare out
+to spread or fan something out
+
+Time to prepare was a luxury he would have to forgo.
+forgo
+to decide not to have or do something that you would like to have or do
+
+There may be any number of weak or unaccented syllables in a foot.
+unaccented
+(of a word, syllable, or musical note or chord) not stressed or emphasized
+
+Their tent was swept away in the storm.
+swept
+to move or push somebody/something suddenly and with a lot of force
 ---------------------- Words Todays --------------------------------
+
 
 
 
