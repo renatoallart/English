@@ -13429,11 +13429,11 @@ cuisine
 sit comfortably, easily, well, etc. (with something)
 drop off
 spill
-aupicious
+auspicious
 fissure
 blowtorch
 gadgetry
-seffice
+suffice
 set back
 mishap
 shawl
@@ -13448,9 +13448,9 @@ lease
 turret
 byproduct
 figment
-disvow
+disavow
 head up
-roughnech
+roughneck
 full fledged
 pampered
 get off
@@ -17848,6 +17848,30 @@ darndest
 deterred
 slumber
 sate
+-----------------------------
+gala
+evening 
+compel
+soldering
+brethren
+scarcely
+flashbulbs 
+-------------------------------
+a moot point/question
+cunt 
+trek 
+scraping
+subpoena
+opt 
+opt out 
+airy 
+air out
+air = verb
+moot 
+wing = one section of an organization that has a particular function or whose members share the same opinions
+flocking
+on the wings
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -17862,6 +17886,10 @@ to protect yourself from danger or difficulty, without trying to help other peop
 The town offers many opportunities for wining and dining.
 wine and dine (sb)
 ​to go to restaurants, etc. and enjoy good food and drink; to entertain somebody by buying them good food and drink
+
+Could you get off (work) early tomorrow?
+get off
+​to leave work with permission
 
 The path climbed steeply upwards.
 steeply 
@@ -17878,6 +17906,14 @@ too general and failing to think about or understand particular examples
 Discussions have once again stalled.
 stalled
 to stop something from happening until a later date; to stop making progress
+
+If you air out your sleeping bag after you use it, it will smell better the next time you get in.
+air out
+to expose to air; to leave open or spread out, as to allow odor or moisture to dissipate.
+
+He was ready and waiting half an hour before the express pulled in.
+pulled in 
+(of a bus or train) arrive to take passengers.
 
 We drew back from taking our neighbours to coury
 drew back /druː/
@@ -17910,6 +17946,10 @@ to add more information or details to a plan, an argument, etc.
 How will I ever get on top of all this work?
 get on top of sth 
 to manage to control or deal with something
+
+Could you sort out the toys that can be thrown away?
+sort out
+​to separate something from a larger group
 
 I immediately fell head over heels for Don.
 head over
@@ -17950,6 +17990,10 @@ to cut or break small pieces off something with a tool
 Why do you want to know?’ ‘No particular reason. I was just wondering.’
 wonder /ˈwʌndər/
 to think about something and try to decide what is true, what will happen, what you should do, etc.
+
+He was lucky to get off with a small fine.
+get off
+​to receive no or almost no punishment; to help somebody do this
 
 Ask someone to put you in touch with other suppliers.
 in touch 
@@ -18019,6 +18063,10 @@ Your ankle's swollen—I think the doctor ought to look at it.
 look at
 to examine something closely
 
+The show will be aired next Tuesday night.
+aired
+to broadcast a programme on the radio or on television; to be broadcast
+
 I caught him when he fell.
 caught
 (P.T P.P of catch) to stop and hold a moving object or person, especially in your hands
@@ -18039,11 +18087,194 @@ Next, add two tins of tomatoes.
 tin
 a metal container in which food is sold; the contents of one of these containers
 
+It scarcely even flinched, like shrugging off a gnat.
+scarcely
+only just; almost not
+
+He shrugged off a gnat.
+gnat
+​a very small fly with two wings that bites and often flies in large groups
+
+If you're going to the bus station, can you sort out the tickets for tomorrow?
+sort out
+​to organize something successfully
+
+Kevin shrugged off his jacket.
+shrugged off
+​to push somebody/something back or away with your shoulders
+
+He met my gaze without flinching.
+flinches
+​to make a sudden movement with your face or body as a result of pain, fear, surprise, etc.
+
+So u come for revenge for ur fallen brethren.
+brethren/ˈbreðrən/
+​people who are part of the same society as yourself
+
+No god or man can compel me!
+compel
+​to force somebody to do something; to make something necessary
+
+We aren't yet through(we aren't finish our stuff yet) u and I.
+through 
+from the beginning to the end of a thing or period of tim
+
+I'll kill the lot of u and deny hte monster meal.
+the lot of u
+a large number of people or things; much of something.
+
+Simple mediocrity cannot suffice them.
+suffice
+meet the needs of
+
+Traffic in the town has dropped off since the bypass opened.
+dropped off/drɒpt/
+to become fewer or less
+
+The house is set well back from the road.
+set back
+to place something, especially a building, at a distance from something
+
+A gun turret.
+turret
+a small metal tower on a ship, plane or tank that can usually turn around and from which guns are fired
+
+One of the by-products of unemployment is an increase in crime.
+by-products
+​a thing that happens, often unexpectedly, as the result of something else
+
+She let loose a stream of abuse.
+let loose sth
+​to make a noise or remark, especially in a loud or sudden way
+
+The repairs could set you back over £200.
+set back
+to cost somebody a particular amount of money
+
+The cupboards need sorting out.
+sorting out
+to organize the contents of something; to tidy something
+
+We got off straight after breakfast.
+got off
+to leave a place or start a journey; to help somebody do this
+
+Major loans like these always come with strings.
+strings
+special conditions or limits
+
+We managed to find a secluded spot for our picnic.
+secluded /sɪˈkluːdɪd/
+​(especially of a place) quiet and private
+
+The new manager turned the old systems inside out.
+turn sth inside out
+to cause large changes
+
+Metal wheel rims
+rim
+the metal edge of a wheel onto which the tyre is fixed
+
+If you can wait a moment, I'll sort it all out for you.
+sort out
+to deal with somebody’s/your own problems successfully
+
+She let her hair loose and it fell around her shoulders.
+let sb/sth loose
+​to free somebody/something from whatever holds them/it in place
+
+In one of the pews a woman was fingering her beads.
+beads
+a rosary
+
+She is telling her rosary
+rosary
+a string of beads that are used by some Roman Catholics for counting prayers as they say them
+
+The Reform Party pulled in 10% of the vote.
+pulled in 
+succeed in securing or obtaining something.
+
+Susan was on the wing doing things to get ready for her trip.
+on the wings
+(of a bird) in flight.
+
+Kanki's acting as bait in the center to draw the enemies' focus so that the HI SHI UNIT and the GAKU KA on the wings can escape.
+wing
+(SYNONYM arm) one section of an organization that has a particular function or whose members share the same opinions
+
+There are no obvious successors waiting in the wings.
+in the wings
+ready to do something or to be used at the appropriate time.
+
+The Zhao armies flocking to Kanki's position will come here next!
+flocking
+​to go or gather together somewhere in large numbers
+
+I was interestedin seeing if u were a man on par with myself, but in that stateod ur, it's moot point.
+a moot point/question
+a matter about which there may be difference of opinion or a lack of understanding
+
+He argued that the issue had become moot since the board had changed its policy.
+moot 
+unlikely to happen and therefore not worth considering
+
+Nothing grows in these arid regions.
+arid 
+(of land or a climate) having little or no rain; very dry
+
+Air the sheets well.
+air
+o put clothing, etc. in a place that is warm or has plenty of air so that it dries completely and smells fresh; to be left to dry somewhere
+
+He pulled in at the curb
+pulled in 
+(of a vehicle) move to the side of or off the road.
+
+I'm just speaking off the cuff here—I haven't seen the results yet.
+off the cuff
+​(of speaking, remarks, etc.) without previous thought or preparation
+
+The department deferred the decision for six months.
+deferred
+(SYNONYM put off) to delay something until a later time
+
+The written-down value of the stock.
+written-down /ˈrɪtn, daʊn/
+(business) to reduce the value of assets when stating it in a company’s accounts
+
+I reckon she's pulling in over $100 000.
+pulling in
+SYNONYM make (16) to earn the large amount of money mentioned
+
+The rooms had all been cleaned and aired.
+aired
+to allow fresh air into a room or a building; to be filled with fresh air
+
+It's too late to put them off now.
+out off
+to cancel a meeting or an arrangement that you have made with somebody
+
+The administration will be forthright in speaking out against human rights abuses
+spoken out
+express one's feelings or opinions frankly and publicly.
+
+She's very clever but her manner does tend to put people off.
+put off
+to make somebody dislike somebody/something or not trust them/it
+
+The issues were openly aired and discussed by the group.
+aired 
+to express your opinions publicly
 ---------------------- Words Todays --------------------------------
 
 
 
 
+
+
+racing stables
+a group of people (such as athletes, writers, or performers) under one management
 
 U really pulled one over on me
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
