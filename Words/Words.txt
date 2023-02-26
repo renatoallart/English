@@ -13505,7 +13505,7 @@ stratagem
 wind = to make somebody unable to breathe easily for a short time
 warded off
 in seconds flat
-diarrhoea 
+diarrhoeal
 verse
 nuts and bolts
 nit
@@ -13521,7 +13521,7 @@ sprouted
 hairy
 tantalizing
 thoroughbred
-scenary
+scenery
 pin point = find or locate exactly
 mare
 give a shit
@@ -17871,6 +17871,13 @@ moot
 wing = one section of an organization that has a particular function or whose members share the same opinions
 flocking
 on the wings
+--------------------------------------------
+indicate
+therein
+hatch up
+ostracization
+unfamiliarity
+disorienting
 
 
 ---------------------------------------> Phrases <--------------------------------------------------
@@ -18231,6 +18238,10 @@ He pulled in at the curb
 pulled in 
 (of a vehicle) move to the side of or off the road.
 
+It was scarcely an occasion for laughter.
+scarcely
+used to suggest that something is not at all reasonable or likely
+
 I'm just speaking off the cuff here—I haven't seen the results yet.
 off the cuff
 ​(of speaking, remarks, etc.) without previous thought or preparation
@@ -18266,8 +18277,87 @@ to make somebody dislike somebody/something or not trust them/it
 The issues were openly aired and discussed by the group.
 aired 
 to express your opinions publicly
----------------------- Words Todays --------------------------------
 
+Symptoms include diarrhoea and vomiting.
+diarrhoea
+an illness in which waste matter is emptied from the bowels much more frequently than normal, and in liquid form
+
+A hymn with six verses.
+verse
+a group of lines that form a unit in a poem or song
+
+She hopped a train in Winnipeg.
+hopped
+board (a bus, airplane, or other mode of transportation)
+
+The audience watched as the story unfolded before their eyes.
+unfolded
+to be gradually made known; to gradually make something known to other people
+
+The vice-president was forced to take up the reins of office.
+the reins
+the state of being in control or the leader of something
+
+The insurance policy covers the building and any fixtures contained therein.
+therein
+​in the place, object, document, etc. mentioned
+
+A fussy manner.
+fussy
+doing something with small, quick, nervous movements
+
+I grew used to the ostracization and realized that, as time passed the feeling of unfamiliarity and fear would give way to lightness.
+ostracization
+to avoid someone intentionally, or to prevent someone from taking part in the activities of a group
+
+Joe snitched on me to his mom.
+snitch
+to tell a parent, teacher, etc. about something wrong that another child has done
+
+She makes the baby wind.
+wind
+(SYNONYM burp) to gently hit or rub a baby’s back to make it burp (= release gas from its stomach through its mouth)
+
+The costume designs are too fussy.
+fussy
+​having too much detail or decoration
+
+I still felt woozy from all the pills
+woozy
+unsteady, dizzy, or dazed
+
+He had scarcely put the phone down when the doorbell rang.
+scarcely
+​used to say that something happens immediately after something else happens
+
+Hundreds of mushrooms had sprouted up overnight.
+sprouted
+to appear; to develop something, especially in large numbers
+
+I often doodle when I'm on the phone.
+doodle
+​to draw lines, shapes, etc., especially when you are bored or thinking about something else
+
+The geese came whiffling down onto the grass.
+whiffling
+move or cause to move lightly as if blown by a puff of air
+
+Over the years he hopped from one department to another
+hopped
+make a quick change of position, location, or activity
+
+A pinpoint of light from a flashlight.
+pin point
+a tiny dot or point.
+
+Tim has sprouted a beard since we last saw him.
+sprouted
+to start to grow something; to start to grow on somebody/something
+
+This weapon fired shells with pinpoint accuracy.
+pinpoint 
+absolutely precise; to the finest degree
+---------------------- Words Todays --------------------------------
 
 
 
@@ -18278,5 +18368,6 @@ a group of people (such as athletes, writers, or performers) under one managemen
 
 U really pulled one over on me
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
+
 
 
