@@ -13568,7 +13568,7 @@ intertwine
 ruse
 zealous
 hacking away
-cedef
+ceded
 porcupine
 astray
 envision
@@ -17760,6 +17760,22 @@ heard back
 bind = an annoying situation that is often difficult to avoid
 across = ​on or over a part of the body
 nightmarish
+----------------------------------------
+jam
+hail marry
+payroll
+bulk 
+scuffle
+drove
+skipping
+skipping stones
+hail marry = a plan or project with little chance of success.
+kitty
+bridal
+fringed
+do out of
+oarsman
+jam = a situation in which it is difficult or impossible to move because there are so many people or vehicles in one particular place
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -17898,8 +17914,54 @@ in a way that is likely to annoy or to upset people
 ---------------------- Words Todays --------------------------------
 
 
+As fans rushed to leave, jams formed at all the exits.
+jam
+a situation in which it is difficult or impossible to move because there are so many people or vehicles in one particular place
+
+We had to admire his prowess as an oarsman 
+oarsman
+​a man who rows a boat, especially as a member of a crew (= team)
+
+A bridal suite (= a set of rooms in a hotel for a couple who have just got married)
+bridal
+​connected with a bride or a wedding
+
+Nine times out of ten.
+out of
+from among (a number)
+
+A carpet with a fringed edge.
+fringed
+​having a narrow border of hanging threads attached along the edge for decoration
+
+She was done out of her promotion.
+do out of
+to unfairly prevent somebody from having what they ought to have
 
 
+A Hail Mary plan.
+Hail Mary
+a plan or project with little chance of success.
+
+The boys were skipping stones across the pond.
+skipping stones
+to make a flat stone jump across the surface of water
+
+People were leaving the countryside in droves to look for work in the cities.
+drove
+​a large number of people or animals, often moving or doing something as a group
+
+He was involved in a scuffle with a photographer.
+scuffle
+a short and not very violent fight or struggle
+
+The bulk of the population lives in cities.
+bulk 
+the main part of something; most of something
+
+We have 500 people on the payroll.
+payroll
+a list of people employed by a company showing the amount of money to be paid to each of them
 
 
 
