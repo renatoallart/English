@@ -13626,15 +13626,13 @@ disheveled
 attire
 liquidation
 shooting star
-frank
-parole 
+frank 
 unaffected
 rosy 
-conjucture
+conjuncture
 muddled
 leave out 
 be somebody’s strong suit
-prescelttisette
 genteel 
 tummy   
 broadly 
@@ -13688,7 +13686,7 @@ prime time
 sweaty 
 hes
 pampering
-bwlittle
+belittle
 coercion
 rowdy
 stead
@@ -17739,7 +17737,6 @@ feed it beans
 wafted 
 keeled over
 lackey 
-------------------------------------
 across = ​in every part of a place, group of people, etc
 fixtures 
 gender bias
@@ -17758,7 +17755,6 @@ heard back
 bind = an annoying situation that is often difficult to avoid
 across = ​on or over a part of the body
 nightmarish
-----------------------------------------
 jam
 hail marry
 payroll
@@ -17774,7 +17770,6 @@ fringed
 do out of
 oarsman
 jam = a situation in which it is difficult or impossible to move because there are so many people or vehicles in one particular place
-------------------------------------------
 lethargically 
 news outlet 
 the tip of the iceberg
@@ -17782,14 +17777,29 @@ semblance
 normalcy
 decress 
 dove
--------------------------------------------
 elation 
 noteworthy
 sure-fire
 crok it = To be quiet; to shut up
 bail out = ​to escape from a situation that you no longer want to be involved in
+--------------------------------------------
+conjecture = to form an opinion about something even though you do not have much information on it
+juncture
+tummy tuck
+--------------------------------------------
+rancher
+colander
+mussels
+strain = to pour food, etc. through something with very small holes in it, for example a sieve, in order to separate the solid part from the liquid part
+brow 
+condescendingly
+weathercock = a weathervane in the form of a rooster
+surveyors
 ---------------------------------------> Phrases <--------------------------------------------------
 
+What was going through the killer's mind is a matter for conjecture.
+conjecture
+the act of forming an opinion or idea that is not based on definite knowledge
 
 Don't just sling your clothes on the floor.
 sling
@@ -17854,6 +17864,10 @@ U were under duress when u did it.
 under duress
 they are not acting of their own free will and so may be treated accordingly in court proceedings
 
+The wider political conjuncture.
+conjuncture
+a state of affairs
+
 On my signal, skewer every last one of Kanki's soldiers!
 skewer
 a long thin pointed piece of metal or wood that is pushed through pieces of meat, vegetables, etc. to hold them together while they are cooking, or used to test whether something is completely cooked
@@ -17913,6 +17927,10 @@ paying attention and being careful
 Don't tell me he tactlessly went in?
 tactlessly
 in a way that is likely to annoy or to upset people
+
+Cosmetic surgery like facelifts and tummy tucks.
+tummy tuck
+it's a cosmetic surgical procedure to improve the shape and appearance of the abdomen
 
 As fans rushed to leave, jams formed at all the exits.
 jam
@@ -17982,6 +18000,10 @@ She is the youngest national editor of a major news outlet.
 news outlet 
 a newspaper, television company or other mass media which publishes news stories.
 
+The truth of his conjecture was confirmed by the newspaper report.
+conjecture
+(SYNONYM guess) an opinion or idea that is not based on definite knowledge and is formed by guessing
+
 Hair tonics will improve the condition of your hair and scalp.
 scalp
 the skin covering the head, excluding the face
@@ -18007,21 +18029,72 @@ puncture
 a small hole in a tyre made by a sharp point that allows air to escape
 
 
+He was expecting to find her prostrated by the tragedy.
+prostrated
+SYNONYM overcome to make somebody feel weak, shocked, and unable to do anything
+
+The surveyors used advanced equipment to measure the land accurately.
+surveyors /sərˈveɪərz/
+(SYNONYM: Land surveyors, cartographers, geomatics engineers.) People who are trained and qualified to measure and map land, buildings, or other physical features
+
+We bought some mussels for dinner.
+mussels
+a small shellfish that can be eaten, with a black shell in two parts
+
+The nurse mopped his fevered brow.
+brow
+the part of the face above the eyes and below the hair
+
+The cook spooned out the soup into a bowl.
+spooned out
+to distribute something from a container with a spoon
+
+This sauce has lumps in it.
+lump
+​a piece of something hard or solid, usually without a particular shape
+
+Use a colander to strain the vegetables.
+strain
+to pour food, etc. through something with very small holes in it, for example a sieve, in order to separate the solid part from the liquid part
+
+Drain the mussels in a colander and rinse well.
+colander
+a metal or plastic bowl with a lot of small holes in it, used for draining water from vegetables, etc. after washing or cooking
+
+The famous jockey was recruited by one of the most successful racing stables in the country.
+racing stables /ˈreɪsɪŋ ˈsteɪbəlz/
+a group of racehorses, trainers, jockeys, grooms, and other personnel who are responsible for the training and care of the horses, all managed under one organization or individual
 
 ---------------------- Words Todays --------------------------------
 
+We should lay waste to all the weaklings?
+lay waste
+to cause very bad damage to (something)
 
 
+He claimed he had only acted under coercion.
+coercion
+​the action of making somebody do something that they do not want to do, using force or threatening to use force
+
+They couldn't sing a note in tune.
+in tune
+with correct pitch or intonation
 
 
+The next morning we surveyed the damage caused by the fire
+surveyed
+to look carefully at the whole of something, especially in order to get a general impression of it
+
+Walls were washed down, floors scrubbed, carpets beaten, and chimneys swept
+wash down
+wash or clean something thoroughly
 
 
+The meat and bread were washed down with a jug of ale.
+wash down
+accompany or follow food with a drink.
 
 
-
-
-racing stables
-a group of people (such as athletes, writers, or performers) under one management
 
 U really pulled one over on me
 (kengan shura cap 160 )The purest form of self-defense is to make friends with the enemy out to kill u!
