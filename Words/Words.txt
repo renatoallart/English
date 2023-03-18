@@ -13729,14 +13729,14 @@ blowtorch
 lodged
 be frightened/scared/terrified out of your wits
 huddled up
-run agorund
+run aground
 seaman
 aground
 batch
 labor = the period of time or the process of giving birth to a baby
 buses 
 term = the end of a particular period of time, especially one for which something is expected to last
-puffed up = (SYNONYM swellen) to become bigger or rounder
+puffed up = (SYNONYM swollen) to become bigger or rounder
 wart
 rundown shack
 swollen
@@ -17523,6 +17523,7 @@ copium
 intrepid 
 raisins 
 salve 
+ratted out 
 skid 
 swole 
 interstellar 
@@ -17795,6 +17796,14 @@ brow
 condescendingly
 weathercock = a weathervane in the form of a rooster
 surveyors
+----------------------------------------------
+moniker
+condo 
+delves
+rat out
+indescribale
+dredge up
+the can = prison 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 What was going through the killer's mind is a matter for conjecture.
@@ -18065,12 +18074,9 @@ The famous jockey was recruited by one of the most successful racing stables in 
 racing stables /ˈreɪsɪŋ ˈsteɪbəlz/
 a group of racehorses, trainers, jockeys, grooms, and other personnel who are responsible for the training and care of the horses, all managed under one organization or individual
 
----------------------- Words Todays --------------------------------
-
 We should lay waste to all the weaklings?
 lay waste
 to cause very bad damage to (something)
-
 
 He claimed he had only acted under coercion.
 coercion
@@ -18080,7 +18086,6 @@ They couldn't sing a note in tune.
 in tune
 with correct pitch or intonation
 
-
 The next morning we surveyed the damage caused by the fire
 surveyed
 to look carefully at the whole of something, especially in order to get a general impression of it
@@ -18089,10 +18094,34 @@ Walls were washed down, floors scrubbed, carpets beaten, and chimneys swept
 wash down
 wash or clean something thoroughly
 
-
 The meat and bread were washed down with a jug of ale.
 wash down
-accompany or follow food with a drink.
+accompany or follow food with a drink
+
+U fucking ratted us out?
+ratted out 
+​to tell somebody in authority about something wrong that somebody else has done
+
+U think u'll be safe in the can?
+the can 
+slang to prison
+
+He suffered indescribable pain for so long.
+indescribable
+so extreme or unusual it is almost impossible to describe
+
+His reading was hesitant owing to a stammer
+owing to 
+because of or on account of
+
+The novel is a stinging satire on American politics.
+satire /ˈsætaɪər/
+​a way of criticizing a person, an idea or an institution in which you use humour to show their faults or weaknesses; a piece of writing that uses this type of criticism
+
+---------------------- Words Todays --------------------------------
+
+
+
 
 
 
