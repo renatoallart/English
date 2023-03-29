@@ -1,6 +1,82 @@
+
+
+26/3/2023
+
+The family's financial situation put them in a strait.
+strait /streɪt/
+(SYNONYM difficulty, predicament) a difficult or stressful situation, especially because of a lack of money
+
+After the hurricane, the town was left in tatters.
+in tatters /ɪn ˈtætərz/
+(SYNONYM ruined, destroyed) in a state of complete disarray or ruin
+
+He only had a peripheral involvement in the project.
+peripheral /pəˈrɪfərəl/
+(SYNONYM secondary, minor) relating to something that is not of central importance
+
+She bid on the rare book at the auction.
+bid /bɪd/
+(SYNONYM attempt, try) to try to do, get, or achieve something
+
+The company was sanctioned for violating environmental regulations.
+sanctioned /ˈsæŋkʃənd/
+(SYNONYM penalized, punished) to impose a penalty or punishment on someone or something for violating a rule or law
+
+His love for her compels him to do anything for her.
+compels /kəmˈpɛlz/
+(SYNONYM forces, obliges) to force or oblige someone to do something
+
+The athlete's prowess on the field was admired by many.
+prowess /ˈpraʊɪs/
+(SYNONYM skill, expertise) great skill or expertise in a particular field
+
+Completing the project in one week's gonna be a tall order.
+be a tall order /bi, ə, tɔːl, ˈɔːrdər/
+(SYNONYM difficult task, challenge) to be a difficult task or challenge to accomplish
+
+The math problem was too tricky for me to solve.
+tricky /ˈtrɪki/
+(SYNONYM difficult, complicated) difficult or complicated to do or understand
+
+You should take what he says with a grain of salt.
+grain of salt /ɡreɪn, əv, sɒlt/
+(SYNONYM skepticism, doubt) to be skeptical or doubtful about something
+
+She was so proud of her accomplishments that she would always puff up her achievements to others.
+puff up /pʌf, ʌp/
+(SYNONYM exaggerate, overstate) to exaggerate or overstate something, especially one's own achievements or abilities
+
+He pushed up the heavy box to the top shelf of the cupboard.
+push up /pʊʃ ʌp/
+(SYNONYMS raise, lift, elevate) to move something to a higher position by exerting force from below.
+
+The dimwitted student struggled to understand even the simplest concepts.
+dimwitted /ˈdɪmˌwɪtɪd/
+(SYNONYMS stupid, unintelligent) lacking intelligence or common sense.
+
+The meeting was put off until next week due to a scheduling conflict.
+put off /pʊt ɒf/
+(SYNONYMS postpone, delay) to arrange for something to take place at a later time than originally planned.
+
+This puzzle is trickier than the one we did yesterday.
+trickier /ˈtrɪkiər/
+(SYNONYMS more difficult, challenging) more difficult or complicated than something else.
+
+The rabid dog had to be put down to prevent the spread of the disease.
+rabid /ˈræbɪd/
+(of an animal) affected with rabies(a contagious and fatal viral disease of dogs and other mammals that causes madness and convulsions, transmissible through the saliva to humans)
+
+
+She worked a stint as a bartender before becoming a full-time teacher.
+stint /stɪnt/
+(SYNONYMS period of time, duration) a period of time spent doing a particular job or activity.
+
+
+
+
 strait =  a very difficult situation especially because of lack of money
 in tatters
-peripherial
+peripheral
 bid = to try to do, get or achieve something
 sanctioned =  to punish somebody/something; to impose a sanction on something
 compels
@@ -10,7 +86,7 @@ tricky
 grain of salt
 puff up 
 push up = (idioms)To shove, thrust, or press someone or something forcibly upward. A noun or pronoun can be used between "push" and "down."
-dimwitter
+dimwitted
 put off = to change something to a later time or date
 trickier
 rabid 
