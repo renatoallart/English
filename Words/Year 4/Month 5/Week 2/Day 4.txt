@@ -1,3 +1,74 @@
+
+
+7/4/2023
+
+The boat was moored at the wharf.
+wharf /wɔːrf/
+(SYNONYM quay) a platform built on the shore where boats can be loaded or unloaded
+
+She called him "deary" and asked if he wanted some tea.
+deary /ˈdɪəri/
+(SYNONYM dear) an affectionate term of address, typically to an elderly or unwell person
+
+Sometimes, it's okay to indulge in a little bit of luxury.
+indulge /ɪnˈdʌldʒ/
+(SYNONYM pamper) to allow oneself or someone else to have something enjoyable, especially more than is good for them
+
+She had a hunch that something was not quite right.
+hunch /hʌn(t)ʃ/
+(SYNONYM intuition) a feeling or guess based on intuition rather than known facts
+
+The rules clearly lay down what is allowed and what is not.
+lay down /leɪ daʊn/
+(SYNONYM establish) to establish or determine something, especially rules or principles
+
+He was a chubby little boy with rosy cheeks.
+chubby /ˈtʃʌbi/
+(SYNONYM plump) slightly fat in a pleasant and attractive way
+
+She used to be a star, but now she's just a has-been.
+has-been /ˈhæzbiːn/
+(SYNONYM former) a person or thing that was once famous or popular but is no longer
+
+She was idly flipping through the pages of a magazine.
+idly /ˈaɪdli/
+(SYNONYM lazily) in an inactive or lazy manner
+
+You need to exert more effort if you want to succeed.
+exert /ɪɡˈzɜːrt/
+(SYNONYM apply) to apply or put forth physical or mental effort
+
+I need to muster up the courage to speak in public.
+muster up /ˈmʌstər ʌp/
+(SYNONYM summon) to summon or gather one's strength or courage to do something
+
+The snowplow cleared the road after the heavy snowfall.
+snowplow /ˈsnoʊˌploʊ/
+(SYNONYM snowplough) a vehicle or device used to clear snow from roads or other surfaces
+
+The snake hissed as we approached it.
+hissed /hɪst/
+(SYNONYM sibilate) to make a sharp, sibilant sound like "ssss" or "shhh"
+
+He's part of the baby boomer generation.
+boomer /ˈbuːmər/
+(SYNONYM baby boomer) a person born during a post-World War II baby boom, typically between 1946 and 1964.
+
+I need to mull over the offer before I can make a decision.
+mull /mʌl/
+(SYNONYM ponder) to think about something carefully before making a decision
+
+The two former enemies decided to bury the hatchet and become friends again.
+bury the hatchet /ˈberi ðə ˈhætʃət/
+(SYNONYM reconcile) to end a quarrel or a disagreement and become friends again
+
+I need to buy some groceries - bread, milk, eggs, what have you.
+what have you /ˌwʌt hæv ˈjuː/
+(SYNONYM et cetera) and other similar things, especially ones not listed or mentioned specifically
+
+
+
+
 wharf
 deary
 indulge
@@ -8,7 +79,7 @@ has-been
 idly
 exert
 muster up   
-snowplough
+snowplow
 hiss
 boomer
 mull
