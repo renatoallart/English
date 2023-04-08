@@ -17827,7 +17827,6 @@ have yet to = an event that has not occurred so far but that might occur in the 
 trawler
 sardines
 stoppage = a situation in which a game is interrupted for a particular reason
--------------------------------
 barbed
 lurch 
 epoch 
@@ -17841,7 +17840,6 @@ hasty
 pounce 
 answer to 
 go distance
------------------------------------------
 stratum
 stammer
 jub
@@ -17854,7 +17852,6 @@ strata
 forward = ​an attacking player whose position is near the front of a team in some sports
 renew =  to make something legally acceptable for a further period of time
 round robin
-------------------------------------------
 streamlining
 theatrics
 bibs = a piece of cloth or plastic with a number or special colours on it that people wear on their chests and backs when they are taking part in a sport, so that people know who they are
@@ -17865,13 +17862,11 @@ streamlining = design or provide with a form that presents very little resistanc
 dexterity
 hung up =to be very worried about somebody/something; to be thinking about somebody/something too much
 elation
----------------------------------------
 zip it
 newfangled
 derail
 unwavering
 inspection
-----------------------------------------
 fluidity
 cushioning
 dawdle
@@ -17882,7 +17877,12 @@ crawled up
 goody two shoes
 dumb down
 moored 
-
+----------------------------------------
+giddy = so happy and excited that you cannot behave normally
+ferent 
+giddy
+media outlets
+buttocks
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -17993,10 +17993,28 @@ to become less or weaker, especially before disappearing completely
 All of the matches in this Noe Egoist league are under the inspection of football club owners in the whole word.
 inspection
 (SYNONYM examination) the act of looking closely at something/somebody, especially to check that everything is as it should be
+
+The audience was largely made up of squealing pubescents.
+pubescents
+a person at or approaching the age of puberty.
+
+Ur super goal's already blowing up on every media outlet!
+media outlet
+a newspaper, television company or other mass media which publishes news stories
+
+Even if I do act as a creative outlet in midfield, I wanna do as a striker.
+outlet 
+a pipe or hole through which liquid or gas can flow out
+
+I wanna win by scoring goals. call it egotistical, but this is somathing  I'll not yield to anyone!
+yield
+(SYNONYM give up) to stop resisting something/somebody; to agree to do something that you do not want to do
+
+So how does it feel to garner such praise and attention?
+garner
+(SYNONYM gather, acquire) to obtain or collect something such as information, support, etc.
+
 ---------------------- Words Todays --------------------------------
-
-
-
 
 
 
