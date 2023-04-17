@@ -1,3 +1,73 @@
+
+
+16/4/2023
+
+The nightingale sang a sweet melody in the garden.
+nightingale /ˈnaɪtɪŋɡeɪl/
+(SYNONYM bird) a small, brown bird, known especially for the beautiful song of the male, which it sings mostly at night.
+
+The government provided subsidies to support the farmers during the drought.
+subsidies /ˈsʌbsɪdi/
+(SYNONYM financial assistance) money given by a government or other organization to support an industry, business, or person.
+
+I hail from the southern part of the country.
+hail from /heɪl frɒm/
+(SYNONYM originate from) to come from a particular place or be born in a particular place.
+
+The restaurant is known for its unpretentious atmosphere and delicious food.
+unpretentious /ˌʌnprɪˈtenʃəs/
+(SYNONYM modest) not attempting to impress others with an appearance or manner.
+
+The cactus has sharp thorns to protect itself from predators.
+cactus /ˈkæktəs/
+(SYNONYM succulent plant) a plant with a thick, fleshy stem that typically bears spines, lacks leaves, and has brilliantly colored flowers.
+
+Her eyes were a striking ice-blue color.
+ice-blue /aɪs bluː/
+(SYNONYM pale blue) a light, pale blue color.
+
+He felt chained down by his responsibilities and obligations.
+chained down /tʃeɪnd daʊn/
+(SYNONYM restricted) to be limited or restrained by something, often a responsibility or obligation.
+
+This explanation doesn't make a lick of sense to me.
+make a lick of sense /meɪk ə lɪk əv sɛns/
+(SYNONYM make any sense) to be comprehensible or logical.
+
+She climbed up the stair to the second floor.
+stair /steər/ 
+a series of steps for going from one level of a building to another
+
+The bookcase was filled with classic literature.
+bookcase /ˈbʊk.keɪs/ 
+a piece of furniture with shelves used for storing books
+
+He was drafted into the army during the war.
+drafted /ˈdræftɪd/ 
+to require someone to join the armed forces
+
+The soup was insipid and lacking in flavor.
+insipid /ɪnˈsɪp.ɪd/
+lacking in flavor or interest; dull
+
+The company hired a consultant to groom the new executives.
+groom /ɡruːm/ 
+to prepare or train someone for an important job or position
+
+The sewing needle left a tiny pinprick on her finger.
+pinprick /ˈpɪn.prɪk/ 
+a very small puncture made by a pin or needle
+
+Water was trickling down the wall from a leaky pipe.
+trickle /ˈtrɪk.əl/ 
+to flow or fall by drops or in a small stream
+
+The politician's speech was filled with verbiage but lacked any substantial content.
+verbiage /ˈvɜː.bɪdʒ/ 
+excessive or unnecessary wordiness in writing or speech
+
+
+
 nightingale
 subsidies
 hail from
@@ -12,5 +82,5 @@ draft = to order somebody by law to join the armed forces
 insipid
 groom = to prepare or train somebody for an important job or position
 pinprick
-tricle
+trickle
 verbiage
