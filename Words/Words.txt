@@ -14421,7 +14421,7 @@ riverbed
 exhibit
 eerie 
 sassy
-nothead
+knothead
 perversion
 scuttle =  to sink a ship deliberately by making holes in the side or bottom of it
 list = (of a ship) to lean to one side
@@ -14467,7 +14467,7 @@ bungled
 let's play it out
 harness
 foliage
-longface
+long face
 werewolf
 thine
 swirl
@@ -18055,6 +18055,10 @@ deities
 lofty
 gopher 
 whaled = beat; hit.
+--------------------------
+feisty
+ovation 
+adhering 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Joe despicable actions are so jarring and effective that it's easy to miss this one fact, his one weakness is that he can only use trick strategies, and He knows no other way to fight.
@@ -18197,7 +18201,14 @@ His deep shot was caught on the fly.
 off/on the fly
 while in motion or progress
 
+To be candid, I can’t stand her.
+candid
+​saying what you think openly and honestly; not hiding your thoughts
+
 ---------------------- Words Todays --------------------------------
+
+
+
 
 
 
