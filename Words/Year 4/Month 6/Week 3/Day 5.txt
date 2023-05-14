@@ -1,3 +1,8 @@
+
+
+13/5/2023
+
+
 He had a long face when he received the disappointing news.
 long face /lɔŋ feɪs/
 (SYNONYM sad expression) a facial expression that indicates sadness, disappointment, or unhappiness
@@ -15,7 +20,7 @@ swirl /swɜrl/
 (SYNONYM twirl) to move or flow in a twisting or spiraling motion, often creating a visually dynamic or graceful effect
 
 She honed her skills through years of dedicated practice and training.
-hone /hoʊn/
+honed /hoʊnd/
 (SYNONYM refine) to sharpen, improve, or perfect something through practice, training, or experience
 
 The team had to whittle down the list of applicants to select the most qualified candidates.
@@ -23,7 +28,7 @@ whittle down /ˈwɪtəl daʊn/
 (SYNONYM reduce) to gradually or systematically reduce the size, number, or amount of something by eliminating or trimming away less important or desirable elements
 
 The campaign team canvassed the neighborhood, going door to door to gather support for their candidate.
-canvass /ˈkænvəs/
+canvassed /ˈkænvəst/
 (SYNONYM survey) to visit or contact people in an area to seek their opinion, gather information, or promote a particular cause or candidate
 
 He didn't pull any punches during the debate and directly confronted his opponent's weaknesses.
@@ -35,8 +40,35 @@ nipples /ˈnɪpəlz/
 (SYNONYM teats) small protrusions on the breasts or udders of mammals, typically serving as the exit point for milk during breastfeeding
 
 The tragic news gripped the entire nation, leaving them in a state of profound sadness.
-grip /ɡrɪp/
+gripped /ɡrɪpt/
 (SYNONYM affect) to have a powerful effect on somebody or something, often in an emotional or intense mannerw
+
+The constant pressure and workload began to grind him down, causing exhaustion and burnout.
+grind down /ɡraɪnd daʊn/
+(SYNONYM wear down) to gradually erode or weaken someone's physical or mental state through persistent pressure, stress, or fatigue
+
+The team was whupped by their opponents in a lopsided match, losing by a wide margin.
+whupped /wʌpt/
+(SYNONYM defeated) to be soundly beaten or defeated in a competition or contest
+
+The coach chewed out the players for their lackluster performance during the game.
+chewed out /tʃuːd aʊt/
+(SYNONYM reprimand) to strongly criticize, scold, or berate someone for their actions or behavior
+
+It was a busy night at the restaurant, and the staff worked diligently to bus tables and keep the dining area clean.
+bus tables /bʌs ˈteɪbəlz/
+(SYNONYM clear tables) to remove used dishes, utensils, and other items from tables in a restaurant or dining area
+
+With the resources at her disposal, she was able to tackle the project efficiently and effectively.
+at one's disposal /ət wʌnz dɪˈspoʊzəl/
+(SYNONYM available) available or accessible for someone to use or utilize
+
+The competition was fierce among the up-and-comers, as they strived to make a name for themselves in the industry.
+up-and-comers /ˈʌp ənd ˈkʌmərz/
+(SYNONYM emerging talents) individuals who are relatively new or young in a particular field but show promising potential and are expected to achieve success or recognition
+
+
+
 
 long face
 werewolf
