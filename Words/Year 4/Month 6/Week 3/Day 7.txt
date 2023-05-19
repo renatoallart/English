@@ -1,7 +1,76 @@
+
+
+15/5/2023
+
+The party started off with great energy but gradually petered out as the night went on.
+petered out /ˈpiːtəd aʊt/
+(SYNONYM diminish) to gradually decrease in intensity, activity, or effectiveness until eventually ceasing or becoming insignificant
+
+He tried to have a private conversation, but his friend kept hornin' in and interrupting.
+horning in /hɔːrnin ɪn/
+(SYNONYM intrude) to interrupt or intrude into a conversation or situation, often without invitation or welcome
+
+The hot air balloon floated aloft, offering a breathtaking view of the landscape below.
+aloft /əˈlɔft/
+(SYNONYM in the air) at or to a great height, in the air or sky
+
+Despite the challenges, she managed to rattle out a beautiful melody on the piano.
+rattle out /ˈrætl aʊt/
+(SYNONYM produce quickly) to produce or perform something quickly and with efficiency, often under pressure or in a rapid manner
+
+After months of searching, he finally landed his dream job at a prestigious company.
+landed /ˈlændɪd/
+(SYNONYM secure) to succeed in obtaining a job, particularly one that is highly desired or competitive
+
+He used a derogatory term to refer to her, calling her a broad in an offensive manner.
+broad /brɔːd/
+(SYNONYM woman, offensive) an offensive and outdated term used to refer to a woman, considered disrespectful and derogatory
+
+He was known for his dull-witted responses and slow understanding of complex concepts.
+dull-witted /ˈdʌlˈwɪtɪd/
+(SYNONYM slow-minded) lacking intelligence, slow to comprehend or process information, having a limited mental capacity
+
+The interplay between the characters created a captivating dynamic in the play.
+interplay /ˈɪntərpleɪ/
+(SYNONYM interaction) the interaction or mutual influence between two or more people, elements, or forces, often resulting in a complex or dynamic relationship
+
+The wil-mass festival brought together musicians from various genres and cultures.
+wil-mass /wɪl mæs/
+(SYNONYM eclectic gathering) a gathering or event that combines diverse or eclectic elements, often characterized by a mix of styles, genres, or cultural influences
+
+The decoherence of the quantum system resulted in the loss of its coherent state and information.
+decoherence /diːˈkɔːhɪərəns/
+(SYNONYM loss of coherence) the process by which a quantum system loses its coherence or ability to maintain a consistent phase relationship, leading to a breakdown of quantum properties
+
+She prepared for weeks for her piano recital, practicing diligently to showcase her musical talent.
+recital /rɪˈsaɪtl/
+(SYNONYM performance) a public performance of music, dance, or another artistic form, typically by an individual or a small group
+
+He's always tinkering with gadgets and figuring out how they work; he's quite the thinger.
+thinger /ˈθɪŋər/
+(SYNONYM tinkerer) a person who enjoys experimenting with and manipulating objects, often related to technology or machinery
+
+He tried to pry the stuck drawer open using a screwdriver, applying force to separate it from the cabinet.
+pry /praɪ/
+(SYNONYM force open) to apply leverage or force in order to separate or move something, often implying an effort to access or reveal what is hidden or closed
+
+There's one important caveat to consider before signing the contract: the terms of payment may vary.
+caveat /ˈkæviæt/
+(SYNONYM warning) a warning or cautionary statement that highlights specific conditions, limitations, or potential issues that should be taken into account
+
+The experienced surgeon deftly performed the intricate procedure, showcasing years of practiced skill.
+practiced /ˈpræktɪst/
+(SYNONYM experienced) having developed skill, expertise, or proficiency through repeated practice or training
+
+She sewed a neat stitch to mend the torn fabric, ensuring it would hold together securely.
+stitch /stɪtʃ/
+(SYNONYM seam) a single loop or series of loops made by a needle and thread to join fabric or mend a tear or hole
+
+
 peter out
 horn in
 aloft
-rattke out
+rattle out
 land = o succeed in getting a job, etc., especially one that a lot of other people want
 broad  = an offensive way of referring to a woman
 dull-witted
@@ -13,4 +82,4 @@ thinger
 pry = to use force to separate something from something else
 caveat
 practised
-stich
+stitch
