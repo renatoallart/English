@@ -18128,6 +18128,11 @@ accuse
 tad 
 underhanded 
 huddle up = to gather or crowd together in a close mass
+-----------------------------------
+so-called
+frowned upon
+citing 
+garment
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -18208,10 +18213,29 @@ The school has a very high teacher-student ratio.
 ratio
 ​the relationship between two groups of people or things that is represented by two numbers showing how much larger one group is than the other
 
+This so-called scandal is spreading like wildfire.
+so-called
+used to show that you do not think that the word or phrase that is being used to describe somebody/something is appropriate
+
+There's mold on the cheese.
+mold 
+a fine soft green, grey or black substance like fur that is a type of fungus and that grows on old food or on objects that are left in warm wet air
+
+Fussy parents.
+fussy
+too concerned about having things exactly as you want them; hard to please
+
+It's bad manners to talk with your mouth full.
+manners
+behaviour that is considered to be polite in a particular society or culture
+
+A disused station.
+disused
+no longer used
+
 ---------------------- Words Todays --------------------------------
 
 
-frowned upon
 
 
 
