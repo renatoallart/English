@@ -1,3 +1,71 @@
+
+
+9/6/2023
+
+The defendant entered into a plea bargain to receive a reduced sentence.
+plea bargain /pliː ˈbɑːrɡən/
+(SYNONYM Plea deal) an agreement between a defendant and the prosecutor, where the defendant pleads guilty to a lesser charge or accepts a reduced sentence in exchange for cooperation or concessions
+
+The new policy had an effectual impact on improving employee productivity.
+effectual /ɪˈfɛktʃuəl/
+(SYNONYM Effective) producing the intended result or having the desired effect; successful or efficient
+
+The committee homologated the decision to move forward with the project.
+homologated /həˈmɒləɡeɪtid/
+(SYNONYM Approve) to approve, confirm, or validate officially; to authorize or ratify a decision, agreement, or action
+
+She lives in the downtown district of the city.
+district /ˈdɪstrɪkt/
+(SYNONYM Region) a specific area or region, often with defined boundaries, typically used for administrative, commercial, or residential purposes
+
+The product is not only affordable but also offers additional features. What's more, it comes with a lifetime warranty.
+what's more /wɒts mɔːr/
+(SYNONYM Furthermore) in addition; furthermore; moreover; used to introduce an additional or stronger point or fact
+
+Regrettably, we won't be able to attend the event due to prior commitments.
+regrettably /rɪˈɡrɛtəbli/
+(SYNONYM Unfortunately) unfortunately; with feelings of regret or disappointment
+
+As the ship sailed away, the passengers bid farewell to their loved ones on the dock.
+bid farewell /bɪd fɛˈwɛl/
+(SYNONYM Say goodbye) to say goodbye or take leave from someone; to express good wishes or regards upon parting
+
+I've been trying to get a hold of John, but his phone is always busy.
+get a hold of someone /ɡɛt ə hoʊld ʌv sʌmwʌn/
+(SYNONYM Contact someone) to successfully make contact or communicate with someone; to reach or get in touch with someone
+
+After the company's stock announcement, its share price shot up by 20%.
+shot up /ʃɒt ʌp/
+(SYNONYM Skyrocketed) to increase rapidly in size, number, or level; to experience a sudden and significant growth or rise
+
+Don't mind him, he's just grumpy when he's hungry.
+grumpy /ˈɡrʌmpi/
+(SYNONYM Crabby) easily annoyed or displeased; in a bad mood or showing a sullen or discontented disposition
+
+My sister is a worrywart and constantly frets about the smallest things.
+worrywart /ˈwʌriwɔːrt/
+(SYNONYM Fretter) a person who is excessively anxious or tends to worry excessively about various issues or potential problems
+
+Despite facing many challenges, they made an incredible endeavour to complete the project on time.
+endeavour /ɪnˈdɛvər/
+(SYNONYM Effort) an attempt to do something, especially something new or difficult; a determined or conscientious effort to achieve
+
+She visited the doctor to seek treatment for her persistent ailment.
+ailment /ˈeɪlmənt/
+(SYNONYM Health condition) an illness or health problem, typically of a mild or chronic nature
+
+The employee was fired for engaging in serious misconduct at the workplace.
+misconduct /ˈmɪskəndʌkt/
+(SYNONYM Wrongdoing) unacceptable or improper behavior, especially by a professional or in a position of authority
+
+The new policies were instituted to improve workplace productivity.
+instituted /ˈɪnstɪtjutɪd/
+(SYNONYM Established) to establish, introduce, or put into effect a system, policy, or practice
+
+The moon's luminosity illuminated the night sky.
+luminosity /ˌluːmɪˈnɒsɪti/
+(SYNONYM Brightness) the quality or state of being bright, radiant, or full of light
+
 plea bargain
 effectual
 homologate
@@ -9,7 +77,7 @@ get a hold of someone
 shot up = to grow in size, or increase in number or level, very quickly
 grumpy
 worrywart
-endeavour = nonun = an attempt to do something, especially something new or difficult
+endeavour = noun = an attempt to do something, especially something new or difficult
 ailment
 misconduct
 instituted

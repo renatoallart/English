@@ -18146,6 +18146,17 @@ defeatist
 employ = to use something such as a skill, method, etc. for a particular purpose
 adjourned 
 nonintervention
+----------------------------------
+fraudulent
+beckoning 
+jurisprudence
+tousled
+dud
+charred 
+manure 
+spay 
+picturesque 
+chirped 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -18265,11 +18276,34 @@ Without a doubt humans will destroy that world u imagined and feast on it to sat
 feast
 a large meal, typically one in celebration of something
 
+He's far too self-centered to care what you do.
+self-centered
+preoccupied with oneself and one's affairs
+
+
+
+This decision will impose serious constraints on all schools.
+constraints
+(SYNONYM restriction) a thing that limits something, or limits your freedom to do something
+
+This is the final means of beating you.
+means
+an action, an object or a system by which a result is achieved; a way of achieving or doing something
+
+
+The bubble'll burst, as a result from accumulationg martial art with that smouldering wealth and this will spread to the media.
+smouldering
+to burn slowly without a flame
+
+the desire to gain wealth and power
+wealth
+a large amount of money, property, etc. that a person or country owns
+
+Public expressions of affection are frowned upon in many cultures.
+frowned upon
+to disapprove of something
+
 ---------------------- Words Todays --------------------------------
-
-
-
-
 
 
 
