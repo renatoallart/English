@@ -1,3 +1,69 @@
+
+
+28/6/2023
+
+
+The dish had an unappealing appearance, and I didn't feel like trying it.
+unappealing /ˌʌnəˈpiːlɪŋ/
+(SYNONYM undesirable) not attractive or pleasing; lacking appeal or attractiveness
+
+The city was besieged by enemy forces for months.
+besieged /bɪˈsiːdʒd/
+(SYNONYM surrounded) to surround a place with armed forces in order to capture it or force its surrender
+
+The rebels decided to lay siege to the castle, cutting off its supplies.
+lay siege to /leɪ, siege, tu/
+(SYNONYM besiege) to surround a place with armed forces in order to capture it or force its surrender
+
+He would often scoff at their ideas, considering them foolish.
+scoff /skɒf/
+(SYNONYM mock) to speak or express contempt or derision; to ridicule or make fun of someone or something
+
+Her gullibility made her an easy target for scams.
+gullibility /ˌɡʌləˈbɪlɪti/
+(SYNONYM naivety) the quality of being easily deceived or tricked; the tendency to believe things too readily
+
+Everything was going good and dandy until the storm hit.
+good and dandy /ɡʊd, ən,ˈdændi/
+(SYNONYM fine and satisfactory) used to express that everything is going well or fine
+
+She looked at him disapprovingly when he made the rude comment.
+disapprovingly /dɪsəˈpruːvɪŋli/
+(SYNONYM disapproving manner) in a manner that shows disapproval or disfavor
+
+The company is committed to becoming carbon-neutral by reducing its emissions and offsetting the remaining carbon footprint.
+carbon-neutral /ˌkɑːrbən ˈnjuːtrəl/
+(SYNONYM environmentally friendly) not producing carbon emissions or having a net zero carbon footprint
+
+The hunter aimed his rifle at the pheasant in the field.
+pheasant /ˈfɛzənt/
+(SYNONYM game bird) a large, colorful bird that is commonly hunted for sport or food
+
+His behavior was nothing but arrant foolishness.
+arrant /ˈærənt/
+(SYNONYM complete) complete or utter; used to emphasize the negative qualities of something
+
+She used a soft pad to clean the delicate surface.
+pad /pæd/
+(SYNONYM cushion) a thick piece of soft material used for cleaning, protecting, or providing cushioning
+
+He sprained his ankle while playing basketball.
+sprained /spreɪnd/
+(SYNONYM twisted) to injure a joint, such as an ankle or wrist, by sudden twisting or wrenching
+
+The pilot used the joystick to control the aircraft's movements.
+joystick /ˈdʒɔɪˌstɪk/
+(SYNONYM control stick) a lever or device used to control the movement or actions of an object, typically used for video game controllers or aircraft control
+
+The beach allowed topless sunbathing.
+topless /ˈtɒpləs/
+(SYNONYM bare-chested) without a top or covering, typically referring to a person's upper body
+
+She was nibbling on a piece of chocolate while reading a book.
+nibbling /ˈnɪblɪŋ/
+(SYNONYM eating in small bites) eating small bites or taking small, frequent bites of food
+
+
 unappealing
 besieged
 lay siege to
@@ -12,4 +78,4 @@ pad = a thick piece of soft material that is used, for example, for cleaning or 
 sprained
 joystick
 topless
-mibbling
+nibbling
