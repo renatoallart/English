@@ -18203,13 +18203,9 @@ go way back
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
-
-
 ‘You could have done more to help.’ ‘Granted.’
 granted
 ​used to show that you accept that something is true, often before you make another statement about it
-
-
 
 I began to feel I was really homing in on the answer.
 home in on 
@@ -18251,7 +18247,17 @@ Granted, sitting around the house may not be your idea of the perfect retirement
 granted
 admittedly; it is true (used to introduce a factor which is opposed to the main line of argument but is not regarded as so strong as to invalidate it).
 
+Breeders were installing some trait that allowed the crop to thrive.
+trait
+a genetically determined characteristic.
 
+He was a letter-of-the-law man, a common trait among coaches.
+trait
+a distinguishing quality or characteristic, typically one belonging to a person.
+
+From now on, I'm no longer part of Yomi, and disallowedto search for my master.
+disallowed
+refuse to declare valid
 
 
 
@@ -18259,8 +18265,6 @@ admittedly; it is true (used to introduce a factor which is opposed to the main 
 
 
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
