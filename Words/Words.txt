@@ -10806,8 +10806,7 @@ hung in the air
 hover 
 heave
 should
-humongous
-thwart 
+humongous 
 detritus 
 thatcher
 hand in
@@ -15452,8 +15451,7 @@ betroth
 procure
 unimpeachable
 shoddier
-dawn
-thwart 
+dawn 
 bewilderment
 sneer
 beheader
@@ -18219,6 +18217,19 @@ hideaway
 contaminates 
 copium
 whacked off 
+--------------------------
+outsource 
+foiling
+mention
+off the charts 
+nonchalantly
+laughingstock
+ride on something
+did one's time
+candid camera   
+idiocy
+catwalk
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Her latest book makes compelling reading.
@@ -18317,7 +18328,34 @@ U gals on ur own?
 gals
 a girl or young woman
 
+I should've been put to a death penalty but this country’s law showed mercy and I did my time.
+did one's time
+to serve the number of months or years that is required of someone in the military or a prisone
+
+This strategy is riding on ur grit, stamina, and ur ability yo win 1v1.
+ride on something
+(SYNONYM rely on)to depend on something
+
+He was leaning nonchalantly against the wall.
+nonchalantly
+(SYNONYM casually) in a calm and relaxed way, showing no sign of worry
+
+His football IQ is off the charts.
+off the charts 
+outside of the normal range of measurement; beyond expectations 
+
+His ambition to be a painter was thwarted by poor eyesight.
+thwart
+(SYNONYM frustrate) to prevent somebody from doing what they want to do
+
+I can't keep playing defensive and barely foiling their tactics!
+foiling
+(SYNONYM thwart) to stop something from happening, especially something illegal; to prevent somebody from doing something
+
 ---------------------- Words Todays --------------------------------
+
+
+
 
 
 
