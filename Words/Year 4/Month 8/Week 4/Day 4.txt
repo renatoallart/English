@@ -1,3 +1,68 @@
+
+
+14/7/2023
+
+She spent hours creating a beautiful mandala, intricately designed and filled with vibrant colors.
+mandala /ˈmændələ/
+(SYNONYM geometric pattern) a geometric figure or symbol representing the universe or a particular aspect of it, often used as a meditation aid or spiritual symbol
+
+They decided to betroth their children, announcing the engagement to their families and friends.
+betroth /bɪˈtroʊð/
+(SYNONYM engage) to promise or pledge in marriage; to arrange a formal engagement between two people
+
+He managed to procure the rare artifact, acquiring it through his extensive connections and resources.
+procure /prəˈkjʊr/
+(SYNONYM obtain) to obtain or acquire something, often with effort or persistence
+
+His unimpeachable reputation made him highly respected and trusted in his field.
+unimpeachable /ˌʌnɪmˈpiːtʃəbəl/
+(SYNONYM beyond reproach) beyond doubt, suspicion, or criticism; unable to be challenged or questioned
+
+The second-hand product was shoddier than expected, with visible signs of wear and poor craftsmanship.
+shoddier /ˈʃɒdiər/
+(SYNONYM of lower quality) of poorer quality or craftsmanship, showing signs of inferiority or cheapness
+
+As the first light of dawn appeared on the horizon, the world awakened to a new day.
+dawn /dɔːn/
+(SYNONYM daybreak) the first appearance of light in the sky before sunrise; the beginning of a new day
+
+Their clever plan was thwarted by unforeseen obstacles, preventing them from achieving their desired outcome.
+thwarted /θwɔːrtɪd/
+(SYNONYM hindered) prevented or blocked from happening or succeeding; frustrated or foiled in their efforts
+
+She looked at the complex puzzle with bewilderment, unsure of where to begin or how to solve it.
+bewilderment /bɪˈwɪldərmənt/
+(SYNONYM confusion) a state of confusion, puzzlement, or perplexity; feeling lost or uncertain
+
+He couldn't help but sneer at their feeble attempts, showing contempt or derision through a mocking smile or expression.
+sneer /snɪr/
+(SYNONYM deride) to smile or speak in a contemptuous or mocking manner, expressing scorn or disdain
+
+The criminal was sentenced to be beheaded as punishment for his heinous crimes.
+beheaded /bɪˈhɛdɪd/
+(SYNONYM decapitated) having had one's head cut off, typically as a form of execution or punishment
+
+His callow youth was evident in his lack of experience and naivety.
+callow /ˈkæloʊ/
+(SYNONYM inexperienced) inexperienced, immature, or naive, especially due to youth or a lack of life experience
+
+He tried to tamp down his anger, suppressing or controlling it to avoid an outburst.
+tamp down /tæmp, daʊn/
+(SYNONYM suppress) to suppress, subdue, or control something, especially strong emotions or reactions
+
+Despite her contributions, she felt snubbed and ignored by her colleagues, experiencing a sense of rejection or disregard.
+snubbed /snʌbd/
+(SYNONYM ignored) treated with contempt or dismissiveness; deliberately disregarded or rejected
+
+The magician's stupefying tricks left the audience in awe and wonder, amazed by their astonishing illusions.
+stupefying /ˈstjuːpɪfaɪɪŋ/
+(SYNONYM astonishing) causing astonishment, amazement, or disbelief; overwhelming or mind-boggling in their effect
+
+The red blood cells contain hemoglobin, a protein responsible for transporting oxygen in the bloodstream.
+hemoglobin /ˈhiːməˌɡloʊbɪn/
+(SYNONYM red pigment) the iron-containing protein in red blood cells that carries oxygen from the lungs to the tissues
+
+
 mandala
 betroth
 procure
@@ -7,9 +72,9 @@ dawn
 thwart 
 bewilderment
 sneer
-beheader
+beheaded
 callow 
-tamp dwon
+tamp down
 snubbed
 stupefying
 hemoglobin

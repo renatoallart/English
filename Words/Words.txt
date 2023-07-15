@@ -15453,9 +15453,9 @@ shoddier
 dawn 
 bewilderment
 sneer
-beheader
+beheaded
 callow 
-tamp dwon
+tamp down
 snubbed
 stupefying
 hemoglobin
@@ -18247,7 +18247,18 @@ apprehension
 stele 
 hodgepodge
 metrics
-
+--------------------------------
+sketch
+decapitator
+deride
+hide = an animal’s skin, especially when it is bought or sold or used for leather
+take up on that     
+harbinger
+renegades
+sketchy
+nigh 
+divination 
+sophistry
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -18411,9 +18422,44 @@ Awe and respect.
 awe
 ​feelings of respect and slight fear; feelings of being very impressed by something/somebody
 
+Convincing myself that I had gained in some way from my loss was just pure sophistry.
+sophistry
+the use of clever arguments to persuade people that something is true when it is really false
+
+I foresaw a divination of ur arrival.
+divination 
+the act of finding out and saying what will happen in the future
+
+When the world's end is nigh, the dragon of the seas will awaken from its long slumber.
+nigh
+almost; nearly
+
+I won't submit to a sketchy nobody like U!
+sketchy
+(SYNONYM rough) not complete or detailed and therefore not very useful
+
+He was hostile to their hypocritical sophistries.
+sophistry
+a reason or an explanation that tries to show that something is true when it is really false
+
+Renegades that brought the world to chaos are now the harbinger of order.
+harbinger
+a sign that shows that something is going to happen soon, often something bad
+
+They live on the outskirts of Milan.
+outskirts
+the parts of a town or city that are furthest from the centre
+
+The hide of that dragon's gonna be worth a few fortunes!
+hide 
+an animal’s skin, especially when it is bought or sold or used for leather
+
+
 ---------------------- Words Todays --------------------------------
 
 
+
+ 
 
 
 
