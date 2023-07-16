@@ -18038,6 +18038,7 @@ two peas in a pod
 sic = verb 
 compromise
 irredeemable
+kink = an unusual feature in a person’s character or mind, especially one that does not seem normal
 condone
 coddle
 shrewd
@@ -18197,7 +18198,6 @@ flanged
 rims
 berate
 accentuated 
-------------------------------------
 enterprise = a project or undertaking, typically one that is difficult or requires effort
 clammy 
 manterrupting 
@@ -18216,7 +18216,6 @@ hideaway
 contaminates 
 copium
 whacked off 
---------------------------
 outsource 
 foiling
 mention
@@ -18228,18 +18227,15 @@ did one's time
 candid camera   
 idiocy
 catwalk
--------------------------------
 by =  near somebody/something; at the side of somebody/something; next to somebody/something
 ingratiating
 kink = a person's personal sexual taste, considered unusual by most people; these tastes in general
-kink = an unusual feature in a person’s character or mind, especially one that does not seem normal
 lube
 laudable
 rammed ove
 caught up = excited about something and having trouble thinking about anything else
 gut = remove or destroy completely the internal parts of (a building or other structure).
 intensifies
---------------------------------
 food chain 
 deciduous
 ebb
@@ -18247,7 +18243,6 @@ apprehension
 stele 
 hodgepodge
 metrics
---------------------------------
 sketch
 decapitator
 deride
@@ -18259,6 +18254,19 @@ sketchy
 nigh 
 divination 
 sophistry
+--------------------------------
+relearn
+bewitched
+foster-care
+giggling 
+misalignment
+unopposed
+wreath
+rebate
+hollow out 
+it's one's call
+unproven 
+to held to the same standard
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -18454,8 +18462,20 @@ The hide of that dragon's gonna be worth a few fortunes!
 hide 
 an animal’s skin, especially when it is bought or sold or used for leather
 
+Why are they unopposed to my roars?
+unopposed
+​not opposed or stopped by anyone
+
+Even a half second misalignment's a mistake!
+misalignment
+the state of being in the wrong position in relation to something else
+
+There are some people who don't wanna be held to the standard that Baldur's Gate proposes.
+to held to the standard
+to expect the same from someone
 
 ---------------------- Words Todays --------------------------------
+
 
 
 
