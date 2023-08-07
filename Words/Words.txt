@@ -15594,7 +15594,6 @@ clamp down
 somber
 foster care
 buddy-buddy
-foster care
 flat-out 
 bailed
 peacocks
@@ -15608,7 +15607,6 @@ wallop
 slice and dice 
 chip = a small flat piece of plastic used to represent a particular amount of money in some types of gambling
 top off 
-about it = to be in agreement with something or wanting to do something
 stylish
 conceptual
 needlework
@@ -18276,7 +18274,6 @@ sketchy
 nigh 
 divination 
 sophistry
---------------------------------
 relearn
 bewitched
 foster-care
@@ -18289,7 +18286,6 @@ hollow out
 it's one's call
 unproven 
 to held to the same standard
------------------------------------
 fanciful 
 chimed
 greenery
@@ -18314,7 +18310,6 @@ deck = knock (someone) to the ground with a punch
 rice gruel 
 rack up
 parched = very thirsty
------------------------------------
 letter-of-the-law man
 nest egg
 blending in 
@@ -18337,7 +18332,6 @@ a side benefit
 thick as thieves
 barrette 
 make/do the rounds 
------------------------------------------
 stay will 
 in spurt
 appalled
@@ -18359,11 +18353,9 @@ there'll be hell to pay = serious trouble will occur as a result of a previous a
 belittling
 keep someone arm's length
 revamp 
-----------------------------------
 enamored 
 big head 
 duck out 
----------------------------
 drawing lots
 occur
 cosmic
@@ -18371,7 +18363,6 @@ impermanence
 teary 
 fusspot 
 go the extra mile
-------------------------------
 tack onto
 garment
 clearlyless
@@ -18394,16 +18385,36 @@ ostracized
 as thick as thieves
 pull one over on someone = to fool or deceive one; to make one the victim of a prank or hoax.
 make out = try to give a specified impression; pretend
----------------------------------------
 parting words = the things that you say or do as you are leaving a place or person
 maddening
 laid back = relaxed and easygoing
+embroidery
+fodder 
+bewitching
+merry-go-round
+overreliant/overeliance = excessive dependence on or trust in someone or something
+insufferable
+know-it-all
+disjointed
+rhapsody
+forget not me
+condescending
+--------------------------------------
+together = (adjective)(of a person) well organized and confident
+schmooze
+stowaway 
+plethora
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
 Wood can blunt your axe.
 blunt
 make or become less sharp.
+
+Ten unset sapphires.
+unset
+(of a jewel) not yet placed in a setting; unmounted
 
 Their determination had been blunted.
 blunted
@@ -18461,6 +18472,10 @@ She already has 1.58cm and she's still in her growth spurt(she'll get more stall
 in spurt
 in short periods of great activity, powerful movement, etc., rather than in a steady, continuous way
 
+The horse unseated its rider at the first fence.
+unseated
+to make somebody fall off a horse or bicycle
+
 Joe's enamored of the human body.
 enamored
 liking something a lot
@@ -18488,6 +18503,10 @@ to make a decision by choosing from a set of objects such as pieces of paper or 
 That picture's askew.
 askew
 (SYNONYM crooked) not in a straight or level position
+
+Another employee showed him how to set and unset the alarm.
+unset
+cancel or undo the setting of (a machine or device).
 
 We paid a fleeting visit to Paris.
 fleeting
@@ -18560,7 +18579,97 @@ the things that you say or do as you are leaving a place or person
 Just how lais back can u guys be?
 laid back 
 relaxed and easygoing.
+
+Little ol' me = An affectedly cute way of referring to oneself, typically used to feign self-deprecation.
+fair share = (more than) an amount of something that is considered to be reasonable or acceptable
+numbskull
+a change of heart
+
+We've had a change of heart on that matter.
+a change of heart
+a move to a different opinion or attitude // your attitude towards something changes, usually making you feel more friendly, helpful, etc.
+
+Let little ol'me take the reins.
+Little ol' me
+An affectedly cute way of referring to oneself, typically used to feign self-deprecation.
+
+Ur bis sis here has already had more than her fair share fun in her teens and twenties!
+fair share 
+(more than) an amount of something that is considered to be reasonable or acceptable
+
+Unbeknownst to the people the kingdom know as Lulusia was erased from the map only six days prior.
+unbeknownst
+without the person mentioned knowing
+
+She just flat-out hated me.
+flat-out
+in a way that is definite and direct; completely
+
+The big dude at the bar said he would cream me if I so much as looked at his girlfriend again.
+cream somebody
+to strike or assault someone.
+
+U're always fawning over her!
+fawning
+to try to please somebody by praising them or paying them too much attention
+
+How can the loser still have carry such a condescending tone?
+condescending
+​behaving as though you are more important and more intelligent than other people
+
+Let me stain u in my rhapsody friendship.
+rhapsody
+a piece of music that is full of feeling and is not regular in form
+
+U won't achieve anything if u're that overreliant on ur ego!
+overreliant
+excessive dependence on or trust in someone or something
+
+Insufferable pride
+(SYNONYM unbearable) extremely annoying, unpleasant and difficult to bear
+
+Neither side is prepared to compromise.
+compromise
+to give up some of your demands in order to reach an agreement after disagreeing with somebody
+
+If they won't become one of us perhaps it's time for them to become ur fodder.
+fodder 
+food for horses and farm animals
+
+I know who bewitching first.
+bewitching
+enchant and delight (someone).
+
+The quality of the food here has dropped a notch recently.
+notch 
+a level on a scale, often marking quality or achievement
+
+Unset egg white.
+unset
+not yet hardened into a solid or semisolid state
+
+She is bidding to unseat the local Tory MP at the next election.
+unseat
+to remove somebody from a position of power
+
+The baby boy defied all the odds and survived (= stayed alive when it seemed certain that he would die).
+defy
+to successfully resist something to a very unusual degree
+
+The report contained a plethora of detail.
+plethora
+(SYNONYM excess) an amount that is greater than is needed or can be used
+
+Go now, defy him to the combat
+defy 
+challenge to combat.
+
 ---------------------- Words Todays --------------------------------
+
+
+
+
+
 
 
 
