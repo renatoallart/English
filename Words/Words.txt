@@ -15662,7 +15662,7 @@ go rogue
 on end
 caravan
 fetch =  to be sold for a particular price
-adminish
+admonish
 disown
 keep dog
 too much is as bad as too little 
@@ -16750,7 +16750,6 @@ bearing = the way in which you stand, walk or behave
 greengrocer
 prattle 
 lukewarm
-upheaval
 bolster 
 strife 
 rife 
@@ -18404,9 +18403,28 @@ together = (adjective)(of a person) well organized and confident
 schmooze
 stowaway 
 plethora
-
+--------------------------------------
+leaps and strides
+creek
+inlet
+sterling
+undergarment
+try your hand at something 
+-----------------------------------------
+garland
+prostration
+daunted
+scrubquote
+scrub 
+queer
+mean well 
+heist
+hole up
 ---------------------------------------> Phrases <--------------------------------------------------
 
+We've just got to show the police and the victim's family that we're least poised (= ready/ willing ) to start an investigation.
+poised
+(SYNONYM set) completely ready for something or to do something
 
 Wood can blunt your axe.
 blunt
@@ -18479,6 +18497,10 @@ to make somebody fall off a horse or bicycle
 Joe's enamored of the human body.
 enamored
 liking something a lot
+
+Tina was tense, her hand poised over the telephone.
+poised
+in a position that is completely still but is ready to move at any moment
 
 She got a big head?
 big head 
@@ -18567,6 +18589,10 @@ to fool or deceive one; to make one the victim of a prank or hoax.
 The purest form of self-defense is to make friends with the enemy out to kill him!
 make out 
 try to give a specified impression; pretend
+
+I'd understand if you wanted to bail out of this relationship.
+bail out 
+to escape from a situation that you no longer want to be involved in
 
 He winced as a sharp pain shot through his left leg.
 winced 
@@ -18660,17 +18686,94 @@ The report contained a plethora of detail.
 plethora
 (SYNONYM excess) an amount that is greater than is needed or can be used
 
+The cup was poised on the edge of the chair.
+poised
+in a position that is balanced but likely to change in one direction or another
+
+
 Go now, defy him to the combat
 defy 
 challenge to combat.
 
+Books on kindred subjects.
+kindred
+similar in kind; related.
+
+He decided to try his hand at knitting and discovered he was good at it
+try your hand at something 
+​to do something such as an activity or a sport for the first time
+
+Their goal is to cause upheaval and chaos.
+upheaval 
+(SYNONYM disruption) a big change that causes a lot of worry and problems
+
+They drove to the little creek where they kept their fishing boat.
+creek
+(SYNONYM inlet) a narrow area of water where the sea flows into the land
+
+My old watch has given me 15 years of sterling service.
+sterling
+​of excellent quality
+
+She drew a house.
+drew 
+to make pictures, or a picture of something, with a pencil, pen or chalk (but not paint)
+
+Ryan's late goal bailed out his team.
+bail out
+​to rescue somebody from a difficult situation
+
+Let's call it a day, u've made leaps and strides(= improve very fast) since yesterday!
+leaps and strides
+moving forward in surprisingly large and rapid steps
+
+We'll need u guys to bail everyone out.
+bail out
+​to rescue somebody from a difficult situation
+
+He would disappear for weeks on end.
+on end
+​for the stated length of time, without stopping
+
+She was wearing an unbecoming shade of purple.
+unbecoming
+(SYNONYM unflattering) ​not suiting a particular person
+
+His impenetrable eyes and inscrutable countenance give little away
+countenance
+a person's face or facial expression.
+
+He was accused of conduct unbecoming to an officer.
+unbecoming
+(SYNONYM inappropriate) not appropriate or acceptable
+
+The attacker fled the scene.
+scene
+the place where something happens, especially something unpleasant
+
+She burst into tears and fled.
+fled
+(P.T, P.P of flee) to leave a person or place very quickly, especially because you are afraid of possible danger
+
+It compared the earth to a cesspool.
+cesspool
+a covered hole or container in the ground for collecting waste from a building, especially from the toilets
+
+He plan to weld off the door when I fall sleep.
+weld
+to join pieces of metal together by heating their edges and pressing them together
+
+The economy is poised for recovery.
+poised
+(SYNONYM set) completely ready for something or to do something
+
 ---------------------- Words Todays --------------------------------
 
 
+ 
 
 
-
-
+ 
 
 
 

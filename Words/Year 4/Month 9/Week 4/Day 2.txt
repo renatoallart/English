@@ -1,9 +1,75 @@
+
+
+9/8/2023
+
+She admired the delicate features of the statue.
+features /ˈfiːtʃərz/
+(SYNONYM characteristics) a part of somebody’s face such as their nose, mouth, and eyes
+
+The river was overflowing after days of heavy rain.
+overflowing /ˌəʊvərˈfləʊɪŋ/
+(SYNONYM flooded) full to the point of overflowing
+
+The surgeon carefully handled the innards of the machine.
+innards /ˈɪnərdz/
+(SYNONYM internals) the inner parts or workings of something, especially a machine
+
+The doctor used a hemostat to control the bleeding.
+hemostat /ˈhiːməʊstæt/
+(SYNONYM clamp) a surgical tool used to control bleeding by constricting blood vessels
+
+The fairy tale was filled with wickedness and magic.
+wickedness /ˈwɪkɪdnəs/
+(SYNONYM evil) morally wrong or harmful behavior; evil
+
+As fear began to take hold, she clung to her friend's arm tightly.
+take a hold /teɪk ə hoʊld/
+(SYNONYM grip) to gain control or influence over something; to become firmly established
+
+She couldn't stop blubbering after the sad news.
+blubbering /ˈblʌbərɪŋ/
+(SYNONYM sobbing) crying noisily and uncontrollably
+
+The brittle branches snapped under the weight of the snow.
+brittle /ˈbrɪtl/
+(SYNONYM fragile) easily broken or damaged
+
+They decided to rear chickens in their backyard.
+rear /rɪər/
+(SYNONYM raise) to care for young animals or children until they are fully grown
+
+The lumberjack used an axe to hack through the thick branches.
+hack /hæk/
+(SYNONYM chop) to cut something with rough, heavy blows
+
+Rainwater flowed through the gutter along the edge of the road.
+gutter /ˈɡʌtər/
+(SYNONYM channel) a shallow trough at the side of a road to carry away rainwater
+
+He used a comma to separate the items in the list.
+comma /ˈkɒmə/
+(SYNONYM punctuation) a punctuation mark used to separate parts of a sentence
+
+In the sentence, "I like coffee; my friend prefers tea," the semicolon separates two related clauses.
+semicolon /ˈsɛmikələn/
+(SYNONYM punctuation) a punctuation mark used to separate two closely related independent clauses
+
+The star (*) is often used as a two-point bullet in lists.
+two point /tuː pɔɪnt/
+(SYNONYM symbol) a symbol or mark used to indicate items in a list
+
+One of the perks of the job is a generous vacation policy.
+perk /pɜːrk/
+(SYNONYM benefit) an extra advantage or privilege gained from a situation or job
+
+
+
 features = a part of somebody’s face such as their nose, mouth and eyes
 overflowing
 innards
 hemostat 
 wickedness
-take (a) hold
+take a hold
 blubbering
 brittle
 rear = to care for young children or animals until they are fully grown
