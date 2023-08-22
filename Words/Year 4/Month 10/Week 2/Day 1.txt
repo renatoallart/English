@@ -1,3 +1,74 @@
+
+
+22/8/2023
+
+Be careful not to step into the quicksand.
+quicksand /ˈkwɪksænd/
+(SYNONYM unstable ground) loose, wet sand that sucks in objects, often causing them to become trapped
+
+The dog's fur would often bristle with excitement when it saw its owner.
+bristle with /ˈbrɪsəl wɪð/
+(SYNONYM be covered with) to be densely covered with something, often used figuratively
+
+The blade of the knife is very blunt and needs sharpening.
+blunt /blʌnt/
+(SYNONYM dull) not sharp; having a thick edge or point
+
+Completing a marathon is a strenuous activity that requires intense physical effort.
+strenuous /ˈstrɛnjuəs/
+(SYNONYM demanding) requiring great physical or mental effort
+
+The hiker faced a gruelling journey through the rugged mountains.
+gruelling /ˈɡruːlɪŋ/
+(SYNONYM exhausting) extremely tiring and demanding
+
+The valiant soldier defended his country with unwavering courage.
+valiant /ˈvæliənt/
+(SYNONYM brave) showing great courage, especially in the face of danger
+
+She hemmed the edges of the fabric to prevent fraying.
+hemmed /hemd/
+(SYNONYM edge) to fold and sew the edge of a piece of cloth
+
+The protesters were hemmed in by a line of police officers.
+hemmed in /hemd, ɪn/
+(SYNONYM encircle) to surround or confine someone or something
+
+Their different dispositions made it challenging to work together as a team.
+dispositions /dɪspəˈzɪʃənz/
+(SYNONYM attitudes) the way in which something is placed or arranged
+
+She pheared that the storm might cause damage to her house.
+pheared /fɪəd/
+(SYNONYM fear) to be afraid or worried about something
+
+She decided to turn over the project to her colleague due to time constraints.
+turn over to sb /tɜːn, ˈəʊvər, tə, ˈsʌmbədi/
+(SYNONYM transfer) to give responsibility for something to someone else
+
+The firefighters worked tirelessly to smoke out the source of the fire.
+smoke out /sməʊk, aʊt/
+(SYNONYM discover) to force someone or something to leave a place by filling it with smoke
+
+The city walls were covered with graffiti from various taggers.
+tagger /ˈtæɡər/
+(SYNONYM graffiti artist) a person who creates graffiti or tags in public spaces
+
+She decided to augment her income by taking on a part-time job.
+augment /ɔːɡˈmɛnt/
+(SYNONYM increase) to make something larger or more significant by adding to it
+
+She felt trapped in a sham of a marriage.
+sham /ʃæm/
+a situation, feeling, system, etc. that is not as good or true as it seems to be
+
+Is he really sick or is he just shamming?
+shamming /ˈʃæmɪŋ/
+​to pretend something
+
+
+
+
 quicksand
 bristle with
 blunt
@@ -7,9 +78,10 @@ valiant
 hem
 hem in
 dispositions
-phears
-sham = all
+phear
 turn over to sb
 smoke out 
 tagger
 augment 
+
+sham = all
