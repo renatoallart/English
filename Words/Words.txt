@@ -15955,7 +15955,7 @@ ridge
 ragtag
 quell 
 have up ur sleeve 
-decey 
+dicey 
 limping
 sweltering
 abreast
@@ -15965,7 +15965,7 @@ rally
 unlawful
 ravaged
 muscle in 
-semenarche
+menarche
 close shave
 guillotine
 unhinged
@@ -16012,7 +16012,7 @@ flaccid
 beat around the bush 
 ripe =  ready or suitable for something to happen
 succession
-preconcieved
+preconceived 
 rad
 ebb
 contractee
@@ -16049,7 +16049,7 @@ red-handed
 roughage
 every waking moment
 sham
-unadultered
+unadulterated
 mind boggling 
 aspersions
 write off = to cancel a debt; to recognize that something is a failure, has no value, etc.
@@ -16058,8 +16058,7 @@ fealty
 limp
 suss out 
 hustle over
-deflower 
-to deprive of virginity
+deflower = to deprive of virginity
 eunuch 
 feast your eyes (on sb/sth)
 drab
@@ -18519,6 +18518,70 @@ spent = having no power or energy left.
 sold short 
 leave someone in awe
 double down
+--------------------------------------
+stoop to
+bootleg
+somersault
+uncouth
+dignitaries 
+pelted
+beams = a long piece of wood, metal, etc. used to support weight, especially as part of the roof in a building
+unnerve
+bustling 
+helicopter parents
+shanghaied
+play = to include somebody in a sports team
+bidding = what somebody asks or orders you to do
+level-headed
+lob 
+dispersal
+stoop
+unlovable
+echeleon
+---------------------------------------
+gown = ​a piece of clothing worn in a hospital, either by medical staff during surgery or by a patient, especially as protection against infection
+strewn 
+gown
+motley
+vivisection
+specialty
+keyed up
+bag = to catch or kill an animal
+back water
+cavity = a decayed part of a tooth.
+vivisection 
+broad = ​an old-fashioned, offensive way of referring to a woman
+marauders 
+scrounge up 
+sternutation
+wash = to flow or carry something/somebody in a particular direction
+hauling = ​to pull something/somebody with a lot of effort
+---------------------------------------
+stallion
+jog one's memory
+chunk
+professor
+contactee = a person who claims to have been taken away by aliens (= creatures from other planets), or to have had contact with them
+diluted 
+-------------------------------------
+deflowered
+hobble
+gait
+upholtery
+take someone for granted 
+up to now
+scatty
+pane 
+unmet 
+thanks goodness 
+tramp 
+underwhelming 
+bad terms 
+regale 
+tick off 
+maul 
+easy going 
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 A sham marriage.
@@ -18765,6 +18828,101 @@ A meshed grille.
 meshed
 having the form or appearance of a mesh or network.
 
+I had wagered a great deal of money that I would beat him.
+wagered
+(SYNONYM bet) to bet money
+
+He would no doubt reach the upper echelons of the magic users.
+echelons
+a rank or position of authority in an organization or a society
+
+To save ur own hide, there's no crimeu won't stoop to!
+stoop to
+​to drop your moral standards to do something bad or unpleasant
+
+We can't fault Joe for sending that lob pass.
+fault
+the responsibility for something wrong that has happened or been done
+
+To play a lob.
+lob
+an act of hitting or kicking a ball in a high curve through the air, so that it lands behind the person you are playing against
+
+U shanghaied this team to do ur bidding, Joe.
+shanghaied
+to trick or force somebody into doing something that they do not really want to do
+
+At his father’s bidding (= because his father asked him to) he wrote to his lawyer.
+bidding
+what somebody asks or orders you to do.
+
+Joe, I promise I'll play you in the next match.
+play
+to include somebody in a sports team
+
+I can score leads(find any leads) on the sorceres in the Hole from the patients
+score
+gain (a point, goal, run, etc.) in a competitive game.
+
+U look cute in a gown
+gown
+​a piece of clothing worn in a hospital, either by medical staff during surgery or by a patient, especially as protection against infection
+
+Let's bet on who can bag the most trash!
+bag
+to catch or kill an animal
+
+Why am I so keyed up?
+keyed up
+​nervous and excited, especially before an important event
+
+Joe's specialty is living vivisection.
+vivisection 
+​the practice of doing experiments on live animals for medical or scientific research 
+
+I'll scrounge up some food.
+scrounge up 
+to search about and turn up something needed from whatever source is available
+
+I need a fix of coffee before I can face the day.
+fix
+an amount of something that you need and want frequently, especially an illegal drug such as heroin
+
+I was working as a cleaner hauling out bodies left all over the Hole.
+hauling 
+​to pull something/somebody with a lot of effort
+
+One night every year, dread washes(= engulf) over the Hole.
+wash
+to flow or carry something/somebody in a particular direction
+
+Nothing in this shop really singing to me(= there's nothing attractive to me to buy).
+singing to one's
+to address one while singing a song; to direct a song to one.
+
+Maybe these letters will help to jog your memory.
+jog somebody’s memory
+​to say or do something that makes somebody remember something
+
+I'll chuck a rock if we see any ghost.
+chuck
+to throw something carelessly or without much thought
+
+Do u remember the guy we offed the other day?
+offed sb
+to kill somebody
+
+The atmosphere at the house soured.
+soured
+(of relationships, attitudes, people, etc.) to change so that they become less pleasant or friendly than before; to make something do this
+
+Precious stones have been used for the purposes of adornment for over 7000 years.
+adornment
+the action of making something/somebody look more attractive by decorating it or them with something
+
+A hamstring injury.
+hamstring
+one of the five tendons behind the knee that connect the muscles of the upper leg to the bones of the lower leg
 
 ---------------------- Words Todays --------------------------------
 
@@ -18772,4 +18930,4 @@ having the form or appearance of a mesh or network.
 
 
 
- 
+

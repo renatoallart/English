@@ -1,3 +1,69 @@
+
+
+9/9/2023
+
+He always insists on doing things his way.
+insist on /ɪnˈsɪst ɒn/
+(SYNONYM demand) To firmly and persistently demand or require something, often despite resistance or opposition.
+
+The project is currently in the planning phase.
+phase /feɪz/
+(SYNONYM synchronize) To adjust the phase of something, especially to synchronize it with another process or event.
+
+I asked for a raise, but my boss said, "No dice."
+no dice /nəʊ daɪs/
+(SYNONYM not happening) Used to indicate that something is not possible or not going to happen; a refusal or rejection.
+
+He had to elbow his way through the crowded room.
+elbow /ˈɛlbəʊ/
+(SYNONYM nudge) To use one's elbow to push or make space in a crowded area; to jostle or move forcefully.
+
+The company launched a counter-initiative to respond to the competition.
+counter-initiative /ˈkaʊntərˌɪˈnɪʃətɪv/
+(SYNONYM opposing action) An action taken in response to an initiative, often with the aim of countering or opposing its effects.
+
+She stood there, awestruck by the beauty of the sunset.
+awestruck /ˈɔːˌstrʌk/
+(SYNONYM amazed) Filled with a sense of wonder, amazement, and reverence; deeply impressed or inspired.
+
+He boldly confronted the issue, not fearing the consequences.
+boldly /ˈbəʊldli/
+(SYNONYM courageously) In a courageous, fearless, or confident manner; without hesitation or timidity.
+
+After years of hard work, she finally achieved tenure at the university.
+tenure /ˈtɛnjə/
+(SYNONYM incumbency) The status or condition of holding a permanent position, especially in academia; the right to hold a position permanently.
+
+They decided to spruce up their home with a fresh coat of paint.
+spruce up /spruːs, ʌp/
+(SYNONYM improve) To make a person or place smarter, neater, or more attractive through cleaning, renovation, or decoration.
+
+The thief was caught red-handed while stealing from the store.
+red-handed /rɛd ˈhændɪd/
+(SYNONYM caught in the act) Caught in the midst of committing a crime or wrongdoing, with clear evidence of guilt.
+
+Eating foods high in roughage can improve your digestive health.
+roughage /ˈrʌfɪdʒ/
+(SYNONYM fiber) Dietary fibers found in foods that promote healthy digestion and regular bowel movements.
+
+She dedicated every waking moment to her research.
+every waking moment /ˈɛvri ˈweɪkɪŋ ˈmoʊmənt/
+(SYNONYM all available time) Referring to all the time a person is awake, without exception.
+
+His apology seemed like a complete sham.
+sham /ʃæm/
+(SYNONYM fake) Something that is fake, false, or intended to deceive; a pretense or imitation.
+
+The view from the mountaintop was of unadulterated natural beauty.
+unadulterated /ˌʌnəˈdʌltəreɪtɪd/
+(SYNONYM pure) Completely pure, not mixed or diluted with anything else; free from impurities or alterations.
+
+The complexity of quantum physics can be truly mind-boggling.
+mind-boggling /maɪnd ˈbɒɡəlɪŋ/
+(SYNONYM astonishing) So astonishing or puzzling that it challenges one's ability to comprehend or understand fully.
+
+
+
 insist on
 phase = adjust the phase of (something), especially so as to synchronize it with something else
 no dice
@@ -11,5 +77,5 @@ red-handed
 roughage
 every waking moment
 sham
-unadultered
+unadulterated
 mind boggling 

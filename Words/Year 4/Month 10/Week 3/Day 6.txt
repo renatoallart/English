@@ -1,4 +1,69 @@
-dito 
+
+
+3/9/2023
+
+He was often described as a genius, and I'd say the same, ditto.
+ditto /ˈdɪtoʊ/
+(SYNONYM likewise) used to confirm that something applies in the same way to a previous statement
+
+In the novel "Flatland," characters live in a two-dimensional world without depth.
+flatland /ˈflætlænd/
+(SYNONYM two-dimensional) a flat or two-dimensional area or space
+
+How's she faring after the surgery? Is she recovering well?
+faring /ˈfɛrɪŋ/
+(SYNONYM doing) the way someone is progressing or getting along in a particular situation
+
+A low drum beat.
+drum /drʌm/
+(SYNONYM percussion instrument) a musical instrument played by striking it with sticks or the hands
+
+The hiker navigated the craggy terrain carefully, watching each step.
+craggy /ˈkræɡi/
+(SYNONYM rugged) rough, uneven, or full of crags, especially when describing natural landscapes
+
+Their investigation was zeroing in on the prime suspect in the case.
+zeroing in /ˈzɪroʊɪŋ ɪn/
+(SYNONYM narrowing down) focusing or directing attention on a specific target or goal
+
+The ridge of the mountain offered breathtaking views of the surrounding landscape.
+ridge /rɪdʒ/
+(SYNONYM crest) a long, narrow elevation of land or rock, often with a summit along the top
+
+The ragtag group of adventurers hailed from diverse backgrounds and skills.
+ragtag /ˈræɡtæɡ/
+(SYNONYM motley) consisting of various, often incongruous, elements; a disorganized or disparate group
+
+Their attempt to quell the rebellion only fueled the protesters' anger.
+quell /kwɛl/
+(SYNONYM suppress) to put an end to something, typically by using force or authority
+
+I have a few tricks up my sleeve that might help us solve this problem.
+have up your sleeve /hæv ʌp jʊr sliːv/
+(SYNONYM concealed) to have a secret plan or solution that you haven't revealed yet
+
+The weather looks dicey, so we might want to bring umbrellas just in case.
+dicey /ˈdaɪsi/
+(SYNONYM risky) uncertain, unpredictable, or potentially dangerous
+
+He was limping slightly after twisting his ankle during the soccer game.
+limping /ˈlɪmpɪŋ/
+(SYNONYM hobbling) walking with difficulty, often due to pain or injury
+
+The sweltering heat of summer made it unbearable to stay outdoors for too long.
+sweltering /ˈswɛltərɪŋ/
+(SYNONYM scorching) extremely hot, causing discomfort due to high temperatures
+
+Let's stay abreast of the latest developments in the project to ensure its success.
+abreast /əˈbrɛst/
+(SYNONYM informed) up to date with or alongside the latest information or trends
+
+He hit the gym regularly to bulk up and gain muscle mass.
+bulk up /bʌlk ʌp/
+(SYNONYM increase in size) to increase in size, often by gaining muscle or weight
+
+
+ditto  
 flatland
 faring 
 drum 
@@ -8,7 +73,7 @@ ridge
 ragtag
 quell 
 have up ur sleeve 
-decey 
+dicey 
 limping
 sweltering
 abreast
