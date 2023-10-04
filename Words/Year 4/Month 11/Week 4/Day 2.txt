@@ -1,4 +1,70 @@
-sacreligious
+
+
+4/10/2023
+
+His actions were deemed sacrilegious by the religious community.
+sacrilegious /ˌsæk.rɪˈlɪdʒ.əs/
+(SYNONYM blasphemous) Involving disrespect or irreverence toward sacred or religious things.
+
+Don't be such a worrywart; everything will be fine.
+worrywart /ˈwʌriˌwɔːrt/
+(SYNONYM worrier) A person who tends to worry excessively or about trivial matters.
+
+Over time, the old barn began to rot away, collapsing into a heap of timbers.
+rot away /rɒt, əˈweɪ/
+(SYNONYM deteriorate) To decay or disintegrate gradually over time, often due to the effects of weather, moisture, or neglect.
+
+They casually moseyed through the park, enjoying the warm weather.
+moseyed /ˈmoʊziːd/
+(SYNONYM ambled) To walk or move in a relaxed, unhurried manner.
+
+He's a man of many hats, with expertise in various fields.
+man of many hats /mæn, əv, ˈmeni, hætz/
+(SYNONYM versatile person) Someone who has multiple skills, talents, or roles in different areas or professions.
+
+They seemed unaware of the drama being enacted a few feet away from them.
+enacted /ɪˈnæktɪd/
+(SYNONYM play out) to take place
+
+The unpleasant odor in the room was attributed to a hidden skunk.
+skunk /skʌŋk/
+(SYNONYM foul-smelling animal) A small, black and white mammal known for its strong-smelling spray when threatened.
+
+Some individuals get off on taking risks in extreme sports.
+get off on /ɡet, ɒf, ɒn/
+(SYNONYM derive pleasure from) To find excitement or enjoyment in something, often with a connotation of intense or unusual pleasure.
+
+Hazing rituals are often criticized for their potential to harm and humiliate newcomers.
+hazing /ˈheɪzɪŋ/
+(SYNONYM initiation) The practice of subjecting newcomers to humiliating or dangerous tasks or rituals, often as part of an initiation process.
+
+The ordnance used in the military operation included various types of weaponry.
+ordnance /ˈɔːrd.nəns/
+(SYNONYM military equipment) Military weapons, ammunition, and other equipment used for warfare.
+
+The king issued a royal decree, establishing new rules for the kingdom.
+decree /dɪˈkriː/
+(SYNONYM official order) An official order or decision, typically issued by a person in authority.
+
+With the sunrise, a new day ariseth, bringing hope and possibilities.
+ariseth /əˈraɪzɪθ/
+(SYNONYM emerges) An archaic or poetic term for "arises" or "comes into existence."
+
+Scenes from history enacted by local residents.
+enacted /ɪˈnæktɪd/
+to perform a play or act a part in a play
+
+They navigated the roundabout to reach their destination.
+roundabout /ˈraʊndəˌbaʊt/
+(SYNONYM traffic circle) A circular intersection in a road, often used to control traffic flow.
+
+The dangerous neighborhood had become a no-go area for most residents.
+no-go area /ˌnəʊ ˈɡəʊ eəriə/
+(SYNONYM restricted zone) A place or area considered too dangerous or unsafe to enter or visit, often due to high levels of crime or violence.
+
+
+
+sacrilegious 
 worrywart
 rot away
 moseyed
@@ -7,7 +73,7 @@ enact = to take place
 skunk
 get off on = to enjoy or be excited by (something) especially in a sexual way
 hazing
-ordance
+ordnance 
 decree
 ariseth
 enact = to perform a play or act a part in a play
