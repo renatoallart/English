@@ -1,3 +1,69 @@
+
+
+4/10/2023
+
+After playing for hours, the children were completely tuckered out.
+tuckered out /tʌkərd aʊt/
+(SYNONYM exhausted) Extremely tired or fatigued, often to the point of exhaustion.
+
+The garden trellis had a beautiful lattice design.
+lattice /ˈlætɪs/
+(SYNONYM grid) A structure or pattern of crossed strips or bars, often used as a framework for climbing plants.
+
+The lake was so placid that it reflected the surrounding mountains like a mirror.
+placid /ˈplæsɪd/
+(SYNONYM calm) Calm and peaceful, with little or no disturbance.
+
+They enjoyed sailing on a placid sea under the clear blue sky.
+placid sea /ˈplæsɪd, siː/
+(SYNONYM calm ocean) A tranquil and undisturbed expanse of seawater.
+
+Despite his gruff exterior, he had a kind heart.
+gruff /ɡrʌf/
+(SYNONYM harsh) Rough or hoarse in manner or voice, often suggesting impatience or unfriendliness.
+
+His moronic behavior left everyone puzzled.
+moronic /məˈrɒnɪk/
+(SYNONYM foolish) Extremely foolish or unintelligent, often to a degree that is frustrating or exasperating.
+
+The exec meeting discussed the company's future plans.
+exec /ˈeksek/
+(SYNONYM executive) An abbreviation for "executive," often used informally to refer to a high-ranking company officer.
+
+We need to complete our evals before the end of the month.
+evals /ɪˈvælz/
+(SYNONYM evaluations) Informal shorthand for "evaluations," typically used in a business or academic context.
+
+The strong winds threatened to topple the trees.
+topple /ˈtɒp.əl/
+(SYNONYM fall over) To fall forward or be knocked over, often due to lack of balance or stability.
+
+As they went down the steep hill, they tumbled head over heels.
+head over heels /hed, ˈəʊvər, hiːl/
+(SYNONYM somersaulting) Turning over completely in forward motion, often used to describe tumbling or somersaulting.
+
+The contract includes standard boilerplate clauses for legal protection.
+boilerplate /ˈbɔɪlərpleɪt/
+(SYNONYM standard wording) Standardized pieces of text used in legal contracts, agreements, or computer programs, typically to save time and ensure consistency.
+
+The rundown house had been abandoned for years.
+rundown /ˈrʌn.daʊn/
+(SYNONYM dilapidated) In a state of disrepair or neglect, often referring to buildings or areas.
+
+That fashion trend was just a passing fad.
+fad /fæd/
+(SYNONYM craze) A temporary and often short-lived fashion, interest, or trend that gains popularity but eventually fades away.
+
+Late-onset diseases can manifest symptoms later in life.
+late-onset /ˈleɪt ɒnset/
+(SYNONYM occurring later) Referring to conditions, diseases, or disorders that begin to manifest at a later stage in life.
+
+The crime scene suggested matricide as the cause of death.
+matricide /ˈmætrɪsaɪd/
+(SYNONYM mother-killing) The act of killing one's own mother.
+
+
+
 tuckered out
 lattice
 placid
@@ -7,7 +73,7 @@ moronic
 exec 
 evals 
 topple
-head over heels = turning over completely in forward motion, as in a somersaul
+head over heels = turning over completely in forward motion, as in a somersault
 boilerplate = standardized pieces of text for use as clauses in contracts or as part of a computer program
 rundown
 fad

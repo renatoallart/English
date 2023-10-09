@@ -16387,7 +16387,7 @@ dauntless
 beeline
 clutch
 slugfest
-fristhand
+firsthand
 whiff
 battering   
 prosaic
@@ -16413,104 +16413,8 @@ meek
 incurred
 flaring up
 roll = to behave in a particular way
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------   year 4 Month 11 +
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 cop up
-instil
+instill
 high-pitched
 neigh
 whinny
@@ -16694,7 +16598,6 @@ soapsuds
 disreputable
 cog in the wheel
 up together
--------------------------------------
 rear =  to care for young children or animals until they are fully grown
 poultry
 make mincemeat of somebody
@@ -16882,6 +16785,108 @@ bill =  a written suggestion for a new law that is presented to a country’s pa
 upright = ​(of a person) behaving in a moral and honest way
 paltry 
 repatriation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------   year 4 Month 12 +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ramp up 
 in one go
 intrigue
@@ -18686,187 +18691,33 @@ peter out
 schoolhouse
 recipients = ​a person who receives something
 irreverence 
+-------------------------------------------
+impassable
+somersault
+trellis 
+footnote
+snatching
+reshaped 
+lighthearted
+gulp
+commonplace
 ---------------------------------------> Phrases <--------------------------------------------------
 
-The arrangement was only intended as a stopgap.
-stopgap
-​something that you use or do for a short time while you are looking for something better
-
-Making soup is a good way of using up leftover vegetables.
-use up 
-​to use all of something so that there is none left
-
-I had to lay out a fortune on a new car.
-lay out 
-(SYNONYM fork out) to spend money
-
-She wondered if she dared risk sullying the gleaming sink.
-sully
-to make something dirty
-
-I'm a a company man, so I can at least understand the fact that reprobates who sully their hands in such dealing will neither be thrust nor valued at their new company.
-reprobates
-​a person who behaves in a way that society thinks is not moral
-
-I've been completely occupied with tying up loose ends that I haven't had time.
-tied up loose ends /taɪ, ʌp, luːs, end/
-to complete the parts of something that have not been completed
-
-He feeds off the work and reputation of others.
-feed off
-to become stronger because of something else
-
-Looks like u need to taken down a peg, u redheaded gorilla.
-taken down a peg
-they should be made to realize that they are not so important or wonderful as they think they are
-
-I must be out of sorts today.
-be out of sorts
-slightly unwell
-
-Sally was ecstatic about her new job.
-ecstatic
-(SYNONYM delighted) very happy, excited and enthusiastic; feeling or showing great enthusiasm
-
-All the terms and conditions are laid out in the contract.
-laid out
-(SYNONYM set out) ​to present a plan, an argument, etc. clearly and carefully
-
-Relax with a nice long soak in a hot bath.
-soak 
-a period of time spent in a bath
-
-U will need a wrench to tighten it in position.
-wrench
-a tool used for gripping and turning nuts, bolts, pipes, etc.
-
-Dressed in formal evening attire.
-attire 
-clothes, especially fine or formal ones
-
-An organization set up to help small shopkeepers
-shopkeepers
-a person who owns or manages a shop, usually a small one
-
-A sketchy neighborhood.
-sketchy
-that people consider to be dishonest or bad
-
-A man was seen prowling around outside the factory just before the fire started.
-prowl
-to move quietly and carefully around an area, especially with the intention of committing a crime
-
-The gardens were laid out with lawns and flower beds.
-laid out 
-to plan how something should look and arrange it in this way
-
-We'll win because we're strong enough to deservedly win.
-deservedly
-​in the way that is deserved; correctly
-
-He argued that the issue had become moot since the board had changed its policy.
-moot
-unlikely to happen and therefore not worth considering
-
-Being a Hokage is just one track to me.
-track
-follow the course or trail of (someone or something), typically in order to find them or note their location at various points
-
-An impudent young fellow.
-impudent 
-(SYNONYM impertinent) rude; not showing respect for other people
-
-You'd be hard-pressed to find a better secretary.
-hard-pressed
-finding something very difficult to do
-
-He's always griping about the people at work.
-gripe
-to complain about somebody/something in an annoying way
-
-I've been assigned as ur chaperone.
-chaperone 
-a person who accompanies and looks after another person or group of people.
-
-Many children stammer but grow out of it.
-stammer
-(SYNONYM stutter) ​to speak with difficulty, repeating sounds or words and often stopping, before saying things correctly
-
-they might transmigrate to those settlements
-transmigrate
-migrate
-
-A small army of men and women read through hundreds of books and submitted tens of thousands of quotations.
-read through /ˈriːd θruː/
-read written or printed matter from beginning to end.
-
-Why don't you just drop dead?
-drop dead
-used as an expression of intense scorn or dislike.
-
-Her drop-dead good looks
-drop dead
-used to emphasize how attractive someone or something is.
-
-Don't pick at that scab!
-scab 
-a hard dry layer that forms over and covers a wound on the skin as it gets better
-
-I could no longer ignore the fact that he was unhappy.
-fact
-used to refer to a particular situation that exists
- 
-It takes three hours, whichever route you take.
-whichever
-used to say that it does not matter which, as the result will be the same
-
-Choose whichever brand you prefer.
-whichever
-used to say what feature or quality is important in deciding something
-
-He laid the map out on the table.
-laid sth out
-​to spread something out so that it can be seen easily or is ready to use
-
-Everybody is aware of the hazards of smoking.
-hazard
-​something that can be dangerous or cause damage
-
-She can also replay past events. Like skimming through a video recording.
-skimming
-read (something) quickly or cursorily so as to note only the important points.
-
-This is the motive u've been out of whack lately, right?
-out of whack
-out of order; not working
-
-A lack of oxygen may inhibit brain development in the unborn child.
-inhibit
-to prevent something from happening or make it happen more slowly or less frequently than normal
-
-A dry ticklish cough.
-ticklish
-​(of a cough) that makes your throat painful
-
-My parents heaped expectations on me.
-heaped
-to put a lot of something in a pile on something
-
-Rats! I forgot my glasses.
-rats
-used to show that you are annoyed about something
-
-His performance was full of maturity and poise.
-poise
-​a calm and confident manner with control of your feelings or behaviour
-
-Diplomatic leverage.
-leverage
-the ability to influence what people do
-
-This system will help you to leverage your time so that you get more done.
-leverage
-to get as much advantage or profit as possible from something that you have
 
 ---------------------- Words Todays --------------------------------
+At that time the industry was floundering.
+floundering
+to have a lot of problems and to be in danger of failing completely
+
+
+She was floundering around in the deep end of the swimming pool.
+floundering
+to struggle to move or get somewhere in water, mud, etc.
+
+We need positive role models for young women to aspire to.
+role model
+a person that people admire and try to copy
+
+
+
 
