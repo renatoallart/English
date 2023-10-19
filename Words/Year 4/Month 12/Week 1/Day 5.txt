@@ -1,3 +1,7 @@
+
+
+14/10/2023
+
 He felt gawky and self-conscious in the presence of his elegant peers.
 gawky /ˈɡɔːki/
 (SYNONYM awkward) lacking grace or social poise; clumsily or awkwardly built
@@ -31,7 +35,7 @@ adrift /əˈdrɪft/
 (SYNONYM directionless) (of a person) feeling alone and without a direction or an aim in life
 
 The once-proud empire was brought low by a series of economic crises.
-brought low
+brought low /brɔːt, ləʊ/
 (SYNONYM humbled) reduced to a lower status or condition, often through adversity or misfortune
 
 The paltry sum he received as compensation was far from what he had expected.
@@ -57,6 +61,8 @@ discolored /dɪsˈkʌlərd/
 His jokes always bordered on the line of being too horny for polite company.
 horny /ˈhɔːrni/
 (SYNONYM lustful) characterized by strong sexual desire or suggestive content
+
+
 
 gawky
 crotchet

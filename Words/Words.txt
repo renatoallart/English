@@ -16497,7 +16497,7 @@ sire
 prepare
 go out = be extinguished
 hazardous
-swive
+swivel
 josh
 pale drink
 dram
@@ -18717,6 +18717,22 @@ come short
 jostle 
 soluble
 magna opus 
+------------------------------
+quirky
+maisonette
+duller
+beside oneself with sth = unable to control yourself because of the strength of emotion you are feeling
+crusty
+icing on the cake
+-------------------------------------------
+despondency
+promiscuous
+whimsical 
+soothing
+----------------------------------
+ejecting 
+canopy
+earshot
 ---------------------------------------> Phrases <--------------------------------------------------
 
 At that time the industry was floundering.
@@ -18734,6 +18750,10 @@ a person that people admire and try to copy
 We mustn't let up now.
 let up
 to make less effort
+
+Promiscuous reading.
+promiscuous
+taken from a wide range of sources, especially without careful thought
 
 The women's hockey team plays back-to-back games this weekend.
 back-to-back
@@ -18770,6 +18790,10 @@ namesake
 This teacher is sketchier then the students.
 sketchier
 (SYNONYM rough) ​not complete or detailed and therefore not very useful
+
+The thought of it makes me heave.
+heave
+(SYNONYM retch) to experience the tight feeling in your stomach that you get before you vomit
 
 A tick bite.
 tick
@@ -18819,7 +18843,92 @@ A puppet show.
 puppet 
 a model of a person or an animal that can be made to move, for example by pulling strings attached to parts of its body or by putting your hand inside it. A puppet with strings is also called a marionette.
 
+This guy's just little tougher and duller compared ot other humans.
+duller
+(SYNONYM dreary) (comparative duller, superlative dullest) not interesting or exciting
+
+They were beside themselves with excitement.
+beside oneself with sth 
+unable to control yourself because of the strength of emotion you are feeling
+
+Those crusty higher-ups crusty used the special grade to get rid of him in my absence.
+crusty
+(especially of older people) easily made angry
+
+Don't clutter the page with too many diagrams.
+clutter 
+to fill a place or area with too many things, so that it is untidy
+
+A quirky sense of humour.
+quirky
+(SYNONYM peculiar)(of an aspect of somebody's personality or behaviour) a little strange
+
+No matter gow u slice it, u're such annoying brat.
+slice it 
+used to say that the truth of a statement is not changed or affected by the way a situation is thought about or described
+
+To say your prayers.
+prayer 
+words that you say to God giving thanks or asking for help
+
+The PE teacher’s shrill voice rang out across the school fields.
+shrill
+(SYNONYM piercing)(of sounds or voices) very high and loud, in an unpleasant way
+
+Shrill demands.
+shrill
+loud and determined but often unreasonable
+
+A soothing voice.
+soothing 
+that makes somebody who is anxious, upset, etc. feel calmer
+
+a soothing lotion.
+soothing
+that makes a tense or painful part of your body feel more comfortable
+
+Promiscuous behaviour.
+promiscuous
+having many sexual partners
+
+He lowered his voice slightly.
+slightly
+to a small degree; not considerably.
+
+He's always been self-conscious about being so short.
+self-conscious
+nervous or embarrassed about your appearance or what other people think of you
+
+We all heaved a sigh of relief.
+heaved
+to make a sound slowly and often with effort
+
+The animals were conditioned to respond to auditory stimuli (= sounds).
+stimuli 
+(plural of stimulus) something that produces a reaction in a human, an animal or a plant
+
+I felt wretched about the way things had turned out.
+wretched 
+(of a person) feeling ill or unhappy
+
+They paid a staggering £5 million for the house.
+staggering
+(SYNONYM astounding) so great, shocking or surprising that it is difficult to believe
+
+The boat heaved beneath them.
+heaved
+to rise up and down with strong, regular movements
+
+In her family, any expression of feeling was frowned upon.
+frowned upon
+​to think somebody/something is bad
+
+He's a pessimist and a defeatist.
+defeatist
+​a person who expects not to succeed
 ---------------------- Words Todays --------------------------------
+
+
 
 
 
