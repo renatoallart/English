@@ -16522,8 +16522,8 @@ trounced
 clich
 tad 
 upend 
-smoldring
-disccate 
+smoldering
+desiccate 
 peerage 
 fiend 
 wily 
@@ -16551,9 +16551,9 @@ into the leather
 mired 
 adhere
 seismic
-serviceabe
+serviceable
 scrapes
-screeps
+creeps
 steer clear 
 keep sb i the loop 
 make up with sb 
@@ -16574,7 +16574,7 @@ the time might be nigh
 entail 
 wrought
 swashbuckler
-enterpreneur
+entrepreneur 
 pass up 
 keynote 
 bidding = what somebody asks or orders you to do
@@ -18697,7 +18697,6 @@ reshaped
 lighthearted
 gulp
 commonplace
--------------------------------
 back-to-back
 court hearing
 spirit
@@ -18709,7 +18708,6 @@ shaping up
 traverse
 grave wax 
 erratic
-------------------------------
 avant-grade
 fiend 
 run for sb`s money
@@ -18717,22 +18715,38 @@ come short
 jostle 
 soluble
 magna opus 
-------------------------------
 quirky
 maisonette
 duller
 beside oneself with sth = unable to control yourself because of the strength of emotion you are feeling
 crusty
 icing on the cake
--------------------------------------------
 despondency
 promiscuous
 whimsical 
 soothing
-----------------------------------
 ejecting 
 canopy
 earshot
+----------------------------------
+apiece
+quid pro quo
+discuss
+----------------------------------
+beseech 
+valiant 
+demure 
+uninitiated
+assuage
+belligerent
+give-and-take relationship
+commissioned 
+dung
+gag order
+scrutiny
+botched 
+have-not
+tick off 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 At that time the industry was floundering.
@@ -18766,6 +18780,14 @@ back-to-back
 A bespoke tailor.
 bespoke
 ​making products specially, according to the needs of an individual customer
+
+The ground was covered with windfalls.
+windfalls
+​a fruit, especially an apple, that the wind has blown down from a tree
+
+She comes across well in interviews.
+comes across
+to make a particular impression
 
 I've been troubled by telephone calls at ungodly hours.
 ungodly
@@ -18926,7 +18948,78 @@ frowned upon
 He's a pessimist and a defeatist.
 defeatist
 ​a person who expects not to succeed
+
+The hospital got a sudden windfall of £300 000.
+windfall
+an amount of money that somebody/something wins or receives unexpectedly
+
+He spoke for a long time but his meaning didn't really come across.
+come across
+to be understood
+
+Let's just call it a quid pro quo, shall we?
+quid pro quo
+an agreement between two or more parties in which there is a reciprocal exchange of goods or services
+
+The report in the papers at the time was as follows.
+follows
+to come after something/somebody else in time or order; to happen as a result of something else
+
+In the years hence, the land they had chose to call home became known as Dark Land.
+hence
+a number of days, etc. from now
+
+I don't wanna throw any wreches into the plans.
+throw wrench into something
+(to cause) a delay or problem with something that somebody is planning or doing
+
+Can u do any tricks or the like?
+like
+having the same characteristics or qualities as; similar to.
+
+I can't bring myself to drive off someone without house or home.
+drive off 
+​to force somebody/something to go back or away
+
+I'm too tired to put up with any nonsense.
+put up with
+tolerate or endure something
+
+Nature reserves were set up around the power stations to mollify local conservationists
+mollify
+appease the anger or anxiety of (someone)
+
+The women hoped to mollify the harsh wilderness environment
+mollify
+reduce the severity of (something); soften.
+
+From the looks on their faces, I surmised that they had had an argument.
+surmised
+(SYNONYM conjecture)​to guess or suppose something using the evidence you have, without definitely knowing
+
+He really ticked me off.
+tick off 
+make someone annoyed or angry.
+
+He'll hole up now and move again tomorrow, after dark.
+hole up
+to hide in a place
+
+In order to destroy this dung heap of a word.
+dung 
+(SYNONYM manure) ​solid waste from animals, especially from large ones
+
+There was a scream outside, and the sounds of people milling around.
+milling around
+(especially of a large group of people) to move around an area without seeming to be going anywhere in particular
+ 
+He left me hanging on(= standing by) after the exorcism.
+hanging on 
+used to ask somebody to wait for a short time or to stop what they are doing
+
 ---------------------- Words Todays --------------------------------
+
+
 
 
 

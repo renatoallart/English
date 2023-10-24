@@ -1,10 +1,78 @@
+
+
+23/10/2023
+
+
+His easy-going demeanor made it enjoyable to work with him.
+easy-going /ˌiːziˈɡoʊɪŋ/
+(SYNONYM relaxed) characterized by a relaxed and laid-back attitude or personality
+
+The garish colors of the building's exterior made it stand out in the neighborhood.
+garish /ˈɡɛrɪʃ/
+(SYNONYM flashy) excessively bright, colorful, or showy in a way that is considered tasteless or gaudy
+
+Her instinctual reaction to danger was to flee from the situation.
+instinctual /ɪnˈstɪŋkʃuəl/
+(SYNONYM innate) relating to natural or inherent instincts, often referring to behaviors that are not learned but rather automatic
+
+The stigma surrounding mental health issues needed to be challenged and reduced.
+stigma /ˈstɪɡmə/
+(SYNONYM social disgrace) a mark of disgrace or negative association attached to a person, group, or condition
+
+She was having fits of laughter at the comedian's jokes.
+having fits /ˈhævɪŋ, fɪts/
+(SYNONYM uncontrollable laughter) experiencing uncontrollable and intense laughter or amusement
+
+He consoled her consolingly, offering comfort during her difficult time.
+consolingly /kənˈsoʊlɪŋli/
+(SYNONYM comforting) in a comforting or consoling manner, providing solace or reassurance
+
+I wouldn't hold my breath for an immediate solution to the problem.
+I wouldn't hold my breath /aɪ, wuːndn't, həʊld, maɪ, breθ/
+(SYNONYM be optimistic) used to express skepticism or doubt about the likelihood of a positive outcome or resolution
+
+How come you didn't attend the event last night?
+how come /haʊ, kʌm/
+(SYNONYM why) used to ask for the reason or explanation behind something
+
+His charisma and leadership abilities compelled people to follow him.
+compelled /kəmˈpeld/
+(SYNONYM force) to force or strongly persuade someone to do something or to take a particular action
+
+He consumes four of his mom's chapos in one sitting.
+chapo /ˈtʃæpoʊ/
+(in East African cuisine) a thin pancake of unleavened wholewheat bread cooked on a griddle.
+
+The time might be nigh for a change in leadership.
+the time might be nigh /ðə, taɪm, maɪt, bi, naɪ/
+(SYNONYM the time may be near) a phrase suggesting that the time for a particular event or change may be imminent
+
+The project would entail significant research and planning.
+entail /ɪnˈteɪl/
+(SYNONYM involve) to involve or require as a necessary part or consequence, often referring to a task or process
+
+The intricate details of the design were carefully wrought by the artist.
+wrought /rɔt/
+(SYNONYM created) produced or created, often used to describe detailed or finely crafted work
+
+The swashbuckler in the novel was known for his daring and heroic actions.
+swashbuckler /ˈswɒʃˌbʌklər/
+(SYNONYM adventurer) a daring and adventurous person, often characterized by acts of bravery and heroism
+
+The entrepreneur successfully launched several innovative startups.
+entrepreneur /ˌɑntrəprəˈnər/
+(SYNONYM businessperson) a person who starts and manages businesses, often taking financial risks in pursuit of innovation and profit
+
+
+
+
 easy-going
 garish
 instinctual
 stigma
 having fits
 consolingly
-i wouldn't hld my breath
+i wouldn't hold my breath
 how come
 compel 
 chapo
@@ -12,4 +80,4 @@ the time might be nigh
 entail 
 wrought
 swashbuckler
-enterpreneur
+entrepreneur 
