@@ -16660,7 +16660,7 @@ pad
 redraw 
 about face 
 lose steam 
-porp sb up
+prop sb up
 clams 
 croak = dead 
 pittance 
@@ -18643,6 +18643,7 @@ getup
 one up 
 amped up 
 flake 
+endowed with = ​to give something to somebody/something
 annex
 hazard
 play it by ear
@@ -18776,7 +18777,16 @@ menial
 defied
 tag out
 power = the number of times that an amount is to be multiplied by itself
+---------------------------------
+endowed with = ​to believe or imagine that somebody/something has a particular quality
 
+-----------------------------------
+reputable
+spinning sth = to present information or a situation in a particular way, especially one that makes you or your ideas seem good
+ride or die
+veer off something 
+put two and two together
+terse 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 At that time the industry was floundering.
@@ -19135,17 +19145,39 @@ She was endowed with intelligence and wit.
 be endowed with something
 ​(formal) to naturally have a particular feature, quality, etc.
 
+He displayed the true grit of the navy pilot
+grit
+courage and resolve; strength of character.
+
+She had endowed Marcus with the qualities she wanted him to possess.
+endowed with 
+​to believe or imagine that somebody/something has a particular quality
+
+To endow somebody with a responsibility.
+endowed with
+​to give something to somebody/something
+
+Don't get in my way and force me to veer off course.
+veer off something 
+to begin to go in the wrong direction
+
+Liz is my ride or die—I can totally count on her to be there for me in any situation.
+ride or die
+one's closest, most reliable or trustworthy friends.
+
+Even spinning my shortcomings in a positive light.
+spinning sth 
+to present information or a situation in a particular way, especially one that makes you or your ideas seem good
+
+He is so forthright about his shortcomings, it's hard to chastise him.
+shortcomings
+a fault or failure to meet a certain standard, typically in a person's character, a plan, or a system.
+
+There are three essentially different ways of tackling the problem.
+essentially
+(SYNONYM basically, fundamentally) ​when you think about the true, important or basic nature of somebody/something
 
 ---------------------- Words Todays --------------------------------
-
-
-
-
-
-
-
-
-
 
 
 
