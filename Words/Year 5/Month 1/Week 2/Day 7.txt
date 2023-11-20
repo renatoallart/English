@@ -1,3 +1,64 @@
+
+The project faced delays due to a significant shortcoming in the initial design.
+shortcoming /ˈʃɔːtkʌmɪŋ/
+(SYNONYM deficiency) a fault or failure in something, often used to describe a flaw or inadequacy
+
+The two companies are vying for the contract to build the new infrastructure.
+vying /vaɪɪŋ/
+(SYNONYM competing) competing or contending for a prize, position, or advantage, often used to describe a competitive situation
+
+The countdown clock is ticking down to the launch of the spacecraft.
+ticking down/ˈtɪkɪŋ, daʊn/
+(SYNONYM decreasing) gradually decreasing or counting down, often used to describe the diminishing time until an event
+
+The stat revealed a significant increase in sales over the past quarter.
+stat /stæt/
+(SYNONYM statistic) a piece of statistical information or data, often used in reference to numerical facts or figures
+
+The company's slogan emphasized its commitment to sustainability.
+slogan /ˈsloʊɡən/
+(SYNONYM motto) a distinctive phrase or motto used by a group or company to convey a message or purpose, often used for branding
+
+The caterpillar transforms into a pupa during the metamorphic process.
+pupa /ˈpjuːpə/
+(SYNONYM chrysalis) the life stage of some insects during metamorphosis, between the larval and adult stages
+
+The manor stood on a vast estate, surrounded by lush gardens.
+manor /ˈmænər/
+(SYNONYM estate) a large country house with land, often used to describe a grand residence or mansion
+
+Witnessing the breathtaking scenery, she was momentarily lost for words.
+be lost for words /bi, lɒst, fər, wɜːdz/
+(SYNONYM speechless) to be unable to find words to express oneself, often used when faced with something awe-inspiring or surprising
+
+The salesman delivered a persuasive spiel about the benefits of the product.
+spiel /spiːl/
+(SYNONYM pitch) a persuasive and elaborate speech or presentation, often used to promote or sell a product or idea
+
+She wanted to get even with him for the prank he played.
+be/get even with sb /ɡet, ˈiːvn, wɪθ, ˈsʌmbədi/
+(SYNONYM retaliate) to retaliate or seek revenge against someone for a perceived wrongdoing
+
+Party-goers enjoyed the lively atmosphere and music at the event.
+party-goer /ˈpɑːrti ɡəʊər/
+(SYNONYM attendee) a person who attends or participates in a party or social gathering, often used to describe someone who enjoys social events
+
+They stumbled into a quaint bookstore while exploring the city.
+stumbled into /ˈstʌmbld, ˈɪntə/
+(SYNONYM discovered by chance) to discover or come across something by chance or accident
+
+The park-goers enjoyed a day of relaxation and outdoor activities.
+park-goers /pɑːk, ɡəʊərz/
+(SYNONYM visitors to the park) individuals who visit or spend time in a park for recreational purposes
+
+She had a shawl draped around her shoulders.
+draped /dreɪpt/
+to hang clothes, materials, etc. loosely on somebody/something
+
+The process of deduping the database removed duplicate entries.
+deduping /diːˈdjuːpɪŋ/
+(SYNONYM deduplication) the process of identifying and removing duplicate or redundant data entries, often used in data management
+
 shortcoming 
 vying 
 ticking down 
@@ -7,7 +68,7 @@ pupa
 manor 
 be lost for words
 spiel
-i'll get even with sb
+be/get even with sb
 party-goer
 stumbled into
 parkgoers

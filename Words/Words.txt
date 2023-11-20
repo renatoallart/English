@@ -14637,7 +14637,6 @@ pinky promise
 bonkers
 the gutter
 stay tuned
-awry
 be on to (someone or something)
 remainder = the numbers left after one number has been subtracted from another, or one number has been divided into another
 mean = a quality, condition, or way of doing something that is in the middle of two extremes and better than either of them
@@ -16850,7 +16849,7 @@ pupa
 manor 
 be lost for words
 spiel
-i'll get even with sb
+be/get even with sb
 party-goer
 stumbled into
 parkgoers
@@ -18487,6 +18486,7 @@ sizable
 deferment
 prefect
 unrevealed
+getaway
 sassed 
 dampener
 ivy
@@ -18842,7 +18842,6 @@ meddlesome
 gaggle
 wordiness
 second fiddle
-------------------------------------
 intoned
 topic at hand 
 does = a female deer
@@ -18864,7 +18863,6 @@ bushwhacked
 fade away 
 last out 
 most out
-----------------------------------------
 covert action
 jig is up 
 impressionable
@@ -18877,7 +18875,6 @@ out of kilter
 be at the height one's powers
 come in for
 tie up = ​to deal with all the final details of something // bring something to a satisfactory conclusion; settle
------------------------------------------
 status quo
 lethargy 
 doped 
@@ -18903,6 +18900,15 @@ boughs = a main branch of a tree
 ruination
 break bread
 squeaking = succeed in achieving something by a very narrow margin
+--------------------------------------------
+getaway = a short holiday; a place that is suitable for a holiday
+counterbalance
+confer
+bolt = (of a person) move or run away suddenly.
+hoof it
+maxed out 
+motif 
+liaison
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Promiscuous behaviour.
@@ -18928,6 +18934,10 @@ to talk about something as if it were definitely true, even though it might not 
 Italy’s most wanted man.
 wanted 
 being searched for by the police, in connection with a crime
+
+His arm was draped casually around her shoulders.
+draped
+to allow part of your body to rest on something in a relaxed way
 
 This study is the cornerstone of the whole research programme.
 cornerstone
@@ -18956,6 +18966,10 @@ a person's unusual sexual preference
 A gaggle of tourists.
 gaggle
 a group of noisy people
+
+She rushed out, her hair awry.
+awry
+(SYNONYM untidy) not in the right position
 
 The opening hours are as follows...
 as follows 
@@ -19056,6 +19070,11 @@ to become tighter or narrower; to make something tighter or narrower
 Political humbug.
 humbug
 dishonest language or behaviour that is intended to trick people
+
+Walls draped in ivy
+draped
+to cover or decorate somebody/something with material
+
 
 Rob's quick to dismiss the notion that his trip was horrific.
 dismissed 
@@ -19221,8 +19240,94 @@ The boughs that bear the most hang lowest.
 The boughs that bear the most hang lowest
 the greater you become as a person, the more modest you becom
 
+Quaint old customs.
+quaint 
+​attractive in an unusual or old-fashioned way
+
+Hannah has a play date with a friend after school.
+play date
+an arrangement that parents make for their children to play together at a particular time and place
+
+The castle was built on top of a natural grassy mound.
+mound
+​a large pile of earth or stones; a small hill
+
+A small mound of sand.
+mound
+(SYNONYM heap) a pile
+
+He has a flair for languages.
+flair 
+(SYNONYM talent) a natural ability to do something well
+
+A romantic weekend getaway in New York.
+getaway
+a short holiday; a place that is suitable for a holiday
+
+All my plans for the party had gone awry.
+awry
+if something goes awry, it does not happen in the way that was planned
+
+Artistic flair.
+flair
+a quality showing the ability to do things in an interesting way that shows imagination
+
+Unbridled passion.
+unbridled
+​lacking control and therefore extreme
+
+I've the advantage on protracted fights.
+protracted
+(SYNONYM prolonged) lasting longer than expected or longer than usual
+
+So if he realizes we're cops, he might bolt
+bolt 
+to run away very fast, in order to escape
+
+A turnover approaching $4 million. 
+turnover
+the amount of money taken by a business in a particular period.
+
+High staff turnover left the program with too many young instructors.
+turnover
+the rate at which employees leave a workforce and are replaced.
+
+If ex-fighters are fighting, then there must be turnover.
+turnover
+the rate at which employees leave a workforce and are replaced
+
+His whole body, and his katana too are constantly surging with Cursed Energy!
+surging
+(SYNONYM sweep) to fill somebody with a strong feeling
+
+Blue velvet drapes.
+drapes
+​a long thick curtain
+
+He wanted to confer with his colleagues before reaching a decision.
+confer
+to discuss something with somebody, in order to exchange opinions or get advice
+
+Many victims of burglary feel their homes have been defiled.
+defiled
+to make something dirty or no longer pure, especially something that people consider important or holy
+
+I flubbed up!
+flubbed up
+to flub; to botch or mess up
+
+Some silk fabrics will drape beautifully.
+drape 
+(of clothes or materials) to hang loosely
+
+The traffic was jammed solid in the city centre.
+jammed
+to become unable to move or work; to make something do this
 
 
 ---------------------- Words Todays --------------------------------
 
+
+
+  
 
