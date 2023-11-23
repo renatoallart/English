@@ -1,4 +1,7 @@
 
+
+20/11/2023
+
 The project faced delays due to a significant shortcoming in the initial design.
 shortcoming /ˈʃɔːtkʌmɪŋ/
 (SYNONYM deficiency) a fault or failure in something, often used to describe a flaw or inadequacy
@@ -58,6 +61,10 @@ to hang clothes, materials, etc. loosely on somebody/something
 The process of deduping the database removed duplicate entries.
 deduping /diːˈdjuːpɪŋ/
 (SYNONYM deduplication) the process of identifying and removing duplicate or redundant data entries, often used in data management
+
+
+
+
 
 shortcoming 
 vying 
