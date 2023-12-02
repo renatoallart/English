@@ -16985,8 +16985,8 @@ pretense
 seize = (SYNONYM grab) to take somebody/something in your hand suddenly and using force
 frazzled
 shipshape 
-criclet 
-denoument
+cricket 
+denouement
 divulging
 leverage
 resemblance
@@ -17006,7 +17006,7 @@ be holed up
 mounds
 spine sprain
 luck out
-duece
+deuce
 fort
 vaquero
 bias
@@ -18503,6 +18503,7 @@ windup = the motions of a pitcher immediately before delivering the ball, in whi
 thrice
 unquestioning
 best = ​to defeat or be more successful than somebody
+scuttled = (SYNONYM foil) = to deliberately cause something to fail
 decrepitude 
 manliest
 vicariously
@@ -18970,6 +18971,23 @@ freshen
 --------------------------------
 classy = of high quality; expensive and/or fashionable
 herd up 
+-------------------------------
+flounder 
+haggle
+----------------------------
+angler
+backdrop
+earl 
+scuttled = (SYNONYM scurry) to run with quick short steps
+apprehension
+innovative 
+chargeable
+invoiced 
+abetted
+rounds = a regular route that somebody takes when delivering or collecting something; a regular series of visits that somebody makes
+feisty 
+inconsistencies
+saddled = burden (someone) with an onerous responsibility or task
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Promiscuous behaviour.
@@ -19140,7 +19158,6 @@ Walls draped in ivy
 draped
 to cover or decorate somebody/something with material
 
-
 Rob's quick to dismiss the notion that his trip was horrific.
 dismissed 
 (SYNONYM wave something aside/away) to decide that somebody/something is not important and not worth thinking or talking about
@@ -19288,7 +19305,6 @@ give concavity to (a wheel) by tensioning the spokes.
 The business has 34 retail outlets in this state alone.
 outlets
 a shop or an organization that sells goods made by a particular company or of a particular type
-
 
 I had my money on u over Joe, u know.
 money on someone
@@ -19582,7 +19598,6 @@ They rolled us over in the replay.
 rolled over
 to defeat somebody easily
 
-
 I know u're just feel me out.
 feel someone out
 to try to get information from someone or from a situation without asking direct questions
@@ -19643,8 +19658,87 @@ Don't be so daft!
 daft
 silly, often in a way that is funny
 
+An inevitable and lengthy haggle over compensation.
+haggle
+a period of persistent bargaining.
 
+I caught on to what it was the guy was saying.
+caught on
+understand what is meant or how to do something
+
+The two sides are haggling over television rights.
+haggling
+dispute or bargain persistently, especially over the cost of something
+
+He held his breath as a rat scuttled past.
+scuttled
+(SYNONYM scurry) to run with quick short steps
+
+Ur mouth's as potty as ever Ray.
+potty 
+a bowl that very young children use when they are too small to use a toilet
+
+He worked as a door-to-door salesman peddling cloths and brushes.
+peddling
+to try to sell goods by going from house to house or from place to place
+
+A carp angler.
+angler
+a person who fishes with a rod and line
+
+She looked away from his dark probing eyes.
+probing
+​examining somebody/something closely
+
+He's saddled with debts of $12 million.
+saddled
+burden (someone) with an onerous responsibility or task.
+
+It seems the child's not as feisty now.
+feisty 
+(of a person, typically one who is relatively small or weak) lively, determined, and courageous.
+
+She blurted it out before I could stop her.
+blurted
+to say something suddenly and without thinking carefully enough
+
+Don't talk such drivel.
+drivel
+nonsense
+
+Why aren't u out making ur rounds, Joe?
+rounds
+a regular route that somebody takes when delivering or collecting something; a regular series of visits that somebody makes
+
+She recounts a joke making the rounds when she was there
+making the rounds
+(of a story or joke) be passed on from person to person.
+
+He was abetted in the deception by his wife.
+abetted
+to help or encourage somebody to do something wrong
+
+You will be invoiced for these items at the end of the month.
+invoicing 
+​to write or send somebody a bill for work you have done or goods you have provided
+
+A striking feature.
+striking
+(SYNONYM marked) interesting and unusual enough to attract attention
+
+Betray one's spouse.
+betrays 
+to be false or disloyal to
+
+A bewilderment of lies and half-truths.
+bewilderment
+a situation of perplexity or confusion; a tangle
+
+She said goodbye and scurried back to work.
+scurried
+(SYNONYM scuttle) to run with quick short steps
 ---------------------- Words Todays --------------------------------
+
 
 
 

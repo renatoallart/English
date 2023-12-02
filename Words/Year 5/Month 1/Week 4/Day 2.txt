@@ -1,3 +1,68 @@
+
+
+29/11/2023
+
+The mouse emitted a high-pitched squeak as it scurried across the floor.
+squeak /skwiːk/
+(SYNONYM high-pitched sound) a short, high-pitched sound or cry
+
+Her enterprising spirit led her to start her own business at a young age.
+enterprising /ˈɛntərˌpraɪzɪŋ/
+(SYNONYM ambitious) showing initiative and resourcefulness, often in a business or entrepreneurial context
+
+The viscount held a prominent position in the aristocracy, ranking below an earl and above a baron.
+viscount /ˈvaɪkaʊnt/
+(SYNONYM noble title) a British noble title, ranking below an earl and above a baron
+
+The fish took the bait, and the angler began reeling it in.
+bait /beɪt/
+(SYNONYM lure) something used to attract, entice, or tempt, especially in fishing
+
+His unresolved issues continued to fester, causing emotional distress.
+fester /ˈfɛstər/
+(SYNONYM worsen) to become worse or more intense, especially in terms of negative feelings or problems
+
+The numbing sensation gradually wore down his ability to feel pain.
+numbing /ˈnʌmɪŋ/
+(SYNONYM desensitizing) causing a loss of sensation or feeling, often used to describe something that dulls or deadens sensitivity
+
+Using a proxy server, he accessed websites anonymously, protecting his identity.
+proxy /ˈprɒksi/
+(SYNONYM substitute) a person or thing authorized to act on behalf of another, especially in a legal or official capacity
+
+Her friendly demeanor was merely a pretense to conceal her true feelings.
+pretense /prɪˈtɛns/
+(SYNONYM facade) a false display or show of something, often used to conceal the real nature of a situation
+
+Seize the opportunity. He urged his team to seize the chance for success.
+seize /siːz/
+(SYNONYM grab) to take somebody/something in your hand suddenly and using force
+
+The constant demands of her job left her feeling frazzled and overwhelmed.
+frazzled /ˈfræzəld/
+(SYNONYM exhausted) in a state of extreme exhaustion or stress, often used to describe someone who is mentally or physically worn out
+
+Everything was shipshape and ready for the big event.
+shipshape /ˈʃɪpʃeɪp/
+(SYNONYM orderly) in perfect order or condition, often used to describe cleanliness and neatness
+
+The cricket chirped rhythmically in the evening, creating a soothing backdrop.
+cricket /ˈkrɪkɪt/
+(SYNONYM insect) a nocturnal insect known for its distinctive chirping sound
+
+The denouement of the story revealed the surprising twist that left the audience in awe.
+denouement /deɪˈnuːmɒ̃/
+(SYNONYM resolution) the final resolution or outcome of a story or situation, often involving a revelation or clarification
+
+She hesitated before divulging the secret she had kept for so long.
+divulging /daɪˈvʌldʒɪŋ/
+(SYNONYM revealing) making known or disclosing information, often of a private or confidential nature
+
+He used his charm and wit to leverage his way into influential circles.
+leverage /ˈlɛvərɪdʒ/
+(SYNONYM influence) the power or ability to act effectively, often with strategic advantage
+
+
 squeak
 enterprising
 viscount
@@ -9,7 +74,7 @@ pretense
 seize = (SYNONYM grab) to take somebody/something in your hand suddenly and using force
 frazzled
 shipshape 
-criclet 
-denoument
+cricket 
+denouement
 divulging
 leverage
