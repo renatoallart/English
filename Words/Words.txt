@@ -17008,7 +17008,7 @@ spine sprain
 luck out
 deuce
 fort
-vaquero
+cowboy
 bias
 run afoul of something
 stiff lip 
@@ -17049,14 +17049,15 @@ debacle
 catapults
 sheepishly
 whapping =  hit hard
-lob lickspittle
+lob 
+lickspittle
 rued 
-spendthift
+spendthrift
 make sport 
 auspicious
 main
-smalfolks
-waton
+small folks
+wanton
 ilk 
 round-up
 squalor 
@@ -18483,6 +18484,7 @@ once-pristine
 blood blister
 sizable
 deferment
+psych out 
 prefect
 unrevealed
 getaway
@@ -18836,6 +18838,7 @@ retch
 nightstand
 dickstraction 
 kink
+lather
 rang out
 meddlesome
 gaggle
@@ -18934,7 +18937,6 @@ chide
 surface = (SYNONYM emerge) to suddenly appear or become obvious after having been hidden for a while   
 retorted
 prelude = an action or event that happens before another more important one and forms an introduction to it
-----------------------------------
 flopped
 populace
 keep a tight lid on
@@ -18956,7 +18958,6 @@ vagaraies
 move up 
 ousted 
 boarded 
--------------------------------------
 dog-eared 
 faint smile 
 unassailable
@@ -18968,13 +18969,10 @@ spaßbremse
 call-up = the opportunity to play in a sports team, especially for your country
 bygone 
 freshen 
---------------------------------
 classy = of high quality; expensive and/or fashionable
 herd up 
--------------------------------
 flounder 
 haggle
-----------------------------
 angler
 backdrop
 earl 
@@ -18988,6 +18986,25 @@ rounds = a regular route that somebody takes when delivering or collecting somet
 feisty 
 inconsistencies
 saddled = burden (someone) with an onerous responsibility or task
+--------------------------------------
+postpartum
+soles
+picturesque 
+psyched up
+mind-bending
+rubbing = (SYNONYM impression) an impression of a design on brass or stone, made by rubbing on paper laid over it with colored wax, pencil, chalk, etc.
+--------------------------------------------
+cut it = come up to expectations; meet requirements.
+cut a binding vow = (figurative expression) it means that the person made a solemn or serious promise or commitment.
+roughhousing
+scrub = (in sports) a player not among the best or most skilled
+lathered = to cover something with lather(a white mass of small bubbles that is produced by mixing soap with water)
+poses ​
+offshoot
+threadbare
+rugged = all
+obsequiously
+
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Promiscuous behaviour.
@@ -19737,12 +19754,78 @@ a situation of perplexity or confusion; a tangle
 She said goodbye and scurried back to work.
 scurried
 (SYNONYM scuttle) to run with quick short steps
+
+The trepidation in her voice was evident as she approached the daunting task.
+trepidation /ˌtrɛpɪˈdeɪʃən/
+(SYNONYM fear) a feeling of fear or anxiety about something that may happen 
+
+His claim is a travesty of the facts.
+travesty 
+(SYNONYM parody) something that does not have the qualities or values that it should have, and as a result is often considered wrong or offensive
+
+He created a rubbing of the ancient inscription on the stone tablet.
+rubbing /ˈrʌbɪŋ/
+(SYNONYM impression) an impression of a design on brass or stone, made by rubbing on paper laid over it with colored wax, pencil, chalk, etc.
+
+Tommy wasn’t sure what to make of the soup his mom made.
+make of /meɪk, əv/
+(SYNONYM opinion) to have or form an opinion about (sth or sb)
+
+After the argument, he felt alienated from his friends and isolated.
+alienated /ˈeɪliəneɪtɪd/
+(SYNONYM isolated) feeling isolated or estranged from others; experiencing a sense of detachment or separation. 
+
+The kids are beginning to get the hang of marching in formation.
+get the hang of something  /ɡet, ðə, hæŋ, əv, ˈsʌmθɪŋ/
+to learn how to do or to use something; to understand something
+
+We outsource all our computing work.
+outsource
+to arrange for somebody outside a company to do work or provide goods for that company
+
+I'd got myself all psyched up for the interview and then it was called off at the last minute.
+psyched up
+to prepare somebody/yourself mentally for something difficult or unpleasant
+
+This CD player doesn't quite cut it.
+cut i
+come up to expectations; meet requirements.
+
+I cut a binding vow with the boy. Not to kill or hurt anyone for one minute.
+cut a binding vow
+(figurative expression) it means that the person made a solemn or serious promise or commitment.
+
+To be honest, the organization is threadbare at the moment.
+threadbare
+(of cloth, clothing, or soft furnishings) becoming thin and tattered with age.
+
+The binoculars are compact, lightweight, and rugged.
+rugged
+(of a machine or other manufactured object) strongly made and capable of withstanding rough handling.
+
+I lathered my face and started to shave.
+lathered
+to cover something with lather(a white mass of small bubbles that is produced by mixing soap with water)
+
+A former All-Star reduced to the role of scrub.
+scrub
+(in sports) a player not among the best or most skilled.
+
+Commercial offshoots of universities.
+offshoots
+​a thing that develops from something, especially a small organization that develops from a larger one
+
+The round-up of sheep for shearing.
+round-up
+​an act of bringing people or animals together in one place for a particular purpose
+
+He was smiling obsequiously.
+obsequiously
+​in a way that shows you are trying too hard to please somebody, especially somebody who is important
+
 ---------------------- Words Todays --------------------------------
 
 
 
 
 
-
-
-I cut a binding vow with the boy. Not to kill or hurt anyone for one minute.
