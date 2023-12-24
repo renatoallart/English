@@ -19150,7 +19150,20 @@ absentmindedly
 correction
 cityscape
 professionalism
-
+------------------------------
+snobbish
+reverberate
+amenities
+condominiums
+childproof
+hang in balance 
+writ 
+toller 
+sidewall
+indictment 
+standing fast 
+reoudiated
+wide-eyed
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -19166,7 +19179,6 @@ look at
 A list of films to be screened as part of the festival.
 screened
 to show a film, etc. in a cinema or on television
-
 
 Thoroughly shaky evidence.
 shaky
@@ -19420,6 +19432,10 @@ Everything was thrown into chaos.
 thrown
 to make somebody/something be in a particular state
 
+McIllvanney snapped at her.
+snapped
+say something quickly and irritably.
+
 She had the guileless innocence of a child.
 guileless
 behaving in a very honest way; not knowing how to trick people
@@ -19656,9 +19672,39 @@ I want to go over these plans with you again.
 go over
 consider, examine, or check something.
 
+‘Don't just stand there,’ she snapped.
+snapped
+to speak or say something in an impatient, usually angry, voice
+ 
+The doctors are affiliated with the Relief Fund.
+affiliated /əˈfɪlieɪtɪd/
+closely connected to or controlled by a group or an organization
+
+My patience finally snapped.
+snapped
+to suddenly be unable to control your feelings any longer because the situation has become too difficult
+
+A battered old car.
+battered
+old, used a lot, and not in very good condition
+
+There're growing regional disparities in economic prosperity.  
+disparity /dɪˈspærəti/
+a difference, especially one connected with unfair treatment
+
+She kissed him on the lips.
+lips /lɪp/
+either of the two soft edges at the opening to the mouth
+
+I've been baking all morning.
+baked /beɪk/
+to cook food in an oven without extra fat or liquid; to be cooked in this way
+
+She felt emotionally battered.
+battered
+attacked violently or repeatedly and injured
+
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
