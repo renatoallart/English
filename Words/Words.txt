@@ -17191,7 +17191,7 @@ augie
 dissing 
 hustle 
 beige 
-thaksgiven
+thanksgiving
 offal
 slinky
 crack  = a narrow space or opening
@@ -17201,11 +17201,11 @@ messier
 dew
 beanie
 take off = to leave a place, especially in a hurry
-porch = varanda
+porch = veranda
 wing = one section of an organization that has a particular function or whose members share the same opinions
 titter
 depot
-in ernest
+in earnest
 snicker
 stall =  a small area in a room, surrounded by glass, walls, etc., that contains a shower or toilet
 gliding
@@ -17227,7 +17227,6 @@ unraveling
 slab = ​a thick, flat slice or piece of something
 trunk =  the main part of the human body apart from the head, arms and legs
 leper
-stilty
 soothes
 roaring = ​making a continuous loud deep noise
 cock =  to raise a part of your body so that it is pointing upwards or at an angle
@@ -17254,11 +17253,11 @@ dreadful
 stoic 
 headlong  = extremely or recklessly hasty.
 squat = small short  
-stche 
+stache 
 crack  = break or cause to break without a complete separation of the parts
 cluster hump  
 bunions 
-revernce
+reverence
 brisk 
 uncouth 
 hog = verb 
@@ -19164,7 +19163,17 @@ indictment
 standing fast 
 reoudiated
 wide-eyed
-
+------------------------------------------------
+gunpowder
+shipwreck 
+a good/great deal (of something)
+mistrial
+sowwy 
+vanilla 
+plumbing 
+pck up after yourself 
+ringin out 
+aspersion 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -19271,6 +19280,10 @@ a particular quality conveyed by something heard or expressed.
 The grittiness of the coffee.
 grittiness
 the fact of containing or being like grit (the courage and strength of mind that makes it possible for somebody to continue doing something difficult or unpleasant)
+
+There is a long list of hustles used to avoid the draft.
+hustles
+a situation in which somebody uses dishonest or illegal methods in order to achieve something, usually to get money
 
 Her first screen outing in three years.
 outing
@@ -19532,6 +19545,10 @@ He scrambled to his feet as we came in.
 scrambled
 (SYNONYM clamber) to climb or move with difficulty or a lot of effort, using your hands and feet
 
+We escaped from the hustle and bustle of the city for the weekend.
+hustle
+busy noisy activity of a lot of people in one place
+
 They paid a staggering £5 million for the house.
 staggering
 (SYNONYM astounding) so great, shocking or surprising that it is difficult to believe
@@ -19704,7 +19721,44 @@ She felt emotionally battered.
 battered
 attacked violently or repeatedly and injured
 
+Careful you don't tread in that puddle.
+tread
+to put your foot down while you are stepping or walking
+
+The door had been pulled off its hinges.
+hinges
+a piece of metal, plastic, etc. on which a door, lid or gate moves freely as it opens or closes
+
+She'd been seeing the boy for a while, but didn't want her parents to find out.
+see /siː/
+see somebody to spend time with somebody /  to keep company with especially in courtship or dating
+
+We got rid of all the old furniture.
+get rid of /ɡet, rɪd, əv/
+​to make yourself free of somebody/something that is annoying you or that you do not want; to throw something away
+
+She gave him a withering look.
+withering
+​(of a look, remark, etc.) intended to make somebody feel silly or ashamed
+
+A scathing attack on the new management.
+scathing
+(SYNONYM withering)criticizing somebody or something very severely in a way that shows no respect
+
+All the family felt that Stephen had been hustled into the engagement by Claire.
+hustled
+to force somebody to make a decision before they are ready or sure
+
+She arranged a loan with the bank.
+arrange /əˈreɪndʒ/
+to plan or organize something in advance
+
+He was gifted with a charming smile.
+gifted
+having something pleasant
+
 ---------------------- Words Todays --------------------------------
+
 
 
 
