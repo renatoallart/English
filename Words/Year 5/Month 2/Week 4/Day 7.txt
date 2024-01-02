@@ -1,6 +1,73 @@
+
+
+1/1/2024
+
+She made a headlong dash to catch the train, running with reckless haste.
+headlong /ˈhɛdlɔŋ/
+in a rush; with reckless haste
+
+She let go of the gearshift, turned off the motor, and opened the door.
+gearshift /ˈɡɪrʃɪft/
+the lever or device used to change gears in a vehicle
+
+The referee called an egregious foul, penalizing the player for severe misconduct.
+egregious /ɪˈɡriːdʒəs/
+(SYNONYM flagrant) outstandingly bad, shocking, or offensive
+
+Harper was penalized for a foul tackle.
+foul /faʊl/
+done against the rules of a sport
+
+During study hall, students focused on homework and quiet reading.
+study hall /ˈstʌdi hɔːl/
+a designated period during the school day for students to complete assignments or study
+
+Thrifty shoppers often find great deals on thrift clothes, which are second-hand items sold at lower prices.
+thrift /θrɪft/
+the practice of using money and other resources carefully and efficiently
+
+I bought some nice clothes yesterday in the thrifting clothes shop.
+thrift clothes /θrɪfting, kləʊz/
+to shop for or buy used goods especially at a store that specializes in secondhand merchandise
+
+She received hand-me-down furniture from her older siblings.
+hand-me-down /ˈhændmiˌdaʊn/
+(SYNONYM second-hand) used items passed down from one person to another, especially within a family
+
+Approaching the unfamiliar situation warily, she assessed the potential risks.
+warily /ˈwɛrɪli/
+in a cautious and watchful manner, with a sense of wariness or caution
+
+Her angular features and rimless glasses gave her a distinctive appearance.
+angular /ˈæŋɡjələr/
+having clear, sharp angles rather than curves or rounded features
+
+She opted for rimless glasses, which complemented her modern and minimalist style.
+rimless glasses /ˈrɪmlɪs ˈɡlæsɪz/
+eyeglasses without frames surrounding the lenses, creating a sleek and subtle look
+
+Puh-leeze! An exasperated expression used to dismiss something as implausible or unbelievable.
+puh-leeze /ˈpliːz/
+an informal expression used to convey impatience, disbelief, or annoyance
+
+The excitement fizzles as the anticipated event fails to meet expectations.
+fizzles /ˈfɪzəlz/
+loses energy, enthusiasm, or intensity, leading to disappointment
+
+Completing household chores is a routine task that requires diligence and effort.
+chore /tʃɔːr/
+an unpleasant or boring task, often related to housework or routine responsibilities
+
+She maintained a high GPA throughout her academic career, reflecting her academic achievements.
+GPA /ˌdʒiːpiːˈeɪ/
+grade point average, a numerical representation of a student's academic performance
+
+
+
+
 headlong = in a rush; with reckless haste
 gearshift
-egregious foul
+egregious
 study hall
 thrift
 thrift clothes
@@ -8,8 +75,7 @@ hand me down
 warily
 rimless
 angular
-rimless glasses
-puhleeze
+puh-leeze
 fizzles
-chore= an unpleasant or boring task
+chore = an unpleasant or boring task
 GPA
