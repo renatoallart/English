@@ -1,9 +1,13 @@
+
+
+9/1/2024
+
 A call to the police should put an end to their little caper.
-caper
+caper /ˈkeɪpər/
 an activity, especially one that is illegal or dangerous
 
 Cut a check to cover travel expenses.
-cut
+cut /kʌt/
 to make out and issue: 
 
 The survey reveals some worrying statistics.
@@ -11,49 +15,64 @@ reveal /rɪˈviːl/
 to make something known to somebody
 
 Dark glasses screened his eyes from the sun.
-screened
+screened /skriːnd/
 (SYNONYM shield) to hide or protect something/somebody by placing something in front of or around them
 
 He donned his jacket and went out.
-donned 
+donned /dɒnd/
 to put clothes, etc. on
 
 If I were you, I’d take everything he says with a grain of salt.
-grain of salt
+grain of salt /ɡreɪn əv sɒlt/
 to be careful about believing that something is completely true
 
 I use my voicemail to screen my phone calls.
-screen
-to check something to see if it is suitable or if you want it
+screen /skriːn/
+to show a film, etc. in a cinema or on television
 
 She crumpled the letter up into a ball and threw it on the fire.
-crumpled
+crumpled /ˈkrʌmpld/
 to press or crush something into folds; to become pressed, etc. into folds
 
 The aircraft swooped down over the buildings.
-swooped
+swooped /swuːpt/
 (SYNONYM dive (of a bird or plane) to fly quickly and suddenly downwards, especially in order to attack somebody/something)
 
 I took a dislike to him.
 took /tʊk/
-to have a particular feeling, opinion or attitude
+to have a particular feeling, opinion, or attitude
 
 Frayed denim shorts.
-frayed 
+frayed /freɪd/
 ​(of cloth) with threads in it that are starting to come apart
 
 An explosion at an arms depot.
 depot /ˈdepəʊ/
-​a place where large amounts of food, goods or equipment are stored
+​a place where large amounts of food, goods, or equipment are stored
 
-We'd the misfortune to run into a violent storm.
+We had the misfortune to run into a violent storm.
 misfortune /ˌmɪsˈfɔːrtʃən/
 bad luck
 
-The aircraft's designed to withstand turbulent conditions.
+The aircraft is designed to withstand turbulent conditions.
 turbulent /ˈtɜːrbjələnt/
-​in which there is a lot of sudden change, trouble, argument and sometimes violence
+​in which there is a lot of sudden change, trouble, argument, and sometimes violence
 
 The paper had to publish a correction to the story.
-correction
+correction /kəˈrekʃn/
 a change that makes something more accurate than it was before
+
+
+caper
+cut 
+reveal 
+screened 
+donned 
+grain of salt 
+crumpled
+swooped 
+took 
+depot 
+misfortune 
+turbulent
+correction 

@@ -18280,6 +18280,7 @@ renovated
 unintended 
 cryptic 
 pounce = attack 
+course =  a direction or route followed by a ship or an aircraft
 knock someone flat 
 have a blast 
 hemming and hawing  
@@ -18702,6 +18703,7 @@ judder
 peter out 
 schoolhouse
 recipients = ​a person who receives something
+course = a way of acting in or dealing with a particular situation
 irreverence 
 impassable
 somersault
@@ -18900,6 +18902,7 @@ what was going on
 hide out 
 airbone
 herky jerky
+course = the way something develops or should develop
 jerky 
 hereditary 
 boon 
@@ -19189,6 +19192,18 @@ truant
 fringe benefit
 compliant
 self-effacing
+------------------------------------
+bustle
+denim 
+mishap 
+get things rolling 
+dithering 
+dependaility 
+ruffle 
+gloss over 
+whisky
+course = the general direction in which somebody’s ideas or actions are moving or in which things are developing
+cosplay
 ---------------------------------------> Phrases <--------------------------------------------------
 
 
@@ -19251,18 +19266,30 @@ There hasn't been a military draft since the Vietnam War.
 draft
 the practice of ordering people by law to join the armed forces
 
+Those of u treading the borderline.
+treading
+walk in a specified way.
 
+She looked rather strained and miserable.
+strained
+(SYNONYM tense) ​showing the effects of worry or pressure
 
+A denim jacket.
+denim
+a type of strong cotton cloth that is usually blue and is used for making clothes, especially jeans
 
+My parents always supported charities.
+charity /ˈtʃærəti/
+an organization for helping people in need
 
-
-
-
-
-
+You don't fool me!
+fooled /fuːl/
+to trick somebody into believing something that is not true
 
 
 ---------------------- Words Todays --------------------------------
+
+
 
 
 
