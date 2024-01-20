@@ -12559,7 +12559,6 @@ carve out
 earned
 chunky
 paraphrase
-dicey
 scud
 take your pick
 not-great
@@ -19294,6 +19293,10 @@ Those of u treading the borderline.
 treading
 walk in a specified way.
 
+Her brown shoes jarred with the rest of the outfit.
+jarred
+(SYNONYM clash)to be different from something in a strange or unpleasant way
+
 She looked rather strained and miserable.
 strained
 (SYNONYM tense) ​showing the effects of worry or pressure
@@ -19398,6 +19401,14 @@ The protocol saus that we've to call in and wait for further instruction from th
 call in 
 enlist someone's aid or services.
 
+Who was on the bridge when the collision took place?
+bridge
+the part of a ship where the captain and other officers stand when they are controlling the ship
+
+She had scrawled me a note in her familiar scratchy handwriting.
+scratchy
+​(of writing or drawings) done without care
+
 The hunter's association provides a modest stipend that's just barely covering my mother's hopital bills.
 stipend
 (SYNONYM salary) an amount of money that is paid regularly to somebody, especially a priest, as wages or money to live on
@@ -19406,20 +19417,190 @@ I'm exhaust to put up with this crap.
 put up with
 tolerate or endure something.
 
+His constant moaning was beginning to jar on her nerves.
+jar
+(SYNONYM grate) to have an unpleasant or annoying effect
+
+Entrepreneurs squander their profits on expensive cars
+squander
+waste (something, especially money or time) in a reckless and foolish manner.
+
+The team squandered several good scoring chances.
+squandered
+allow (an opportunity) to pass or be lost.
+
+He couldn't fathom why she was being so anxious.
+fathom
+understand (a difficult problem or an enigmatic person) after much thought
+
+An attempt to fathom the ocean.
+fathom
+measure the depth of (water)
+
+Are u willing to fork that build over to me?
+fork over
+pay money for something, especially reluctantly.
+
+She furnished him with the facts surrounding the case.
+furnish
+to supply or provide somebody/something with something; to supply something to somebody
+
+Stitch that mutt up.
+stitich up
+to trick them so that they are put in a difficult or unpleasant situation, especially one where they are blamed for something they have not done.
+
+I was planning to haul my ass if things 
+haul one's ass 
+to hurry; to move quickly, especially to leave
+
+A foul stench.
+foul
+offensive to the senses, especially through having a disgusting smell or taste or being unpleasantly soiled.
+
+A dude so jacked you have to wonder if he's freebasing creatine.
+jacked
+(of a person) having very well-developed muscles.
+
+I'm totally going to bail.
+bail
+to leave a place, especially quickly
+
+The evidence was corroborated by two independent witnesses.
+corroborate
+(SYNONYM confirm) to provide evidence or information that supports a statement, theory, etc.
+
+He scoffed at our amateurish attempts.
+scoffed
+(SYNONYM mock) to talk about somebody/something in a way that makes it clear that you think they are stupid or silly
+
+We pushed our way through the throng.
+throng
+a crowd of people
+
+He was taken to a US airbase to be debriefed on the mission.
+debriefed
+to ask somebody questions officially, in order to get information about the task that they have just completed
+
+The government is ducking the issue.
+ducking 
+to avoid a difficult or unpleasant duty or responsibility
+ 
+The lot of a wanderer is always dicey.
+dicey
+unpredictable and potentially dangerous.
+
+The plane landed with a jolt.
+jolt
+(SYNONYM jerk) ​a sudden rough movement
+
+She could not hide her dismay at the result.
+dismay
+​a worried, sad feeling after you have received an unpleasant surprise
+
+A jolt of dismay.
+jolt
+a sudden strong feeling, especially of shock or surprise
+
+The law limits engine idling to four minutes, but there aren't enough police officers to crack down on the problem.
+crack down
+to take strong action to stop something
+
 ---------------------- Words Todays --------------------------------
 
+facelifts 
+scholarly 
+as of yet
+haul one's ass 
+jacked
+pack mule
+stitich up
+clout
+clout = influence or power, especially in politics or business.
+oozing
+scraggly
+deal down
+not be someone's first rodeo
+hexes 
+furnish
+dissolute
+nobodies
+swing by 
+financially constrained 
+pilot
+added up
+inadvertently
+squandered 
+invigorating
+bulletin 
+mason
+dataset
+unwarranted 
+pallor 
+parlor 
+bona fide 
+raze 
+tailored  
+stop by  
+entrepreneurship 
+slink 
+over ur head
+factor
 
 
 
 
 
+
+He's gotten me all stired up with this invigorating feeling.
+invigorating
+​making somebody feel healthy and full of energy
+
+She stabbed him in the arm with a screwdriver.
+stabbed /stæbd/
+to push a sharp, pointed object, especially a knife, into somebody, killing or injuring them
+
+He was a working mason at Westminster Abbey in the sixteenth century.
+mason
+a person who builds using stone, or works with stone
+
+Let him go, I beseech you!
+beseech 
+(SYNONYM implore, beg) to ask somebody for something in an anxious way because you want or need it very much
+
+A suntan lotion with a protection factor of 10.
+factor 
+a particular level on a scale of measurement
+
+The nurse's aide will bring you an extra pillow.
+aide /eɪd/
+​a person who helps another person, especially a politician, in their job
+
+
+Could I just peep inside?
+peep /piːp/
+to look quickly and secretly at something, especially through a small opening
+
+There are many hurdles to overcome.
+hurdles
+an obstacle or difficulty.
+
+Wanton courage is a fool's errand.
+Wanton
+causing harm or damage deliberately and for no acceptable reason
+
+Check out outlet malls and discount stores for good deals.
+mall /mɔːl/
+a large building or covered area that has many shops, restaurants, etc. inside it
+
+One particular incident sticks in my mind.
+incident /ˈɪnsɪdənt/
+something that happens, especially something unusual or unpleasant
 
 I won't suffer the talk of crows in my house, joe. 
 
 
 
 
+brige
+the hard part at the top of the nose, between the eyes
 
-
-
- 
