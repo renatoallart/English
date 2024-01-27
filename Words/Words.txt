@@ -17510,7 +17510,7 @@ go the whole hog
 eggs on
 shrieks
 crack = a powerful, illegal drug that is a form of cocaine
-overanimated
+over animated
 pothead
 sloshes around 
 a good lay 
@@ -19272,6 +19272,11 @@ plodded
 frenemy
 give myself away 
 wrestling
+-------------------------------
+windowpane 
+fanfare
+----------------------------------
+primroses
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -19660,12 +19665,56 @@ Insurance coverage.
 coverage
 protection that an insurance company provides by promising to pay you money if a particular event happens
 
+A gritty description of urban violence
+gritty
+showing something unpleasant as it really is; having a lot of unpleasant features
+
+A bank account with an overdraft facility.
+facility
+a special feature of a machine, service, etc. that makes it possible to do something extra
+
+Neglected children.
+neglected 
+not receiving enough care or attention
+
+A fanfare of trumpets will sound for the Queen.
+fanfare
+a short loud piece of music that is played to celebrate somebody/something important arriving
+
+Stop living in a fantasy world.
+fantasy /ˈfæntəsi/
+a pleasant situation that you imagine but that is unlikely to happen
+
+A top executive in a computer firm.
+executive /ɪɡˈzekjətɪv/ 
+a person who has an important job as a manager of a company or an organization
+
+The only plausible explanation's that he forgot.
+plausible /ˈplɔːzəbl/
+(of an excuse or explanation) reasonable and likely to be true  
+
+The sack is too heavy to lift you’ll have to drag it. 
+drag
+pull somebody/something along with effort and difficulty
+
+A racial slur.
+slur
+an offensive term used deliberately to show a lack of respect for a particular group of people
+
+He caught a glimpse of her in the crowd.
+glimpse
+a sight of somebody/something for a very short time, when you do not see the person or thing completely
+
+The programme gives us a rare glimpse of a great artist at work.
+glimpse
+a short experience of something that helps you to understand it
+
 ---------------------- Words Todays --------------------------------
 
 
 
 
-
+ 
 
 I won't suffer the talk of crows in my house, joe. 
 
