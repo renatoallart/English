@@ -1,37 +1,41 @@
+
+
+5/2/2024
+
 He was undeterred by these disasters.
-undeterred
+undeterred /ˌʌndɪˈtɜːd/
 persevering with something despite setbacks
 
 He inhaled deeply on another cigarette.
 inhaled /ɪnˈheɪld/
 ​to take air, smoke, gas, etc. into your lungs as you breathe
 
-Immunization coverage against fatal diseases has increased to 99 per cent in some countries.
-coverage
+Immunization coverage against fatal diseases has increased to 99 percent in some countries.
+coverage /ˈkʌvərɪdʒ/
 the amount of something that something provides; the extent to which something covers an area or a group of people
 
 We plodded back up the hill.
-plodded
+plodded /ˈplɒdɪd/
 walk doggedly and slowly with heavy steps
 
 Insurance coverage.
-coverage
+coverage /ˈkʌvərɪdʒ/
 protection that an insurance company provides by promising to pay you money if a particular event happens
 
 A gritty description of urban violence
-gritty
-showing something unpleasant as it really is; having a lot of unpleasant features
+gritty /ˈɡrɪti/
+showing something unpleasant as it is; having a lot of unpleasant features
 
 A bank account with an overdraft facility.
-facility
+facility /fəˈsɪləti/
 a special feature of a machine, service, etc. that makes it possible to do something extra
 
 Neglected children.
-neglected 
+neglected /nɪˈɡlektɪd/
 not receiving enough care or attention
 
 A fanfare of trumpets will sound for the Queen.
-fanfare
+fanfare /ˈfænfer/
 a short loud piece of music that is played to celebrate somebody/something important arriving
 
 Stop living in a fantasy world.
@@ -42,18 +46,34 @@ A top executive in a computer firm.
 executive /ɪɡˈzekjətɪv/ 
 a person who has an important job as a manager of a company or an organization
 
-The only plausible explanation's that he forgot.
+The only plausible explanation is that he forgot.
 plausible /ˈplɔːzəbl/
 (of an excuse or explanation) reasonable and likely to be true  
 
 The sack is too heavy to lift you’ll have to drag it. 
-drag
+drag /dræɡ/
 pull somebody/something along with effort and difficulty
 
 A racial slur.
-slur
+slur /slɜːr/
 an offensive term used deliberately to show a lack of respect for a particular group of people
 
 He caught a glimpse of her in the crowd.
-glimpse
+glimpse /ɡlɪmps/
 a sight of somebody/something for a very short time, when you do not see the person or thing completely
+
+
+
+undeterred 
+inhaled 
+coverage 
+plodded 
+gritty 
+facility 
+neglected 
+fanfare
+executive
+plausible
+drag 
+slur 
+glimpse

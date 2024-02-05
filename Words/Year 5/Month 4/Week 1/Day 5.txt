@@ -1,37 +1,41 @@
+
+
+3/2/2024
+
 We pushed our way through the throng.
-throng
+throng /θrɒŋ/
 a crowd of people
 
 He was taken to a US airbase to be debriefed on the mission.
-debriefed
+debriefed /ˌdiːˈbriːft/
 to ask somebody questions officially, in order to get information about the task that they have just completed
 
 The government is ducking the issue.
-ducking 
+ducking /ˈdʌkɪŋ/
 to avoid a difficult or unpleasant duty or responsibility
  
 The lot of a wanderer is always dicey.
-dicey
-unpredictable and potentially dangerous.
+dicey /ˈdaɪsi/
+(SYNONYM risky) unpredictable and potentially dangerous.
 
 The plane landed with a jolt.
-jolt
+jolt /dʒəʊlt/
 (SYNONYM jerk) ​a sudden rough movement
 
-She could not hide her dismay at the result.
-dismay
+She couldn't hide her dismay at the result.
+dismay /dɪsˈmeɪ/
 ​a worried, sad feeling after you have received an unpleasant surprise
 
 A jolt of dismay.
-jolt
+jolt /dʒəʊlt/
 a sudden strong feeling, especially of shock or surprise
 
 The law limits engine idling to four minutes, but there aren't enough police officers to crack down on the problem.
-crack down
+crackdown /ˈkrækdaʊn/
 to take strong action to stop something
 
-He's gotten me all stired up with this invigorating feeling.
-invigorating
+He's gotten me all stirred up with this invigorating feeling.
+invigorating /ɪnˈvɪɡəreɪtɪŋ/
 ​making somebody feel healthy and full of energy
 
 She stabbed him in the arm with a screwdriver.
@@ -39,15 +43,15 @@ stabbed /stæbd/
 to push a sharp, pointed object, especially a knife, into somebody, killing or injuring them
 
 He was a working mason at Westminster Abbey in the sixteenth century.
-mason
+mason /ˈmeɪsn/
 a person who builds using stone, or works with stone
 
 Let him go, I beseech you!
-beseech 
+beseech /bɪˈsiːtʃ/
 (SYNONYM implore, beg) to ask somebody for something in an anxious way because you want or need it very much
 
 A suntan lotion with a protection factor of 10.
-factor 
+factor /ˈfæktər/
 a particular level on a scale of measurement
 
 The nurse's aide will bring you an extra pillow.
@@ -57,3 +61,21 @@ aide /eɪd/
 Could I just peep inside?
 peep /piːp/
 to look quickly and secretly at something, especially through a small opening
+
+
+
+
+throng 
+debriefed
+ducking
+dicey 
+jolt
+dismay 
+crackdown 
+invigorating
+stabbed
+mason 
+beseech 
+factor
+aide 
+peep 
