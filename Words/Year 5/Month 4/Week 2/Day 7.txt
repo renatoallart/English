@@ -1,11 +1,75 @@
+
+
+12/2/2024
+
+The fixtures in the room gave it a modern and stylish appearance.
+fixtures /ˈfɪkstʃərz/
+(SYNONYM fittings) permanent devices or equipment, such as plumbing, lighting, or furniture, that are fixed in position
+
+He belayed the climber's rope, ensuring their safety as they ascended the cliff.
+belayed /bɪˈleɪd/
+to secure a rope by fastening it to a fixed point, especially to ensure safety during climbing or sailing
+
+They enjoyed delicious kebabs skewered on metal rods.
+skewered /ˈskjuːəd/
+a long, thin metal or wooden rod used to hold pieces of food together during cooking
+
+He signed the contract under duress, feeling pressured into doing so.
+under duress /ʌndə(r) dʊˈres/
+under compulsion, especially when being threatened or coerced
+
+Despite the setback, she shrugged off the criticism and continued with her work.
+shrugged off /ʃrʌɡd ɒf/
+(SYNONYM disregarding) dismissing or ignoring something, especially criticism or negative comments
+
+The locksmith was called to help with a jammed door lock.
+locksmith /ˈlɒksmɪθ/
+a person who makes or repairs locks
+
+She vacuumed the carpets to remove dust and dirt.
+vacuumed /ˈvækjuːəmd/
+the act of cleaning something with a vacuum cleaner
+
+The church pews were filled with worshipers during the service.
+pews /pjuːz/
+long wooden benches with high backs, found in churches and used by the congregation during worship
+
+He takes after his father, both in appearance and temperament.
+take after /teɪks ˈæftər/
+(SYNONYM resemble) to resemble or inherit traits from a parent or relative
+
+She overexerted herself during the marathon and ended up collapsing at the finish line.
+overexerted /ˌəʊvərɪɡˈzɜːtɪd/
+to work or exert oneself too hard or too much
+
+The repressor gene was responsible for regulating the expression of certain proteins.
+repressor /rɪˈpresə(r)/
+a protein that suppresses or inhibits the expression of one or more genes
+
+She hasn't heard back from the company about her job application.
+heard back /hɜːd bæk/
+(SYNONYM received a response) received a reply or response from someone or something
+
+The contract included a bind preventing him from seeking employment with a competitor.
+bind /baɪnd/
+(SYNONYM predicament) a difficult or restricting situation that is hard to escape or avoid
+
+Things were getting a bit out of hand at the picket line.
+out of hand /aʊt ɒv hænd/
+difficult or impossible to control
+
+The teachers showed gender bias in scoring tests, underestimating girls and overestimating boys.
+gender bias /ˈdʒendər ˈbaɪəs/
+the tendency to provide preferential treatment toward one gender over another, or have prejudice against a certain gender.
+
+
+
 fixtures 
-gender bias
 belay
 skewer
 under duress
 shrugging off
 locksmith
-get outta hand
 vacuum = the act of cleaning something with a vacuum cleaner
 pews
 take after = to look or behave like an older member of your family, especially your mother or father
@@ -13,3 +77,5 @@ overexert
 repressor
 heard back
 bind = an annoying situation that is often difficult to avoid
+get outta hand
+gender bias
