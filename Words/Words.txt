@@ -17687,7 +17687,7 @@ moniker
 condo 
 delves
 rat out
-indescribale
+indescribable
 dredge up
 the can = prison 
 write off
@@ -17729,8 +17729,6 @@ answer to
 go distance
 stratum
 stammer
-jub
-jub = a container with a handle and a lip, for holding and pouring liquids
 ale = a type of beer without bubbles
 stick it out
 stung = to make somebody feel angry or upset
@@ -19315,10 +19313,29 @@ wrestling = struggle with a difficulty or problem.
 strike = (of a thought or an idea) to come into somebody’s mind suddenly
 compulsion
 sunset = discontinue or terminate (a product or service)
+-----------------------------------------
+printout 
+deceased
+disproven
+ruled = (SYNONYM pronounce) to give an official decision about something
+------------------------------------
+egalitarian
+see appendices 
+smithereens 
+handler 
+bet on 
+get over with
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
+We sardined our dismantled bikes into the boot
+sardined
+pack closely together.
 
+Today's society is too knowing, too corrupt.
+knowing
+experienced or shrewd, especially excessively or prematurely so.
 
 He's practically gasping for his life!
 gasping
@@ -19327,6 +19344,10 @@ to take a quick deep breath with your mouth open, especially because you are sur
 Are they trying to establish a pecking order already?
 pecking order
 a hierarchy of status seen among members of a group of people or animals, originally as observed among hens.
+
+This system sets the pattern for others to follow.
+pattern
+an excellent example to copy
 
 I'd like to propose a toast to the bride and groom.
 toast /təʊst/
@@ -19380,6 +19401,10 @@ An eddy of chill air swirled into the carriage.
 eddy
 a circular movement of wind, fog, or smoke.
 
+A knitting pattern.
+pattern
+a design, set of instructions or shape to cut around that you use in order to make something
+
 A previously unheard tape of their conversations.
 unheard
 ​not listened to or heard
@@ -19424,14 +19449,68 @@ They rejected negotiations out of hand.
 out of hand
 without taking time to think.
 
+Filthy streets.
+filthy /ˈfɪlθi/
+​very dirty and unpleasant
+
+Crowds gathered in the vicinity of Trafalgar Square.
+vicinity /vəˈsɪnəti/
+​the area around a particular place
+
+Wallpaper patterns.
+patterns
+(SYNONYM sample) a small piece of material, paper, etc. that helps you choose the design of something
+
+The article can be used to stimulate discussion among students. 
+stimulated /ˈstɪmjuleɪted/
+to make somebody interested and excited about something 
+
+Don't write me off as a failure just because of that one time when things didn't go right.
+write sb off
+(SYNONYM dismiss) ​to decide that somebody/something is a failure or not worth paying any attention to
+
+A pattern of diamonds and squares
+pattern
+a regular arrangement of lines, shapes, colours, etc. for example as a design on material, carpets, etc.
+
+Donations have decreased significantly over the past few years.
+decreased /dɪˈkriːst/
+​to become smaller in size, number, etc.; to make something smaller in size, number, etc.
+
+It's very conceited of you to assume that your work is always the best.
+conceited /kənˈsiːtɪd/
+​being too proud of yourself and what you do
+
+Now she was dredging up memories from the depths of her mind. 
+dredging up 
+​to manage to remember something, especially something that happened a long time ago
+
+How about Ruth? Have you heard from her?
+how about
+used when asking for information about somebody/something
+
+How about going for a walk?
+how about
+used to make a suggestion
+
+People from all social strata.
+strata
+a class in a society
+
+A round-robin competition.
+round-robin
+a tournament in which each competitor plays in turn against every other.
+
+Another concern is the widening gap between rich and poor.
+widening
+to become larger in degree or range; to make something larger in degree or range
+
+Humans have a special affinity for dolphins.
+affinity /əˈfɪnəti/
+affinity (between A and B) a strong feeling that you understand somebody/something and like them or it
+
+
 ---------------------- Words Todays --------------------------------
-
-
-
-
-
-
-
 
 
 
