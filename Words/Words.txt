@@ -19325,6 +19325,12 @@ smithereens
 handler 
 bet on 
 get over with
+------------------------------------
+elemental
+simmering 
+besmirch
+
+
 
 
 ---------------------------------------> Phrases <--------------------------------------------------
@@ -19509,8 +19515,22 @@ Humans have a special affinity for dolphins.
 affinity /əˈfɪnəti/
 affinity (between A and B) a strong feeling that you understand somebody/something and like them or it
 
+She drew me onto the balcony.
+druː /druː/
+to move something/somebody by pulling it or them gently
 
+
+Calls for more legislation to protect tenants were not heeded.
+heeded 
+to pay careful attention to somebody’s advice or warning
 ---------------------- Words Todays --------------------------------
+
+
+
+
+
+
+
 
 
 
