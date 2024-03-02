@@ -1,13 +1,17 @@
+
+
+1/3/2024
+
 She drew me onto the balcony.
-druː /druː/
+drew /druː/
 to move something/somebody by pulling it or them gently
 
 Calls for more legislation to protect tenants were not heeded.
-heeded 
+heeded /ˈhiːdɪd/
 to pay careful attention to somebody’s advice or warning
 
 U're late, I'm docking the time from ur pay.
-docking 
+docking /ˈdɒkɪŋ/
 deduct (something, especially an amount of money)
 
 As it got later, the streets became empty.
@@ -22,22 +26,54 @@ Are you aware these notes are counterfeit?
 counterfeit /ˈkaʊntərfɪt/
 (of money and goods for sale) made to look exactly like something in order to trick people into thinking that they are getting the real thing
 
-Fed up of being sent from one office to another, Joan lost her temper.
-fed up
+Fed up of being sent from one office to another, Jane lost her temper.
+fed up /fed ʌp/
 bored or unhappy, especially with a situation that has continued for too long
 
-A privet hedge
-hedge
-a row of bushes or small trees planted close together, usually along the edge of a field, garden or road
+A privet hedge.
+hedge /hedʒ/
+a row of bushes or small trees planted close together, usually along the edge of a field, garden, or road
 
 I bought gold as a hedge against inflation.
-hedge against sth
+hedge against sth /hedʒ əˈɡeɪnst ˈsʌmθɪŋ/
 a way of protecting yourself against the loss of something, especially money
 
 She withdrew her hand from his. 
 withdrew /wɪθˈdruː/
 to move back or away from a place or situation; to make somebody/something do this
 
+The restaurant had some delicious specials on the menu.
+specials /ˈspɛʃəlz/
+special or limited-time offerings, often referring to food items
+
+After receiving the bad news, he felt despondent for days.
+despondent /dɪˈspɒndənt/
+feeling hopeless, discouraged, or in low spirits
+
+He used a wedge to keep the door open.
+wedge /wɛdʒ/
+a piece of material, often triangular, used to hold things together, secure them in place, or prevent movement
+
+The undistilled essence of the book's message was still intact.
+undistilled /ˌʌndɪˈstɪld/
+not diluted or weakened; in its purest form
+
+She was awoken by the sound of birds singing outside her window.
+awoken /əˈwəʊkən/
+past participle of "awake," meaning to become conscious or aware from sleep
+
+
+
+drew
+heeded 
+docking 
+empty
+friendship
+counterfeit 
+fed up 
+hedge 
+hedge against sth 
+withdrew
 
 specials
 despondent

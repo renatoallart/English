@@ -17864,7 +17864,6 @@ britches
 priestess
 scabbard 
 top brass
-jack = anything or nothing at all
 decimated
 derive
 stoves
@@ -19349,13 +19348,22 @@ Wilson has been called into the squad as a standby.
 standby /ˈstændbaɪ/
 a person or thing that can always be used if needed, for example if somebody/something else is not available or if there is an emergency
 
+Enraged fans besieged the Prefecture of Police.
+prefecture
+the official residence or headquarters of a prefect.
+
+The Los Angeles Municipal Art Gallery
+municipal 
+​connected with or belonging to a town, city or district that has its own local government
 
 ---------------------- Words Todays --------------------------------
+jack = anything or nothing at all
 
 
 
-
-
+He broke his nose in the fight.
+nose /nəʊz/
+the part of the face that sticks out above the mouth, used for breathing and smelling things
 
 
 
