@@ -1,3 +1,72 @@
+
+
+4/3/2024
+
+With hindsight it is easy to say they should not have released him.
+hindsight /ˈhaɪndsaɪt/
+​the understanding that you have of a situation only after it has happened and that means you would have done things in a different way
+
+Data can be deduped at the file or block level.
+deduped /ˈdiːdjuːpt/
+(SYNONYM deduplicated) refers to the process of removing duplicate or redundant data or elements
+
+The detective continued probing for clues at the crime scene.
+probing /ˈproʊbɪŋ/
+(SYNONYM investigating) searching or investigating thoroughly, often used in the context of examining or exploring a subject or situation
+
+She chuckled softly at the amusing remark.
+chuckled /ˈtʃʌkld/
+(SYNONYM laughed quietly) laughed in a quiet or suppressed manner, often indicating amusement or satisfaction
+
+He explained the concept and the implications thereof.
+thereof /ˌðɛrˈʌv/
+(SYNONYM of that) of that thing or group mentioned or previously spoken about, often used in formal or legal language
+
+A cup of coffee in the morning can pep you up for the day ahead.
+pep up /ˈpɛp ʌp/
+(SYNONYM invigorate) to make someone or something more lively, energetic, or enthusiastic
+
+Unbeknownst to her, he had been planning a surprise party.
+unbeknownst /ˌʌnbɪˈnoʊnst/
+(SYNONYM without someone's knowledge) without the knowledge of a person, often used to describe actions or events that are concealed from someone
+
+Many people consider themselves well-off if they can afford a comfortable lifestyle.
+well-off /ˌwɛl ˈɔːf/
+(SYNONYM affluent) having plenty of money, possessions, or resources, often used to describe financial status or wealth
+
+She's bound to succeed with her determination and talent.
+be bound to /biː baʊnd tuː/
+(SYNONYM certain or destined) certain or destined to happen or do something, often used to express inevitability or determination
+
+The culprit behind the vandalism was caught by the police.
+culprit /ˈkʌlprɪt/
+(SYNONYM wrongdoer) a person responsible for a crime or wrongdoing
+
+He installed a latch on the gate to keep it securely closed.
+latch /lætʃ/
+(SYNONYM fastening device) a small metal bar used to fasten a door or gate, often raised to open the door and dropped to secure it
+
+The latest craze in fashion is neon-colored clothing.
+latest craze /ˈleɪtɪst kreɪz/
+(SYNONYM current trend) the newest and most popular fashion or trend
+
+It felt like a financial chokehold when unexpected expenses arose.
+chokehold /ˈtʃoʊkhoʊld/
+(SYNONYM tight grip) a strong or powerful restraint or control, often used figuratively to describe a situation where someone feels trapped or constrained
+
+We couldn't make head or tail of his answer.
+make head or tail of /meɪk hed ɔːr teɪl ɒv/
+understand at all
+
+It's always good to save money for a rainy day.
+rainy day /ˈreɪni deɪ/
+(SYNONYM time of need) a time of need or an emergency, often used to refer to having savings or resources available for unexpected circumstances
+
+
+
+
+
+
 hindsight
 deduped 
 probing
@@ -11,5 +80,5 @@ culprit
 latch = a small metal bar that is used to fasten a door or a gate. You raise it to open the door and drop it to fasten it.
 latest craze
 chokehold
-make heads or tails
+make heads or tail of
 rainy day =  refers figuratively to a time of need or an emergency
