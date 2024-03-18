@@ -19339,7 +19339,6 @@ laurel wreaths
 outdrink 
 brooding 
 dock = deduct (something, especially an amount of money).
-----------------------------
 jack = anything or nothing at all
 rich food
 dimly 
@@ -19350,7 +19349,6 @@ pointedly
 monsoon 
 dazzle me 
 eminent
--------------------------------------------
 steadfast 
 skive out 
 descent 
@@ -19361,10 +19359,12 @@ down payment
 one's angle 
 notoriety
 cosset
----------------------------
 swill
 timber
 notoriety
+mishaps
+odors
+indefensible
 
 
 
@@ -19506,9 +19506,27 @@ A gaggle of meddlesome politicians.
 meddlesome
 fond of meddling; interfering
 
+Gold-rimmed spectacles.
+spectacles
+another term for glasses
+
+The prime minister rejected any idea of reforming the system.
+rejected /rɪˈdʒekt/
+to refuse to accept or consider something
+
+Early morning mist patches will soon clear.
+mist /mɪst/
+a cloud of very small drops of water in the air just above the ground, that make it difficult to see
+
+She's my sunbae.
+sunbae /sunde/
+an upperclassman or senior, in the context of South Korea
+
+Old, dilapidated buildings.
+dilapidated
+(of a building or object) in a state of disrepair or ruin as a result of age or neglect
 
 ---------------------- Words Todays --------------------------------
-
 
 
 
