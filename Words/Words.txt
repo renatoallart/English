@@ -19393,9 +19393,67 @@ fielder
 sulfate
 reuter 
 crows = (of a person) make a sound expressing a feeling of happiness or triumph
+lameting
+jungian
+clearlyless
+abut
+athwart
+char = to become black by burning; to make something black by burning it
+dense = difficult to understand because it contains a lot of information
+
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
+
+
+The flame licked through the paper, which charred and crinkled.
+char
+to become black by burning; to make something black by burning it
+
+A dense piece of writing.
+dense
+difficult to understand because it contains a lot of information
+
+He squeezed her hand and smiled at her.
+squeezed /skwiːzizd/
+to press something, especially with your fingers
+
+Please read the letter out loud.
+out loud /aʊt, laʊd/
+in a voice that can be heard by other people
+
+How can you be so dense?
+dense
+stupid
+
+Details of the proposals remain secret.
+secret /ˈsiːkrət/
+known about by only a few people; kept hidden from others
+
+He was probably too busy finding a house-warming gift.
+house-warming /ˈhaʊs wɔːrmɪŋ/
+​a party given by somebody who has just moved into a new home
+
+Loose me and set your mind on other matters.
+set one's mind on /set wʌnz maɪnd ɒn/
+to be determined on or determinedly desirous of
+
+Each person was given set jobs to do.
+set
+planned or fixed
+
+Whichever they choose, we must accept their decision.
+whichever
+​used to say that it does not matter which, as the result will be the same
+
+It was touch-and-go whether they’d allow him into the country or not.
+touch-and-go /ˌtʌtʃ ən ˈɡəʊ/
+used to say that the result of a situation is uncertain and that there is a possibility that something bad or unpleasant will happen
+
+I'm trying to figure out a way to make this work.
+figure out /ˈfɪɡjər, aʊt/
+to think about sb/sth until you understand them/it
 
 See appendices for details of his attir.
 appendices
@@ -19417,12 +19475,15 @@ One of this country's most prestigious academic institutions.
 academic
 connected with education, especially studying in schools and universities
 
+Who officiated at the ceremony?
+ceremony /ˈserəməʊni/
+a public or religious occasion that includes a series of formal or traditional actions
 
-
-
+Choose whichever brand you prefer.
+whichever
+​used to say what feature or quality is important in deciding something
 
 ---------------------- Words Todays --------------------------------
-
 
 
 
