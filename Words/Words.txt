@@ -19369,7 +19369,6 @@ notoriety
 mishaps
 odors
 indefensible
-------------------------------------
 cope 
 opium
 pollutes
@@ -19383,7 +19382,6 @@ reticence
 cleft
 devised
 fomo
----------------------------------------
 miser
 assimilating
 single out
@@ -19400,7 +19398,6 @@ abut
 athwart
 char = to become black by burning; to make something black by burning it
 dense = difficult to understand because it contains a lot of information
----------------------------------------
 smart alec
 apothecary
 sorrel
@@ -19422,8 +19419,7 @@ uncurdled
 flack
 maid-in-waiting
 rustle
-------------------------------------------------
-staked out = continuously watch a place or person in secret.
+staked out = continuously watch a place or person in secret
 ladies-in-waiting
 staked out
 currying favor
@@ -19434,7 +19430,6 @@ breech birth
 libel 
 face value
 humility
---------------------------------
 bluish
 solidify 
 sabine 
@@ -19450,7 +19445,6 @@ do up
 pixie
 stilled
 shut eye
-----------------------------------------
 insatiable
 shack up
 flag = draw attention to (something) // to draw attention to information that you think is important, especially by putting a special mark next to it
@@ -19476,10 +19470,35 @@ bucktooth
 capitulation
 cackling
 impervious
+jubilant 
+give it a whirl 
+get back in the groove
+gadabout 
+bowed out
+huffy
+getup
+skim
+humdrum 
+bailiff
+------------------------------
+bum sth off someone
+high-rise
+dissing
+conjure up
+wowed
+gymnast 
+fiendih
+floored
+toot
+oneness 
+pitch 
+steward 
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
-
+Are all the windows wound up?
+wound up
+to make something such as the window of a car move upwards by turning a handle, pressing a button, etc.
 
 The flame licked through the paper, which charred and crinkled.
 char
@@ -19517,6 +19536,10 @@ Each person was given set jobs to do.
 set
 planned or fixed
 
+An old-fashioned wind-up gramophone.
+wind-up
+that you operate by turning a key or handle
+
 Whichever they choose, we must accept their decision.
 whichever
 ​used to say that it does not matter which, as the result will be the same
@@ -19552,6 +19575,10 @@ connected with education, especially studying in schools and universities
 Who officiated at the ceremony?
 ceremony /ˈserəməʊni/
 a public or religious occasion that includes a series of formal or traditional actions
+
+Calm down! Can't you see he's only winding you up?
+winding sb up
+to deliberately say or do something in order to annoy somebody
 
 Choose whichever brand you prefer.
 whichever
@@ -19605,6 +19632,10 @@ Are u gonna take such libel at face value?
 libel
 ​the act of printing a statement about somebody that is not true and that gives people a bad opinion of them; the statement that is printed
 
+The speaker was just winding up when the door was flung open.
+winding up
+to bring something such as a speech or meeting to an end
+
 ur rates are too steep for me. 
 steep
 (SYNONYM expensive)(of a price or demand) too much; unreasonable
@@ -19648,7 +19679,51 @@ draw attention to (something).
 He apologized for the inappropriateness of his comments.
 inappropriateness 
 the fact of not being suitable or appropriate in a particular situation
+
+I always said he would wind up in prison.
+wind up
+(of a person) to find yourself in a particular place or situation
+
+I'm aching all over.
+aching
+(SYNONYM hurt)​to feel a continuous pain that is not severe
+ 
+I'd still love chocolate even if everyone else hated it.
+even if /ˈiːvn, ɪf/
+used when you are comparing things, to make the comparison stronger
+
+The policy will be detrimental to the peace process.
+detrimental /ˌdetrɪˈmentl/
+obviously harmful : DAMAGING
+
+Is this a wind-up?
+wind-up
+something that somebody says or does in order to be deliberately annoying, especially as a joke
+
+Most stars are not visible to the naked eye.
+visible /ˈvɪzəbl/
+that can be seen
+
+They never took the time to get to know her.
+took the time 
+To make an effort to spend enough time on something to do it properly or sufficiently.
+
+I overslept and missed the bus. 
+overslept
+​to sleep longer than you intended
+
+A wind-up speech.
+wind-up
+​intended to bring something to an end
 ---------------------- Words Todays --------------------------------
+
+
+
+
+
+
+
+
 
 
 
