@@ -18912,6 +18912,7 @@ jig is up
 impressionable
 storey
 wishy-washy
+underbelly = the weakest part of something that is most easily attacked
 seance
 revving up 
 off-kilter
@@ -19237,6 +19238,7 @@ keel over
 coeducational
 imported
 pertaining 
+underbelly = ​an unpleasant or criminal part of society that is usually hidden
 deaden 
 stifle 
 unsalvageable
@@ -19493,6 +19495,20 @@ toot
 oneness 
 pitch 
 steward 
+-----------------------------------
+witless
+underbelly
+thin-skinned
+regenned
+scared witless
+busting loose
+rowdier
+rapport
+barnacles
+mantle 
+chamomile 
+
+
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -19539,6 +19555,10 @@ planned or fixed
 An old-fashioned wind-up gramophone.
 wind-up
 that you operate by turning a key or handle
+
+Halt! the Major ordered.
+halt /hɔːlt/
+​to stop; to make somebody/something stop
 
 Whichever they choose, we must accept their decision.
 whichever
@@ -19684,6 +19704,10 @@ I always said he would wind up in prison.
 wind up
 (of a person) to find yourself in a particular place or situation
 
+He became familiar with the dark underbelly of life in the city.
+underbelly
+​an unpleasant or criminal part of society that is usually hidden
+
 I'm aching all over.
 aching
 (SYNONYM hurt)​to feel a continuous pain that is not severe
@@ -19715,7 +19739,22 @@ overslept
 A wind-up speech.
 wind-up
 ​intended to bring something to an end
+
+The trade deficit remains the soft underbelly of the US economy.
+underbelly
+the weakest part of something that is most easily attacked
+
+Her specialty is taxation law.
+specialty
+an area of work or study that somebody gives most of their attention to and knows a lot about; something that somebody is good at
+
+The trial was halted after the first week.
+halted /ˈhɒltɪd/
+​to stop; to make somebody/something stop
 ---------------------- Words Todays --------------------------------
+
+
+
 
 
 
