@@ -1,7 +1,71 @@
+
+
+19/4/2024
+
+The artist sought to capture the essence of permanence in his sculptures.  
+permanence /ˈpɜrmənəns/  
+(SYNONYM lastingness) the state or quality of lasting indefinitely  
+
+After years of use, they finally used up all the resources in the mine.  
+used up /juːzd ʌp/
+(SYNONYM exhaust) to consume or deplete completely  
+
+Moreover, the data also suggest a correlation between the two variables.  
+moreover /mɔrˈoʊvər/  
+(SYNONYM furthermore) in addition to what has already been said; besides  
+
+The politician's gravitas commanded respect and attention from the audience.  
+gravitas /ˈɡrævɪtæs/  
+(SYNONYM dignity) seriousness and importance of manner, causing feelings of respect and trust in others  
+
+Her vanity prevented her from accepting any criticism of her appearance.  
+vanity /ˈvænəti/  
+(SYNONYM conceit) excessive pride in or admiration of one's own appearance or achievements  
+
+She was bedazzled by the glittering lights of the city at night.  
+bedazzled /bɪˈdæzld/  
+(SYNONYM dazzled) greatly impressed or enchanted, especially in a positive way  
+
+The serum was applied to the skin to reduce the appearance of wrinkles.  
+serum /ˈsɪrəm/  
+(SYNONYM solution) a watery fluid that separates from the clot in the coagulation of blood  
+
+Feeling cold, she curled up under the blanket for warmth.  
+curled up /kɜːld ʌp/
+(SYNONYM coiled) to assume a curved or spiral shape  
+
+The protesters were pelted with stones and bottles by the angry mob.  
+pelted /ˈpɛltɪd/  
+(SYNONYM bombarded) to attack someone or something by repeatedly throwing things at them  
+
+Finding a solution to climate change is the crux of the matter.  
+crux /krʌks/  
+(SYNONYM essence) the central or most important point or feature  
+
+After losing his job, he lived like a pauper, unable to afford basic necessities.  
+pauper /ˈpɔpər/  
+(SYNONYM impoverished person) a very poor person  
+
+With a final effort push, he managed to lift the heavy weight.  
+effort push /ˈefərt pʊʃ/
+(SYNONYM exertion) a strong or determined effort  
+
+The university faculty consists of esteemed professors from various disciplines.  
+faculty /ˈfækəlti/  
+(SYNONYM staff) the staff or members of a profession, especially teaching or medical staff  
+
+The Law School faculty.
+faculty /ˈfækəlti/  
+all the teachers in a faculty of a college or university
+
+The two colleges have a reciprocal arrangement whereby students from one college can attend classes at the other.
+reciprocal /rɪˈsɪprəkl/
+​involving two people or groups who agree to help each other or behave in the same way to each other
+
 permanence
 use up 
 moreover
-grabitas 
+gravitas 
 vanity
 bedazzled 
 serum 
@@ -11,5 +75,5 @@ crux
 pauper 
 effort push 
 faculty = a department or group of related departments in a college or university
-the faculty = all the teachers of a particular university or college
+faculty = all the teachers of a particular university or college
 reciprocal
