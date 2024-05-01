@@ -18575,6 +18575,22 @@ slam
 giving head 
 hairline
 torque 
+judder
+peter out 
+schoolhouse
+recipients = ​a person who receives something
+course = a way of acting in or dealing with a particular situation
+irreverence 
+impassable
+somersault
+trellis 
+footnote
+snatching
+reshaped 
+lighthearted
+gulp
+commonplace
+
 
 
 
@@ -18727,21 +18743,8 @@ torque
 
 
 
-judder
-peter out 
-schoolhouse
-recipients = ​a person who receives something
-course = a way of acting in or dealing with a particular situation
-irreverence 
-impassable
-somersault
-trellis 
-footnote
-snatching
-reshaped 
-lighthearted
-gulp
-commonplace
+
+
 back-to-back
 court hearing
 spirit
@@ -19013,6 +19016,7 @@ spaßbremse
 call-up = the opportunity to play in a sports team, especially for your country
 bygone 
 freshen 
+fiery = ​(of food or drink) causing a part of your body to feel as if it is burning
 classy = of high quality; expensive and/or fashionable
 herd up 
 flounder 
@@ -19512,6 +19516,7 @@ groveling
 effenberg 
 allotment
 sort of sth 
+fiery = quickly or easily becoming angry
 one over on sb 
 tighten one's grip 
 reserve 
@@ -19549,7 +19554,22 @@ pull a fast one
 the above
 canopy
 antsy pantsy
-
+----------------------------------
+beget
+adipocere
+glib talker
+anachronistic
+magnanimity
+uproot
+ride on something
+fiery = (SYNONYM passionate) ​showing strong emotions, especially anger
+fleeting
+kid urself
+apparent
+minnows 
+expressionless
+rotund
+beget = give rise to; bring about.
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -19589,19 +19609,32 @@ There were times when a semi-stranger was a better confidante than a close frien
 confidant /ˈkɒnfɪdænt/
 (feminine confidante) a person that you trust and who you talk to about private or secret things
 
-I only stay out late to annoy my parents.
-annoy /əˈnɔɪ/
-to make somebody slightly angry
+The seeds fall to the ground and germinate.
+falls /fɔːl/
+to drop down from a higher level to a lower level
 
-Tourists who leave a trail of litter everywhere they go.
-litter
-small pieces of rubbish such as paper, cans and bottles, that people have left lying in a public place
+They say that lies only beget more lies.
+beget
+give rise to; bring about
 
+I may not make for interesting company.
+interesting
+​attracting your attention because it is/they are special, exciting or unusual
+
+We're extremely concerned about her.
+concerned /kənˈsɜːrnd/
+worried and feeling concern about something/somebody
+
+This would be so much easier if it just came to blows.
+come to blows
+start fighting after a disagreement.
+
+A child’s innate linguistic ability.
+linguistic /lɪŋˈɡwɪstɪk/
+connected with language or the scientific study of language
 
 
 ---------------------- Words Todays --------------------------------
-
-
 
 
 
