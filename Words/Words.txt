@@ -17581,7 +17581,6 @@ easy-going
 propellant
 laid-back 
 unheard
-somersault
 sb's bad news
 in touch = in or into communication
 tuck in = to eat a lot of food, especially when it is done quickly and with enthusiasm
@@ -18408,7 +18407,6 @@ leave someone in awe
 double down
 stoop to
 bootleg
-somersault
 uncouth
 dignitaries 
 pelted
@@ -18590,161 +18588,6 @@ reshaped
 lighthearted
 gulp
 commonplace
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------   year 5 Month 6 +
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 back-to-back
 court hearing
 spirit
@@ -19061,6 +18904,168 @@ tykes
 take the plunge
 fretfulness
 welled up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------   year 5 Month 8 +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 have one's fill
 travail
 warranty = (SYNONYM guarantee) a written agreement in which a company selling something promises to repair or replace it if there is a problem within a particular period of time
@@ -19234,7 +19239,6 @@ gloss over
 whisky
 course = the general direction in which somebody’s ideas or actions are moving or in which things are developing
 cosplay
-somersaulting
 podiatrist
 erasure 
 decking 
@@ -19569,13 +19573,52 @@ apparent
 minnows 
 expressionless
 rotund
-beget = give rise to; bring about.
-
+beget = give rise to; bring about
+--------------------------------------
+let it lie 
+residue 
+perched over 
+nay 
+importune 
+benign 
+awestruck 
+------------------------------------------
+ruling out 
+arse 
+my two cents
+vamping 
+abbey 
+cad 
+churlish
+unnervingness 
+conclave 
+toil over 
+sugarcoat
+cut one's teeth 
+pray tell 
+gunked up 
+lush
 ---------------------------------------> Phrases <--------------------------------------------------
 
 Remember that actions have consequences.
 consequences
 a result of something that has happened, especially an unpleasant result
+
+Striking workers picketed outside the gates
+picketed /ˈpɪkɪt/
+to stand outside somewhere such as your place of work to protest about something or to try and persuade people to join a strike
+
+The lush green countryside.
+lush
+(SYNONYM luxuriant)​(of plants, gardens, etc.) growing thickly and strongly in a way that is attractive; covered in healthy grass and plants
+
+He was wearing that inscrutable look again.
+inscrutable /ɪnˈskruːtəbl/
+(especially of a person's expression) impossible to understand or interpret
+
+A less rugged vehicle would never have made the trip.
+rugged /ˈrʌɡɪd/
+(of equipment, clothing, etc.) strong and designed to be used in difficult conditions
 
 A stepping stone to a more lucrative career.
 stepping stone /ˈstepɪŋ stəʊn/
@@ -19633,9 +19676,44 @@ A child’s innate linguistic ability.
 linguistic /lɪŋˈɡwɪstɪk/
 connected with language or the scientific study of language
 
+She was attracted by his rugged good looks.
+rugged /ˈrʌɡɪd/
+(of somebody's face) having strong, attractive features
+
+She's being touted as the next leader of the party.
+touted
+to try to persuade people that somebody/something is important or valuable by praising them/it
+
+The firework exploded in his hand.
+exploded /ɪkˈspləʊdɪd/
+to burst (= break apart) or make something burst loudly and violently, causing damage
+
+Imports of cheap food from abroad.
+abroad /əˈbrɔːd/
+in or to a foreign country
+
+A crusty veteran.
+crusty
+(especially of older people) easily made angry
+
+A rugged individualist.
+rugged /ˈrʌɡɪd/
+(of a person) determined to succeed in a difficult situation, even if this means using force or upsetting other people
+
+The development will consist of 66 dwellings and a number of offices.
+dwellings /ˈdwelɪŋs/
+​a house, flat, etc. where a person lives
+
+The death toll continues to mount.
+mount
+to increase gradually
+
+A lack of clean water and sanitation were the main problems.
+sanitation /ˌsænɪˈteɪʃn/
+​the equipment and systems that keep places clean, especially by removing human waste
+
 
 ---------------------- Words Todays --------------------------------
-
 
 
 
