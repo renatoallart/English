@@ -1,5 +1,68 @@
+
+
+18/5/2024
+
+The team's roster includes several new players.
+roster /ˈrɒstər/
+(SYNONYM list) a list of names, especially of personnel available for duty
+
+The vagaries of the weather can ruin outdoor plans.
+vagaries /ˈveɪɡəriz/
+(SYNONYM whims) unexpected and unpredictable changes
+
+The meeting was moved up to an earlier time.
+moved up /muːvd ʌp/
+(SYNONYM advance) to change the time of an event to an earlier date or time
+
+The president was ousted from power.
+ousted /aʊstɪd/
+(SYNONYM removed) to force someone out of a position of power
+
+The windows were boarded up before the storm.
+boarded /ˈbɔːrdɪd/
+(SYNONYM covered) to cover or close something with pieces of wood
+
+The book had dog-eared pages from frequent use.
+dog-eared /ˈdɔːɡ ɪrd/
+(SYNONYM worn) having the corners of pages turned down
+
+He gave a faint smile at the compliment.
+faint smile /feɪnt smaɪl/
+(SYNONYM weak smile) a slight or barely noticeable smile
+
+Their argument was unassailable.
+unassailable /ˌʌnəˈseɪləbəl/
+(SYNONYM undeniable) unable to be attacked, questioned, or defeated
+
+The proposed plan was infeasible given the budget constraints.
+infeasible /ɪnˈfiːzəbəl/
+(SYNONYM impractical) not possible to do easily or conveniently
+
+Her criticism sparked his ire.
+ire /aɪər/
+(SYNONYM anger) intense anger
+
+He felt deflated after hearing the bad news.
+deflated /dɪˈfleɪtɪd/
+(SYNONYM discouraged) feeling less confident or important
+
+Don't be such a doofus, read the instructions.
+doofus /ˈduːfəs/
+(SYNONYM fool) a stupid or foolish person
+
+He received a call-up to join the national team.
+call-up /ˈkɔːl ʌp/
+(SYNONYM selection) the opportunity to play in a sports team, especially for your country
+
+The museum exhibited artifacts from a bygone era.
+bygone /ˈbaɪɡɒn/
+(SYNONYM past) belonging to an earlier time
+
+
+
+
 roster 
-vagaraies
+vagaries 
 move up 
 ousted 
 boarded 
@@ -10,6 +73,5 @@ infeasible
 ire
 deflated 
 doofus
-spaßbremse
 call-up = the opportunity to play in a sports team, especially for your country
 bygone 
