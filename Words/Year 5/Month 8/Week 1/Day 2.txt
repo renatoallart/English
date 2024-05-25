@@ -1,21 +1,25 @@
+
+
+22/5/2024
+
 The seeds fall to the ground and germinate.
 falls /fɔːl/
 to drop down from a higher level to a lower level
 
 They say that lies only beget more lies.
-beget
+beget /bɪˈɡet/
 give rise to; bring about
 
-I may not make for interesting company.
-interesting
+I may not make for an interesting company.
+interesting /ˈɪntrestɪŋ/
 ​attracting your attention because it is/they are special, exciting or unusual
 
 We're extremely concerned about her.
 concerned /kənˈsɜːrnd/
-worried and feeling concern about something/somebody
+worried and feeling concerned about something/somebody
 
 This would be so much easier if it just came to blows.
-come to blows
+came to blows /keɪm tə bləʊs/
 start fighting after a disagreement.
 
 A child’s innate linguistic ability.
@@ -27,7 +31,7 @@ rugged /ˈrʌɡɪd/
 (of somebody's face) having strong, attractive features
 
 She's being touted as the next leader of the party.
-touted
+touted /ˈtaʊtɪd/
 to try to persuade people that somebody/something is important or valuable by praising them/it
 
 The firework exploded in his hand.
@@ -39,7 +43,7 @@ abroad /əˈbrɔːd/
 in or to a foreign country
 
 A crusty veteran.
-crusty
+crusty /ˈkrʌsti/
 (especially of older people) easily made angry
 
 A rugged individualist.
@@ -51,5 +55,20 @@ dwellings /ˈdwelɪŋs/
 ​a house, flat, etc. where a person lives
 
 The death toll continues to mount.
-mount
+mount /maʊnt/
 to increase gradually
+
+
+falls 
+beget 
+interesting 
+concerned 
+come to blows 
+linguistic 
+rugged 
+touted 
+exploded 
+abroad 
+crusty 
+dwellings 
+mount 
