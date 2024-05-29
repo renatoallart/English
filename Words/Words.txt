@@ -18938,13 +18938,13 @@ sting = to make somebody feel angry or upset
 peered out = to look closely or carefully at something, especially when you cannot see it clearly 
 readjusting 
 thrown = to make somebody/something be in a particular state
-stiffend = all
+stiffened = all
 scowled
-awfull
+awful
 impetus
 mannish 
 hector 
-unmpeachable 
+unimpeachable 
 unencumbered
 rosewood 
 ire
@@ -19667,12 +19667,29 @@ assessment = (SYNONYM evaluation) an opinion or a judgement about somebody/somet
 presumptuous 
 keep your head down 
 superimpose
+----------------------------------
+entertain
+furrow 
+wilt 
+relinquish
+till 
+xing 
+averse 
+evangelion 
+awol 
+scram 
+metamorohizise 
+shan't
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
 I accidentally dropped my glasses into the water.
 droped /drɑːpt/
 to allow something to fall by accident; to fall by accident
+
+My muscles had stiffened up after the climb.
+stiffened /ˈstɪfnd/
+(of part of the body) to become, or to make something become, difficult to bend or move
 
 It's a sad moment when you realize you're expendable in your job.
 expendable /ɪkˈspendəbl/
@@ -19733,12 +19750,51 @@ assessment
 Who sets the standard for water quality?
 standard  /ˈstændərd/
 a level of quality, especially one that people think is acceptable
+
+A belated apology.
+belayed /bɪˈleɪd/
+coming or happening later than should have been the case.
+
+The cause of the crash is clearly outlined in the report.
+outline /ˈaʊtlaɪn/
+to give a description of the main facts or points involved in something
+
+Superstitious beliefs.
+superstitious /ˌsuːpəˈstɪʃəs/
+​believing in superstitions(the belief that particular events happen in a way that cannot be explained by reason or science; the belief that particular events bring good or bad luck)
+
+According to superstition, breaking a mirror brings bad luck.
+superstition
+the belief that particular events happen in a way that cannot be explained by reason or science; the belief that particular events bring good or bad luck
+
+A wicked grin.
+wicked /ˈwɪkɪd/
+(SYNONYM mischievous)slightly bad but in a way that is funny and/or attractive
+
+There will be live entertainment at the party.
+entertainment
+films, music, etc. used to entertain people; an example of this
+
+Belay that order.
+belay /bɪˈleɪ/
+to stop doing something; to cancel an instruction that has been given
+
+The doctor has given me some medicine to take for my cough.
+take /teɪk/
+to eat, drink, etc. something
+
+He has a wicked punch.
+wicked /ˈwɪkɪd/
+dangerous, harmful or powerful
+ 
+The threat of punishment has only stiffened their resolve (= made them even more determined to do something).
+stiffened /ˈstɪfnd/
+(SYNONYM strengthen) to make an attitude or idea stronger or more powerful; to become stronger
 ---------------------- Words Todays --------------------------------
 
+transient 
 
-
-
-
+glossed up
 
 U could take me and Joe at the same time, for christ's sake 
 
