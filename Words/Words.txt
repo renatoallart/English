@@ -18984,7 +18984,7 @@ prospect
 pageant 
 page = a boy in training for knighthood, ranking next below a squire in the personal service of a knight.
 gelding 
-cinnamin 
+cinnamon 
 dines as we see fit 
 jape 
 grandeur 
@@ -19680,6 +19680,36 @@ awol
 scram 
 metamorohizise 
 shan't
+------------------------------------
+transient 
+glossed up
+dissatisfied 
+inauguration
+jetsam
+conferring 
+drape
+sign off
+bellhop
+leakage 
+hush 
+hush money 
+next leg of the journey
+wallow
+self-loathering 
+berate 
+twat 
+butterball
+wheezing 
+ad valorem 
+levied 
+put a lot stock 
+------------------------------------
+mime
+adhered to sth = to behave according to a particular law, rule, set of instructions, etc.; to follow a particular set of beliefs or a fixed way of doing something
+see fit 
+masked mime
+queasiness
+consecrated
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -19694,6 +19724,14 @@ stiffened /ˈstɪfnd/
 It's a sad moment when you realize you're expendable in your job.
 expendable /ɪkˈspendəbl/
 ​if you consider people or things to be expendable, you think that you can get rid of them when they are no longer needed, or think it is acceptable if they are killed or destroyed
+
+He expected to mop the floor with his opponents.
+mop the floor
+to overwhelm completely; defeat
+
+He was hesitant to take the risk, however small.
+however /haʊˈevər/
+to whatever extent.
 
 My house is older than the one next door.
 older /əʊlder/
@@ -19743,6 +19781,10 @@ My brother has a master's degree from Harvard.
 degree /dɪˈɡriː/
 the qualification obtained by students who successfully complete a university or college course
 
+Once in the bloodstream, the bacteria adhere to the surface of the red cells.
+adhere
+to stick to something
+
 I don't care about ur assessment of the family leader.
 assessment 
 (SYNONYM evaluation) an opinion or a judgement about somebody/something that has been thought about very carefully
@@ -19758,6 +19800,14 @@ coming or happening later than should have been the case.
 The cause of the crash is clearly outlined in the report.
 outline /ˈaʊtlaɪn/
 to give a description of the main facts or points involved in something
+
+There are a few things that need mopping up before I can leave.
+mopping up
+​to complete or end something by dealing with the final parts
+
+however you look at it, you can't criticize that
+however /haʊˈevər/
+in whatever way; regardless of how
 
 Superstitious beliefs.
 superstitious /ˌsuːpəˈstɪʃəs/
@@ -19790,11 +19840,59 @@ dangerous, harmful or powerful
 The threat of punishment has only stiffened their resolve (= made them even more determined to do something).
 stiffened /ˈstɪfnd/
 (SYNONYM strengthen) to make an attitude or idea stronger or more powerful; to become stronger
+
+Security forces were given sweeping powers to search homes.
+sweeping 
+having an important effect on a large part of something
+
+Why did the company see fit to give you the job?
+see fit 
+consider it correct or acceptable to do something
+
+Dad would have to make do with an old car.
+make do /meɪk, duː/
+to manage with something that is not really good enough
+
+He pressed the lid firmly shut.
+press /pres/
+to push part of a device, etc. in order to make it work
+
+A wholesome dish made with vegetables.
+wholesome /ˈhəʊlsəm/
+good for your health
+
+For ten months he adhered to a strict no-fat low-salt diet.
+adhered to sth
+to behave according to a particular law, rule, set of instructions, etc.; to follow a particular set of beliefs or a fixed way of doing something
+
+The next election in my village will take place on April 6th.
+took place /tʊk, pleɪs
+happen, be held 
+
+A sweeping assertion.
+sweeping
+(of a statement) taking no account of particular cases or exceptions; too general.
+
+He mopped up the floor with his opponents
+mopped up
+​to get rid of the last few people who continue to oppose you, especially by capturing or killing them
+
+People tend to put on weight in middle age. However, gaining weight is not inevitable.
+however /haʊˈevər/
+used to introduce a statement that contrasts with or seems to contradict something that has been said previously.
+
+
+
+
+
 ---------------------- Words Todays --------------------------------
 
-transient 
 
-glossed up
+
+
+
+
+
 
 U could take me and Joe at the same time, for christ's sake 
 
