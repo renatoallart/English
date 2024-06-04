@@ -1,3 +1,71 @@
+
+
+3/6/2024
+
+They set up their tent at the campsite by the lake.
+campsite /ˈkæmpˌsaɪt/
+(SYNONYM campground) a place used or suitable for camping
+
+She absentmindedly left her keys on the table.
+absentmindedly /ˌæbsəntˈmaɪndɪdli/
+(SYNONYM inattentively) in a way that shows forgetfulness or lack of attention
+
+He made a correction to the report before submitting it.
+correction /kəˈrɛkʃən/
+(SYNONYM amendment) a change made to correct a mistake
+
+The cityscape was beautiful at night with all the lights.
+cityscape /ˈsɪtiˌskeɪp/
+(SYNONYM skyline) the visual appearance of a city or urban area
+
+Her professionalism impressed her colleagues.
+professionalism /prəˈfɛʃənəˌlɪzəm/
+(SYNONYM competence) the skill, good judgment, and polite behavior expected from a person trained to do a job well
+
+She was too snobbish to talk to anyone outside her social circle.
+snobbish /ˈsnɑbɪʃ/
+(SYNONYM elitist) behaving in a way that shows you think you are better than other people
+
+The sound of the explosion reverberated through the valley.
+reverberated /rɪˈvərbəˌreɪtɪd/
+(SYNONYM echo) to be repeated several times as an echo
+
+The hotel offers many amenities, including a pool and a gym.
+amenities /əˈmɛnɪtiz/
+(SYNONYM facilities) useful or pleasant facilities or services
+
+The condominiums overlook the ocean.
+condominiums /ˌkɑndəˈmɪniəmz/
+(SYNONYM apartments) individually owned units in a building of multiple residences
+
+The cabinets were childproof to prevent accidents.
+childproof /ˈʧaɪldˌpruf/
+(SYNONYM secure) designed to be safe for children to use or be around
+
+The outcome of the vote hung in the balance.
+hung in the balance /hʌŋ ɪn ðə ˈbæləns/
+(SYNONYM undecided) to be in an uncertain or critical state
+
+The judge issued a writ for his arrest.
+writ /rɪt/
+(SYNONYM court order) a formal written document ordering or prohibiting some action
+
+The toller rang the church bells every Sunday.
+toller /ˈtɑlər/
+(SYNONYM bell-ringer) a person who rings a bell, especially in a church
+
+He scraped his knee on the sidewall of the skateboard ramp.
+sidewall /ˈsaɪdˌwɔl/
+(SYNONYM side) the side part of something, especially a tire or ramp
+
+The grand jury handed down an indictment against the suspect.
+indictment /ɪnˈdaɪtmənt/
+(SYNONYM charge) a formal accusation initiating a criminal case
+
+
+
+
+
 campsite
 absentmindedly 
 correction
@@ -8,7 +76,7 @@ reverberate
 amenities
 condominiums
 childproof
-hang in balance 
+hang in the balance
 writ 
 toller 
 sidewall
