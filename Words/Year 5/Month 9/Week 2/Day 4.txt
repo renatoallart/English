@@ -1,4 +1,50 @@
-scotfree
+
+
+27/6/2024
+
+The thief managed to escape scot-free.
+scot-free /skɒt friː/
+(SYNONYM unpunished) without suffering any punishment or injury
+
+The bullrushes swayed gently by the water's edge.
+bullrushes /ˈbʊlrʌʃs/
+(SYNONYM reed) a tall plant that grows in or near water
+
+The children badgered their parents for a new pet.
+badgered /ˈbædʒərd/
+(SYNONYM pester) to repeatedly ask someone to do something
+
+He was annoyed by the constant error-miss in the system.
+error-miss /ˈɛrər mɪs/
+(SYNONYM mistake) a mistake or failure in accuracy
+
+They fleeced the tourists with overpriced souvenirs.
+fleeced /fliːst/
+(SYNONYM swindle) to cheat someone out of money or property
+
+The prisoners were fettered to prevent escape.
+fettered /ˈfɛtərd/
+(SYNONYM shackle) to restrain with chains or manacles
+
+The staggering news left everyone in shock.
+staggering /ˈstæɡərɪŋ/
+(SYNONYM astonishing) so great, shocking, or surprising that it is difficult to believe
+
+Her performance really took the cake; it was the best of the night.
+took the cake /tʊk ðə keɪk/
+(SYNONYM win) to be the most remarkable or foolish example of something
+
+The itty-bitty kitten fit in the palm of my hand.
+itty bitty /ˈɪti ˈbɪti/
+(SYNONYM tiny) very small
+
+He always finds something to bellyache about.
+bellyache /ˈbɛli eɪk/
+(SYNONYM complain) to complain noisily or persistently
+
+
+
+scot-free
 bullrush
 badgers
 error-miss
@@ -6,5 +52,5 @@ fleece
 fetter
 staggering 
 take the cake 
-itty bitty 
+itty-bitty 
 bellyache 
