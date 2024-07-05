@@ -19350,15 +19350,14 @@ pull your ear off
 scatterbrained
 pawn off
 adverse 
-groveling 
-effenberg 
+groveling  
 allotment
 sort of sth 
 fiery = quickly or easily becoming angry
 one over on sb 
 tighten one's grip 
 reserve 
-perpetrate
+perpetuate
 freer
 overly-dependent
 bedazzled
@@ -19372,7 +19371,7 @@ deactivates
 chums 
 impoverished
 lastingness
-defferentiated
+differentiated
 wedlock 
 scalpel 
 irresolute
@@ -19700,7 +19699,6 @@ see fit
 masked mime
 queasiness
 consecrated
-----------------------------------------
 hung = (of a jury) unable to agree on a verdict.
 marshaling 
 rung 
@@ -19711,7 +19709,6 @@ tentpole
 staggered 
 trailing 
 call in sick
--------------------------------------
 deliverance
 scurried
 win up 
@@ -19734,7 +19731,7 @@ bookend
 hencoop 
 inconceivable 
 lease 
----------------------definite
+definite
 accursed
 ceecrue
 tabletop
@@ -19749,7 +19746,6 @@ shook off
 angling
 namby-pamby
 dingy
------------------------------------------
 fob off
 vitreous 
 silicate 
@@ -19765,7 +19761,6 @@ purports
 wean 
 pacifier 
 ingratiate
------------------------------------
 scrutinized
 trawler
 facsimile
@@ -19776,11 +19771,18 @@ dentary
 tesla 
 pretreatment 
 surgery 
---------------------------------
 fender bender 
 take for granted 
 aloud 
 undermined
+--------------------------------------
+skybride 
+archway 
+intubate 
+plum duff 
+lilac 
+reheel 
+excellency 
 
 ---------------------------------------> Phrases <--------------------------------------------------
 
@@ -19917,6 +19919,14 @@ of meddlesome
 Fond of music.
 fond /fɒnd/
 finding something pleasant, especially something you have liked or enjoyed for a long time
+
+Patients should be referred to a specialist pain clinic.
+referred /rɪˈfɜːrd/
+to send somebody/something to somebody/something for help, advice or a decision
+
+Their policies would wreak havoc on the economy.
+wreak /riːk/
+to do great damage or harm to somebody/something
 
 ---------------------- Words Todays --------------------------------
 
