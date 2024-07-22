@@ -1,13 +1,17 @@
+
+
+20/7/2024
+
 I'll probably watch the match on TV.
 match /mætʃ/
 a sports event where people or teams compete against each other
 
 Taxi fares.
 fare /fer/
-the money that you pay to travel by bus, plane, taxi, etc.
+the money you pay to travel by bus, plane, taxi, etc.
 
-She wore an ‘I heart Dad’ T-shirt.
-heart
+She wore an "I heart Dad" T-shirt.
+heart /hɑːrt/
 to like somebody/something very much; to love somebody/something
 
 What a beautiful house!
@@ -18,14 +22,34 @@ An increase in the number of reported rapes.
 rapes /reɪps/
 the crime, typically committed by a man, of forcing somebody to have sex with him, especially using violence
 
-Teenagers would go hang at the mall after school.
-hang /hæŋ/
+Teenagers would go hang out at the mall after school.
+hang out /hæŋ aʊt/
 to spend time relaxing or enjoying yourself
 
 The mirror shattered into a thousand pieces.
 shattered /ˈʃætərd/
 to suddenly break into small pieces; to make something suddenly break into small pieces
 
+I'm getting married next week, but please don't let on to anyone.
+let on /let ɒn/
+to tell a secret // reveal or divulge information to someone.
+
+C'mon, the eggs is hatchling.
+hatchling /ˈhætʃlɪŋ/
+​a baby bird or animal that has just come out of its shell
+
+A chocolate popsicle.
+popsicle /ˈpɒpsɪkl/
+a piece of flavored ice or ice cream on a stick.
+
+match 
+fare 
+heart 
+what 
+rapes 
+shattered 
+let on 
+hatchling
 let on = reveal or divulge information to someone.
-hatchlings
+hatchling
 popsicle

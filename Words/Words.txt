@@ -13300,7 +13300,7 @@ confinement
 mold = a fine soft green, grey or black substance like fur that is a type of fungus and that grows on old food or on objects that are left in warm wet air
 unmoved
 vice = a tool with two metal blocks that can be moved together by turning a screw. The vice is used to hold an object in place while work is done on it.
-gauge = ​to make a judgement about something, especially people’s feelings or attitudes
+gauge = ​to make a judgment  about something, especially people’s feelings or attitudes
 flush out
 retract
 insult
@@ -19477,7 +19477,7 @@ hatchlings
 popsicle
 incumbency
 sensationally
-assessment = (SYNONYM evaluation) an opinion or a judgement about somebody/something that has been thought about very carefully
+assessment = (SYNONYM evaluation) an opinion or a judgment  about somebody/something that has been thought about very carefully
 presumptuous 
 keep your head down 
 superimpose
@@ -19491,7 +19491,7 @@ averse
 evangelion 
 awol 
 scram 
-metamorohizise 
+metamorphize 
 shan't
 transient 
 glossed up
@@ -19620,27 +19620,48 @@ be derived from
 
 
 ----------------------------------------------   year 5 Month 10, week 3, day 5 +
-
-
-
-
-
-
-
+cut corners 
+breather 
+porch 
+page someone 
+oversit = slang 
+stem fro 
+sans 
+sobriquet 
+hang on 
+smell bleach 
+take for granted 
+supranational 
+marooned
+spectacularly
+bemoan
 ---------------------------------------> Phrases <--------------------------------------------------
 
+The guard said you're a satellite technician.
+technicians /tekˈnɪʃn/
+a person whose job is keeping a particular type of equipment or machine in good condition
 
- He opened the letter with trembling hands.
+He opened the letter with trembling hands.
 tremble /ˈtrembl/
 to shake in a way that you cannot control, especially because you are very nervous, excited, frightened, etc.
 
+The players in the third division are not paid.
+third /θɜːd/
+3rd
+
+An internet auction site.
+auction /ˈɔːkʃn/
+​a public sale in which things are sold to the person who offers the most money for them
+
+‘What was that noise?’ ‘I'll go and investigate.’
+investigate /ɪnˈvestɪɡeɪt/
+to carefully examine the facts of a situation, an event, a crime, etc. to find out the truth about it or how it happened
+
+He oughtn't to have been driving so fast.
+ought to /ˈɔːt tə/
+used to say what is the right thing to do
 
 ---------------------- Words Todays --------------------------------
-
-
-
-
-
 
 
 U could take me and Joe at the same time, for christ's sake 
