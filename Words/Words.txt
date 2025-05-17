@@ -19987,49 +19987,6 @@ it suggests that the person or thing being viewed is not pleasant, not welcome, 
 
 thrilling = exciting and a lot of fun
 
-The reason for her strange behaviour remained unexplained.
-unexplained /ˌʌnɪkˈspleɪnd/
-​for which the reason or cause is not known; that has not been explained
-
-Well aren't u a sight for sore eyes.
-a sight for sore eyes 
-not a sight for sore eyes  
-
-To extend the boundaries of high art to include some popular music.
-boundaries /ˈbaʊndries/
-a real or imagined line that marks the limits or edges of something and separates it from other things or places; a dividing line
-
-Nothing will curb her natural exuberance.
-exuberance /ɪɡˈzuːbərəns/
-the quality of being full of energy, excitement and happiness
-
-Stir the paint before you use it.
-stir /stɜːr/
-to move a liquid or substance around, using a spoon or something similar, in order to mix it completely
-
-Social inferiority.
-inferiority /ɪnˌfɪriˈɔːrəti/
-​the state of not being as good as somebody/something else
-
-Fourth wealthiest person in Russia, Nikolai Zukov.
-wealthiest /ˈwelθist/
-having a lot of money, possessions, etc.
-
-He stuck out his tongue.
-stick out /stɪk, aʊt/
-to project or extend outward //to project or extend outward beyond a surface, or to be very noticeable or stand out from others
-
-To act morally.
-morally /ˈmɔːrəli/
-​according to principles of good behaviour and what is considered to be right or wrong
-
-Attempts to revive him failed.
-revive /rɪˈvaɪv/
-to become, or to make somebody/something become, conscious or healthy and strong again
-
-Hospital beds were scarce and medicines were practically non-existent.
-nonexistent /ˌnɑːn ɪɡˈzɪstənt/
-not existing; not real
 
 It's time for someone to take responsibility and get the job done.
 responsibility /rɪˌspɑːnsəˈbɪləti/
@@ -20113,6 +20070,18 @@ renowned
 proddind
 manacles 
 dilapidated
+dearth
+sat me down 
+set it up = place or erect sth in position 
+dam 
+toil 
+strike sth 
+delving 
+weirder 
+
+This is extremely frightening for elderly people.
+frightening /ˈfraɪtnɪŋ/
+​making you feel afraid
 
 He claims to be a cousin to the Queen.
 cousins /ˈkʌzn/
@@ -20120,7 +20089,31 @@ a child of your aunt or uncle
 
 I'm aware of Mark's reputation for being late.
 reputation /ˌrepjuˈteɪʃn/
-​the opinion that people have about what somebody/something is like, based on what has happened in the past
+​the opinion that people have about what someb\ody/something is like, based on what has happened in the past
+
+Impairment of the functions of the kidney.
+impairment /ɪmˈpermənt/
+​the state of having a physical or mental condition that means that part of your body or brain does not work correctly; a particular condition of this sort
+
+They helped themselves from a large dish of pasta.
+dish /dɪʃ/
+a flat shallow container for cooking food in or serving it from
+
+The anchor was attached to a length of rope.
+rope /rəʊp/
+very strong thick string made by twisting thinner strings, wires, etc. together
+
+He scored 20 points in 36 minutes.
+scored /skɔːr/
+to win points, goals, etc. in a game or competition
+
+To undergo heart surgery.
+surgery /ˈsɜːrdʒəri/
+medical treatment of injuries or diseases that involves cutting open a person’s body and often removing or replacing some parts; the branch of medicine connected with this treatment
+
+They share a belief that there is life after death.
+beliefs /bɪˈliːf/
+a strong feeling that something/somebody exists or is true; confidence that something/somebody is good or right
 
 He's trying to give up smoking.
 smoking /ˈsməʊkɪŋ/
@@ -20183,6 +20176,10 @@ I'm not much of a seamstress.
 Seamstress  /ˈsiːmstrəs/
 ​a woman who can sew and make clothes or whose job is sewing and making clothes
 
+A war hero.
+heroes /ˈhɪrəʊ/
+a person, especially a man, who is admired by many people for doing something brave or good
+
 ‘Do you understand?’ ‘Sort of.’
 sort of /sɔːrt, əv/
 ​to some extent but in a way that you cannot easily describe
@@ -20196,10 +20193,19 @@ It'd be wonderful if you could be there.
 wonderful /ˈwʌndərfl/
 very good, pleasant or a lot of fun
 
-this has wighed on me ever since I was a child
-wighed
+this has weighed on me ever since I was a child
+weighed /weɪd/
 influence a decision or action; be considered important. // to have a particular weight
 
+Governments around the world imposed curbs on travel to stem the spread of the virus.
+curb /kɜːb/
+something that controls and puts limits on something
+
+
+
+I'd wager the damage is done.
+wager
+(SYNONYM bet) used to say that you are so confident that something is true or will happen that you would be willing to bet money on it
 
 U could take me and Joe at the same time, for christ's sake 
 
