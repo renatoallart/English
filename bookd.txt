@@ -1,0 +1,181 @@
+Books
+
+deixe de ser pobre
+
+mais esperto que o diabo
+
+o hoemn mais rico da babilonia 
+
+a psicologia finaceira
+
+o segredo da mente milionaria 
+
+how ro win friends & influence people
+
+One thing 
+
+games people play
+
+Hábitos atômicos 
+
+Essencialismo
+
+As 48 leis do poder
+
+33 estrategias de guerra
+
+Os sete princípios de Salomão 
+
+As armas da persuasão 2.0
+
+gatilhos mentais
+
+Comece pelo porquê
+
+Essencialismo
+
+Por que nós dormimos
+
+A coragem de ser imperfeito
+
+A riqueza da vida simples
+
+Sua carreira é maior que seu emprego
+
+Dá um tempo!
+
+Sociedade do cansaço
+
+Meditações
+
+Como fazer amigos e influenciar pessoas
+
+As 48 leis do poder
+
+A morte é um dia que vale a pena viver
+
+Inabalável
+
+Morra sem nada
+
+Rápido e devagar
+
+A arte de pensar claramente
+
+Muito acima da média
+
+Conversas difíceis
+
+Ted Talks - O guia oficial do TED para falar em público
+
+Não aguento mais não aguentar mais
+
+E ego é seu inimigo
+
+
+
+
+[
+  {
+    "Livro": "Deixe de ser Pobre",
+    "Autor": "Eduardo Feldberg",
+    "Genero": "Personal Finance"
+  },
+  {
+    "Livro": "Outwitting the Devil",
+    "Autor": "Napoleon Hill",
+    "Genero": "Self-help / Personal Development"
+  },
+  {
+    "Livro": "The Richest Man in Babylon",
+    "Autor": "George S. Clason",
+    "Genero": "Finance / Parable"
+  },
+  {
+    "Livro": "Financial Psychology",
+    "Autor": "Ric Edelman",
+    "Genero": "Personal Finance / Psychology"
+  },
+  {
+    "Livro": "The Millionaire Mind",
+    "Autor": "Thomas J. Stanley",
+    "Genero": "Wealth / Psychology"
+  },
+  {
+    "Livro": "How to Win Friends & Influence People",
+    "Autor": "Dale Carnegie",
+    "Genero": "Self-help / Communication"
+  },
+  {
+    "Livro": "The One Thing",
+    "Autor": "Gary Keller, Jay Papasan",
+    "Genero": "Productivity / Business"
+  },
+  {
+    "Livro": "Games People Play",
+    "Autor": "Eric Berne",
+    "Genero": "Psychology / Transactions"
+  },
+  {
+    "Livro": "Atomic Habits",
+    "Autor": "James Clear",
+    "Genero": "Self-help / Habits"
+  },
+  {
+    "Livro": "Essentialism",
+    "Autor": "Greg McKeown",
+    "Genero": "Self-help / Productivity"
+  },
+  {
+    "Livro": "The 48 Laws of Power",
+    "Autor": "Robert Greene",
+    "Genero": "Self‑help / Strategy"
+  },
+  {
+    "Livro": "The 33 Strategies of War",
+    "Autor": "Robert Greene",
+    "Genero": "Self‑help / Strategy"
+  },
+  {
+    "Livro": "Os sete princípios de Salomão",
+    "Autor": "Desconhecido",
+    "Genero": "Espiritualidade / Autoajuda"
+  },
+  {
+    "Livro": "Influence: The Psychology of Persuasion",
+    "Autor": "Robert Cialdini",
+    "Genero": "Persuasion / Psychology"
+  },
+  {
+    "Livro": "Metal triggers",
+    "Autor": "Raphael Cappellari",
+    "Genero": "Marketing / Psicologia"
+  },
+  {
+    "Livro": "Star with why",
+    "Autor": "Simon Sinek",
+    "Genero": "Leadership / Business"
+  },
+  {
+    "Livro": "Why we sleep",
+    "Autor": "Matthew Walker",
+    "Genero": "Science / Health"
+  },
+  {
+    "Livro": "Daring Greatly",
+    "Autor": "Brené Brown",
+    "Genero": "Self‑help / Psychology"
+  },
+  {
+    "Livro": "The Beauty of a Simple Life",
+    "Autor": "Sarah Ban Breathnach",
+    "Genero": "Lifestyle / Self‑help"
+  },
+  {
+    "Livro": "Sua carreira é maior que seu emprego",
+    "Autor": "Tiago Feitosa",
+    "Genero": "Career / Development"
+  }
+]
+
+
