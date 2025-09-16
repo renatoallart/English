@@ -1,3 +1,65 @@
+
+
+
+Stones began to pelt down from the hilltop.
+pelt /pɛlt/
+(SYNONYM bombard) to attack by throwing things repeatedly
+
+He unwittingly revealed the secret to the press.
+unwitting /ʌnˈwɪtɪŋ/
+(SYNONYM unaware) not knowing or realizing something
+
+A sharp rock jutted out from the ground.
+jut out /dʒʌt aʊt/
+(SYNONYM protrude) to extend beyond the surface or line
+
+She had a freckle on her left cheek.
+freckle /ˈfrɛkl/
+(SYNONYM spot) a small light brown spot on the skin, especially from sun exposure
+
+He retaliated quickly after being insulted.
+retaliate /rɪˈtælieɪt/
+(SYNONYM strike back) to respond to an attack or insult with another
+
+The devolution of power gave local governments more control.
+devolution /ˌdiːvəˈluːʃn/
+(SYNONYM decentralization) the transfer of power from a central authority to local or regional levels
+
+She’s a real hotshot in the tech industry.
+hotshot /ˈhɒtʃɒt/
+(SYNONYM expert) a highly skilled and successful person
+
+That party was totally lit last night.
+lit /lɪt/
+(SYNONYM exciting) slang for very fun, exciting, or intoxicated
+
+He was completely outfoxed by the smarter lawyer.
+outfoxed /ˌaʊtˈfɒkst/
+(SYNONYM outsmarted) to defeat someone by being more clever
+
+The software uses predictive typing to guess your next word.
+predictive /prɪˈdɪktɪv/
+(SYNONYM forecasting) relating to the ability to say what will happen in the future
+
+They cherry-pick only the best players for the team.
+cherry-pick /ˈʧɛri pɪk/
+(SYNONYM select) to choose only the best people or things from a group
+
+Whether it was fair is now a moot point.
+moot point /muːt pɔɪnt/
+(SYNONYM irrelevant) something that is no longer important or worth discussing
+
+We got stuck in a traffic jam for over an hour.
+jam /dʒæm/
+(SYNONYM congestion) a situation in which things are stuck or blocked
+
+His speech roused the crowd to action.
+rouse /raʊz/
+(SYNONYM awaken) to cause someone to become active, excited, or angry
+
+
+
+
 pelt 
 unwitting
 jut out
@@ -7,9 +69,8 @@ devolution
 hotshot = a person who is extremely successful in their career or at a particular sport
 lit = slang 
 outfoxed 
-predivtive 
+predictive 
 cherry-pick
 moot point 
-jam 
-wasin 
+jam  
 rouse 
